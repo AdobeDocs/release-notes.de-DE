@@ -8,7 +8,7 @@ title: Kontakt und rechtliche Informationen
 uuid: be6810fd-8a50-4e88-af09-ab00187e4082
 internal: n
 translate: y
-translation-type: tm+mt
+translation-type: ht
 source-git-commit: 147b01562e6c8d579a2bec0e4fa2841d1791a671
 
 ---
@@ -21,9 +21,9 @@ Hier finden Sie Angaben zur Kontaktaufnahme mit Adobe und rechtliche Hinweise zu
 
 ## Hilfe und technischer Support {#section_354AC2658BA84A2A96E64C5B2C43B73B}
 
-Das Adobe Marketing Cloud-Team zur Kundenunterstützung hilft Ihnen gern und kann auf verschiedenen Wegen kontaktiert werden:
+Das Adobe Experience Cloud-Team zur Kundenunterstützung hilft Ihnen gern und kann auf verschiedenen Wegen kontaktiert werden:
 
-Siehe [Adobe Enterprise Support kontaktieren](https://helpx.adobe.com/contact/enterprise-support.ec.html)
+Siehe [Adobe Enterprise Support kontaktieren](https://helpx.adobe.com/de/contact/enterprise-support.ec.html)
 
 ## Service, Funktionalität und Rechnungsstellung {#section_FA4F5274FDFE4DF7BB079E575877DFC2}
 
@@ -33,7 +33,7 @@ Je nach Konfiguration Ihrer Lösung stehen Ihnen eventuell einige der in diesem 
 ## Feedback {#section_8154D6D712054220A90D85FA8E92933E}
 Adobe Systems welcome any suggestions or feedback regarding this solution. You can add enhancement ideas and suggestions for the Analytics suite to our [Customer Idea Exchange](https://my.omniture.com/login/?r=%2Fp%2Fsuite%2Fcurrent%2Findex.html%3Fa%3DIdeasExchange.Redirect%26redirectreason%3Dnotregistered%26referer%3Dhttp%253A%252F%252Fideas.omniture.com%252Ft5%252FAdobe-Idea-Exchange-for-Omniture%252Fidb-p%252FIdeaExchange3). -->
 
-## Rechtliche Informationen {#section_A6E1844D4AC2485CADBF6D05116E3D59}
+## Rechtliche Informationen  {#section_A6E1844D4AC2485CADBF6D05116E3D59}
 
 
 <ul class="simplelist"> 
@@ -41,8 +41,8 @@ Adobe Systems welcome any suggestions or feedback regarding this solution. You c
  <li> Published by Adobe Systems Incorporated. </li> 
 </ul>
 
-[Nutzungsbedingungen](https://www.adobe.com/go/marketingcloud_terms_of_use) | [Datenschutzcenter](https://www.adobe.com/privacy/policy.html)
+[Nutzungsbedingungen](https://www.adobe.com/go/marketingcloud_terms_of_use_de) | [Datenschutz-Center](https://www.adobe.com/privacy/policy.html)
 
 Adobe and the Adobe logo are either registered trademarks or trademarks of Adobe Systems Incorporated in the United States and/or other countries. A trademark symbol (®, ™, etc.) denotes an Adobe trademark.
 
-All third-party trademarks are the property of their respective owners. Updated Information/Additional Third-Party Code Information available at [https://www.adobe.com/go/thirdparty](https://www.adobe.com/products/eula/third_party/).
+All third-party trademarks are the property of their respective owners. Aktualisierte Informationen/zusätzlicher Code von Drittanbietern verfügbar unter [https://www.adobe.com/go/thirdparty](https://www.adobe.com/products/eula/third_party/).
