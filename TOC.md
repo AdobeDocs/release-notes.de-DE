@@ -11,17 +11,18 @@ getting-started-url: https://landing.adobe.com/experience-league/
 tutorials-title: Tutorials
 tutorials-url: https://helpx.adobe.com/de/experience-cloud/tutorials.html
 mini-toc-levels: '1'
-translation-type: ht
-source-git-commit: f123e32395be3e2f83f6ed3004f142253c8f6d36
+translation-type: tm+mt
+source-git-commit: 3be54c2a7d063c6ebc9c0535efd6712abada071d
 
 ---
 
 
-# Experience Cloud – Versionshinweise {#experience-cloud}
+# Experience Cloud – Versionshinweise  {#experience-cloud}
 
 + [Adobe Experience Cloud – Versionshinweise](current.md)
 + Frühere Versionshinweise {#previous}
    + 2019 {#2019}
+      + [April 2019](c-legacy-releases/2019/04112019.md)
       + [März 2019](c-legacy-releases/2019/03072019.md)
       + [Februar 2019](c-legacy-releases/2019/02072019.md)
       + [Januar 2019](c-legacy-releases/2019/01172019.md)
