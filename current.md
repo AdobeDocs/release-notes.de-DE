@@ -5,7 +5,7 @@ doc-type: Versionshinweise
 last-update: Mai 2019
 author: mfrei
 translation-type: tm+mt
-source-git-commit: 3be54c2a7d063c6ebc9c0535efd6712abada071d
+source-git-commit: c5d973e002c607c1b9b7422c9d3abaa9c827a000
 
 ---
 
@@ -20,7 +20,7 @@ Neue Funktionen und Fehlerbehebungen in Adobe Experience Cloud.
 
 **Veröffentlichungsdatum: Mai 2019**
 
-* [Erlebnisplattform](#platform)
+* [Adobe Experience Platform](#platform)
 * [Analytics](#analytics)
 * [Audience Manager](#aam)
 * [Experience Manager](#aem)
@@ -30,21 +30,25 @@ Neue Funktionen und Fehlerbehebungen in Adobe Experience Cloud.
 * [Magento](#magento)
 * [Primetime](#primetime)
 
-## Erlebnisplattform {#platform}
+## Adobe Experience Platform {#platform}
 
-Versionshinweise für die Experience Cloud-Plattform, einschließlich Administration, Aktivierung (Experience Platform Launch), ID-Dienst, Assets, Angebote und Personen.
+### Versionshinweise zu Adobe Experience Platform
 
-### Experience Platform Start
+Version 1.0, 15. Mai 2019
+
+* Aktuelle Aktualisierungen zur Experience Platform finden Sie unter [Experience Platform Versionshinweise](https://www.adobe.io/apis/experienceplatform/home/services/release-notes.html#!end-user/markdown/release-notes/release-notes-20190515.md) zu Adobe. io.
+
+### Experience Platform Launch
 
 * Aktuelle Informationen finden Sie unter [Experience Platform Start](https://docs.adobelaunch.com/) .
 
 ### Experience Cloud ID-Dienst
 
-Veröffentlichung **vom 13. Mai 2019**
+Veröffentlichung am **13. Mai 2019**
 
 * Unterstützung für Besucher-API 4.3.0
 * Unterstützung für ITP 2.1.
-* Es wurde ein Problem bei der securecookie-Konfiguration behoben.
+* Ein Problem mit der Konfiguration von secureCookie wurde behoben.
 
 ## Analytics {#analytics}
 
@@ -61,7 +65,7 @@ Eine Produktdokumentation finden Sie auf der [Startseite der Hilfe zu Analytics]
 | -----------| ---------- |  
 | **Analysis Workspace:** New _Include Repeat Instances_ Flow visualization setting | Mit der Option _Wiederholungsinstanzen einschließen_ können Sie Wiederholungsinstanzen, wie z. B. das Neuladen von Seiten, ein- oder ausschließen. Außerdem basieren alle Flussvisualisierungen jetzt nur noch auf Instanzen. |
 | **Ad-hoc-Analysen:** Kompatibilität mit Java 11 | Ad Hoc Analysis ist jetzt kompatibel mit Java 11. Erfahren Sie, wie [Sie Ad-hoc-Analysen auf Java 11 ausführen](https://marketing.adobe.com/resources/help/en_US/dsc/adhoc-java.html). |
-| **Datenerfassung:** Neues s_ ecid-Cookie | Der neue Erstanbieter-Cookie s_ecid wurde hinzugefügt, in dem die ECID des Besuchers gespeichert wird.  |
+| **Datenerfassung:** Neues s_ ecid-Cookie | Der neue Erstanbieter-Cookie s_ecid wurde hinzugefügt, in dem die ECID des Besuchers gespeichert wird. |
 
 **Korrekturen am Analysis Workspace**
 
