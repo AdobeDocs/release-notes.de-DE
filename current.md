@@ -5,7 +5,7 @@ doc-type: Versionshinweise
 last-update: Mai 2019
 author: mfrei
 translation-type: tm+mt
-source-git-commit: c5d973e002c607c1b9b7422c9d3abaa9c827a000
+source-git-commit: eb567f2f7b740c2fab9b95540cfdf240cf1f6955
 
 ---
 
@@ -63,6 +63,7 @@ Eine Produktdokumentation finden Sie auf der [Startseite der Hilfe zu Analytics]
 
 | Funktion | Beschreibung |
 | -----------| ---------- |  
+| **Appmeasurement Version 2.14.0** <ul><li>Es wurden Probleme mit der Verwaltung des Status von Trackerparametern behoben, wenn mehrere Treffer ausstehend sind. (AN -176931, AN -176629, DTM -12758)</li><li>Appmeasurement aktualisiert auf Visitor. js 4.3.0 (AN -180049)</li></ul> |
 | **Analysis Workspace:** New _Include Repeat Instances_ Flow visualization setting | Mit der Option _Wiederholungsinstanzen einschließen_ können Sie Wiederholungsinstanzen, wie z. B. das Neuladen von Seiten, ein- oder ausschließen. Außerdem basieren alle Flussvisualisierungen jetzt nur noch auf Instanzen. |
 | **Ad-hoc-Analysen:** Kompatibilität mit Java 11 | Ad Hoc Analysis ist jetzt kompatibel mit Java 11. Erfahren Sie, wie [Sie Ad-hoc-Analysen auf Java 11 ausführen](https://marketing.adobe.com/resources/help/en_US/dsc/adhoc-java.html). |
 | **Datenerfassung:** Neues s_ ecid-Cookie | Der neue Erstanbieter-Cookie s_ecid wurde hinzugefügt, in dem die ECID des Besuchers gespeichert wird. |
