@@ -3,23 +3,15 @@ cloud: experience-cloud
 product: Experience Cloud
 user-guide-title: Adobe Experience Cloud – Versionshinweise
 user-guide-url: https://www.adobe.com
-solution-title: Experience Cloud
-solution-hub-url: https://helpx.adobe.com/de/support/experience-cloud.html
-solution-icon: assets/assets/experience-cloud-logo-24.png
-getting-started-title: Erste Schritte
-getting-started-url: https://landing.adobe.com/experience-league/
-tutorials-title: Tutorials
-tutorials-url: https://helpx.adobe.com/de/experience-cloud/tutorials.html
-mini-toc-levels: '1'
 translation-type: tm+mt
-source-git-commit: 3be54c2a7d063c6ebc9c0535efd6712abada071d
+source-git-commit: 8e54bd3d73d2729e22d09765069d311bc0bc5248
 
 ---
 
 
-# Experience Cloud – Versionshinweise  {#experience-cloud}
+# Experience Cloud Versionshinweise {#experience-cloud}
 
-+ [Adobe Experience Cloud – Versionshinweise](current.md)
++ [Versionshinweise](current.md)
 + Frühere Versionshinweise {#previous}
    + 2019 {#2019}
       + [April 2019](c-legacy-releases/2019/04112019.md)
