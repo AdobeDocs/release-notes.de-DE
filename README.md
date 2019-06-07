@@ -1,6 +1,6 @@
 ---
-source-git-commit: 147b01562e6c8d579a2bec0e4fa2841d1791a671
-translation-type: ht
+source-git-commit: d97a18edd04952f15a93be3197cf707c3de729d0
+translation-type: tm+mt
 
 ---
 # Artikel beitragen
@@ -9,17 +9,18 @@ Wir freuen uns über Beiträge unserer Community sowie von Adobe-Mitarbeitern, d
 
 ## Adobe Open Source-Verhaltenskodex
 
-Für dieses Projekt gilt der [Adobe Open Source-Verhaltenskodex](https://docs.adobe.com/content/help/en/contributor/contributor-guide/conduct-contributions/code-of-conduct.html) oder der [. NET Foundation-Verhaltenskodex](https://dotnetfoundation.org/code-of-conduct). Weitere Informationen finden Sie im Artikel [Contributing](https://docs.adobe.com/content/help/en/contributor/contributor-guide/conduct-contributions/contributing.html).
+
+Für dieses Projekt gilt der [Adobe Open Source-Verhaltenskodex](https://docs.adobe.com/content/help/en/contributor/contributor-guide/conduct-contributions/code-of-conduct.html) oder der [.NET Foundation-Verhaltenskodex](https://dotnetfoundation.org/code-of-conduct). Weitere Informationen finden Sie im Artikel [Beitragen](https://docs.adobe.com/content/help/en/contributor/contributor-guide/conduct-contributions/contributing.html).
 
 ## Informationen zu Ihren Beiträgen zu den Adobe-Inhalten
 
-Weitere Informationen finden Sie im [Adobe Docs Contributor-Handbuch ](https://docs.adobe.com/content/help/en/contributor/contributor-guide/introduction.html).
+Lesen Sie das [Adobe Docs-Mitarbeiter-Handbuch](https://docs.adobe.com/content/help/en/contributor/contributor-guide/introduction.html).
 
 Wie Sie Beiträge einbringen, hängt davon ab, wer Sie sind und welche Art von Änderungen Sie beitragen möchten:
 
 ### Geringfügige Änderungen
 
-Wenn Sie aus Gemeinschaftsgeist kleine Updates beitragen wollen, besuchen Sie den Artikel, und klicken Sie auf den Link **Bearbeiten** im Artikel, der zur GitHub-Quelle des Artikels führt. Verwenden Sie dann einfach die GitHub-Benutzeroberfläche, um Ihre Aktualisierungen vorzunehmen. Weitere Informationen finden Sie im allgemeinen [Adobe Docs-Contributor-Handbuch ](https://docs.adobe.com/content/help/en/contributor/contributor-guide/introduction.html).
+Wenn Sie aus Gemeinschaftsgeist kleine Updates beitragen wollen, besuchen Sie den Artikel, und klicken Sie auf den Link **Bearbeiten** im Artikel, der zur GitHub-Quelle des Artikels führt. Verwenden Sie dann einfach die GitHub-Benutzeroberfläche, um Ihre Aktualisierungen vorzunehmen. Weitere Informationen finden Sie im allgemeinen [Adobe Docs-Mitarbeiter-Handbuch](https://docs.adobe.com/content/help/en/contributor/contributor-guide/introduction.html).
 
 Kleinere Korrekturen oder Erläuterungen, die Sie für Dokumentation und Codebeispiele in diesem Repository senden, sind durch die Adobe-Nutzungsbedingungen abgedeckt.
 
@@ -39,7 +40,7 @@ Wenn Sie technischer Redakteur, Programmmanager oder Entwickler des Produktteams
 
 Community-Mitarbeiter können die GitHub-Benutzeroberfläche zur einfachen Bearbeitung oder zur Abspaltung des Repositorys verwenden, um umfangreiche Beiträge vorzunehmen.
 
-Weitere Informationen finden Sie im [Adobe Docs Contributor-Handbuch](https://docs.adobe.com/content/help/en/contributor/contributor-guide-for-adobe-documentation/introduction.html).
+Weitere Informationen finden Sie im [Adobe Docs-Mitarbeiter-Handbuch](https://docs.adobe.com/content/help/en/contributor/contributor-guide-for-adobe-documentation/introduction.html).
 
 ## Markdown zum Formatieren Ihres Themas verwenden
 
