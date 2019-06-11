@@ -5,7 +5,7 @@ doc-type: Versionshinweise
 last-update: Juni 2019
 author: mfrei
 translation-type: tm+mt
-source-git-commit: 1f156e4fcbd0d39b27f2c254e2117ad2e4e0b793
+source-git-commit: 1055e2ece605b5c1147f92cfd06cf103860e3d4c
 
 ---
 
@@ -60,6 +60,7 @@ Eine Produktdokumentation finden Sie auf der [Startseite der Hilfe zu Analytics]
 | **Segmentierung** | Neue Segmentoperatoren: **[!UICONTROL Entspricht]** beliebig und **[!UICONTROL entspricht keiner von]**. |
 | **Debugger** | Wenn Sie mit Ihrer Adobe ID angemeldet sind, haben Sie jetzt die Option, nach der Verarbeitung verarbeitete Treffer im Experience Cloud-Debugger abzurufen. Post-verarbeitete Treffer sind Serveraufrufe, nachdem sie [!UICONTROL die Verarbeitungsregeln] und VISTA-Regeln durchlaufen haben, sodass [!UICONTROL Sie Verarbeitungsregeln] und Ihre VISTA-Regeln validieren können. **Hinweis**: Wenn Sie A 4 T (supplementaldataid) verwenden, können die Nachbearbeitungsdaten einige Minuten zurückgehen. |
 | **Analysis Workspace:** | Es wurden neue standardfilter zur linken Leiste hinzugefügt. Neue Filter (Dimensionen, Metriken, Genehmigt usw.), neue Filter wie Berechnete Metriken, Kundenattribute, evars, Props, Video usw. hinzugefügt, um die benötigten Komponenten leichter zu finden. |
+| **Analysis Workspace** | Wir haben eine Warnung zur Fallout-Visualisierung hinzugefügt, die angezeigt wird, wenn Sie ein Segment als Touchpoint hinzufügen - bestimmte ungültige Segmentbehälterkombinationen führen zu ungültigen Fallout-Diagrammen, wie zum Beispiel <ul><li>Verwenden eines besucherbasierten Segments als Touchpoint innerhalb einer Fallout-Visualisierung des Besuchers</li><li>Verwenden eines besucherbasierten Segments als Touchpoint innerhalb eines Besuchs-Context-Fallout-Visualisierung</li><li>Verwenden eines besuchsbasierten Segments als Touchpoint innerhalb eines Besuchs-Context-Fallout-Visualisierung</li></ul> <br> [Mehr …](https://docs.adobe.com/content/help/en/analytics/analyze/analysis-workspace/visualizations/fallout/compare-segments-fallout.html)</br> |
 
 **Korrekturen am Analysis Workspace**
 
