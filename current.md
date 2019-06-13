@@ -5,7 +5,7 @@ doc-type: Versionshinweise
 last-update: Juni 2019
 author: mfrei
 translation-type: tm+mt
-source-git-commit: d216b079f73662c1d43e154b2a4e8195d09a2f18
+source-git-commit: 0c4355bbb17d5b67a8f136a07b7fc2a682441a01
 
 ---
 
@@ -58,6 +58,8 @@ Eine Produktdokumentation finden Sie auf der [Startseite der Hilfe zu Analytics]
 | **Debugger** | Wenn Sie mit Ihrer Adobe ID angemeldet sind, haben Sie jetzt die Option, nach der Verarbeitung verarbeitete Treffer im Experience Cloud-Debugger abzurufen. Post-verarbeitete Treffer sind Serveraufrufe, nachdem sie [!UICONTROL die Verarbeitungsregeln] und VISTA-Regeln durchlaufen haben, sodass [!UICONTROL Sie Verarbeitungsregeln] und Ihre VISTA-Regeln validieren können. **Hinweis**: Wenn Sie A 4 T (supplementaldataid) verwenden, können die Nachbearbeitungsdaten einige Minuten zurückgehen. |
 | **Analysis Workspace:** | Es wurden neue standardfilter zur linken Leiste hinzugefügt. Neue Filter (Dimensionen, Metriken, Genehmigt usw.), neue Filter wie Berechnete Metriken, Kundenattribute, evars, Props, Video usw. hinzugefügt, um die benötigten Komponenten leichter zu finden. |
 | **Analysis Workspace** | Wir haben eine Warnung zur Fallout-Visualisierung hinzugefügt, die angezeigt wird, wenn Sie ein Segment als Touchpoint hinzufügen - bestimmte ungültige Segmentbehälterkombinationen führen zu ungültigen Fallout-Diagrammen, wie zum Beispiel <ul><li>Verwenden eines besucherbasierten Segments als Touchpoint innerhalb einer Fallout-Visualisierung des Besuchers</li><li>Verwenden eines besucherbasierten Segments als Touchpoint innerhalb eines Besuchs-Context-Fallout-Visualisierung</li><li>Verwenden eines besuchsbasierten Segments als Touchpoint innerhalb eines Besuchs-Context-Fallout-Visualisierung</li></ul> <br> [Mehr …](https://docs.adobe.com/content/help/en/analytics/analyze/analysis-workspace/visualizations/fallout/compare-segments-fallout.html)</br> |
+| **Verbesserungen an der Analytics-Dokumentation** | Die Analytics-Dokumentation wurde neu organisiert und enthält jetzt Funktionen für die Zusammenarbeit, mit denen Sie den Inhalt verbessern können! Sie können Probleme mit der Dokumentation protokollieren und Änderungen vorschlagen. Der doc-Satz wurde in eine [neue Domäne verschoben](https://docs.adobe.com/content/help/en/analytics/landing/home.html). Umleitungen sollten vorhanden sein. |
+| **Neues Technologienotizen Benutzerhandbuch** | Das [Technische Notizenhandbuch](https://docs.adobe.com/content/help/en/analytics/technotes/home.html) ist jetzt verfügbar. Derzeit ist es darauf ausgerichtet, Benutzer zu unterstützen, die mit Analysetools von Drittanbietern wie Google Analytics vertraut sind, um sich besser mit Adobe Analytics vertraut zu machen. Das Benutzerhandbuch für technische Hinweise erweitert sich in den kommenden Monaten, um weitere Inhalte einzubinden. |
 
 **Korrekturen an Analysis Workspace**
 
