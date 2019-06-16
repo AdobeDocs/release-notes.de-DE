@@ -23,7 +23,7 @@ Neue Funktionen und Fehlerbehebungen in Adobe Experience Cloud.
 * [Analytics](#analytics)
 * [Audience Manager](#aam)
 * [Experience Manager](#aem)
-* [! DNL [Campaign](#ac)]
+* [!DNL [Campaign](#ac)]
 * [Mobile Services](#mobile)
 * [Advertising Cloud](#adcloud)
 * [Target Standard/Premium 19.6.1](#target)
@@ -38,7 +38,7 @@ Neue Funktionen und Fehlerbehebungen in Adobe Experience Cloud.
 
 ### [!DNL Experience Platform Launch]
 
-* Siehe [[! DNL Experience Platform Launch]](https://docs.adobelaunch.com/) für die neuesten Informationen.
+* Siehe [[!DNL Experience Platform Launch]](https://docs.adobelaunch.com/) für die neuesten Informationen.
 
 ## Analytics {#analytics}
 
