@@ -4,7 +4,7 @@ description: Experience Cloud-Versionshinweise, Juni 2019
 doc-type: Versionshinweise
 last-update: Juni 2019
 author: mfrei
-translation-type: tm+mt
+translation-type: ht
 source-git-commit: 9fbbe902ba5f95b86f8bf2eed7d3e85b4785ba6e
 
 ---
@@ -15,7 +15,7 @@ source-git-commit: 9fbbe902ba5f95b86f8bf2eed7d3e85b4785ba6e
 Neue Funktionen und Fehlerbehebungen in Adobe Experience Cloud.
 
 >[!NOTE]
->Abonnieren Sie das [Prioritätsprodukt-Update von Adobe](https://www.adobe.com/subscription/priority-product-update.html), um per E-Mail über bevorstehende Versionen benachrichtigt zu werden. Sie erhalten drei bis fünf Werktage vor der Veröffentlichung der Version eine Benachrichtigung. Nach dem Release veröffentlichte neue Informationen werden mit dem Veröffentlichungsdatum gekennzeichnet.
+>Abonnieren Sie [Adobe Priority Product Update ](https://www.adobe.com/subscription/priority-product-update.html), um per E-Mail über bevorstehende Versionen benachrichtigt zu werden. Sie erhalten drei bis fünf Werktage vor der Veröffentlichung der Version eine Benachrichtigung. Nach dem Release veröffentlichte neue Informationen werden mit dem Veröffentlichungsdatum gekennzeichnet.
 
 **Releasedatum: 13. Juni 2019**
 
@@ -34,11 +34,11 @@ Neue Funktionen und Fehlerbehebungen in Adobe Experience Cloud.
 
 ### Adobe Experience Platform – Versionshinweise
 
-* Aktuelle Aktualisierungen finden Sie unter [Adobe Experience Platform - Versionshinweise](https://www.adobe.io/apis/experienceplatform/home/services/release-notes.html#!end-user/markdown/release-notes/release-notes-20190515.md) zu [!DNL Experience Platform]Adobe. io.
+* Unter [Adobe Experience Platform – Versionshinweise](https://www.adobe.io/apis/experienceplatform/home/services/release-notes.html#!end-user/markdown/release-notes/release-notes-20190515.md) auf Adobe.io finden Sie aktuelle Updates zu Experience Platform.[!DNL Experience Platform]
 
 ### [!DNL Experience Platform Launch]
 
-* Aktuelle [!DNL Experience Platform Launch](https://docs.adobelaunch.com/) Informationen finden Sie unter.
+* Aktuelle Informationen finden Sie unter [!DNL Experience Platform Launch](https://docs.adobelaunch.com/).
 
 ## Analytics {#analytics}
 
@@ -47,7 +47,7 @@ Neue Funktionen und Fehlerbehebungen in Adobe Analytics:
 * [Neue Funktionen und Fehlerbehebungen in Adobe Analytics](#aa-features)
 * [Wichtige Hinweise für Analytics-Administratoren](#aa-notices)
 
-Eine Produktdokumentation finden Sie auf der [Startseite der Hilfe zu Analytics](https://marketing.adobe.com/resources/help/en_US/reference/).
+Eine Produktdokumentation finden Sie auf der [Hilfe-Startseite zu Analytics](https://marketing.adobe.com/resources/help/de_DE/reference/).
 
 ### Neue Funktionen und Fehlerbehebungen in Adobe Analytics {#aa-features}
 
@@ -57,9 +57,9 @@ Eine Produktdokumentation finden Sie auf der [Startseite der Hilfe zu Analytics]
 | **Segmentierung** | Neue Segmentoperatoren: **[!UICONTROL Entspricht einem von]** und **[!UICONTROL Entspricht keinem von]**. [Mehr...](https://docs.adobe.com/content/help/en/analytics/components/segmentation/segment-reference/seg-operators.html) |
 | **Debugger** | Wenn Sie mit Ihrer Adobe ID angemeldet sind, haben Sie jetzt die Option, nachbearbeitete Treffer im Experience Cloud-Debugger abzurufen. Nachbearbeitete Treffer sind Server-Aufrufe, nachdem sie die [!UICONTROL Verarbeitungsregeln] und VISTA-Regeln durchlaufen haben, sodass Sie [!UICONTROL Verarbeitungsregeln] und Ihre VISTA-Regeln validieren können. **Hinweis**: Wenn Sie A4T (SupplementalDataID) verwenden, kann es einige Minuten dauern, bis die Nachbearbeitungsdaten wiederhergestellt sind. |
 | **Analysis Workspace:** | Es wurden neue Standardfilter zur linken Leiste hinzugefügt. Über das hinaus, was Sie heute sehen (Dimensionen, Metriken, Genehmigt usw.), wurden neue Filter wie „Berechnete Metriken“, „Kundenattribute“, „eVars“, „Eigenschaften“, „Video“ usw. hinzugefügt, damit die benötigten Komponenten leichter gefunden werden können. |
-| **Analysis Workspace** | Wir haben eine Warnung zur Fallout-Visualisierung hinzugefügt, die angezeigt wird, wenn Sie ein Segment als Touchpoint hinzufügen - bestimmte ungültige Segmentcontainerkombinationen führen zu ungültigen Fallout-Diagrammen, wie zum Beispiel <ul><li>Verwenden eines besucherbasierten Segments als Touchpoint innerhalb einer Fallout-Visualisierung des Besuchers</li><li>Verwenden eines besucherbasierten Segments als Touchpoint innerhalb einer Fallout-Visualisierung eines Besuches</li><li>Verwenden eines besuchbasierten Segments als Touchpoint innerhalb einer Fallout-Visualisierung eines Besuches</li></ul> <br> [Mehr …](https://docs.adobe.com/content/help/en/analytics/analyze/analysis-workspace/visualizations/fallout/compare-segments-fallout.html)</br> |
-| **Verbesserungen an der Analytics-Dokumentation** | Die Analytics-Dokumentation wurde neu organisiert und enthält jetzt Funktionen für die Zusammenarbeit, mit denen Sie den Inhalt verbessern können! Sie können Probleme mit der Dokumentation protokollieren und Änderungen vorschlagen. Der doc-Satz wurde in eine [neue Domäne verschoben](https://docs.adobe.com/content/help/en/analytics/landing/home.html). Umleitungen sollten vorhanden sein. |
-| **Neues Technologienotizen Benutzerhandbuch** | Das [Technische Notizenhandbuch](https://docs.adobe.com/content/help/en/analytics/technotes/home.html) ist jetzt verfügbar. Derzeit ist es darauf ausgerichtet, Benutzer zu unterstützen, die mit Analysetools von Drittanbietern wie Google Analytics vertraut sind, um sich besser mit Adobe Analytics vertraut zu machen. Das Benutzerhandbuch für technische Hinweise erweitert sich in den kommenden Monaten, um weitere Inhalte einzubinden. |
+| **Analysis Workspace** | Wir haben eine Warnung zur Fallout-Visualisierung hinzugefügt, die angezeigt wird, wenn Sie ein Segment als Touchpoint hinzufügen - bestimmte ungültige Segmentcontainerkombinationen führen zu ungültigen Fallout-Diagrammen, wie zum Beispiel <ul><li>Verwenden eines besucherbasierten Segments als Touchpoint innerhalb einer Fallout-Visualisierung des Besuchers</li><li>Verwenden eines besucherbasierten Segments als Touchpoint innerhalb einer Fallout-Visualisierung eines Besuches</li><li>Verwenden eines besuchbasierten Segments als Touchpoint innerhalb einer Fallout-Visualisierung eines Besuches</li></ul> <br> [Mehr...](https://docs.adobe.com/content/help/en/analytics/analyze/analysis-workspace/visualizations/fallout/compare-segments-fallout.html) </br> |
+| **Verbesserungen an der Analytics-Dokumentation** | Die Analytics-Dokumentation wurde neu strukturiert und enthält jetzt Funktionen für die Zusammenarbeit, die es Ihnen ermöglichen, den Inhalt zu verbessern. Sie können Probleme mit der Dokumentation melden und Änderungen vorschlagen. Die Dokumentation wurde in eine [neue Domain](https://docs.adobe.com/content/help/en/analytics/landing/home.html) verschoben. Umleitungen sind vorhanden. |
+| **Neues Benutzerhandbuch zu Technotes** | Jetzt ist ein [Benutzerhandbuch zu Technotes](https://docs.adobe.com/content/help/en/analytics/technotes/home.html) verfügbar. Es soll erfahrenen Benutzern von Analyse-Tools von Drittanbietern wie Google Analytics helfen, sich mit Adobe Analytics besser vertraut zu machen. Das Benutzerhandbuch zu Technotes wird in den kommenden Monaten inhaltlich erweitert. |
 
 **Korrekturen an Analysis Workspace**
 
@@ -78,7 +78,7 @@ Eine Produktdokumentation finden Sie auf der [Startseite der Hilfe zu Analytics]
 
 | Hinweis | Hinzugefügt oder aktualisiert am | Beschreibung |
 | -----------| ---------- | ---------- |
-| Einschränkungen für den Builder für Klassifizierungsregeln | Hinzugefügt am 5. Juni 2019. | Diese Beschränkungen sind nicht neu, wurden aber zur Dokumentation [hier hinzugefügt](https://marketing.adobe.com/resources/help/en_US/reference/classification_rule_builder.html). |
+| Einschränkungen für den Builder für Klassifizierungsregeln | Hinzugefügt am 5. Juni 2019. | Diese Beschränkungen sind nicht neu, wurden jedoch der Dokumentation [hier](https://marketing.adobe.com/resources/help/de_DE/reference/classification_rule_builder.html) hinzugefügt. |
 | Einschränkungen des neuen Segmentoperators | Hinzugefügt am 31. Mai 2019. | Ab dem 18. Juli 2019 sind die Segmentoperatoren „enthält beliebig viele“, „enthält keinerlei“, „enthält alle von“ und „enthält nicht alle“ auf 100 Wörter pro Eingabefeld beschränkt. Die Beschränkung wird nach diesem Datum auf alle neuen und geänderten Segmente angewendet. Vorhandene Segmente, die die Beschränkung überschreiten, werden weiterhin unterstützt, können jedoch erst geändert oder gespeichert werden, wenn das Eingabefeld reduziert wurde. Diese Grenzwerte werden im Rahmen kontinuierlicher Bemühungen zur Verbesserung der Abfrageleistung angewendet. |
 | Bevorstehende Änderungen der Unterstützung für die Klassifizierungen **[!UICONTROL Datumsaktiviert]** und **[!UICONTROL Numerisch 2]** | Aktualisiert am 28. Mai 2019 | Die Möglichkeit, die Klassifizierungen „Numerisch 2“ und „Datumsaktiviert“ zu importieren, wurde aus der Codebasis entfernt. Diese Änderung wird mit der Wartungsversion vom Juli 2019 wirksam. Wenn die Importdatei die Spalte „Numerisch“ oder „Datumsaktiviert“ enthält, werden diese Zellen still ignoriert und alle anderen Daten in dieser Datei werden normal importiert. <br/>Vorhandene Classifications können weiterhin über den Standard-Classification-Arbeitsablauf exportiert werden und sind weiterhin in Berichten verfügbar. |
 | Bevorstehende Änderung bei Berechnungen der _Berichtssumme_ | Aktualisiert am 2. Mai 2019 | Ab **13. Juni 2019** werden in Adobe Analytics Berechnungen von _Berichtssummen_ für alle Dimensionen und Metriken vereinheitlicht. Dadurch werden sich die Gesamtsummen bei manchen Berichten ändern (vor allem bei Berichten zu Eigenschaften oder Kundenattributen). Vor dieser Änderung kam es vor, dass in manchen Berichtssummen der Zeileneintrag _Unspecified_ uneinheitlich ein- oder ausgeschlossen wurde, und zwar unabhängig davon, ob _Unspecified_ im Bericht vorkam oder nicht. <br/>Ab 13. Juni 2019 wird _Nicht angegeben_ immer in Berichtssummen angezeigt, auch wenn dieser Wert nicht als Zeileneintrag im Bericht zu sehen ist. Außerdem kann es vorkommen, dass Segmente, die die _ist vorhanden_- oder _ist nicht vorhanden_-Logik nutzen, nach dieser Änderung andere Ergebnisse für einige Dimensionen aufweisen. Diese Änderung betrifft Analysis Workspace, Reports &amp; Analytics, Ad Hoc Analysis, Report Builder und die Reporting-API. |
@@ -87,7 +87,7 @@ Eine Produktdokumentation finden Sie auf der [Startseite der Hilfe zu Analytics]
 | Mobile Browser – Versionsnummern | 7. Februar 2019 | Am 8. Januar 2019 haben wir die Abschnittsebene bei den Versionsnummern mobiler Browser von 2 zu 1 geändert. Seit diesem Datum zeigen die Versionen nur die ersten beiden Ebenen an (Beispiel: _Firefox 64.0.2_ wird jetzt als _Firefox 64.0_ angegeben). |
 | wird eingestellt [!DNL Ad Hoc Analysis] | 29. Januar 2019 | Am 6. August 2018 kündigte Adobe die Absicht an, [!DNL Ad Hoc Analysis] einzustellen. Das Datum für das Ende des Produktlebenszyklus wird bekannt gegeben, sobald es verfügbar ist.<br/>Weitere Informationen dazu, welche Versionen von Java während dieses Zeitraums kompatibel sind, finden Sie unter [Arbeitsbereich entdecken](https://adobe.ly/discoverworkspace). |
 | Kurz-Links für Analytics-Berichte | 14. Januar 2019 | Kurz-Links für Analytics-Berichte, die innerhalb eines Jahres nicht aufgerufen wurden, werden entfernt und ab Donnerstag, den 17. Januar 2019 fortlaufend gelöscht. |
-| Ende der Unterstützung für TLS 1.0 | Aktualisiert am 10. Januar 2019 | Ab dem 11. Februar 2019 unterstützt die Adobe Analytics-Berichterstellung die Verschlüsselung mit TLS (Transport Layer Security) 1.0 nicht mehr. Diese Änderung ist Teil unserer ständigen Bemühungen, die höchsten Sicherheitsstandards einzuhalten und die Daten unserer Kunden zu schützen. Wenn Sie nach dem 11. Februar 2019 keine Verbindung zu Adobe Analytics-Berichten herstellen können, sollten Sie den Browser auf die [neueste Version aktualisieren](https://marketing.adobe.com/resources/help/en_US/sc/user/requirements.html).<br/> Ab dem 20. Februar 2019 bietet die Adobe Analytics-Datenerfassung keine Unterstützung für TLS 1.0 mehr. Aufgrund dieser Änderung werden von Adobe keine Analytics-Daten von Endbenutzern mit älteren Geräten oder Webbrowsern ohne Unterstützung für TLS 1.1 oder höher erfasst. Wir gehen davon aus, dass dies keine wesentlichen Auswirkungen auf Kundendaten oder die Berichterstattung haben wird. (Wenn Ihre Website TLS 1.0 bereits nicht mehr unterstützt, sind Sie nicht betroffen.) <br/>Ab dem 11. April 2019 bietet die Reporting-API von Adobe Analytics keine Unterstützung mehr für die TLS 1.0-Verschlüsselung. Kunden, die auf die API zugreifen, sollten sicherstellen, dass sie nicht von den Auswirkungen betroffen sind. <ul><li>Für API-Clients, die Java 7 mit den Standardeinstellungen verwenden, müssen einige [Änderungen zur Unterstützung von TLS 1.2](https://www.java.com/en/configure_crypto.html) vorgenommen werden (siehe _„Changing default TLS protocol version for client end points: TLS 1.0 to TLS 1.2“_). </li><li>API-Clients, die Java 8 verwenden, sollten nicht beeinträchtigt sein, da die Standardeinstellung TLS 1.2 ist.</li><li> Bei API-Clients, die andere Frameworks verwenden, müssen Sie die Details zur Unterstützung von TLS 1.2 beim jeweiligen Anbieter erfragen.</li></ul> |
+| Ende der Unterstützung für TLS 1.0 | Aktualisiert am 10. Januar 2019 | Ab dem 11. Februar 2019 unterstützt die Adobe Analytics-Berichterstellung die Verschlüsselung mit TLS (Transport Layer Security) 1.0 nicht mehr. Diese Änderung ist Teil unserer ständigen Bemühungen, die höchsten Sicherheitsstandards einzuhalten und die Daten unserer Kunden zu schützen. Wenn Sie nach dem 11. Februar 2019 keine Verbindung zu Adobe Analytics-Berichten herstellen können, sollten Sie Ihren Browser auf die [neueste Version](https://marketing.adobe.com/resources/help/de_DE/sc/user/requirements.html) aktualisieren.<br/> Ab dem 20. Februar 2019 bietet die Adobe Analytics-Datenerfassung keine Unterstützung für TLS 1.0 mehr. Aufgrund dieser Änderung werden von Adobe keine Analytics-Daten von Endbenutzern mit älteren Geräten oder Webbrowsern ohne Unterstützung für TLS 1.1 oder höher erfasst. Wir gehen davon aus, dass dies keine wesentlichen Auswirkungen auf Kundendaten oder die Berichterstattung haben wird. (Wenn Ihre Website TLS 1.0 bereits nicht mehr unterstützt, sind Sie nicht betroffen.) <br/>Ab dem 11. April 2019 bietet die Reporting-API von Adobe Analytics keine Unterstützung mehr für die TLS 1.0-Verschlüsselung. Kunden, die auf die API zugreifen, sollten sicherstellen, dass sie nicht von den Auswirkungen betroffen sind. <ul><li>API-Clients mit Java 7 mit Standardeinstellungen benötigen [Änderungen zur Unterstützung von TLS 1.2](https://www.java.com/en/configure_crypto.html). (siehe _„Changing default TLS protocol version for client end points: TLS 1.0 to TLS 1.2“_). </li><li>API-Clients, die Java 8 verwenden, sollten nicht beeinträchtigt sein, da die Standardeinstellung TLS 1.2 ist.</li><li> Bei API-Clients, die andere Frameworks verwenden, müssen Sie die Details zur Unterstützung von TLS 1.2 beim jeweiligen Anbieter erfragen.</li></ul> |
 | Daten-Feed: Spalte „post_product_list“ – Änderung der Größe | 9. Januar 2019 | Adobe hat die Größe der Spalte „post_product_list“ am dem 7. Februar 2019 von 64 KB auf 16 MB erweitert. Diese Änderung stellt sicher, dass bei der Verarbeitung zu „post_product_list“ hinzugefügte Merchandising-eVar-Werte nicht zu abgeschnittenen Produkt- und Umsatzwerten führen. Wenn Sie über Prozesse verfügen, bei denen post_product_list-Werte erfasst werden, stellen Sie sicher, dass diese Prozesse Werte mit einer Länge von bis zu 16 MB verarbeiten können (ansonsten werden Werte bei 16 KB abgeschnitten), um Datenerfassungsfehler zu vermeiden. |
 | Verwaltungsänderungen mit Auswirkung auf inaktive [!DNL Analytics Live Stream]-Endpunkte | 20. Dezember 2018 | Ab dem 1. Februar 2019 können [!DNL Live Stream]-Endpunkte, die 90 Tage lang keine aktive Verbraucherverbindung aufweisen, deaktiviert werden. Sie können sich an die Kundenunterstützung wenden, um sich über Ihre [!DNL Live Stream]-Endpunkte zu informieren und diese bei Bedarf wieder zu aktivieren. Stellen Sie außerdem sicher, dass für Ihre Verbraucherprozesse eine dauerhafte Verbindung besteht, wie es das Konzept des Dienstes vorsieht, und dass sie so implementiert sind, dass sie sich wieder verbinden, wenn die Verbindung getrennt oder unterbrochen wird. |
 | Aktualisieren von Adobe [!DNL Report Builder] aufgrund der Einstellung des Supports für TLS 1.0 | 7. Sept. 2018 | Aufgrund der Unterstützung für TLS 1.0 sollten Benutzer von [!DNL Report Builder] die Version 5.6.21 vor Februar 2019 herunterladen. Nach diesem Datum sind frühere Versionen von [!DNL Report Builder] nicht mehr funktionstüchtig. |
@@ -101,7 +101,7 @@ Eine Produktdokumentation finden Sie auf der [Startseite der Hilfe zu Analytics]
 * Es wurde ein Problem behoben, durch das der Inhalt von Eigenschaftsordnern nicht angezeigt wurde, wenn die Ordnernamen Paranthesen und/oder Klammern enthielten.
 * Es wurde ein Fehler behoben, der dazu führte, dass Eigenschaften bei der Sortierung nur eines Eigenschaftstyps fehlschlugen.
 * Es wurde ein Problem behoben, durch das die Baumstruktur des Eigenschaftsordners jedes Mal, wenn Sie einen neuen Unterordner erstellten oder aktualisierten, in der Ansicht [!UICONTROL Alle Eigenschaften] reduziert wurde.
-* Es wurde ein Problem behoben, durch das [!DNL VIEW_DATASOURCES] die Berechtigung zum Löschen eines Partners erforderlich war.
+* Es wurde ein Problem behoben, bei dem die [!DNL VIEW_DATASOURCES]-Berechtigung erforderlich war, wenn versucht wurde, einen Partner zu löschen.
 * Es wurde ein Problem behoben, durch das das [!UICONTROL Suchfeld] auf der Seite [!UICONTROL Segmente] in allen Ordnern anstelle des ausgewählten Ordners gesucht wurde.
 * Es wurde ein Problem behoben, durch das beim Erstellen eines neuen algorithmischen Modells verhindert wurde, dass die Tabelle [!UICONTROL Eigenschaften ausschließen] durch die Kopfzeilensteuerelemente sortiert wird.
 * Es wurde ein Problem behoben, durch das Audience Manager abstürzte, wenn ein Bericht mit leeren Intervall-Daten ausgeführt wurde.
@@ -191,11 +191,11 @@ Die Version 3.3 für die XML-Dokumentationslösung ist jetzt verfügbar. Weitere
 
 ### Community
 
-**[Cloud Manager-Webinar-Webinar-Reihe](https://cloudmanagerskillbuilder.experienceleague.adobeevents.com/)**
+**[Cloud Manager Skill Builder-Webinarreihe](https://cloudmanagerskillbuilder.experienceleague.adobeevents.com/)**
 
 Möchten Sie erfahren, wie DevOps-Prozesse die täglichen Aktivitäten für die Verwaltung von Adobe Experience Manager in der Cloud vereinfachen? Cloud Manager bietet die erste Generation Cloud-nativer Funktionen für Adobe Experience Manager, die die Cloud-Flexibilität aktivieren, ob Ihr Unternehmen die DevOps-Transformation beginnt oder Strategien zur Erweiterung vorhandener DevOps-Prozesse sucht.
 
-[In dieser monatlichen Reihe](https://cloudmanagerskillbuilder.experienceleague.adobeevents.com/)können Sie direkt vom Produktteam von Adobe erfahren, wie Sie Einstieg erhalten und wie Sie mit Cloud Manager-Funktionen die Verwaltung von Adobe Experience Manager in der Cloud vereinfachen.
+[In dieser monatlichen Reihe](https://cloudmanagerskillbuilder.experienceleague.adobeevents.com/) erfahren Sie direkt vom Adobe-Produktteam, wie Sie mit den Cloud Manager-Funktionen beginnen und die Verwaltung von Adobe Experience Manager in der Cloud vereinfachen.
 
 Sie werden Folgendes lernen:
 * Erste Schritte mit Cloud Manager und Einrichten der CI-/CD-Pipeline
@@ -204,13 +204,13 @@ Sie werden Folgendes lernen:
 
 ### Zusätzliche Ressourcen
 
-* [AEM 6.5 Schulung und Support – Startseite](https://helpx.adobe.com/support/experience-manager/6-5.html)
-* [AEM 6.4 Schulung und Support – Startseite](https://helpx.adobe.com/support/experience-manager/6-4.html)
-* [AEM 6.3 Schulung und Support – Startseite](https://helpx.adobe.com/support/experience-manager/6-3.html)
-* [AEM 6.2 Schulung und Support – Startseite](https://helpx.adobe.com/support/experience-manager/6-2.html)
-* [Cloud Manager-Benutzerhandbuch](https://helpx.adobe.com/experience-manager/cloud-manager/user-guide.html)
-* [Ältere Versionen der AEM-Dokumentation](https://helpx.adobe.com/experience-manager/aem-previous-versions.html)
-* [Scene7 Publishing System – Versionshinweise](https://marketing.adobe.com/resources/help/en_US/s7/release_notes/index.html)
+* [Lernmaterialien und Support zu AEM 6.5 – Startseite](https://helpx.adobe.com/de/support/experience-manager/6-5.html)
+* [AEM 6.4 Lernmaterialien und Support Startseite](https://helpx.adobe.com/de/support/experience-manager/6-4.html)
+* [AEM 6.3 Lernmaterialien und Support Startseite](https://helpx.adobe.com/de/support/experience-manager/6-3.html)
+* [AEM 6.2 Lernmaterialien und Support Startseite](https://helpx.adobe.com/de/support/experience-manager/6-2.html)
+* [Cloud Manager-Benutzerhandbuch](https://helpx.adobe.com/de/experience-manager/cloud-manager/user-guide.html)
+* [Ältere Versionen von AEM – Dokumentation](https://helpx.adobe.com/de/experience-manager/aem-previous-versions.html)
+* [Scene7 Publishing System – Versionshinweise](https://marketing.adobe.com/resources/help/de_DE/s7/release_notes/index.html)
 * [Livefyre-Versionshinweise](https://marketing.adobe.com/resources/help/en_US/livefyre/c_rn.html)
 
 ## [!DNL Campaign] {#ac}
@@ -221,27 +221,27 @@ Adobe Campaign bietet die Möglichkeit, direkte Nachrichten über Online- und O
 
 | Funktionalität | Beschreibung |
 | ------------- | ----------- |
-| Systemsteuerung | Um die Effizienz Ihrer Arbeit als Administrator zu steigern, verwalten Sie die Einstellungen Ihrer SFTP-Server, indem Sie den Speicher überwachen, IP-Adressen auf die Positivliste setzen und SSH-Schlüssel für jede Instanz installieren. Beachten Sie, dass die Systemsteuerung ab heute nur für Kunden verfügbar ist, die auf AWS gehostet werden. [Melden Sie sich über die Experience Cloud](https://experiencecloud.adobe.com/campaign/controlpanel/)an. <br> Weitere Informationen finden Sie in der [detaillierten Dokumentation](https://helpx.adobe.com/campaign/kb/control-panel.html) und in der [Videoanleitungen](https://helpx.adobe.com/campaign/kt/acc/using/acc-control-panel-video-use.html). |
-| Audit-Protokoll | Steigern Sie als Administrator die Produktivität, indem Sie Änderungen überwachen und verwalten, die in der Adobe Campaign Classic-Instanz vorgenommen wurden. Der Audit-Protokolliert Aktionen, die auf dem Quellschema, dem Arbeitsablauf und der Option vorgenommen wurden. Sie können schnell feststellen, ob ein Element erstellt, geändert oder gelöscht wurde.<br>Weitere Informationen finden Sie in der [detaillierten Dokumentation](https://docs.campaign.adobe.com/doc/AC/en/PRO_Production_procedures_Audit_trail.html) und in der [Videoanleitungen](https://helpx.adobe.com/campaign/kt/acc/using/acc-audit-trail-feature-video-use.html). |
-| Schutz, Stabilität und Skalierbarkeit | Eine Reihe von Verbesserungen [!DNL Campaign Classic]wurde hinzugefügt. Verbesserungen an der Speicherung, Stabilität und Skalierbarkeit werden in den [Versionshinweisen](https://docs.campaign.adobe.com/doc/AC/en/RN.html)zu Adobe Campaign Classic aufgeführt. |
-| Sicheres SMS-Messaging (TLS) | Gesicherte SMS werden jetzt über den Extended Generic SMPP Connector unterstützt. Dies ermöglicht eine verschlüsselte Verbindung zum Provider. <br>Weitere Informationen finden Sie in der [ausführlichen Dokumentation](https://helpx.adobe.com/campaign/kb/sms-connector-protocol-and-settings.html). |
-| Kompatibilitätsmatrix-Update | Mit dieser neuen Version unterstützt Adobe Campaign jetzt die folgenden Datenbanksysteme. Siehe [Kompatibilitätsmatrix](https://helpx.adobe.com/campaign/kb/compatibility-matrix.html) <ul><li>Oracle 18c</li><li>MySQL 5.7 (FDA)</li><li>SQL -Server 2017</li><li>Teradata 16 (FDA)</li><li>PostgreSQL 11</li></ul> |
+| Systemsteuerung | Um die Effizienz Ihrer Arbeit als Administrator zu steigern, verwalten Sie die Einstellungen Ihrer SFTP-Server, indem Sie den Speicher überwachen, IP-Adressen auf die Positivliste setzen und SSH-Schlüssel für jede Instanz installieren. Beachten Sie, dass die Systemsteuerung ab heute nur für Kunden verfügbar ist, die auf AWS gehostet werden. [Melden Sie sich über Experience Cloud an](https://experiencecloud.adobe.com/campaign/controlpanel/). <br> Weitere Informationen finden Sie in der [ausführlichen Dokumentation](https://helpx.adobe.com/de/campaign/kb/control-panel.html) und dem [Anleitungsvideo](https://helpx.adobe.com/de/campaign/kt/acc/using/acc-control-panel-video-use.html). |
+| Audit-Protokoll | Steigern Sie als Administrator die Produktivität, indem Sie Änderungen überwachen und verwalten, die in der Adobe Campaign Classic-Instanz vorgenommen wurden. Der Audit-Protokolliert Aktionen, die auf dem Quellschema, dem Arbeitsablauf und der Option vorgenommen wurden. Sie können schnell feststellen, ob ein Element erstellt, geändert oder gelöscht wurde.<br>Weitere Informationen finden Sie in der [ausführlichen Dokumentation](https://docs.campaign.adobe.com/doc/AC/en/PRO_Production_procedures_Audit_trail.html) und dem [Anleitungsvideo](https://helpx.adobe.com/de/campaign/kt/acc/using/acc-audit-trail-feature-video-use.html). |
+| Schutz, Stabilität und Skalierbarkeit | An [!DNL Campaign Classic] wurden einige Verbesserungen vorgenommen. Die Verbesserungen an Schutzmechanismen, Stabilität und Skalierbarkeit sind in den [Versionshinweisen zu Adobe Campaign Classic](https://docs.campaign.adobe.com/doc/AC/de/RN.html) aufgeführt. |
+| Sicheres SMS-Messaging (TLS) | Gesicherte SMS werden jetzt über den Extended Generic SMPP Connector unterstützt. Dies ermöglicht eine verschlüsselte Verbindung zum Provider. <br> Weitere Informationen finden Sie in der [ausführlichen Dokumentation](https://helpx.adobe.com/de/campaign/kb/sms-connector-protocol-and-settings.html). |
+| Kompatibilitätsmatrix-Update | Mit dieser neuen Version unterstützt Adobe Campaign jetzt die folgenden Datenbanksysteme. Siehe [Kompatibilitätsmatrix](https://helpx.adobe.com/de/campaign/kb/compatibility-matrix.html) <ul><li>Oracle 18c</li><li>MySQL 5.7 (FDA)</li><li>SQL -Server 2017</li><li>Teradata 16 (FDA)</li><li>PostgreSQL 11</li></ul> |
 
-Fehlerbehebungen und Verbesserungen finden Sie unter [Adobe Campaign Classic – Versionshinweise](http://docs.campaign.adobe.com/doc/AC/en/RN.html).
+Unter [Versionshinweise zu Adobe Campaign Classic](http://docs.campaign.adobe.com/doc/AC/de/RN.html) finden Sie Informationen zu Fehlerbehebungen und Verbesserungen.
 
 ### [!DNL Campaign Standard] 19.2 Frühlingsversion
 
 | Funktionalität | Beschreibung |
 | ------------- | ----------- |
-| Systemsteuerung | Um die Effizienz Ihrer Arbeit als Administrator zu steigern, können Sie auf einfache Weise die Kapazität überwachen und die Einstellungen Ihrer Instanzen verwalten (beginnend mit der Verwaltung von SFTP-Servern). <br> Weitere Informationen finden Sie in der [detaillierten Dokumentation](https://helpx.adobe.com/campaign/kb/control-panel.html) und in der [Videoanleitungen](https://helpx.adobe.com/campaign/kt/acs/using/acs-control-panel-video-use.html). |
-| Lokale Benachrichtigungen | Mithilfe der lokalen Benachrichtigung können Sie Ihre Benutzer informieren, wenn neue Daten in ihren Mobilanwendungen verfügbar werden, auch ohne dass der Zugriff auf das Internet verfügbar ist oder die App im Vordergrund ausgeführt wird. Lokale Benachrichtigungen werden von einer App zu einem bestimmten Zeitpunkt und je nach Ereignis ausgelöst.<br>Weitere Informationen finden Sie in der [ausführlichen Dokumentation](https://helpx.adobe.com/campaign/standard/channels/using/customizing-an-in-app-message.html#customizing-a-local-notification-message-type). |
-| Verbesserung des Workflows: Fügen Sie einer externen Signalaktivität eine Nutzlast hinzu. | Starten Sie einen Workflow mit einer Nutzlast, wenn definierte Bedingungen von einem anderen Workflow oder einem REST-API-Aufruf zur Integration in Ihre externen Systeme erfolgreich erfüllt wurden. Dies umfasst auch eine neue Testaktivität, in der Sie Tests für diese Funktionalität ausführen können. <br>Weitere Informationen finden Sie in der [detaillierten Dokumentation](https://helpx.adobe.com/campaign/standard/channels/using/customizing-an-in-app-message.html#customizing-a-local-notification-message-type) und in der [Videoanleitungen](https://helpx.adobe.com/campaign/kt/acs/using/acs-external-signal-activity-feature-video-use.html). |
-| Verbesserung bei Landing-Pages - Google reCAPTCHA | Nutzen Sie Google reCAPTCHA, um Spam auf Ihren Landingpages zu verhindern, ohne dass eine Aktion von Ihren Kunden erforderlich ist. <br>Weitere Informationen finden Sie in der [ausführlichen Dokumentation](https://helpx.adobe.com/campaign/standard/channels/using/designing-a-landing-page.html#setting-google-recaptcha). |
+| Systemsteuerung | Um die Effizienz Ihrer Arbeit als Administrator zu steigern, können Sie auf einfache Weise die Kapazität überwachen und die Einstellungen Ihrer Instanzen verwalten (beginnend mit der Verwaltung von SFTP-Servern). <br> Weitere Informationen finden Sie in der [ausführlichen Dokumentation](https://helpx.adobe.com/de/campaign/kb/control-panel.html) und dem [Anleitungsvideo](https://helpx.adobe.com/de/campaign/kt/acs/using/acs-control-panel-video-use.html). |
+| Lokale Benachrichtigungen | Mithilfe der lokalen Benachrichtigung können Sie Ihre Benutzer informieren, wenn neue Daten in ihren Mobilanwendungen verfügbar werden, auch ohne dass der Zugriff auf das Internet verfügbar ist oder die App im Vordergrund ausgeführt wird. Lokale Benachrichtigungen werden von einer App zu einem bestimmten Zeitpunkt und je nach Ereignis ausgelöst.<br>Weitere Informationen finden Sie in der [ausführlichen Dokumentation](https://helpx.adobe.com/de/campaign/standard/channels/using/customizing-an-in-app-message.html#customizing-a-local-notification-message-type). |
+| Verbesserung des Workflows: Fügen Sie einer externen Signalaktivität eine Nutzlast hinzu. | Starten Sie einen Workflow mit einer Nutzlast, wenn definierte Bedingungen von einem anderen Workflow oder einem REST-API-Aufruf zur Integration in Ihre externen Systeme erfolgreich erfüllt wurden. Dies umfasst auch eine neue Testaktivität, in der Sie Tests für diese Funktionalität ausführen können. <br>Weitere Informationen finden Sie in der [ausführlichen Dokumentation](https://helpx.adobe.com/de/campaign/standard/channels/using/customizing-an-in-app-message.html#customizing-a-local-notification-message-type) und dem [Anleitungsvideo](https://helpx.adobe.com/de/campaign/kt/acs/using/acs-external-signal-activity-feature-video-use.html). |
+| Verbesserung bei Landing-Pages - Google reCAPTCHA | Nutzen Sie Google reCAPTCHA, um Spam auf Ihren Landingpages zu verhindern, ohne dass eine Aktion von Ihren Kunden erforderlich ist. <br>Weitere Informationen finden Sie in der [ausführlichen Dokumentation](https://helpx.adobe.com/de/campaign/standard/channels/using/designing-a-landing-page.html#setting-google-recaptcha). |
 
 Eine Produktdokumentation finden Sie hier:
 
-* Adobe Campaign Standard: [Dokumentation](https://helpx.adobe.com/support/campaign/standard.html) – [ Versionshinweise](https://helpx.adobe.com/campaign/standard/rn/using/release-notes.html) – [Videos zu Funktionen](https://helpx.adobe.com/campaign/kt/acs/index/acs-videos.html)
-* Adobe Campaign Classic: [Dokumentation](https://helpx.adobe.com/support/campaign/classic.html) – [Versionshinweise](https://docs.campaign.adobe.com/doc/AC/en/RN.html) – [Videos zu Funktionen](https://helpx.adobe.com/campaign/kt/acc/index/acc-videos.html)
+* Adobe Campaign Standard: [Dokumentation](https://helpx.adobe.com/de/support/campaign/standard.html) - [Versionshinweise](https://helpx.adobe.com/de/campaign/standard/rn/using/release-notes.html) - [Funktionsvideos](https://helpx.adobe.com/de/campaign/kt/acs/index/acs-videos.html)
+* Adobe Campaign Classic: [Dokumentation](https://helpx.adobe.com/de/support/campaign/classic.html) - [Versionshinweise](https://docs.campaign.adobe.com/doc/AC/de/RN.html) - [Funktionsvideos](https://helpx.adobe.com/de/campaign/kt/acc/index/acc-videos.html)
 
 ## Mobile Services {#mobile}
 
@@ -263,7 +263,7 @@ Informationen zu den neuesten Versionen finden Sie in den Adobe Target-Versionsh
 
 [Target-Versionshinweise (Vorabversion)](https://docs.adobe.com/content/help/en/target/using/release-notes/target-release-notes.html)
 
-[Target-Versionshinweise (aktuell)](https://docs.adobe.com/content/help/en/target/using/release-notes/release-notes.html)
+[Versionshinweise zur Target-Version (aktuell)](https://docs.adobe.com/content/help/en/target/using/release-notes/release-notes.html)
 
 ## Magento {#magento}
 
@@ -271,11 +271,11 @@ Magento ist eine E-Commerce-Plattform, die Online-Händlern ein flexibles Warenk
 
 Magento Commerce ist Teil der Adobe Commerce Cloud und bietet eine E-Commerce-Lösung mit Enterprise-Power, unbegrenzter Skalierbarkeit und Open-Source-Flexibilität für B2C- und B2B-Anwendungen.
 
-Versionshinweise für unsere Open Source- und Commerce-Editionen finden Sie auf der Seite [&quot;Versionsinformationen](https://devdocs.magento.com/guides/v2.3/release-notes/bk-release-notes.html) &quot; .
+Versionshinweise für unsere Open Source- und Commerce-Editionen finden Sie auf der Seite [Versionshinweise](https://devdocs.magento.com/guides/v2.3/release-notes/bk-release-notes.html).
 
 ## Primetime {#primetime}
 
 Adobe Primetime ist eine Multiscreen-TV-Plattform, mit der Medienunternehmen ein ansprechendes, personalisiertes Fernseherlebnis schaffen und profitabel einsetzen können.
 
-[Primetime – Versionshinweise](http://help.adobe.com/en_US/primetime/release_notes/index.html)
-[Startseite der Primetime-Hilfe](http://help.adobe.com/en_US/primetime/)
+[Primetime – Versionshinweise](https://helpx.adobe.com/de/support/primetime.html)
+[Primetime – Hilfe-Startseite](https://helpx.adobe.com/de/support/primetime.html)
