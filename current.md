@@ -5,7 +5,7 @@ doc-type: Versionshinweise
 last-update: Juni 2019
 author: mfrei
 translation-type: tm+mt
-source-git-commit: 382a2936c5294fe04bb65fb0cfa6415175ce1da6
+source-git-commit: 6af4853d00495a347671d31700c969c4d431b9b8
 
 ---
 
@@ -20,7 +20,7 @@ Neue Funktionen und Fehlerbehebungen in Adobe Experience Cloud.
 **Releasedatum: 13. Juni 2019**
 
 * [Adobe Experience Platform](#platform)
-* [Analytics](#analytics) **(Aktualisiert am 24. Juni 2019)**
+* [Analytics](#analytics) **(Aktualisiert am 25. Juni 2019)**
 * [Audience Manager](#aam)
 * [Experience Manager](#aem)
 * [!DNL Campaign](#ac)
@@ -45,7 +45,7 @@ Neue Funktionen und Fehlerbehebungen in Adobe Experience Cloud.
 Neue Funktionen und Fehlerbehebungen in Adobe Analytics:
 
 * [Neue Funktionen und Fehlerbehebungen in Adobe Analytics](#aa-features)
-* [Wichtige Hinweise für Analytics-Administratoren](#aa-notices) **(Aktualisiert am 24. Juni 2019)**
+* [Wichtige Hinweise für Analytics-Administratoren](#aa-notices) **(Aktualisiert am 25. Juni 2019)**
 
 Eine Produktdokumentation finden Sie auf der [Startseite der Hilfe zu Analytics](https://marketing.adobe.com/resources/help/en_US/reference/).
 
@@ -78,7 +78,7 @@ Eine Produktdokumentation finden Sie auf der [Startseite der Hilfe zu Analytics]
 
 | Hinweis | Hinzugefügt oder aktualisiert am | Beschreibung |
 | -----------| ---------- | ---------- | 
-| Änderungen an der Prüfprotokolle der Protokolle | Hinzugefügt am 24. Juni 2019. | In the API `Logs.GetUsageLog`, the following changes were made to the UI: <ul><li>The response headers in the API were changed: a) from `timestamp` to `dateCreated`, b) from `login` to `companyLogin`, c) from `event_num` to `eventType`, d) from `event_type` to `event_type`, e) from `ip_address` to `ipAddress`, f) from `report_suite` to `rsid`, g) from `event_details` to `logText`. </li><li>Das Zeitstempelformat änderte sich von Unix-Zeitstempel in ISO 8601.</li><li>Die Prüfprotokolle enthalten jetzt anstelle des Report Suite-Namens die Report Suite-ID. </li></ul> |
+| Änderungen an der Benutzeroberfläche von Auditprotokoll | Aktualisiert am 25. Juni 2019 | In the API `Logs.GetUsageLog`, the following changes were made to the UI: <ul><li>The response headers in the API were changed: a) from `timestamp` to `dateCreated`, b) from `login` to `companyLogin`, c) from `event_num` to `eventType`, d) from `event_type` to `event_type`, e) from `ip_address` to `ipAddress`, f) from `report_suite` to `rsid`, g) from `event_details` to `logText`. </li><li>Das Zeitstempelformat änderte sich von Unix-Zeitstempel in ISO 8601.</li></ul><br>In der API sowie der Administratorprotokollierung enthalten die Prüfprotokolle jetzt die Report Suite-ID anstelle des Report Suite-Namens. |
 | Einschränkungen für den Builder für Klassifizierungsregeln | Hinzugefügt am 5. Juni 2019. | These limits are not new, but have been added to the documentation [here](https://marketing.adobe.com/resources/help/en_US/reference/classification_rule_builder.html). |
 | Einschränkungen des neuen Segmentoperators | Hinzugefügt am 31. Mai 2019. | Ab dem 18. Juli 2019 sind die Segmentoperatoren „enthält beliebig viele“, „enthält keinerlei“, „enthält alle von“ und „enthält nicht alle“ auf 100 Wörter pro Eingabefeld beschränkt. Die Beschränkung wird nach diesem Datum auf alle neuen und geänderten Segmente angewendet. Vorhandene Segmente, die die Beschränkung überschreiten, werden weiterhin unterstützt, können jedoch erst geändert oder gespeichert werden, wenn das Eingabefeld reduziert wurde. Diese Grenzwerte werden im Rahmen kontinuierlicher Bemühungen zur Verbesserung der Abfrageleistung angewendet. |
 | Bevorstehende Änderungen der Unterstützung für die Klassifizierungen **[!UICONTROL Datumsaktiviert]** und **[!UICONTROL Numerisch 2]** | Aktualisiert am 28. Mai 2019 | Die Möglichkeit, die Klassifizierungen „Numerisch 2“ und „Datumsaktiviert“ zu importieren, wurde aus der Codebasis entfernt. Diese Änderung wird mit der Wartungsversion vom Juli 2019 wirksam. Wenn die Importdatei die Spalte „Numerisch“ oder „Datumsaktiviert“ enthält, werden diese Zellen still ignoriert und alle anderen Daten in dieser Datei werden normal importiert. <br/>Vorhandene Classifications können weiterhin über den Standard-Classification-Arbeitsablauf exportiert werden und sind weiterhin in Berichten verfügbar. |
