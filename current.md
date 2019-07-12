@@ -5,7 +5,7 @@ doc-type: Versionshinweise
 last-update: Juli 2019
 author: mfrei
 translation-type: tm+mt
-source-git-commit: 78ffd561e625a5b75d2e6f3aa8c66629eda06c90
+source-git-commit: 91126cc2d75b6c50afe429a1b4313309ab76108a
 
 ---
 
@@ -24,12 +24,12 @@ Neue Funktionen und Fehlerbehebungen in Adobe Experience Cloud.
 
 **Releasedatum: 18. Juli 2019**
 
-* [Hauptdienste und Administration](#experiencecloud)
-* [Analytics](#analytics)
+* [Experience Cloud Core Services und Administration](#experiencecloud)
+* [!DNL Analytics](#analytics)
 * [Audience Manager](#aam)
 * [Experience Manager](#aem)
-* [Kampagne](#ac)
-* [Target](#target)
+* [!DNL Campaign](#ac)
+* [Target Standard/Premium 19.6.1](#target)
 * [Magento](#magento)
 
 ## Core services and administration {#experiencecloud}
@@ -82,18 +82,17 @@ See [Experience Platform Launch](https://docs.adobe.com/content/help/en/launch/u
 
 See [Security bulletins and advisories](https://helpx.adobe.com/security.html) for important information regarding security vulnerabilities that could affect specific versions of Adobe products.
 
-## Analytics {#analytics}
+## [!DNL Analytics] {#analytics}
 
 * [Neue Funktionen und Fehlerbehebungen in Adobe Analytics](#aa-features)
 * [Wichtige Hinweise für Analytics-Administratoren](#aa-notices)
 
-### New features in Analytics {#aa-features}
+### Neue Funktionen in Version [!DNL Analytics] {#aa-features}
 
 Eine Produktdokumentation finden Sie auf der [Startseite der Hilfe zu Analytics](https://docs.adobe.com/content/help/en/analytics/landing/home.html).
 
 | Komponente | Beschreibung |
-| -----------| ---------- |  
-| Adobe Analytics Labs | _Labs_ ist ein neues Prototypportal, das Ihnen einen frühzeitigen Überblick über neue Technologien bietet, damit Sie die künftige Priorisierung und Entwicklung der Lösung beeinflussen können. |
+| -----------| ---------- |   
 | Analysis Workspace - Verbesserungen der Kohortenanalyse | Neue Einstellungen für Kohortenanalyse wurden hinzugefügt: <ul><li>Nur % anzeigen</li><li>Runde % bis nächstem Ganzes</li><li>Eine durchschn. % Zeile am oberen Rand anzeigen</li></ul> |
 | Analysis Workspace | In the left rail, users now have the option to _Show items from last 18 months_. Zuvor lag der Lookback-Zeitraum maximal 6 Monate. Dies erleichtert das Vergleichen mit Seiten oder Kampagnen aus dem letzten Jahr, bis zu 18 Monate. |
 | Analytics Data Feed | Users can now see the history for all feeds that are enabled with the _Make Feed Visible to Customer_ flag. |
@@ -108,7 +107,7 @@ Eine Produktdokumentation finden Sie auf der [Startseite der Hilfe zu Analytics]
 
 * Es wurde ein Problem behoben, durch das das Liniendiagramm in Echtzeit-Drilldown-Berichten leer war. (AN-181690)
 
-### Wichtige Hinweise für Analytics-Administratoren {#aa-notices}
+### Wichtige Hinweise für [!DNL Analytics]-Administratoren {#aa-notices}
 
 | Hinweis | Hinzugefügt oder aktualisiert am | Beschreibung |
 | -----------| ---------- | ---------- |
@@ -120,8 +119,8 @@ Eine Produktdokumentation finden Sie auf der [Startseite der Hilfe zu Analytics]
 | Anstehende Änderung am Befehl „[!DNL Analysis Workspace] Debugger“. | 4. April 2019 | Der Konsolenbefehl zum Aktivieren des [!DNL Analysis Workspace] Debuggers wird am **13. Juni 2019** in adobeTools.debug.includeOberonXml geändert. adobe.tools.debug.includeOberonXml wird nach diesem Datum nicht mehr funktionieren. |
 | Mobile Browser – Versionsnummern | 7. Februar 2019 | Am 8. Januar 2019 haben wir die Abschnittsebene bei den Versionsnummern mobiler Browser von 2 zu 1 geändert. Seit diesem Datum zeigen die Versionen nur die ersten beiden Ebenen an (Beispiel: _Firefox 64.0.2_ wird jetzt als _Firefox 64.0_ angegeben). |
 | wird eingestellt [!DNL Ad Hoc Analysis] | 29. Januar 2019 | Am 6. August 2018 kündigte Adobe die Absicht an, [!DNL Ad Hoc Analysis] einzustellen. Das Datum für das Ende des Produktlebenszyklus wird bekannt gegeben, sobald es verfügbar ist.<br/>Weitere Informationen dazu, welche Versionen von Java während dieses Zeitraums kompatibel sind, finden Sie unter [Arbeitsbereich entdecken](https://adobe.ly/discoverworkspace). |
-| Kurz-Links für Analytics-Berichte | 14. Januar 2019 | Kurz-Links für Analytics-Berichte, die innerhalb eines Jahres nicht aufgerufen wurden, werden entfernt und ab Donnerstag, den 17. Januar 2019 fortlaufend gelöscht. |
-| Ende der Unterstützung für TLS 1.0 | Aktualisiert am 10. Januar 2019 | Ab dem 11. Februar 2019 unterstützt die Adobe Analytics-Berichterstellung die Verschlüsselung mit TLS (Transport Layer Security) 1.0 nicht mehr. Diese Änderung ist Teil unserer ständigen Bemühungen, die höchsten Sicherheitsstandards einzuhalten und die Daten unserer Kunden zu schützen. If you are unable to connect to Adobe Analytics reporting after February 11, 2019, you should upgrade your browser to the [latest version](https://marketing.adobe.com/resources/help/en_US/sc/user/requirements.html).<br/> Ab dem 20. Februar 2019 bietet die Adobe Analytics-Datenerfassung keine Unterstützung für TLS 1.0 mehr. Aufgrund dieser Änderung werden von Adobe keine Analytics-Daten von Endbenutzern mit älteren Geräten oder Webbrowsern ohne Unterstützung für TLS 1.1 oder höher erfasst. Wir gehen davon aus, dass dies keine wesentlichen Auswirkungen auf Kundendaten oder die Berichterstattung haben wird. (Wenn Ihre Website TLS 1.0 bereits nicht mehr unterstützt, sind Sie nicht betroffen.) <br/>Ab dem 11. April 2019 bietet die Reporting-API von Adobe Analytics keine Unterstützung mehr für die TLS 1.0-Verschlüsselung. Kunden, die auf die API zugreifen, sollten sicherstellen, dass sie nicht von den Auswirkungen betroffen sind. <ul><li>Für API-Clients, die Java 7 mit den Standardeinstellungen verwenden, müssen einige [Änderungen zur Unterstützung von TLS 1.2](https://www.java.com/en/configure_crypto.html) vorgenommen werden (siehe _„Changing default TLS protocol version for client end points: TLS 1.0 to TLS 1.2“_). </li><li>API-Clients, die Java 8 verwenden, sollten nicht beeinträchtigt sein, da die Standardeinstellung TLS 1.2 ist.</li><li> Bei API-Clients, die andere Frameworks verwenden, müssen Sie die Details zur Unterstützung von TLS 1.2 beim jeweiligen Anbieter erfragen.</li></ul> |
+| Short [!DNL Analytics] report links | 14. Januar 2019 | Any short [!DNL Analytics] report links that have not been visited within one year will be cleaned up and deleted starting on Thursday, January 17, 2019, on a rolling schedule. |
+| Ende der Unterstützung für TLS 1.0 | Aktualisiert am 10. Januar 2019 | Ab dem 11. Februar 2019 unterstützt die Adobe Analytics-Berichterstellung die Verschlüsselung mit TLS (Transport Layer Security) 1.0 nicht mehr. Diese Änderung ist Teil unserer ständigen Bemühungen, die höchsten Sicherheitsstandards einzuhalten und die Daten unserer Kunden zu schützen. If you are unable to connect to Adobe Analytics reporting after February 11, 2019, you should upgrade your browser to the [latest version](https://marketing.adobe.com/resources/help/en_US/sc/user/requirements.html).<br/> Ab dem 20. Februar 2019 bietet die Adobe -Datenerfassung keine Unterstützung für TLS 1.0 mehr. Aufgrund dieser Änderung werden von Adobe keine [!DNL Analytics]Analytics-Daten von Endbenutzern mit älteren Geräten oder Webbrowsern ohne Unterstützung für TLS 1.1 oder höher erfasst. Wir gehen davon aus, dass dies keine wesentlichen Auswirkungen auf Kundendaten oder die Berichterstattung haben wird. (Wenn Ihre Website TLS 1.0 bereits nicht mehr unterstützt, sind Sie nicht betroffen.) <br/>Ab dem 11. April 2019 bietet die Reporting-API von Adobe Analytics keine Unterstützung mehr für die TLS 1.0-Verschlüsselung. Kunden, die auf die API zugreifen, sollten sicherstellen, dass sie nicht von den Auswirkungen betroffen sind. <ul><li>Für API-Clients, die Java 7 mit den Standardeinstellungen verwenden, müssen einige [Änderungen zur Unterstützung von TLS 1.2](https://www.java.com/en/configure_crypto.html) vorgenommen werden (siehe _„Changing default TLS protocol version for client end points: TLS 1.0 to TLS 1.2“_). </li><li>API-Clients, die Java 8 verwenden, sollten nicht beeinträchtigt sein, da die Standardeinstellung TLS 1.2 ist.</li><li> Bei API-Clients, die andere Frameworks verwenden, müssen Sie die Details zur Unterstützung von TLS 1.2 beim jeweiligen Anbieter erfragen.</li></ul> |
 | Daten-Feed: Spalte „post_product_list“ – Änderung der Größe | 9. Januar 2019 | Adobe hat die Größe der Spalte „post_product_list“ am dem 7. Februar 2019 von 64 KB auf 16 MB erweitert. Diese Änderung stellt sicher, dass bei der Verarbeitung zu „post_product_list“ hinzugefügte Merchandising-eVar-Werte nicht zu abgeschnittenen Produkt- und Umsatzwerten führen. Wenn Sie über Prozesse verfügen, bei denen post_product_list-Werte erfasst werden, stellen Sie sicher, dass diese Prozesse Werte mit einer Länge von bis zu 16 MB verarbeiten können (ansonsten werden Werte bei 16 KB abgeschnitten), um Datenerfassungsfehler zu vermeiden. |
 | Verwaltungsänderungen mit Auswirkung auf inaktive [!DNL Analytics Live Stream]-Endpunkte | 20. Dezember 2018 | Ab dem 1. Februar 2019 können [!DNL Live Stream]-Endpunkte, die 90 Tage lang keine aktive Verbraucherverbindung aufweisen, deaktiviert werden. Sie können sich an die Kundenunterstützung wenden, um sich über Ihre [!DNL Live Stream]-Endpunkte zu informieren und diese bei Bedarf wieder zu aktivieren. Stellen Sie außerdem sicher, dass für Ihre Verbraucherprozesse eine dauerhafte Verbindung besteht, wie es das Konzept des Dienstes vorsieht, und dass sie so implementiert sind, dass sie sich wieder verbinden, wenn die Verbindung getrennt oder unterbrochen wird. |
 | Aktualisieren von Adobe [!DNL Report Builder] aufgrund der Einstellung des Supports für TLS 1.0 | 7. Sept. 2018 | Aufgrund der Unterstützung für TLS 1.0 sollten Benutzer von [!DNL Report Builder] die Version 5.6.21 vor Februar 2019 herunterladen. Nach diesem Datum sind frühere Versionen von [!DNL Report Builder] nicht mehr funktionstüchtig. |
@@ -143,7 +142,7 @@ In der [Versionshistorie zu AppMeasurement](https://docs.adobe.com/content/help/
 * Flash-Flex
 * OSX
 * Windows Phone, XBOX, Silverlight und .NET
-* BlackBerry
+* [!DNL BlackBerry]
 * Java
 * PHP
 * Symbian
@@ -263,7 +262,7 @@ An important AEM patch for the AEM 6.5 clientlibs cache invalidation is availabl
 * [Scene7 Publishing System – Versionshinweise](https://marketing.adobe.com/resources/help/en_US/s7/release_notes/index.html)
 * [Livefyre-Versionshinweise](https://marketing.adobe.com/resources/help/en_US/livefyre/c_rn.html)
 
-## Kampagne {#ac}
+## [!DNL Campaign] {#ac}
 
 Adobe Campaign bietet die Möglichkeit, direkte Nachrichten über Online- und Offline-Marketing-Kanäle intuitiv und automatisiert zu übermitteln. Sie können nun vorhersagen, was Ihre Kunden wünschen, und ihnen Erlebnisse bieten, die Sie anhand ihrer Gewohnheiten und Vorlieben ermittelt haben.
 
@@ -279,7 +278,7 @@ Eine Produktdokumentation finden Sie hier:
 * Adobe Campaign Standard: [Dokumentation](https://helpx.adobe.com/support/campaign/standard.html) – [ Versionshinweise](https://helpx.adobe.com/campaign/standard/rn/using/release-notes.html) – [Videos zu Funktionen](https://helpx.adobe.com/campaign/kt/acs/index/acs-videos.html)
 * Adobe Campaign Classic: [Dokumentation](https://helpx.adobe.com/support/campaign/classic.html) – [Versionshinweise](https://docs.campaign.adobe.com/doc/AC/en/RN.html) – [Videos zu Funktionen](https://helpx.adobe.com/campaign/kt/acc/index/acc-videos.html)
 
-## Target {#target}
+## [!DNL Target] {#target}
 
 See [Target release notes (pre-release)](https://docs.adobe.com/content/help/en/target/using/release-notes/target-release-notes.html) for the latest release infomration about Target.
 
