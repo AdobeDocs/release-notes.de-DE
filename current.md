@@ -5,7 +5,7 @@ doc-type: Versionshinweise
 last-update: Juli 2019
 author: mfrei
 translation-type: tm+mt
-source-git-commit: 91126cc2d75b6c50afe429a1b4313309ab76108a
+source-git-commit: 19b6c0547d06a3ec5887f6fd17bcd662528844ca
 
 ---
 
@@ -25,7 +25,7 @@ Neue Funktionen und Fehlerbehebungen in Adobe Experience Cloud.
 **Releasedatum: 18. Juli 2019**
 
 * [Experience Cloud Core Services und Administration](#experiencecloud)
-* [!DNL Analytics](#analytics)
+* [!DNL Analytics](#analytics)**(Aktualisiert am 15. Juli)**
 * [Audience Manager](#aam)
 * [Experience Manager](#aem)
 * [!DNL Campaign](#ac)
@@ -84,7 +84,7 @@ See [Security bulletins and advisories](https://helpx.adobe.com/security.html) f
 
 ## [!DNL Analytics] {#analytics}
 
-* [Neue Funktionen und Fehlerbehebungen in Adobe Analytics](#aa-features)
+* [Neue Funktionen und Fehlerbehebungen in Adobe Analytics](#aa-features) **(Aktualisiert am 15. Juli)**
 * [Wichtige Hinweise für Analytics-Administratoren](#aa-notices)
 
 ### Neue Funktionen in Version [!DNL Analytics] {#aa-features}
@@ -95,7 +95,7 @@ Eine Produktdokumentation finden Sie auf der [Startseite der Hilfe zu Analytics]
 | -----------| ---------- |   
 | Analysis Workspace - Verbesserungen der Kohortenanalyse | Neue Einstellungen für Kohortenanalyse wurden hinzugefügt: <ul><li>Nur % anzeigen</li><li>Runde % bis nächstem Ganzes</li><li>Eine durchschn. % Zeile am oberen Rand anzeigen</li></ul> |
 | Analysis Workspace | In the left rail, users now have the option to _Show items from last 18 months_. Zuvor lag der Lookback-Zeitraum maximal 6 Monate. Dies erleichtert das Vergleichen mit Seiten oder Kampagnen aus dem letzten Jahr, bis zu 18 Monate. |
-| Analytics Data Feed | Users can now see the history for all feeds that are enabled with the _Make Feed Visible to Customer_ flag. |
+| Neue Vorlage für Analysis Workspace | Wir haben eine neue Vorlage namens &quot;Magento: Marketing &amp; Commerce &quot;in den Analysis Workspace. Es ist speziell für Magento e-commerce-Kunden konzipiert, aber jeder Einzelhändler kann ihn verwenden, um einzigartige Einblicke in seine Commerce-Aktivitäten zu erhalten. |
 
 #### [!DNL Analysis Workspace] Fehlerbehebungen
 
@@ -103,9 +103,10 @@ Eine Produktdokumentation finden Sie auf der [Startseite der Hilfe zu Analytics]
 * Es wurde ein Problem mit Visualisierungsfehlern behoben - jetzt wird eine rote Fehlerleiste angezeigt, wenn ein Visualisierungsfehler auftritt.(AN-175542)
 * Es wurde ein Problem behoben, durch das Dimensionsnamen in lokalisierten Umgebungen als Englisch angezeigt wurden.(AN-178695)
 
-#### [!DNL Reports & Analytics] Fehlerbehebungen
+#### [!DNL Analytics] Fehlerbehebungen
 
 * Es wurde ein Problem behoben, durch das das Liniendiagramm in Echtzeit-Drilldown-Berichten leer war. (AN-181690)
+* Es wurde ein Problem behoben, bei dem Teile des Datenfeedverlaufs in einigen Fällen nicht in der Benutzeroberfläche der Admin-Konsole angezeigt wurden. (AN-176219)
 
 ### Wichtige Hinweise für [!DNL Analytics]-Administratoren {#aa-notices}
 
