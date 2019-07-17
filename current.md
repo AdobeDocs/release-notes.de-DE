@@ -5,7 +5,7 @@ doc-type: Versionshinweise
 last-update: Juli 2019
 author: mfrei
 translation-type: tm+mt
-source-git-commit: b4a91b853cfb5d228fc2195d65b4370e607475f2
+source-git-commit: 9d10de6924f3c40435d172602746f312195a675e
 
 ---
 
@@ -95,7 +95,7 @@ Eine Produktdokumentation finden Sie auf der [Startseite der Hilfe zu Analytics]
 | -----------| ---------- |   
 | Analysis Workspace - Verbesserungen der Kohortenanalyse | Neue Einstellungen für Kohortenanalyse wurden hinzugefügt: <ul><li>Nur % anzeigen</li><li>Runde % bis nächstem Ganzes</li><li>Eine durchschn. % Zeile am oberen Rand anzeigen</li></ul> |
 | Analysis Workspace | In the left rail, users now have the option to _Show items from last 18 months_. Zuvor lag der Lookback-Zeitraum maximal 6 Monate. Dies erleichtert das Vergleichen mit Seiten oder Kampagnen aus dem letzten Jahr, bis zu 18 Monate. |
-| Neue Vorlage für Analysis Workspace | Wir haben eine neue Vorlage namens &quot;Magento: Marketing &amp; Commerce &quot;in den Analysis Workspace. Es ist speziell für Magento e-commerce-Kunden konzipiert, aber jeder Einzelhändler kann ihn verwenden, um einzigartige Einblicke in seine Commerce-Aktivitäten zu erhalten. |
+| Neue Vorlage für Analysis Workspace | Wir haben eine neue Vorlage namens "Magento: Marketing &amp; Commerce "in den Analysis Workspace. Es ist speziell für Magento e-commerce-Kunden konzipiert, aber jeder Einzelhändler kann ihn verwenden, um einzigartige Einblicke in seine Commerce-Aktivitäten zu erhalten. |
 
 #### [!DNL Analysis Workspace] Fehlerbehebungen
 
@@ -110,12 +110,12 @@ Eine Produktdokumentation finden Sie auf der [Startseite der Hilfe zu Analytics]
 
 ### Wichtige Hinweise für [!DNL Analytics]-Administratoren {#aa-notices}
 
-| Hinweis | Hinzugefügt oder aktualisiert am | Beschreibung |
+| Hinweis | Hinzugefügt  oder aktualisiert am | Beschreibung |
 | -----------| ---------- | ---------- |
 | Einschränkungen für den Builder für Klassifizierungsregeln | Hinzugefügt am 5. Juni 2019. | These limits are not new, but have been added to the documentation [here](https://marketing.adobe.com/resources/help/en_US/reference/classification_rule_builder.html). |
 | Einschränkungen des neuen Segmentoperators | Hinzugefügt am 31. Mai 2019. | Ab dem 18. Juli 2019 sind die Segmentoperatoren „enthält beliebig viele“, „enthält keinerlei“, „enthält alle von“ und „enthält nicht alle“ auf 100 Wörter pro Eingabefeld beschränkt. Die Beschränkung wird nach diesem Datum auf alle neuen und geänderten Segmente angewendet. Vorhandene Segmente, die die Beschränkung überschreiten, werden weiterhin unterstützt, können jedoch erst geändert oder gespeichert werden, wenn das Eingabefeld reduziert wurde. Diese Grenzwerte werden im Rahmen kontinuierlicher Bemühungen zur Verbesserung der Abfrageleistung angewendet. |
 | Bevorstehende Änderungen der Unterstützung für die Klassifizierungen **[!UICONTROL Datumsaktiviert]** und **[!UICONTROL Numerisch 2]** | Aktualisiert am 28. Mai 2019 | Die Möglichkeit, die Klassifizierungen „Numerisch 2“ und „Datumsaktiviert“ zu importieren, wurde aus der Codebasis entfernt. Diese Änderung wird mit der Wartungsversion vom Juli 2019 wirksam. Wenn die Importdatei die Spalte „Numerisch“ oder „Datumsaktiviert“ enthält, werden diese Zellen still ignoriert und alle anderen Daten in dieser Datei werden normal importiert. <br/>Vorhandene Classifications können weiterhin über den Standard-Classification-Arbeitsablauf exportiert werden und sind weiterhin in Berichten verfügbar. |
-| Bevorstehende Änderung bei Berechnungen der _Berichtssumme_ | Aktualisiert am 9. Juli 2019 | Ab **18. Juni 2019** werden in Adobe Analytics Berechnungen von _Berichtssummen_ für alle Dimensionen und Metriken vereinheitlicht. Dadurch werden sich die Gesamtsummen bei manchen Berichten ändern (vor allem bei Berichten zu Eigenschaften oder Kundenattributen). Vor dieser Änderung kam es vor, dass in manchen Berichtssummen der Zeileneintrag _Unspecified_ uneinheitlich ein- oder ausgeschlossen wurde, und zwar unabhängig davon, ob _Unspecified_ im Bericht vorkam oder nicht. <br/>Ab 18. Juni 2019 wird _Nicht angegeben_ immer in Berichtssummen angezeigt, auch wenn dieser Wert nicht als Zeileneintrag im Bericht zu sehen ist. Additionally, segments using _exists_ or _does not exist_ logic may see different results for some dimensions after this change, specifically dimensions where _Unspecified_ has a special name such as the &quot;Typed/Bookmarked&quot; line item for Referrer Type dimension or the &quot;Other&quot; line item for the Device Type dimension. Diese Änderung betrifft Analysis Workspace, Reports &amp; Analytics, Ad Hoc Analysis, Report Builder und die Reporting-API. |
+| Bevorstehende Änderung bei Berechnungen der _Berichtssumme_ | Aktualisiert am 9. Juli 2019 | Ab **18. Juni 2019** werden in Adobe Analytics Berechnungen von _Berichtssummen_ für alle Dimensionen und Metriken vereinheitlicht. Dadurch werden sich die Gesamtsummen bei manchen Berichten ändern (vor allem bei Berichten zu Eigenschaften oder Kundenattributen). Vor dieser Änderung kam es vor, dass in manchen Berichtssummen der Zeileneintrag _Unspecified_ uneinheitlich ein- oder ausgeschlossen wurde, und zwar unabhängig davon, ob _Unspecified_ im Bericht vorkam oder nicht. <br/>Ab 18. Juni 2019 wird _Nicht angegeben_ immer in Berichtssummen angezeigt, auch wenn dieser Wert nicht als Zeileneintrag im Bericht zu sehen ist. Additionally, segments using _exists_ or _does not exist_ logic may see different results for some dimensions after this change, specifically dimensions where _Unspecified_ has a special name such as the "Typed/Bookmarked" line item for Referrer Type dimension or the "Other" line item for the Device Type dimension. Diese Änderung betrifft Analysis Workspace, Reports &amp; Analytics, Ad Hoc Analysis, Report Builder und die Reporting-API. |
 | Aktualisierung von CSV-Downloads aus [!DNL Analysis Workspace] | 10. April 2019 | Ab dem 11. April 2019 wurden mehrere Änderungen an **[!UICONTROL CSV-Downloads]** (und **[!UICONTORL In Zwischenablage kopieren]**) in [!DNL Analysis Workspace] vorgenommen, um die Formatierung aus den exportierten Daten zu entfernen.  <ul><li>Das Tausendertrennzeichen ist nicht mehr enthalten. Das Dezimaltrennzeichen wird weiterhin enthalten sein und dem unter **[!UICONTROL Komponenten &gt; Berichtseinstellungen &gt; Tausendertrennzeichen]** definierten Format entsprechen. Hinweis: Numerische Werte, die ein Komma als Dezimaltrennzeichen verwenden, werden weiterhin in der exportierten CSV angegeben.</li><li>Es werden keine Währungssymbole angezeigt.</li><li>Es werden keine Prozentsymbole angezeigt. Prozentangaben werden in Dezimalform angezeigt. Zum Beispiel werden 75 % als 0,75 dargestellt.</li><li>Die Zeit wird in Sekunden angezeigt.</li><li>Kohortentabellen zeigen nur Rohwerte an. Prozentsätze werden entfernt.</li><li>Wenn eine Nummer ungültig ist, wird eine leere Zelle angezeigt.</li></ul> |
 | Anstehende Änderung am Befehl „[!DNL Analysis Workspace] Debugger“. | 4. April 2019 | Der Konsolenbefehl zum Aktivieren des [!DNL Analysis Workspace] Debuggers wird am **13. Juni 2019** in adobeTools.debug.includeOberonXml geändert. adobe.tools.debug.includeOberonXml wird nach diesem Datum nicht mehr funktionieren. |
 | Mobile Browser – Versionsnummern | 7. Februar 2019 | Am 8. Januar 2019 haben wir die Abschnittsebene bei den Versionsnummern mobiler Browser von 2 zu 1 geändert. Seit diesem Datum zeigen die Versionen nur die ersten beiden Ebenen an (Beispiel: _Firefox 64.0.2_ wird jetzt als _Firefox 64.0_ angegeben). |
@@ -128,12 +128,12 @@ Eine Produktdokumentation finden Sie auf der [Startseite der Hilfe zu Analytics]
 
 ### AppMeasurement {#appm}
 
-Veröffentlichung vom 15. Juli 2019
+Veröffentlicht am 15. Juli 2019:
 
-**JavaScript 2.15.0**
+**Appmeasurement für javascript 2.15.0**
 
-* DIL 7.2 zu appmeasurement wurde hinzugefügt. (AN-175142)
-* Es wurde ein Fehler behoben, der auftrat, wenn der Experience Cloud ID-Dienst optin auf &quot;true&quot; gesetzt wurde und die MID nicht auf dem s. t ()-Aufruf ohne Neuladung der Seite generiert wurde. (CORE-30890)
+* Activity Map-Bildlaufverfolgung zur Activity Map-Erweiterung hinzugefügt (AN -172949)
+* DIL 9.2 zu appmeasurement hinzugefügt. (AN-182472)
 
 In der [Versionshistorie zu AppMeasurement](https://docs.adobe.com/content/help/en/analytics/implementation/appmeasurement-release-notes/c-release-notes-mjs.html) finden Sie Informationen zu den verschiedenen Versionen von AppMeasurement auf den folgenden Plattformen:
 
@@ -159,7 +159,7 @@ Die neuesten Versionsinformationen finden Sie in den [Datenbasis-Versionshinweis
 **Korrekturen und Verbesserungen**
 
 * On the [!UICONTROL Segments Overview] page, the width of the segment storage folder is now flexible. Dadurch können Sie zwischen Segmenten mit längeren Namen unterscheiden. (AAM-48400)
-* Fixed an issue in [!UICONTROL Algorithmic Models], where moving the **Adjust Reach &amp; Accuracy** slider did not affect the model&#39;s reach or accuracy. (AAM-47996)
+* Fixed an issue in [!UICONTROL Algorithmic Models], where moving the **Adjust Reach &amp; Accuracy** slider did not affect the model's reach or accuracy. (AAM-47996)
 * Es wurde ein Problem in Analytics-Zielen behoben, bei dem die Schaltfläche zum Herunterladen einer. csv-Datei von Segmenten, die Konflikte mit Datenexportsteuerelementen und/oder Datenfreigaberichtlinien von Drittanbietern verursachten, beschädigt war. (AAM-48100)
 * Es wurde ein Problem behoben, durch das Kunden beim Anmelden bei der Audience Manager-Benutzeroberfläche fehlerhafte Fehlermeldungen angezeigt hatten. (AAM-47632)
 
@@ -208,7 +208,7 @@ Die XML-Dokumentation 3.4 ist jetzt verfügbar.
 * AEM-Site-Regeneration:
    * Deaktivieren Sie die Regeneration für Untergeordnete Maps.
    * Arbeitsabläufe für die Post-Generierung, die für Anwendungsfälle aktiviert wurden.
-   * Deaktivieren Sie die Option &quot;Neu generieren&quot; für ein angegebenes Thema und machen Sie die Option für übergeordnetes Thema verfügbar, auf das das chunked-Attribut angewendet wird.
+   * Deaktivieren Sie die Option "Neu generieren" für ein angegebenes Thema und machen Sie die Option für übergeordnetes Thema verfügbar, auf das das chunked-Attribut angewendet wird.
 * DITA-Suche funktioniert in der AEM Asset-Suche jetzt auf der AND-Logik.
 * Die Ergebnisse sollen nicht die im Ausgabeordner für die Übersetzung gespeicherten temporären Dateien anzeigen.
 * Grundlinienregisterkarte:
