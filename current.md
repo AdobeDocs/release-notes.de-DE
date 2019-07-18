@@ -5,7 +5,7 @@ doc-type: Versionshinweise
 last-update: Juli 2019
 author: mfrei
 translation-type: tm+mt
-source-git-commit: 9d10de6924f3c40435d172602746f312195a675e
+source-git-commit: 2010152649fccb8997913f52b6d43e11c3a5d18e
 
 ---
 
@@ -95,7 +95,7 @@ Eine Produktdokumentation finden Sie auf der [Startseite der Hilfe zu Analytics]
 | -----------| ---------- |   
 | Analysis Workspace - Verbesserungen der Kohortenanalyse | Neue Einstellungen für Kohortenanalyse wurden hinzugefügt: <ul><li>Nur % anzeigen</li><li>Runde % bis nächstem Ganzes</li><li>Eine durchschn. % Zeile am oberen Rand anzeigen</li></ul> |
 | Analysis Workspace | In the left rail, users now have the option to _Show items from last 18 months_. Zuvor lag der Lookback-Zeitraum maximal 6 Monate. Dies erleichtert das Vergleichen mit Seiten oder Kampagnen aus dem letzten Jahr, bis zu 18 Monate. |
-| Neue Vorlage für Analysis Workspace | Wir haben eine neue Vorlage namens "Magento: Marketing &amp; Commerce "in den Analysis Workspace. Es ist speziell für Magento e-commerce-Kunden konzipiert, aber jeder Einzelhändler kann ihn verwenden, um einzigartige Einblicke in seine Commerce-Aktivitäten zu erhalten. |
+| Neue Vorlage für Analysis Workspace | We added a new template called ["Magento: Marketing &amp; Commerce"](https://docs.adobe.com/content/help/en/analytics/analyze/analysis-workspace/build-workspace-project/starter-projects.html) to Analysis Workspace. Es ist speziell für Magento e-commerce-Kunden konzipiert, aber jeder Einzelhändler kann ihn verwenden, um einzigartige Einblicke in seine Commerce-Aktivitäten zu erhalten. |
 
 #### [!DNL Analysis Workspace] Fehlerbehebungen
 
