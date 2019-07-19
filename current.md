@@ -5,18 +5,14 @@ doc-type: Versionshinweise
 last-update: Juli 2019
 author: mfrei
 translation-type: tm+mt
-source-git-commit: e8470127c1cd343637d61bc0ac6bdd26339a8e2c
+source-git-commit: 50a8aaf58413337e4aa0478e5505f8ea9d8edd36
 
 ---
 
 
-# Frühzeitiger Zugriff – Versionshinweise zur Adobe Experience Cloud
+# Adobe Experience Cloud – Versionshinweise
 
 Neue Funktionen und Fehlerbehebungen in Adobe Experience Cloud.
-
->[!IMPORTANT]
->
->Diese Seite enthält Inhalte einer Vorabversion und kann vor der geplanten Veröffentlichung der Version geändert werden.
 
 >[!NOTE]
 >
