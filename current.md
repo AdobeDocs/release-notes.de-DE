@@ -1,11 +1,11 @@
 ---
-title: Adobe Experience Cloud – Versionshinweise
-description: Experience Cloud-Versionshinweise, Juli 2019
+title: Versionshinweise zu Adobe Experience Cloud - Technische Dokumentation
+description: Version von Juli 2019 Experience Cloud - Versionshinweise
 doc-type: Versionshinweise
 last-update: Juli 2019
 author: mfrei
 translation-type: tm+mt
-source-git-commit: 700dc5c07df31cf744588cd79f6d51c05234c0a0
+source-git-commit: 41b4cbb1b93fe857c80cebd631a785e234e2ce07
 
 ---
 
@@ -89,7 +89,7 @@ Eine Produktdokumentation finden Sie auf der [Startseite der Hilfe zu Analytics]
 
 | Komponente | Beschreibung |
 | -----------| ---------- |   
-| Analysis Workspace – Verbesserungen der Kohortenanalyse | New [Cohort Analysis settings](https://docs.adobe.com/content/help/en/analytics/analyze/analysis-workspace/visualizations/cohort-table/t-cohort.html) have been added: <ul><li>Nur Prozentwert anzeigen</li><li>Prozent gerundet bis nächstem</li><li>Durchschnittliche Prozentzeile anzeigen</li></ul> |
+| Analysis Workspace – Verbesserungen der Kohortenanalyse | New [Cohort Analysis settings](https://docs.adobe.com/content/help/en/analytics/analyze/analysis-workspace/visualizations/cohort-table/t-cohort.html) have been added: <ul><li>Nur Prozentwert anzeigen</li><li>Prozentwert auf nächste Ganzzahl runden</li><li>Zeile mit durchschnittlichem Prozentwert anzeigen</li></ul> |
 | Analysis Workspace | In der linken Leiste haben Benutzer jetzt die Möglichkeit, _Elemente aus den letzten 18 Monaten anzuzeigen_. Zuvor betrug der Anzeigezeitraum maximal 6 Monate. Dies erleichtert den Vergleich mit Seiten oder Kampagnen aus dem Vorjahr bzw. bis vor maximal 18 Monaten. |
 | Neue Vorlage für Analysis Workspace | We added a new template called ["Magento: Marketing &amp; Commerce"](https://docs.adobe.com/content/help/en/analytics/analyze/analysis-workspace/build-workspace-project/starter-projects.html) to Analysis Workspace. Sie wurde speziell für E-Commerce-Kunden von Magento konzipiert, aber alle anderen Händler können sie ebenfalls verwenden, um nützliche Einblicke in ihre Commerce-Aktivitäten zu erhalten. |
 
@@ -126,10 +126,10 @@ Eine Produktdokumentation finden Sie auf der [Startseite der Hilfe zu Analytics]
 
 Veröffentlicht am 15. Juli 2019:
 
-**Appmeasurement für javascript 2.15.0**
+**AppMeasurement für JavaScript 2.15.0**
 
-* Activity Map-Bildlaufverfolgung zur Activity Map-Erweiterung hinzugefügt (AN -172949)
-* DIL 9.2 zu appmeasurement hinzugefügt. (AN-182472)
+* Scroll-Reichweitenverfolgung für Activity Map zur Activity Map-Erweiterung hinzugefügt (AN-172949)
+* DIL 9.2 zu AppMeasurement hinzugefügt. (AN-182472)
 
 In der [Versionshistorie zu AppMeasurement](https://docs.adobe.com/content/help/en/analytics/implementation/appmeasurement-release-notes/c-release-notes-mjs.html) finden Sie Informationen zu den verschiedenen Versionen von AppMeasurement auf den folgenden Plattformen:
 
