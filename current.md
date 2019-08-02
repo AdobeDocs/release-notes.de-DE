@@ -5,7 +5,7 @@ doc-type: Versionshinweise
 last-update: August 2019
 author: mfrei
 translation-type: tm+mt
-source-git-commit: 626b6b170539ebe54c86f17eec0593bd2decd4e5
+source-git-commit: b3fa98427b027218e9600cb4c5e10dd2ba880f89
 
 ---
 
@@ -33,7 +33,7 @@ Neue Funktionen und Fehlerbehebungen in Adobe Experience Cloud.
 
 ## [!UICONTROL Erlebnisplattform] und -verwaltung {#platform}
 
-Release notes for the [!UICONTROL Experience Platform], Experience Cloud interface, product administration, Experience Platform Launch, Identity Service, and security bulletins.
+Versionshinweise für die [!UICONTROL Experience Platform], Experience Cloud-Schnittstelle, Produktverwaltung, Experience Platform Launch, Identitätsdienst und Sicherheitsbulletins.
 
 * [Experience Cloud-Benutzeroberfläche](#core-services)
 * [Experience Platform Launch](#launch)
@@ -44,7 +44,7 @@ Release notes for the [!UICONTROL Experience Platform], Experience Cloud interfa
 * Ein kritisches Problem in der Experience Cloud-Anmeldung wurde behoben, das zu einer Sitzung für einige Benutzer führte. (MCUI-6908)
 * Aktualisierung der Experience Cloud-Anmeldung, um die Leistung zu verbessern und die Latenz zu reduzieren. (MCUI -6854, MCUI -6869, MCUI -6883)
 * Die Benutzeroberfläche wurde aktualisiert. (MCUI -6861, MCUI -6911, MCUI -6862)
-* Fixed an issue with Experience Cloud [!UICONTROL Triggers] that led to incorrect interpretation of _Like_ clause in the [!UICONTROL Trigger] definition. (MCUI-6611)
+* Es wurde ein Problem mit Experience Cloud [!UICONTROL -Auslösern] behoben, die zur falschen Interpretation _der "Gefällt mir"_ -Klausel in der [!UICONTROL Auslöserdefinition] geführt haben. (MCUI-6611)
 
 For product documentation, see [Experience Cloud](https://docs.adobe.com/content/help/en/core-services/interface/experience-cloud.html).
 
@@ -77,8 +77,8 @@ For product documentation, see [Adobe Analytics Help Home](https://docs.adobe.co
 
 | Hinweis | Hinzugefügt oder aktualisiert am | Beschreibung |
 | -----------| ---------- | ---------- |
-| Einschränkungen für Classification Rule Builder | Hinzugefügt am 5. Juni 2019 | These limits are not new, but have been added to the documentation [here](https://docs.adobe.com/content/help/en/analytics/components/classifications/classifications-rulebuilder/classification-rule-builder.html). |
-| Einschränkungen des neuen Segmentoperators | Hinzugefügt am 31. Mai 2019 | Starting on July 18, 2019, the segment operators _contains any of_, _does not contain any of_, _contains all of_ and _does not contain all_ of will be limited to 100 words per input field. Die Beschränkung wird nach diesem Datum auf alle neuen und geänderten Segmente angewendet. Vorhandene Segmente, die die Beschränkung überschreiten, werden weiterhin unterstützt, können jedoch erst geändert oder gespeichert werden, wenn das Eingabefeld reduziert wurde. Diese Grenzwerte werden im Rahmen kontinuierlicher Bemühungen zur Verbesserung der Abfrageleistung angewendet. |
+| Einschränkungen für Classification Rule Builder | Hinzugefügt am 5. Juni 2019 | Diese Beschränkungen sind nicht neu, wurden aber zur Dokumentation [hier hinzugefügt](https://docs.adobe.com/content/help/en/analytics/components/classifications/classifications-rulebuilder/classification-rule-builder.html). |
+| Einschränkungen des neuen Segmentoperators | Hinzugefügt am 31. Mai 2019 | Starting July 18, 2019, the segment operators _contains any of_, _does not contain any of_, _contains all of_ and _does not contain all_ of will be limited to 100 words per input field. Die Beschränkung wird nach diesem Datum auf alle neuen und geänderten Segmente angewendet. Vorhandene Segmente, die die Beschränkung überschreiten, werden weiterhin unterstützt, können jedoch erst geändert oder gespeichert werden, wenn das Eingabefeld reduziert wurde. Diese Grenzwerte werden im Rahmen kontinuierlicher Bemühungen zur Verbesserung der Abfrageleistung angewendet. |
 | Bevorstehende Änderungen der Unterstützung für die Klassifizierungen **[!UICONTROL Datumsaktiviert]** und **[!UICONTROL Numerisch 2]** | Aktualisiert am 28. Mai 2019 | Die Möglichkeit, die Klassifizierungen „Numerisch 2“ und „Datumsaktiviert“ zu importieren, wurde aus der Codebasis entfernt. Diese Änderung wird mit der Wartungsversion vom Juli 2019 wirksam. Wenn die Importdatei die Spalte „Numerisch“ oder „Datumsaktiviert“ enthält, werden diese Zellen still ignoriert und alle anderen Daten in dieser Datei werden normal importiert. <br/>Vorhandene Classifications können weiterhin über den Standard-Classification-Arbeitsablauf exportiert werden und sind weiterhin in Berichten verfügbar. |
 | Bevorstehende Änderung bei Berechnungen der _Berichtssumme_ | Aktualisiert am 9. Juli 2019 | Ab **18. Juni 2019** werden in Adobe Analytics Berechnungen von _Berichtssummen_ für alle Dimensionen und Metriken vereinheitlicht. Dadurch werden sich die Gesamtsummen bei manchen Berichten ändern (vor allem bei Berichten zu Eigenschaften oder Kundenattributen). Vor dieser Änderung kam es vor, dass in manchen Berichtssummen der Zeileneintrag _Unspecified_ uneinheitlich ein- oder ausgeschlossen wurde, und zwar unabhängig davon, ob _Unspecified_ im Bericht vorkam oder nicht. <br/>Ab 18. Juni 2019 wird _Nicht angegeben_ immer in Berichtssummen angezeigt, auch wenn dieser Wert nicht als Zeileneintrag im Bericht zu sehen ist. Darüber hinaus können Segmente, die die Logik _existiert_ oder _existiert nicht_ verwenden, für einige Dimensionen nach dieser Änderung andere Ergebnisse anzeigen, insbesondere Dimensionen, bei denen _Nicht angegeben_ einen speziellen Namen wie den Zeileneintrag „Eingegeben/Mit Lesezeichen versehen“ für die Dimension „Typ der verweisenden Stelle“ oder den Zeileneintrag „Sonstige“ für die Dimension „Gerätetyp“ verwendet werden. Diese Änderung betrifft Analysis Workspace, Reports &amp; Analytics, Ad Hoc Analysis, Report Builder und die Reporting-API. |
 | Aktualisierung von CSV-Downloads aus [!DNL Analysis Workspace] | 10. April 2019 | Ab dem 11. April 2019 wurden mehrere Änderungen an **[!UICONTROL CSV-Downloads]** (und **[!UICONTORL In Zwischenablage kopieren]**) in [!DNL Analysis Workspace] vorgenommen, um die Formatierung aus den exportierten Daten zu entfernen.  <ul><li>Das Tausendertrennzeichen ist nicht mehr enthalten. Das Dezimaltrennzeichen wird weiterhin enthalten sein und dem unter **[!UICONTROL Komponenten &gt; Berichtseinstellungen &gt; Tausendertrennzeichen]** definierten Format entsprechen. Hinweis: Numerische Werte, die ein Komma als Dezimaltrennzeichen verwenden, werden weiterhin in der exportierten CSV angegeben.</li><li>Es werden keine Währungssymbole angezeigt.</li><li>Es werden keine Prozentsymbole angezeigt. Prozentangaben werden in Dezimalform angezeigt. Zum Beispiel werden 75 % als 0,75 dargestellt.</li><li>Die Zeit wird in Sekunden angezeigt.</li><li>Kohortentabellen zeigen nur Rohwerte an. Prozentsätze werden entfernt.</li><li>Wenn eine Nummer ungültig ist, wird eine leere Zelle angezeigt.</li></ul> |
@@ -97,7 +97,7 @@ For product documentation, see [Adobe Analytics Help Home](https://docs.adobe.co
 
 | Funktion | Beschreibung |
 | -----------| ---------- |
-| `sendBeacon` Unterstützung für Exitlinks | Implemented `sendBeacon` support in [!UICONTROL AppMeasurement] for exit links. Dies verbessert die Verfolgung von Ausstiegslinks und führt wahrscheinlich zu erhöhtem Traffic. |
+| `sendBeacon` Unterstützung für Exitlinks | Implementierung in `sendBeacon`[!UICONTROL appmeasurement] für Exitlinks wurde implementiert. Dies verbessert die Verfolgung von Ausstiegslinks und führt wahrscheinlich zu erhöhtem Traffic. |
 | ECID/fid-Werte | ECID/fid-Werte werden jetzt beim ersten Treffer zwischengespeichert, auch wenn sich die optin-Einstellungen ändern. |
 | DIL 9.3 | Aktualisiertes Zielgruppen-Management-Modul auf DIL 9.3 |
 | Bildlaufverfolgung | Offengelegter Wechsel in s. activitymap. trackscrollreach, um Scroll-Reichweite ein- oder auszuwählen. |
@@ -140,8 +140,8 @@ Adobe Campaign bietet die Möglichkeit, direkte Nachrichten über Online- und O
 
 | Funktion | Beschreibung |
 | -----------| ---------- |  
-| Externe API-Aktivität (öffentliche Beta-Version) | Zur tieferen Personalisierung ermöglicht die externe API-Aktivität Ihnen, Daten aus externen Systemen über einen REST-API-Aufruf in einen Workflow zu übertragen. Die REST-Endpunkte können ein Kundenverwaltungssystem, Adobe I/O Runtime oder Adobe Experience Cloud REST Endpunkt (z. B. Datenplattform, Target, Analytics, Kampagne) sein. Diese Funktion befindet sich derzeit in öffentlicher Hand. For more information, refer to the [detailed documentation](https://docs.adobe.com/content/help/en/campaign-learn/campaign-standard-tutorials/managing-processes-and-data/data-management-activities/external-api-activity.html) and the [how-to video](https://docs.adobe.com/content/help/en/campaign-learn/campaign-standard-tutorials/managing-processes-and-data/data-management-activities/external-api-activity.html). |
-| Bericht über das Workflow-Segment | Mit dieser Funktion können Marketingexperten ihre Bereitstellungsleistung nach Segmentcode aufschlüsseln. Wenn Sie einen Workflow erstellen und eine Segmentierungsaktivität verwenden, um der Auslieferungspopulation Segmente zuzuweisen, können diese Segmente nun dieselbe Auslieferung durchführen. Auf diese Weise können Sie die Statistiken zum Öffnen/Klicken auf Grundlage mehrerer Segmente innerhalb einer einzelnen Auslieferung anzeigen. For more information, refer to the [detailed documentation](https://docs.adobe.com/content/help/en/campaign-standard/using/reporting/customizing-reports/creating-a-report-workflow-segment.html) and the [how-to video](https://docs.adobe.com/content/help/en/campaign-learn/campaign-standard-tutorials/reporting/report-on-workflow-segments.html). |
+| Externe API-Aktivität (öffentliche Beta-Version) | Zur tieferen Personalisierung ermöglicht die externe API-Aktivität Ihnen, Daten aus externen Systemen über einen REST-API-Aufruf in einen Workflow zu übertragen. Die REST-Endpunkte können ein Kundenverwaltungssystem, Adobe I/O Runtime oder Adobe Experience Cloud REST Endpunkt (z. B. Datenplattform, Target, Analytics, Kampagne) sein. Diese Funktion befindet sich derzeit in öffentlicher Hand. Weitere Informationen finden Sie in der [detaillierten Dokumentation](https://docs.adobe.com/content/help/en/campaign-learn/campaign-standard-tutorials/managing-processes-and-data/data-management-activities/external-api-activity.html) und in der [Videoanleitungen](https://docs.adobe.com/content/help/en/campaign-learn/campaign-standard-tutorials/managing-processes-and-data/data-management-activities/external-api-activity.html). |
+| Bericht über das Workflow-Segment | Mit dieser Funktion können Marketingexperten ihre Bereitstellungsleistung nach Segmentcode aufschlüsseln. Wenn Sie einen Workflow erstellen und eine Segmentierungsaktivität verwenden, um der Auslieferungspopulation Segmente zuzuweisen, können diese Segmente nun dieselbe Auslieferung durchführen. Auf diese Weise können Sie die Statistiken zum Öffnen/Klicken auf Grundlage mehrerer Segmente innerhalb einer einzelnen Auslieferung anzeigen. Weitere Informationen finden Sie in der [detaillierten Dokumentation](https://docs.adobe.com/content/help/en/campaign-standard/using/reporting/customizing-reports/creating-a-report-workflow-segment.html) und in der [Videoanleitungen](https://docs.adobe.com/content/help/en/campaign-learn/campaign-standard-tutorials/reporting/report-on-workflow-segments.html). |
 
 ### Adobe Campaign Classic
 
@@ -151,7 +151,7 @@ Adobe Campaign bietet die Möglichkeit, direkte Nachrichten über Online- und O
 
 [Neue Funktionen des Steuerungsbedienfelds](https://helpx.adobe.com/campaign/kb/control-panel-instance-settings.html) umfassen die Möglichkeit, urls hinzuzufügen, mit denen Kampagnen-Classic-Verbindungen für Daten-/Dateiübertragungen hergestellt werden können.
 
-Please note that [!UICONTROL Control Panel] is available for both Adobe Campaign Classic and Adobe Campaign Standard customers hosted on AWS. Für die Zugriffssteuerung sind keine Upgrades erforderlich.
+Beachten Sie, [!UICONTROL dass die Systemsteuerung] für die auf AWS gehosteten Adobe Campaign Classic- und Adobe Campaign Standard-Kunden verfügbar ist. Für die Zugriffssteuerung sind keine Upgrades erforderlich.
 
 ### Zusätzliche Ressourcen
 
