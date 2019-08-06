@@ -5,7 +5,7 @@ doc-type: Versionshinweise
 last-update: August 2019
 author: mfrei
 translation-type: tm+mt
-source-git-commit: 09b88aee612dfb84e3810d1f75da703d3d4c233d
+source-git-commit: 7a65c16ecebddc5baacefd675d0015af65ef1060
 
 ---
 
@@ -78,6 +78,7 @@ For product documentation, see [Adobe Analytics Help Home](https://docs.adobe.co
 
 | Hinweis | Hinzugefügt oder aktualisiert am | Beschreibung |
 | -----------| ---------- | ---------- |
+| Unterstützung für Versatz historischer Zeitzonen | 8. August 2019 | Analytics behandelt jetzt automatisch Zeitzonenabständen für Treffer mit Zeitstempel. Nach dieser Änderung am 8. August müssen Systeme, die in Daten für die historische Verarbeitung geladen werden, nicht mehr für Zeitzonen-Offset angepasst werden, bevor die Daten gesendet werden. |
 | Einschränkungen für Classification Rule Builder | Hinzugefügt am 5. Juni 2019 | Diese Beschränkungen sind nicht neu, wurden aber zur Dokumentation [hier hinzugefügt](https://docs.adobe.com/content/help/en/analytics/components/classifications/classifications-rulebuilder/classification-rule-builder.html). |
 | Einschränkungen des neuen Segmentoperators | Hinzugefügt am 31. Mai 2019 | Starting July 18, 2019, the segment operators _contains any of_, _does not contain any of_, _contains all of_ and _does not contain all_ of will be limited to 100 words per input field. Die Beschränkung wird nach diesem Datum auf alle neuen und geänderten Segmente angewendet. Vorhandene Segmente, die die Beschränkung überschreiten, werden weiterhin unterstützt, können jedoch erst geändert oder gespeichert werden, wenn das Eingabefeld reduziert wurde. Diese Grenzwerte werden im Rahmen kontinuierlicher Bemühungen zur Verbesserung der Abfrageleistung angewendet. |
 | Bevorstehende Änderungen der Unterstützung für die Klassifizierungen **[!UICONTROL Datumsaktiviert]** und **[!UICONTROL Numerisch 2]** | Aktualisiert am 28. Mai 2019 | Die Möglichkeit, die Klassifizierungen „Numerisch 2“ und „Datumsaktiviert“ zu importieren, wurde aus der Codebasis entfernt. Diese Änderung wird mit der Wartungsversion vom Juli 2019 wirksam. Wenn die Importdatei die Spalte „Numerisch“ oder „Datumsaktiviert“ enthält, werden diese Zellen still ignoriert und alle anderen Daten in dieser Datei werden normal importiert. <br/>Vorhandene Classifications können weiterhin über den Standard-Classification-Arbeitsablauf exportiert werden und sind weiterhin in Berichten verfügbar. |
