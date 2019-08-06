@@ -5,7 +5,7 @@ doc-type: Versionshinweise
 last-update: August 2019
 author: mfrei
 translation-type: tm+mt
-source-git-commit: b3fa98427b027218e9600cb4c5e10dd2ba880f89
+source-git-commit: 2229815ac75b0a7bd60571b39bd0f2780f20195e
 
 ---
 
@@ -66,8 +66,9 @@ For product documentation, see [Adobe Analytics Help Home](https://docs.adobe.co
 
 | Funktion | Beschreibung |
 | -----------| ---------- |  
-| Unterstützung für Cookie-Cookie-Einstellungen von samesite | Die Einstellung "cooksite-Cookie" wird allen Cookies von Analytics hinzugefügt. Diese Änderung ermöglicht es Ihnen, den Chrome-Änderungen zu entsprechen, die das Cookie-Feld von samesite erfordern. |
+| Unterstützung für Cookie-Cookie-Einstellungen von samesite | Die Einstellung ["cooksite-Cookie"](https://web.dev/samesite-cookies-explained) wird allen Cookies von Analytics hinzugefügt. Diese Änderung ermöglicht es Ihnen, den Chrome-Änderungen zu entsprechen, die das Cookie-Feld von samesite erfordern. Analytics-Cookies werden standardmäßig `none`verwendet. Wenn Sie nur eine Erstanbieterdomäne verwendet haben (z. B. stats.domain.com), können Sie Adobe clientcare für `lax` Erstanbieter-Sammlungsdomänen festlegen lassen. |
 | Arbeitsbereich: Elementbeschränkung für Dropdown-Filter von 50 auf 200 erhöhen | Wir haben die Anzahl der Elemente erhöht, die in einem Dropdown-Filter von 50 auf 200 platziert werden können. Diese Verbesserung bietet eine Vielzahl von Anwendungsfällen, z. B. das Hinzufügen aller Länder (195) zu einem Filter oder alle US-Bundesstaaten und Provinzen (52). |
+| Zuordnungs-IQ für A 4 T-Metriken aktiviert | Wir haben zwei Analytics for Target (A 4 T)-Metriken für Zuordnungs-IQ aktiviert: Aktivitätsimpressionen und Aktivitätskonversionen. In Analysis Workspace sind diese Metriken im Vergleich zu Reports &amp; Analysen zu hoch. Mit dieser Änderung können Benutzer jetzt ein Zuordnungsmodell für die gleiche Berührung anwenden, das den Analysis Workspace in die Zeile Reports &amp; Analysen einbringt. |
 
 #### Fehlerbehebungen
 
