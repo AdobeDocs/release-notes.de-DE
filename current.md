@@ -5,7 +5,7 @@ doc-type: Versionshinweise
 last-update: August 2019
 author: mfrei
 translation-type: tm+mt
-source-git-commit: 7a65c16ecebddc5baacefd675d0015af65ef1060
+source-git-commit: 6e1d9c4b083968fe1632d1309900058c90206fe1
 
 ---
 
@@ -68,7 +68,7 @@ For product documentation, see [Adobe Analytics Help Home](https://docs.adobe.co
 | -----------| ---------- |  
 | Unterstützung für Cookie-Cookie-Einstellungen von samesite | Die Einstellung ["cooksite-Cookie"](https://web.dev/samesite-cookies-explained) wird allen Cookies von Analytics hinzugefügt. Diese Änderung ermöglicht es Ihnen, den Chrome-Änderungen zu entsprechen, die das Cookie-Feld von samesite erfordern. Analytics-Cookies werden standardmäßig `none`verwendet. Wenn Sie nur eine Erstanbieterdomäne verwendet haben (z. B. stats.domain.com), können Sie Adobe clientcare für `lax` Erstanbieter-Sammlungsdomänen festlegen lassen. |
 | Arbeitsbereich: Elementbeschränkung für Dropdown-Filter von 50 auf 200 erhöhen | Wir haben die Anzahl der Elemente erhöht, die in einem Dropdown-Filter von 50 auf 200 platziert werden können. Diese Verbesserung bietet eine Vielzahl von Anwendungsfällen, z. B. das Hinzufügen aller Länder (195) zu einem Filter oder alle US-Bundesstaaten und Provinzen (52). |
-| Zuordnungs-IQ für A 4 T-Metriken aktiviert | Wir haben zwei Analytics for Target (A 4 T)-Metriken für Zuordnungs-IQ aktiviert: Aktivitätsimpressionen und Aktivitätskonversionen. In Analysis Workspace sind diese Metriken im Vergleich zu Reports &amp; Analysen zu hoch. Mit dieser Änderung können Benutzer jetzt ein Zuordnungsmodell für die gleiche Berührung anwenden, das den Analysis Workspace in die Zeile Reports &amp; Analysen einbringt. |
+| A 4 T-Aktivitätsimpressionen und für Attribution IQ aktivierte Aktivitätskonversionen | Wir haben zwei Analytics for Target (A 4 T)-Metriken für Zuordnungs-IQ aktiviert: Aktivitätsimpressionen und Aktivitätskonversionen. In Analysis Workspace sind diese Metriken im Vergleich zu Reports &amp; Analysen zu hoch. Mit dieser Änderung können Benutzer jetzt ein Zuordnungsmodell für die gleiche Berührung anwenden, das Analysis Workspace in die Zeile mit Reports &amp; Analysen einbringt. |
 
 #### Fehlerbehebungen
 
