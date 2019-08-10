@@ -5,7 +5,7 @@ doc-type: Versionshinweise
 last-update: August 2019
 author: mfrei
 translation-type: tm+mt
-source-git-commit: ff825ca4322605f70df2d61e00caa2330164ba6f
+source-git-commit: f63c0117090ec65a989b298bc555e4028fc3e5ad
 
 ---
 
@@ -24,6 +24,7 @@ Neue Funktionen und Fehlerbehebungen in Adobe Experience Cloud.
 * [!DNL Analytics](#analytics)
 * [Audience Manager](#aam)
 * [!DNL Campaign](#ac)
+* [!DNL Ad Cloud](# ad cloud)
 * [!DNL Target](https://docs.adobe.com/content/help/en/target/using/release-notes/target-release-notes.html) (Links zur Lösungshilfe)
 * [!DNL Primetime](https://helpx.adobe.com/primetime/user-guide.html) (Links zur Lösungshilfe)
 
@@ -62,9 +63,9 @@ For product documentation, see [Adobe Analytics Help Home](https://docs.adobe.co
 
 | Funktion | Beschreibung |
 | -----------| ---------- |  
-| Unterstützung für SameSite-Cookie-Einstellungen | The [SameSite cookie setting](https://web.dev/samesite-cookies-explained) will be added to all cookies sets by Analytics. Durch diese Änderung sind Sie im Einklang mit Chrome-Änderungen, die das Cookie-Feld von SameSite erfordern. Analytics-Cookies werden standardmäßig `none`verwendet. Wenn Sie nur eine Erstanbieterdomäne verwendet haben (z. B. stats.domain.com), können Sie Adobe clientcare für `lax` Erstanbieter-Sammlungsdomänen festlegen lassen. |
+| Unterstützung für SameSite-Cookie-Einstellungen | Die [SameSite-Cookie-Einstellung](https://web.dev/samesite-cookies-explained) wird allen von Analytics gesetzten Cookies hinzugefügt. Durch diese Änderung sind Sie im Einklang mit Chrome-Änderungen, die das Cookie-Feld von SameSite erfordern. Analytics-Cookies werden standardmäßig auf `none` eingestellt. Wenn Sie ausschließlich eine Erstanbieterdomäne verwenden (z. B. stats.domain.com), können Sie die Adobe-Kundenunterstützung ersuchen, diese Einstellung für die Datenerfassung auf Erstanbieterdomänen auf `lax` zu ändern. |
 | Workspace: Erhöhung der Anzahl der Elemente im Dropdown-Filter von 50 auf 200 | Wir haben die Anzahl der Elemente von 50 auf 200 erhöht, die in einem Dropdown-Filter platziert werden können. Dank dieser Verbesserung sind jetzt zahlreiche Anwendungen möglich, z. B. das Hinzufügen aller Länder (195) zu einem Filter oder aller US-Bundesstaaten und Provinzen (52). |
-| A 4 T-Aktivitätsimpressionen und für Attribution IQ aktivierte Aktivitätskonversionen | Wir haben zwei Analytics for Target (A 4 T)-Metriken für Zuordnungs-IQ aktiviert: Aktivitätsimpressionen und Aktivitätskonversionen. In Analysis Workspace sind diese Metriken im Vergleich zu Reports &amp; Analysen zu hoch. Mit dieser Änderung können Benutzer jetzt ein Zuordnungsmodell für die gleiche Berührung anwenden, das Analysis Workspace in die Zeile mit Reports &amp; Analysen einbringt. |
+| A4T-Aktivitätsimpressionen und Aktivitätskonversionen für Attribution IQ aktiviert | Es wurden zwei Analytics for Target-Metriken (A4T) für Attribution IQ aktiviert: Aktivitätsimpressionen und Aktivitätskonversionen. In Analysis Workspace waren diese Metriken im Vergleich zu Reports &amp; Analytics bisher zu hoch. Mit dieser Änderung können Benutzer jetzt ein gemeinsames Attributionsmodell anwenden, bei dem Analysis Workspace und Reports &amp; Analytics korrekt angegeben werden. |
 
 #### Fehlerbehebungen
 
@@ -72,11 +73,11 @@ For product documentation, see [Adobe Analytics Help Home](https://docs.adobe.co
 
 ### Wichtige Hinweise für [!DNL Analytics]-Administratoren {#aa-notices}
 
-| Hinweis | Hinzugefügt  oder aktualisiert am | Beschreibung |
+| Hinweis | Hinzugefügt oder aktualisiert am | Beschreibung |
 | -----------| ---------- | ---------- |
-| Unterstützung für Versatz historischer Zeitzonen | 8. August 2019  | Analytics behandelt jetzt automatisch Zeitzonenabständen für Treffer mit Zeitstempel. Nach dieser Änderung am 8. August müssen Systeme, die in Daten für die historische Verarbeitung geladen werden, nicht mehr für Zeitzonen-Offset angepasst werden, bevor die Daten gesendet werden. |
+| Unterstützung für frühere Unterschiede bei Zeitzonen | 8. August 2019  | Analytics handhabt jetzt automatisch Unterschiede bei Zeitzonen für Treffer mit Zeitstempel. Nach dieser Änderung am 8. August müssen Systeme, die in Daten für die historische Verarbeitung geladen werden, nicht mehr für Zeitzonen-Offset angepasst werden, bevor die Daten gesendet werden. |
 | Einschränkungen für Classification Rule Builder | Hinzugefügt am 5. Juni 2019 | Diese Beschränkungen sind nicht neu, wurden aber zur Dokumentation [hier hinzugefügt](https://docs.adobe.com/content/help/en/analytics/components/classifications/classifications-rulebuilder/classification-rule-builder.html). |
-| Einschränkungen des neuen Segmentoperators | Hinzugefügt am 31. Mai 2019 | Starting July 18, 2019, the segment operators _contains any of_, _does not contain any of_, _contains all of_ and _does not contain all_ of will be limited to 100 words per input field. Die Beschränkung wird nach diesem Datum auf alle neuen und geänderten Segmente angewendet. Vorhandene Segmente, die die Beschränkung überschreiten, werden weiterhin unterstützt, können jedoch erst geändert oder gespeichert werden, wenn das Eingabefeld reduziert wurde. Diese Grenzwerte werden im Rahmen kontinuierlicher Bemühungen zur Verbesserung der Abfrageleistung angewendet. |
+| Einschränkungen des neuen Segmentoperators | Hinzugefügt am 31. Mai 2019 | Ab dem 18. Juli 2019 sind die Segmentoperatoren _enthält beliebig viele_, _enthält keinerlei_, _enthält alle von_ und _enthält nicht alle_ auf 100 Wörter pro Eingabefeld beschränkt. Die Beschränkung wird nach diesem Datum auf alle neuen und geänderten Segmente angewendet. Vorhandene Segmente, die die Beschränkung überschreiten, werden weiterhin unterstützt, können jedoch erst geändert oder gespeichert werden, wenn das Eingabefeld reduziert wurde. Diese Grenzwerte werden im Rahmen kontinuierlicher Bemühungen zur Verbesserung der Abfrageleistung angewendet. |
 | Bevorstehende Änderungen der Unterstützung für die Klassifizierungen **[!UICONTROL Datumsaktiviert]** und **[!UICONTROL Numerisch 2]** | Aktualisiert am 28. Mai 2019 | Die Möglichkeit, die Klassifizierungen „Numerisch 2“ und „Datumsaktiviert“ zu importieren, wurde aus der Codebasis entfernt. Diese Änderung wird mit der Wartungsversion vom Juli 2019 wirksam. Wenn die Importdatei die Spalte „Numerisch“ oder „Datumsaktiviert“ enthält, werden diese Zellen still ignoriert und alle anderen Daten in dieser Datei werden normal importiert. <br/>Vorhandene Classifications können weiterhin über den Standard-Classification-Arbeitsablauf exportiert werden und sind weiterhin in Berichten verfügbar. |
 | Bevorstehende Änderung bei Berechnungen der _Berichtssumme_ | Aktualisiert am 9. Juli 2019 | Ab **18. Juni 2019** werden in Adobe Analytics Berechnungen von _Berichtssummen_ für alle Dimensionen und Metriken vereinheitlicht. Dadurch werden sich die Gesamtsummen bei manchen Berichten ändern (vor allem bei Berichten zu Eigenschaften oder Kundenattributen). Vor dieser Änderung kam es vor, dass in manchen Berichtssummen der Zeileneintrag _Unspecified_ uneinheitlich ein- oder ausgeschlossen wurde, und zwar unabhängig davon, ob _Unspecified_ im Bericht vorkam oder nicht. <br/>Ab 18. Juni 2019 wird _Nicht angegeben_ immer in Berichtssummen angezeigt, auch wenn dieser Wert nicht als Zeileneintrag im Bericht zu sehen ist. Darüber hinaus können Segmente, die die Logik _existiert_ oder _existiert nicht_ verwenden, für einige Dimensionen nach dieser Änderung andere Ergebnisse anzeigen, insbesondere Dimensionen, bei denen _Nicht angegeben_ einen speziellen Namen wie den Zeileneintrag „Eingegeben/Mit Lesezeichen versehen“ für die Dimension „Typ der verweisenden Stelle“ oder den Zeileneintrag „Sonstige“ für die Dimension „Gerätetyp“ verwendet werden. Diese Änderung betrifft Analysis Workspace, Reports &amp; Analytics, Ad Hoc Analysis, Report Builder und die Reporting-API. |
 | Aktualisierung von CSV-Downloads aus [!DNL Analysis Workspace] | 10. April 2019 | Ab dem 11. April 2019 wurden mehrere Änderungen an **[!UICONTROL CSV-Downloads]** (und **[!UICONTORL In Zwischenablage kopieren]**) in [!DNL Analysis Workspace] vorgenommen, um die Formatierung aus den exportierten Daten zu entfernen.  <ul><li>Das Tausendertrennzeichen ist nicht mehr enthalten. Das Dezimaltrennzeichen wird weiterhin enthalten sein und dem unter **[!UICONTROL Komponenten &gt; Berichtseinstellungen &gt; Tausendertrennzeichen]** definierten Format entsprechen. Hinweis: Numerische Werte, die ein Komma als Dezimaltrennzeichen verwenden, werden weiterhin in der exportierten CSV angegeben.</li><li>Es werden keine Währungssymbole angezeigt.</li><li>Es werden keine Prozentsymbole angezeigt. Prozentangaben werden in Dezimalform angezeigt. Zum Beispiel werden 75 % als 0,75 dargestellt.</li><li>Die Zeit wird in Sekunden angezeigt.</li><li>Kohortentabellen zeigen nur Rohwerte an. Prozentsätze werden entfernt.</li><li>Wenn eine Nummer ungültig ist, wird eine leere Zelle angezeigt.</li></ul> |
@@ -155,3 +156,15 @@ Beachten Sie, dass das [!UICONTROL Control Panel] sowohl für auf AWS gehostete 
 
 * Adobe Campaign Standard: [Documentation](https://helpx.adobe.com/support/campaign/standard.html) - [Release Notes](https://docs.adobe.com/content/help/en/campaign-standard/using/release-notes/release-notes.html) - [How-to videos](https://docs.adobe.com/content/help/en/campaign-learn/campaign-standard-tutorials/overview.html)
 * Adobe Campaign Classic: [Documentation](https://helpx.adobe.com/support/campaign/classic.html) - [Release Notes](https://docs.campaign.adobe.com/doc/AC/en/RN.html) - [How-to videos](https://docs.adobe.com/content/help/en/campaign-learn/campaign-classic-tutorials/overview.html)
+
+## Advertising Cloud {#adcloud}
+
+Aktualisiert am 9. August 2019 für den Release am 10. August
+
+* (Werbetreibende mit dem Advertising Cloud Conversion Tracking-Dienst) Mit ITP 2.2 von Apple, die im Mai veröffentlicht wurde, werden die Marketing Cloud-Konversionsverfolgungscookies nach 24 Stunden automatisch aus Apple Safari-Browsern gelöscht. Die Advertising Cloud verfügt jedoch über eine neue ITP-Lösung, mit der Sie Konversionen verfolgen können, die innerhalb von 24 Stunden nach dem ursprünglichen Klick in Safari stattfinden. Die Lösung verwendet die lokale Speicherung und iframe-Technologie. Wenden Sie sich für die Implementierungsanweisungen an Ihren Marketing Cloud Search Account Manager.
+* In Search &gt; Advanced (ACM) können Sie jetzt die Final URL-Suffixe auf Kampagnenebene für Google-Textanzeigen und Shopping-Anzeigenvorlagen konfigurieren.
+* Werbetreibende mit Google-Anzeigenkonten, die für die Kundenübereinstimmung berechtigt sind, können jetzt Folgendes ausführen:
+   * Erstellen Sie eine Google-Treffer-Zielgruppe mit Benutzer-IDs aus einem Adobe Audience Segment. Um diese Funktion anzuzeigen, muss das Advertiserkonto so konfiguriert sein, dass es zulässig ist.
+   * Erstellen Sie eine Kundenübereinstimmungszielgruppe für Google Ads, indem Sie eine Kundendatendatei hochladen. Die Datei kann Kontaktangaben (E-Email-Adressen, Adressen oder Telefonnummern), Benutzer-IDs oder Mobilgeräte-IDs enthalten. Einige Kontaktinformationen müssen mit dem SHA -256-Algorithmus gehash werden.
+   * Aktualisieren Sie alle Google-Kunden mit Ausnahme von Zielgruppen, die von einer Adobe-Zielgruppe erstellt wurden. Sie können Daten hochladen, um alle vorhandenen Daten für die Zielgruppe hinzuzufügen, zu löschen oder zu ersetzen. Alle Kontaktinformationen müssen mit dem SHA -256-Algorithmus gehash werden.
+* Die Zielgruppen &gt; Zielgruppen und Zielgruppen &gt; Ausschlussansichten beinhalten eine Spalte "Typ" .
