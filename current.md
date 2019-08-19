@@ -5,7 +5,7 @@ doc-type: Versionshinweise
 last-update: August 2019
 author: mfrei
 translation-type: tm+mt
-source-git-commit: 1483a7a90f2f3ab00cc471081631cb737f324a6b
+source-git-commit: 8ec590d7cbf63b67cfaf869f54c3707dbb5c2e83
 
 ---
 
@@ -20,7 +20,7 @@ Neue Funktionen und Fehlerbehebungen in Adobe Experience Cloud.
 
 **Releasedatum: 8. August 2019**
 
-* [Experience Platform und Verwaltung](#platform)
+* [Experience Cloud und Erlebnisplattform](#platform)
 * [!DNL Analytics](#analytics)
 * [Audience Manager](#aam)
 * [Experience Manager](#aem)
@@ -29,7 +29,7 @@ Neue Funktionen und Fehlerbehebungen in Adobe Experience Cloud.
 * [!DNL Target](https://docs.adobe.com/content/help/en/target/using/release-notes/target-release-notes.html) (Links zur Lösungshilfe)
 * [!DNL Primetime](https://helpx.adobe.com/primetime/user-guide.html) (Links zur Lösungshilfe)
 
-## [!UICONTROL Experience Platform] und Verwaltung {#platform}
+## [!DNL Experience Cloud] und [!DNL Experience Platform] {#platform}
 
 Versionshinweise für die [!UICONTROL Experience Platform], Benutzeroberfläche von Experience Cloud, Produktverwaltung, Experience Platform Launch, Identitätsdienst und Sicherheitsbulletins.
 
