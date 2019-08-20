@@ -5,7 +5,7 @@ doc-type: Versionshinweise
 last-update: August 2019
 author: mfrei
 translation-type: tm+mt
-source-git-commit: 8ec590d7cbf63b67cfaf869f54c3707dbb5c2e83
+source-git-commit: 3bd946a9ef7d6d6d2e17cec4385a2dd53a41df97
 
 ---
 
@@ -21,7 +21,7 @@ Neue Funktionen und Fehlerbehebungen in Adobe Experience Cloud.
 **Releasedatum: 8. August 2019**
 
 * [Experience Cloud und Erlebnisplattform](#platform)
-* [!DNL Analytics](#analytics)
+* [!DNL Analytics](#analytics) (**Aktualisiert am 20. August 2019**)
 * [Audience Manager](#aam)
 * [Experience Manager](#aem)
 * [!DNL Campaign](#ac)
@@ -54,7 +54,7 @@ See [Experience Platform Launch](https://docs.adobe.com/content/help/en/launch/u
 
 Neue Funktionen und Fehlerbehebungen in Adobe Analytics:
 
-* [Neue Funktionen, Verbesserungen und Fehlerbehebungen in Adobe Analytics](#aa-features)
+* [Neue Funktionen, Verbesserungen und Fehlerbehebungen in Adobe Analytics](#aa-features)  (**Aktualisiert am 20. August 2019**)
 * [Wichtige Hinweise für Analytics-Administratoren](#aa-notices)
 * [AppMeasurement](#appm)
 
@@ -64,13 +64,16 @@ For product documentation, see [Adobe Analytics Help Home](https://docs.adobe.co
 
 | Funktion | Beschreibung |
 | -----------| ---------- |  
-| Unterstützung für SameSite-Cookie-Einstellungen | Die [SameSite-Cookie-Einstellung](https://web.dev/samesite-cookies-explained) wird allen von Analytics gesetzten Cookies hinzugefügt. Durch diese Änderung sind Sie im Einklang mit Chrome-Änderungen, die das Cookie-Feld von SameSite erfordern. Analytics-Cookies werden standardmäßig auf `none` eingestellt. Wenn Sie ausschließlich eine Erstanbieterdomäne verwenden (z. B. stats.domain.com), können Sie die Adobe-Kundenunterstützung ersuchen, diese Einstellung für die Datenerfassung auf Erstanbieterdomänen auf `lax` zu ändern. |
+| Unterstützung für SameSite-Cookie-Einstellungen | The [SameSite cookie setting](https://web.dev/samesite-cookies-explained) will be added to all cookies set by Analytics. Durch diese Änderung sind Sie im Einklang mit Chrome-Änderungen, die das Cookie-Feld von SameSite erfordern. Analytics-Cookies werden standardmäßig auf `none` eingestellt. Wenn Sie ausschließlich eine Erstanbieterdomäne verwenden (z. B. stats.domain.com), können Sie die Adobe-Kundenunterstützung ersuchen, diese Einstellung für die Datenerfassung auf Erstanbieterdomänen auf `lax` zu ändern. |
 | Workspace: Erhöhung der Anzahl der Elemente im Dropdown-Filter von 50 auf 200 | Wir haben die Anzahl der Elemente von 50 auf 200 erhöht, die in einem Dropdown-Filter platziert werden können. Dank dieser Verbesserung sind jetzt zahlreiche Anwendungen möglich, z. B. das Hinzufügen aller Länder (195) zu einem Filter oder aller US-Bundesstaaten und Provinzen (52). |
-| A4T-Aktivitätsimpressionen und Aktivitätskonversionen für Attribution IQ aktiviert | Es wurden zwei Analytics for Target-Metriken (A4T) für Attribution IQ aktiviert: Aktivitätsimpressionen und Aktivitätskonversionen. In Analysis Workspace waren diese Metriken im Vergleich zu Reports &amp; Analytics bisher zu hoch. Mit dieser Änderung können Benutzer jetzt ein gemeinsames Attributionsmodell anwenden, bei dem Analysis Workspace und Reports &amp; Analytics korrekt angegeben werden. |
+| A4T-Aktivitätsimpressionen und Aktivitätskonversionen für Attribution IQ aktiviert | Es wurden zwei Analytics for Target-Metriken (A4T) für Attribution IQ aktiviert: Aktivitätsimpressionen und Aktivitätskonversionen. Bisher wurden diese Metriken im Analysis Workspace im Vergleich zu Reports &amp; Analysen erhöht. Mit dieser Änderung können Benutzer jetzt ein gemeinsames Attributionsmodell anwenden, bei dem Analysis Workspace und Reports &amp; Analytics korrekt angegeben werden. |
 
 #### Fehlerbehebungen
 
 * Ein Problem wurde behoben, das beim Anzeigen von Text in Echtzeitberichten im Vollbildmodus auftrat. (AN-183168)
+* (**Aktualisiert am 20. August 2019**) Die Datenerfassung lehnt nun Umleitungs-urls ab, die " @" enthalten, um zu verhindern, dass Angreifer über domänengebundene Domänen zu böswilligen Sites umgeleitet werden.
+* (**Aktualisiert vom 20. August 2019**) Die Besuchermigration ist jetzt für alle Treffer deaktiviert, die aus Browsern stammen, die das Attribut "comesite Cookie" nicht unterstützen, und wenn der Treffer ein Drittanbieter-Cookie enthält.
+* (**Aktualisiert am 20. August 2019**) Es wurde ein Problem behoben, durch das erste Treffer nicht dem s_ vi-Cookie für einen neuen Besucher gesendet wurden.
 
 ### Wichtige Hinweise für [!DNL Analytics]-Administratoren {#aa-notices}
 
