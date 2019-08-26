@@ -5,7 +5,7 @@ doc-type: Versionshinweise
 last-update: August 2019
 author: mfrei
 translation-type: tm+mt
-source-git-commit: a547f72e673f0e0dc0b5f803f187a6f24162015c
+source-git-commit: c4e89f21b3cd1231592f962bf5abfca49571f943
 
 ---
 
@@ -21,7 +21,7 @@ Neue Funktionen und Fehlerbehebungen in Adobe Experience Cloud.
 **Releasedatum: 8. August 2019**
 
 * [Experience Cloud und Experience Platform](#platform)
-* [!DNL Analytics](#analytics) (**Aktualisiert am 23. August 2019**)
+* [!DNL Analytics](#analytics) (**Aktualisiert am 20. August 2019**)
 * [Audience Manager](#aam)
 * [Experience Manager](#aem)
 * [!DNL Campaign](#ac)
@@ -56,7 +56,7 @@ Neue Funktionen und Fehlerbehebungen in Adobe Analytics:
 
 * [Neue Funktionen, Verbesserungen und Fehlerbehebungen in Adobe Analytics](#aa-features)  (**Aktualisiert am 20. August 2019**)
 * [Wichtige Hinweise für Analytics-Administratoren](#aa-notices)
-* [AppMeasurement](#appm) (**Aktualisiert am 23. August 2019**)
+* [AppMeasurement](#appm)
 
 For product documentation, see [Adobe Analytics Help Home](https://docs.adobe.com/content/help/en/analytics/landing/home.html).
 
@@ -77,7 +77,7 @@ For product documentation, see [Adobe Analytics Help Home](https://docs.adobe.co
 
 ### Wichtige Hinweise für [!DNL Analytics]-Administratoren {#aa-notices}
 
-| Hinweis | Hinzugefügt oder aktualisiert am | Beschreibung |
+| Hinweis | Hinzugefügt  oder aktualisiert am | Beschreibung |
 | -----------| ---------- | ---------- |
 | Unterstützung für frühere Unterschiede bei Zeitzonen | 8. August 2019 | Analytics handhabt jetzt automatisch Unterschiede bei Zeitzonen für Treffer mit Zeitstempel. Nach dieser Änderung am 8. August müssen die unterschiedlichen Zeitzonen von Daten, die nachträglich verarbeitet werden sollen, nicht mehr vor dem Laden angepasst werden. |
 | Einschränkungen für Classification Rule Builder | Hinzugefügt am 5. Juni 2019 | Diese Beschränkungen sind nicht neu, wurden aber zur Dokumentation [hier hinzugefügt](https://docs.adobe.com/content/help/en/analytics/components/classifications/classifications-rulebuilder/classification-rule-builder.html). |
@@ -96,14 +96,7 @@ For product documentation, see [Adobe Analytics Help Home](https://docs.adobe.co
 
 ### AppMeasurement {#appm}
 
-[!UICONTROL Appmeasurement] 2.17.0 am 23. August 2019 veröffentlicht.
-
-| Funktion/Korrektur | Beschreibung |
-| -----------| ---------- |
-| Baidu-Unterstützung hinzugefügt | Zusätzliche Unterstützung für Baidu-Abfragezeichenfolgenneuanordnung. |
-| Fehlerbehebung | Es wurde ein Fehler behoben, der dazu führte, dass statische Besucherwerte in Treffern, die in Warteschlange lagen, in die Warteschlange lagen, während sie auf die Teilnahme warten. |
-
-[!UICONTROL Appmeasurement] 2.16.0 veröffentlicht am 8. August 2019.
+[!UICONTROL AppMeasurement] 2.16.0 wird am 8. August 2019 veröffentlicht.
 
 | Funktion | Beschreibung |
 | -----------| ---------- |
