@@ -5,7 +5,7 @@ doc-type: Versionshinweise
 last-update: August 2019
 author: mfrei
 translation-type: tm+mt
-source-git-commit: 71a796a132a752b69a10b9ac9cce3530b7d02b27
+source-git-commit: bf128d5ab0d16a15935f73fd8b80c7eab12b4e1f
 
 ---
 
@@ -64,7 +64,7 @@ For product documentation, see [Adobe Analytics Help Home](https://docs.adobe.co
 
 | Funktion | Beschreibung |
 | -----------| ---------- |  
-| Unterstützung für SameSite-Cookie-Einstellungen | Die [SameSite-Cookie-Einstellung](https://web.dev/samesite-cookies-explained) wird allen von Analytics gesetzten Cookies hinzugefügt. Durch diese Änderung sind Sie im Einklang mit Chrome-Änderungen, die das Cookie-Feld von SameSite erfordern. Analytics-Cookies werden standardmäßig auf `none` eingestellt. Wenn Sie ausschließlich eine Erstanbieterdomäne verwenden (z. B. stats.domain.com), können Sie die Adobe-Kundenunterstützung ersuchen, diese Einstellung für die Datenerfassung auf Erstanbieterdomänen auf `lax` zu ändern. |
+| Unterstützung für SameSite-Cookie-Einstellungen | Die [SameSite-Cookie-Einstellung](https://web.dev/samesite-cookies-explained) wird allen von Analytics gesetzten Cookies hinzugefügt. Durch diese Änderung sind Sie im Einklang mit Chrome-Änderungen, die das Cookie-Feld von SameSite erfordern. Analytics-Cookies werden standardmäßig auf `none` eingestellt. If you have exclusively used a 1st-party domain (e.g. stats.domain.com) you can have Adobe Customer Care set it to `lax` for 1st-party collection domains. |
 | Workspace: Erhöhung der Anzahl der Elemente im Dropdown-Filter von 50 auf 200 | Wir haben die Anzahl der Elemente von 50 auf 200 erhöht, die in einem Dropdown-Filter platziert werden können. Dank dieser Verbesserung sind jetzt zahlreiche Anwendungen möglich, z. B. das Hinzufügen aller Länder (195) zu einem Filter oder aller US-Bundesstaaten und Provinzen (52). |
 | A4T-Aktivitätsimpressionen und Aktivitätskonversionen für Attribution IQ aktiviert | Es wurden zwei Analytics for Target-Metriken (A4T) für Attribution IQ aktiviert: Aktivitätsimpressionen und Aktivitätskonversionen. Bisher waren diese Metriken in Analysis Workspace verglichen mit Reports &amp; Analytics zu hoch. Mit dieser Änderung können Benutzer jetzt ein gemeinsames Attributionsmodell anwenden, bei dem Analysis Workspace und Reports &amp; Analytics korrekt angegeben werden. |
 
