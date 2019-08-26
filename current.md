@@ -5,7 +5,7 @@ doc-type: Versionshinweise
 last-update: August 2019
 author: mfrei
 translation-type: tm+mt
-source-git-commit: c4e89f21b3cd1231592f962bf5abfca49571f943
+source-git-commit: 71a796a132a752b69a10b9ac9cce3530b7d02b27
 
 ---
 
@@ -21,7 +21,7 @@ Neue Funktionen und Fehlerbehebungen in Adobe Experience Cloud.
 **Releasedatum: 8. August 2019**
 
 * [Experience Cloud und Experience Platform](#platform)
-* [!DNL Analytics](#analytics) (**Aktualisiert am 20. August 2019**)
+* [!DNL Analytics](#analytics) (**Aktualisiert am 23. August 2019**)
 * [Audience Manager](#aam)
 * [Experience Manager](#aem)
 * [!DNL Campaign](#ac)
@@ -56,7 +56,7 @@ Neue Funktionen und Fehlerbehebungen in Adobe Analytics:
 
 * [Neue Funktionen, Verbesserungen und Fehlerbehebungen in Adobe Analytics](#aa-features)  (**Aktualisiert am 20. August 2019**)
 * [Wichtige Hinweise für Analytics-Administratoren](#aa-notices)
-* [AppMeasurement](#appm)
+* [AppMeasurement](#appm) (**Aktualisiert am 23. August 2019**)
 
 For product documentation, see [Adobe Analytics Help Home](https://docs.adobe.com/content/help/en/analytics/landing/home.html).
 
@@ -96,7 +96,14 @@ For product documentation, see [Adobe Analytics Help Home](https://docs.adobe.co
 
 ### AppMeasurement {#appm}
 
-[!UICONTROL AppMeasurement] 2.16.0 wird am 8. August 2019 veröffentlicht.
+[!UICONTROL Appmeasurement] 2.17.0 am 23. August 2019 veröffentlicht.
+
+| Funktion/Korrektur | Beschreibung |
+| -----------| ---------- |
+| Baidu-Unterstützung hinzugefügt | Zusätzliche Unterstützung für Baidu-Abfragezeichenfolgenneuanordnung. |
+| Fehlerbehebung | Es wurde ein Fehler behoben, der dazu führte, dass statische Besucherwerte in Treffern, die in Warteschlange lagen, in die Warteschlange lagen, während sie auf die Teilnahme warten. |
+
+[!UICONTROL Appmeasurement] 2.16.0 veröffentlicht am 8. August 2019.
 
 | Funktion | Beschreibung |
 | -----------| ---------- |
