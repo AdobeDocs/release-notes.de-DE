@@ -5,7 +5,7 @@ doc-type: Versionshinweise
 last-update: September 2019
 author: mfrei
 translation-type: tm+mt
-source-git-commit: 2cf514449e70523a47b16dceb35d93ec7eff0824
+source-git-commit: 3b26af48364509946706cd183c1261ea8c15eab2
 
 ---
 
@@ -87,7 +87,7 @@ For product documentation, see [Adobe Analytics Help Home](https://docs.adobe.co
 
 | Funktion | Beschreibung |
 | -----------| ---------- |  
-| **Journey IQ: Geräteübergreifende Analyse** | Im September 2019 stellt Adobe Analytics frühzeitigen Zugriff für Analytics Ultimate-Kunden zu einer leistungsstarken neuen Funktion namens "Journey IQ" ein: Geräteübergreifende Analyse. Geräteübergreifende Analytics (CDA) wandelt Adobe Analytics von einem Gerät in ein persönliches Analysetool um. Mithilfe von CDA können Sie Fragen wie z. B. folgende beantworten: <ul><li>Wie viele Menschen interagieren mit meiner Marke? Wie viele und welche Gerätetypen verwenden sie? Wie überschneiden sich diese?</li><li>Wie oft beginnen Personen mit einer Aufgabe auf einem Mobilgerät und wechseln dann zu einem Desktop-PC, um die Aufgabe abzuschließen? Führen Kampagnen-Clickthroughs, die auf einem Gerät landen, zur Umrechnung anderswo?</li><li>Wie ändert sich mein Verständnis der Kampagneneffektivität, wenn ich geräteübergreifende Routen berücksichtige? Wie ändert sich meine Trichteranalyse?</li><li>Welches sind die häufigsten Pfade, die Benutzer von einem Gerät zum nächsten verwenden? Wo steigen sie aus? Wo sind sie erfolgreich?</li><li>Wie unterscheidet sich das Verhalten von Benutzern mit mehreren Geräten von den Benutzern mit einem einzelnen Gerät?</li></ul><br/>Weitere Informationen `adobe.ly/aacda`finden Sie unter. |
+| **Journey IQ: Geräteübergreifende Analyse** | Im September 2019 stellt Adobe Analytics frühzeitigen Zugriff für Analytics Ultimate-Kunden zu einer leistungsstarken neuen Funktion namens "Journey IQ" ein: Geräteübergreifende Analyse. Geräteübergreifende Analytics (CDA) wandelt Adobe Analytics von einem Gerät in ein persönliches Analysetool um. Mithilfe von CDA können Sie Fragen wie z. B. folgende beantworten: <ul><li>Wie viele Menschen interagieren mit meiner Marke? Wie viele und welche Gerätetypen verwenden sie? Wie überschneiden sich diese?</li><li>Wie oft beginnen Personen mit einer Aufgabe auf einem Mobilgerät und wechseln dann zu einem Desktop-PC, um die Aufgabe abzuschließen? Führen Kampagnen-Clickthroughs, die auf einem Gerät landen, zur Umrechnung anderswo?</li><li>Wie ändert sich mein Verständnis der Kampagneneffektivität, wenn ich geräteübergreifende Routen berücksichtige? Wie ändert sich meine Trichteranalyse?</li><li>Welches sind die häufigsten Pfade, die Benutzer von einem Gerät zum nächsten verwenden? Wo steigen sie aus? Wo sind sie erfolgreich?</li><li>Wie unterscheidet sich das Verhalten von Benutzern mit mehreren Geräten von den Benutzern mit einem einzelnen Gerät?</li></ul><br/>Weitere Informationen finden Sie unter [adobe.ly/aacda](https://spark.adobe.com/page/8ZpjsX6Lp5XTM/). |
 | **Aktualisierte Klassifizierungsarchitektur** | Ab September wird ein Update der Klassifizierungsarchitektur über einen Zeitraum von mehreren Monaten an Kunden migriert. Die September-Version beinhaltet die Migration für eine kleine Anzahl frühzeitiger Adopter.<br/>Die Aktualisierung verringert die Zeit für Uploads (einschließlich der Regellogik) erheblich, die importiert/abgerufen und zur Berichterstellung bereitgestellt werden kann. |
 
 #### Fehlerbehebungen
