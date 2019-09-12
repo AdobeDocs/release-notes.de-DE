@@ -5,7 +5,7 @@ doc-type: Versionshinweise
 last-update: September 2019
 author: mfrei
 translation-type: tm+mt
-source-git-commit: b680e3b7c761ca2b6ba28150fb3102d0778d0d3a
+source-git-commit: 12ab1a02439228bb50a294fe8d5aeba415122d43
 
 ---
 
@@ -79,7 +79,7 @@ Neue Funktionen und Fehlerbehebungen in Adobe Analytics:
 
 * [Neue Funktionen, Verbesserungen und Fehlerbehebungen in Adobe Analytics](#aa-features)
 * [Wichtige Hinweise für Analytics-Administratoren](#aa-notices)
-* [AppMeasurement](#appm) 
+* [AppMeasurement](#appm)
 
 For product documentation, see [Adobe Analytics Help Home](https://docs.adobe.com/content/help/en/analytics/landing/home.html).
 
@@ -156,6 +156,13 @@ Neue Funktionen, Fehlerbehebungen und Aktualisierungen in Adobe Experience Man
 Die Cloud Manager-Version 2019.8.0 enthält kleinere Fehlerkorrekturen, eine Leistungsverbesserung und Unterstützung für bestimmte Content-Packages.
 
 * [Versionshinweise für Cloud Manager 2019.8.0](https://docs.adobe.com/content/help/en/experience-manager-cloud-manager/using/release-notes/release-notes-current.html)
+
+**Softwareverteilung**
+
+[Die Softwareverteilung](https://downloads.experiencecloud.adobe.com/) ist die neue Benutzeroberfläche, die die Suche und den Download von AEM-Paketen vereinfacht. Sie befindet sich derzeit im Beta-Status und ist nur für Adobe Managed Services-Kunden verfügbar.
+
+* [Package Share](https://helpx.adobe.com/experience-manager/6-5/sites/administering/using/package-manager.html#PackageShare) bleibt solange verfügbar, bis alle Kunden Zugriff auf die Software-Distribution haben.
+* Alle Pakete sind sowohl über Package Share als auch über Software Distribution verfügbar.
 
 ### Produktwartung
 
