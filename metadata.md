@@ -1,6 +1,6 @@
 ---
 cloud: experience-cloud
-solution-title: Experience Cloud
+solution-title: Lernen und Support
 solution-hub-url: https://helpx.adobe.com/de/support/experience-cloud.html
 solution-icon: assets/assets/experience-cloud-logo-24.png
 getting-started-title: Erste Schritte
@@ -10,8 +10,8 @@ tutorials-url: https://helpx.adobe.com/de/experience-cloud/tutorials.html
 mini-toc-levels: '1'
 git-repo: https://github.com/AdobeDocs/release-notes.en
 index: true
-translation-type: ht
-source-git-commit: 8e54bd3d73d2729e22d09765069d311bc0bc5248
+translation-type: tm+mt
+source-git-commit: f7e667b83c7b82376ad9cf51b4495eb30b5707ed
 
 ---
 
@@ -27,7 +27,7 @@ Die Datei metadata.md enthält Metadaten auf Repo-Ebene, die an die TOC.md-Datei
 | solution-icon | Zeigt Lösungssymbol neben dem Titel der Lösung an. Noch nicht implementiert |
 | getting-started-title | Wird selten verwendet, wenn Übungen nicht geeignet sind |
 | getting-started-url | Link zur Startseite Erste Schritte von helpx |
-| Tutorials-title | Wird selten verwendet, wenn Übungen nicht geeignet sind |
+| tutorials-title | Wird selten verwendet, wenn Übungen nicht geeignet sind |
 | tutorials-url | Link zu Video-Übungen – entweder Helpx-Übungen oder KT-Übungen |
 | mini-toc-levels | Legt fest, wie viele Überschriftenebenen in der rechten Leiste angezeigt werden. Standardwert ist „2“ |
 | git-repo | Gibt den Speicherort des Zusammenarbeits-Repo an. Verwenden Sie den github.com-Spiegel für Dokumente, die für die Öffentlichkeit zugänglich sind |
