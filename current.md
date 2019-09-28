@@ -5,7 +5,7 @@ doc-type: Versionshinweise
 last-update: September 2019
 author: mfrei
 translation-type: tm+mt
-source-git-commit: eb150b48019a2fc54c3de3fa58475a9eb475505f
+source-git-commit: b8639c07c29e929b786b515b0d8e1e3cb89fa45a
 
 ---
 
@@ -52,24 +52,22 @@ See [Experience Platform Launch](https://docs.adobe.com/content/help/en/launch/u
 
 ### Mobile Services und Mobile SDK {#mobile}
 
-Releasedatum: **26. September**
-
 **iOS: Version 4.18.8**
 
 Releasedatum: 20. September 2019
 
 * In App Messaging:
-   * Auf Geräten mit iOS 10 oder höher wird das UserNotifications-Framework jetzt verwendet, um lokale Benachrichtigungen für Apps zu planen, die mit UserNotifications.framework verknüpft sind.
-   * Vollbildmeldungen verwenden jetzt WKWebViews von WebKit.framework, das in Ihrem Xcode-Projekt verknüpft werden muss.
-   * Fixed a bug where the Push click-through payload could not be used as traits for In-App Messaging.
-   * Es wurde ein Absturzproblem behoben.
+   * On devices running iOS 10 or newer, the UserNotifications framework is now used to schedule local notifications for apps that are linked to the UserNotifications.framework .
+   * Fullscreen messages now use WKWebViews from WebKit.framework, which must be linked in your Xcode project.
+   * Es wurde ein Fehler behoben, durch den die Push-Clickthrough-Nutzlast nicht als Eigenschaften für In-App-Nachrichten verwendet werden konnte.
+   * Fixed a crash issue.
 * General - Fixed a bug where SDK data was synchronized to the paired watchOS app on every Analytics call.
 
 **Android: Version 4.17.10**
 
 Releasedatum: 20. September 2019
 
-* Allgemein: Die Generierung von Gebietsschema-Zeichenfolgen für einige Regionen auf Android-API-Stufe 21 oder höher wurde korrigiert.
+* General: Fixed locale string generation for some regions on Android API level 21 or newer.
 
 **Unity**
 
@@ -203,7 +201,7 @@ Die Dokumentation für den Dienst zur automatisierten Formularumwandlung für AE
 
 **AEM Skill Builder-Webinare**
 
-* [Adobe Experience Manager-Sites](https://forums.adobe.com/thread/2647742)
+* [Adobe Experience Manager Sites](https://forums.adobe.com/thread/2647742)
 
    | Webinar | Datum |
    | -----------| ---------- |  
