@@ -2,10 +2,10 @@
 title: Adobe Experience Cloud – Versionshinweise
 description: Vorlage für Experience Cloud-Versionshinweise
 doc-type: Versionshinweise
-last-update: März 2019
+last-update: . Oktober 2019
 author: mfrei
 translation-type: tm+mt
-source-git-commit: 04228df4d9a7279fe2c8627aeb0bb7492d34327e
+source-git-commit: 94ac88d981c552deb801877398489b1819d1fc54
 
 ---
 
@@ -42,7 +42,7 @@ Versionshinweise für die Experience Platform, Benutzeroberfläche von Experienc
 * [Mobile Services und Mobile SDK](#mobile)
 * [Administration und Entwickler](#admin)
 * [Experience Platform Launch](#launch)
-* [Sicherheitsbulletins und -hinweise](https://helpx.adobe.com/security.html) (All Adobe products)
+* [Sicherheitsbulletins und -hinweise](https://helpx.adobe.com/security.html) (Alle Adobe-Produkte)
 
 ### Core Services {#core-services}
 
