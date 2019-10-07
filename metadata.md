@@ -10,7 +10,7 @@ tutorials-url: https://helpx.adobe.com/de/experience-cloud/tutorials.html
 mini-toc-levels: '1'
 git-repo: https://github.com/AdobeDocs/release-notes.en
 index: true
-translation-type: tm+mt
+translation-type: ht
 source-git-commit: f7e667b83c7b82376ad9cf51b4495eb30b5707ed
 
 ---
@@ -20,7 +20,7 @@ source-git-commit: f7e667b83c7b82376ad9cf51b4495eb30b5707ed
 
 Die Datei metadata.md enthält Metadaten auf Repo-Ebene, die an die TOC.md-Dateien des Benutzerhandbuchs im Repo weitergegeben werden. Wenn Sie den Inhalt von metadata.md für ein Benutzerhandbuch ändern möchten, tun Sie dies in einer beliebigen TOC.md-Datei.
 
-| Metadaten | was es macht |
+| metadata | was es macht |
 |--- |--- |
 | solution-title | Wird in der Artikelkopfzeile als Link verwendet. Halten Sie sich kurz. |
 | solution-hub-url | Öffnet die helpx-Hub-Seite |
