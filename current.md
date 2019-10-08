@@ -5,7 +5,7 @@ doc-type: Versionshinweise
 last-update: Oktober 2019
 author: mfrei
 translation-type: tm+mt
-source-git-commit: 6660591c30a677b429967c0b7dbee6a306ed7f54
+source-git-commit: b4a973b8292ecfd8b203b7fac0b391e42924a7ca
 
 ---
 
@@ -117,7 +117,7 @@ Neue in Audience Manager verfügbare Funktionen, Verbesserungen und Fehlerbehebu
 **Fehlerbehebungen und Verbesserungen**
 
 * Allen Kundenkonten, die nach dem 1. Juli 2019 erstellt wurden, wird automatisch eine [!DNL Tableau]-Lizenz zugewiesen, über die sie auf ihre Berichte zugreifen können. Wenn Ihr Konto vor dem 1. Juli 2019 erstellt wurde und Sie dennoch nicht auf Ihre [!DNL Tableau]-Berichte zugreifen können, wenden Sie sich an den Kundensupport.
-* Wir haben fälschlich generierte Aktivitätsmerkmal-Mitgliedschaften für Besucherprofile entfernt, bei denen keine ID mit der Merkmaldatenquelle synchronisiert wurde (AAM-45371).
+* Wir haben einen Fehler behoben, der zu einer falschen Generierung von Aktivitätsmerkmalen und künstlich erhöhten Übereinstimmungsraten und Zielgruppengrößen führte. Nach dieser Fehlerbehebung können Sie feststellen, dass die Größe von Segmenten, die mit automatisch generierten Aktivitätsmerkmalen erstellt wurden, abnimmt. Dies ist ein normales, erwartetes Verhalten (AAM-45371).
 * Ungültige globale Geräte-IDs haben wir aus den globalen Data Sources entfernt. Siehe [Globale Datenquellen](https://docs.adobe.com/content/help/en/audience-manager/user-guide/features/data-sources/global-data-sources.html) , um zu erfahren, wie gültige Geräte-IDs aussehen sollten, um von Audience Manager akzeptiert zu werden (AAM-41259).
 * Es wurde ein Fehler behoben, durch den die Seite „Segmente“ beim Versuch, ein geschütztes Segment zu löschen, nicht mehr reagierte (AAM-49881).
 * Beim Bearbeiten von Twitter-Zielgruppen ist die Auswahl [!UICONTROL Konto] jetzt nur dann aktiv, wenn dem Ziel ein [!DNL Twitter Ads]-Konto zugewiesen wurde (AAM-49975).
