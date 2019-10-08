@@ -5,7 +5,7 @@ doc-type: Versionshinweise
 last-update: Oktober 2019
 author: mfrei
 translation-type: tm+mt
-source-git-commit: 8ef4569f130fe606dc9119a11e288f57205b7c0e
+source-git-commit: 6660591c30a677b429967c0b7dbee6a306ed7f54
 
 ---
 
@@ -81,6 +81,8 @@ For product documentation, see [Adobe Analytics Help Home](https://docs.adobe.co
 * Es wurde ein Timeout-Problem behoben, durch das Segmente in der Ad Hoc Analysis nicht geladen wurden. (AN-184654)
 * Es wurde ein Problem behoben, das auftrat, wenn die zuletzt verwendete Report Suite nach ihrer Verwendung versteckt wurde oder Sie nicht mehr über Berechtigungen für den Zugriff auf diese Report Suite verfügten. In diesem Fall können Sie sich nicht mehr über Experience Cloud anmelden. (AN-181777)
 * Es wurde ein Problem in Segmenten behoben, das die Erstellung von VRS basierend auf einem Segment erschwerte. (AN-179684)
+* Es wurde ein Problem behoben, bei dem Daten abgeschnitten wurden, wenn in seltenen Fällen eine falsche Kodierung vorhanden war. (AN-186707)
+* Yandex-Suchmaschinen werden jetzt korrekt nach Land aufgeschlüsselt. (AN-181728)
 
 ### Wichtige Hinweise für [!DNL Analytics]-Administratoren {#aa-notices}
 
