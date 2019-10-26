@@ -2,53 +2,57 @@
 title: Adobe Experience Cloud – Versionshinweise
 description: Vorlage für Experience Cloud-Versionshinweise
 doc-type: Versionshinweise
-last-update: Oktober 2019
+last-update: . November 2019
 author: mfrei
-translation-type: ht
-source-git-commit: 0371f31dcb1feb368bd8a2937a9f2d9583e208dc
+translation-type: tm+mt
+source-git-commit: 2c6076aa0af7b9a273e31b1f8919e006ff48e6b4
 
 ---
 
 
-# Adobe Experience Cloud – Versionshinweise, Oktober 2019
+# Vorzeitiger Zugriff - Versionshinweise zu Adobe Experience Cloud - November 2019
+
+> [!IMPORTANT] Diese Seite enthält Inhalte einer Vorabversion und kann vor der geplanten Veröffentlichung der Version geändert werden.
 
 Neue Funktionen und Fehlerbehebungen in Adobe Experience Cloud.
 
->[!NOTE]
->
->Abonnieren Sie [[!DNL Adobe Priority Product Update]](https://www.adobe.com/subscription/priority-product-update.html), um per E-Mail über bald verfügbare Versionen benachrichtigt zu werden. Nach dem Release veröffentlichte neue Informationen werden mit dem Veröffentlichungsdatum gekennzeichnet.
+> [!NOTE] Abonnieren Sie [[!DNL Adobe Priority Product Update]](https://www.adobe.com/subscription/priority-product-update.html), um per E-Mail über bald verfügbare Versionen benachrichtigt zu werden. Nach dem Release veröffentlichte neue Informationen werden mit dem Veröffentlichungsdatum gekennzeichnet.
 
-## Releasedatum: 10. Oktober 2019
+**Releasedatum: 30. Oktober 2019**
 
-<!-- * [Experience Cloud interface](#ecloud) -->
+* [Experience Cloud-Benutzeroberfläche](#ecloud)
 * [Experience Platform](#platform)
 * [!DNL Analytics](#analytics)
 * [Audience Manager](#aam)
 * [Experience Manager](#aem)
 * [!DNL Campaign](#ac)
-* [!DNL Target](https://docs.adobe.com/content/help/de-DE/target/using/release-notes/target-release-notes.html) (Links zur Lösungshilfe)
-* [!DNL Primetime](https://helpx.adobe.com/de/primetime/user-guide.html) (Links zur Lösungshilfe)
+* [!DNL Target](https://docs.adobe.com/content/help/en/target/using/release-notes/target-release-notes.html) (Links zur Lösungshilfe)
+* [!DNL Primetime](https://helpx.adobe.com/primetime/user-guide.html) (Links zur Lösungshilfe)
 * [!DNL Advertising Cloud](#adcloud)
 
-<!-- ## Experience Cloud interface {#ecloud}
+## Experience Cloud-Benutzeroberfläche {#ecloud}
 
-Release notes for Experience Cloud interface and product administration.
+Versionshinweise für die Experience Cloud-Benutzeroberfläche und die Produktverwaltung.
 
-* Fixed a security vulnerability to include recommended HTTP headers. (MCUI-9942)
-* Fixed an issue in switching between Analytics login companies. (MCUI-10049)
+* Die Feed-Seite wird im Dezember 2019 nicht mehr unterstützt. Suchen Sie nach einem Hinweis zur Produktvernichtung. (MCUI-10039)
+* Der Link [Mehr](https://www.adobe.com/marketing/campaign.html) erfahren für Adobe Campaign wurde über die App-Auswahl aktualisiert. (MCUI-10034)
+* Verbesserte Stabilität und Reaktionsgeschwindigkeit der Hauptplattform für die Experience Cloud-Schnittstelle. (MCUI-6822)
+* Sicherheitslücken in der Benutzeroberfläche der Experience Cloud wurden behoben. (MCUI-9942)
+* Es wurde ein kritischer Fehler in Kundenattributen behoben, der die Schemabeüberprüfung für einige Kunden blockierte. (MCUI-10024, MCUI-6479)
+* Die Zielgruppenbibliothek wurde verbessert, um Dimensionen zu entfernen, die für die Erstellung von Zielgruppen in Echtzeit nicht unterstützt werden. (MCUI-10046)
 
-For product documentation, see [Experience Cloud](https://docs.adobe.com/content/help/en/core-services/interface/experience-cloud.html). -->
+For product documentation, see [Experience Cloud](https://docs.adobe.com/content/help/en/core-services/interface/experience-cloud.html).
 
 ## Experience Platform {#platform}
 
 Versionshinweise für Experience Platform, Experience Platform Launch, Identity Service und Sicherheitsbulletins.
 
 * [Experience Platform Launch](#launch)
-* [Sicherheitsbulletins und -hinweise](https://helpx.adobe.com/de/security.html) (Alle Adobe-Produkte)
+* [Sicherheitsbulletins und -hinweise](https://helpx.adobe.com/security.html) (Alle Adobe-Produkte)
 
 ### Experience Platform Launch {#launch}
 
-Versionshinweise und die Produktdokumentation finden Sie unter [Experience Platform Launch](https://docs.adobe.com/content/help/de-DE/launch/using/intro/release-notes/current.html).
+Versionshinweise und die Produktdokumentation finden Sie unter [Experience Platform Launch](https://docs.adobe.com/content/help/en/launch/using/intro/release-notes/current.html).
 
 ## [!DNL Analytics] {#analytics}
 
@@ -58,39 +62,34 @@ Neue Funktionen und Fehlerbehebungen in Adobe Analytics:
 * [Wichtige Hinweise für Analytics-Administratoren](#aa-notices)
 * [AppMeasurement](#appm)
 
-Eine Produktdokumentation finden Sie auf der [Startseite der Adobe Analytics-Hilfe](https://docs.adobe.com/content/help/de-DE/analytics/landing/home.html).
+Eine Produktdokumentation finden Sie auf der [Startseite der Adobe Analytics-Hilfe](https://docs.adobe.com/content/help/en/analytics/landing/home.html).
 
 ### Neue Funktionen, Verbesserungen und Fehlerbehebungen in Adobe Analytics {#aa-features}
 
 | Funktion | Beschreibung |
-| -----------| ---------- |  
-| Privacy Service API: CCPA | Der California Consumer Privacy Act (CCPA) erweitert die Datenschutzrechte und den Verbraucherschutz für Einwohner von Kalifornien, USA. Die neue Regelung tritt am 1. Januar 2020 in Kraft.<br/><br/>Der CCPA bietet neue Datenschutzrechte, mit denen Verbraucher beispielsweise ihre personenbezogenen Daten einsehen und löschen oder herausfinden können, ob (und an wen) ihre Daten verkauft oder weitergegeben wurden, und mit denen sie dem Verkauf ihrer personenbezogenen Daten widersprechen können.<br/><br/>Zur Vorbereitung auf den CCPA unterstützt der Datenschutzdienst Anfragen zur Abmeldung vom Verkauf personenbezogener Daten.<br/><br/>„Privacy Service“ ist der neue Name des DSGVO-Dienstes; der Service behält alle vorherigen Funktionen und unterstützt jetzt auch den CCPA.<br/><br/>[CCPA in Analytics](https://docs.adobe.com/content/help/en/analytics/admin/data-governance/an-ccpa-overview.html)<br/><br/>[Übersicht über den Datenschutzdienst](https://www.adobe.io/apis/experiencecloud/gdpr/docs/alldocs.html#!api-specification/markdown/narrative/technical_overview/privacy_service_overview/privacy_service_overview.md) |
-| Datenschutz-Reporting: Analytics Admin Console | Wenn Sie das Datenschutz-Reporting für Analytics aktivieren, werden Report Suites verschiedene reservierte Variablen hinzugefügt.  Die Variablen unterstützen die Erfassung von Verbraucher-Einwilligungsdaten auf Trefferebene.<br/><br/>Neue Dimensionen:<br/><ul><li>Einwilligungsmanagement Opt-out</li><li>Einwilligungsmanagement Opt-in</li><li>[Variablen des Einwilligungsmanagements](https://docs.adobe.com/content/help/en/analytics/admin/data-governance/consent-variables.html)</li></ul> |
-| Audio- und Videoanalyse: Datenschutzunterstützung | Der Media Collection API wurden zwei neue Variablen hinzugefügt:<br/><ul><li>analytics.optOutServerSideForwarding</li><li>analytics.optOutShare</li></ul><br/><br/>Mit diesen optionalen Variablen kann der Status der Benutzereinwilligung zum Zeitpunkt des Treffers erfasst werden.<br/><br/>[Dokumentation zur Medienerfassungs-API](https://docs.adobe.com/content/help/de-DE/media-analytics/using/media-collection-api/mc-api-overview.html)<br/><br/>Die neuen Kontextdatenvariablen für Analytics-Einwilligungsmanagement wurden dem Federated Analytics-Formular hinzugefügt. Diese Variablen können Sie jetzt verwenden, um Abmeldungen von der Weitergabe oder vom Verkauf von Daten für Federated Analytics zu kennzeichnen.<br/><br/>[Federated-Formular herunterladen](https://docs.adobe.com/content/help/de-DE/media-analytics/using/federated-analytics.html#download-the-federated-analytics-form) |
-| Analysis Workspace: Update der Gesamtwerte der Freiformtabelle | Freiformtabellen beinhalten jetzt zwei Gesamtwerte: **[!UICONTROL Tabellensumme]** und **[!UICONTROL Gesamtwert]**. In der Tabellenzeile „Gesamt“ werden angewendete [Berichtsfilter](https://docs.adobe.com/content/help/de-DE/analytics/analyze/analysis-workspace/build-workspace-project/pagination-filtering-sorting.html) berücksichtigt. Zuvor wirkte sich nur die Segmentierung auf die Gesamtwerte aus. [Weitere Informationen](https://docs.adobe.com/content/help/de-DE/analytics/analyze/analysis-workspace/build-workspace-project/workspace-totals.html)<br/>Darüber hinaus wurden die Optionen **[!UICONTROL Gesamt anzeigen]** und **[!UICONTROL Gesamtsumme anzeigen]** zu den **[!UICONTROL Spalteneinstellungen]** hinzugefügt.<br/>Mit dieser Änderung an Freiformtabellen werden auch die abhängigen Visualisierungen (z. B. verknüpfte Darstellungen von **[!UICONTROL Zusammenfassungen]**) sowie exportierte CSV- und PDF-Daten aktualisiert. |
-| Analysis Workspace: Option zur Entfernung von „Nicht angegeben (keine)“ | Den Berichtsfiltern wurde eine einfache Funktion zum Entfernen von „Nicht angegeben (keine)“ hinzugefügt. |
-| Analysis Workspace: Wegfall der lilafarbenen Zeitkomponenten | Die lilafarbenen Zeitkomponenten (Minute, Stunde, Tag, Woche, Monat, Quartal, Jahr) wurden entfernt. Diese Zeitkomponenten haben sich immer exakt wie ihre orangefarbenen Dimensionspendants verhalten. Durch diese Änderung wird das Erlebnis also optimiert. Wenn Sie zuvor die lilafarbenen Zeitkomponenten genutzt haben, ist **keine Änderung** erforderlich.<br/>Mit dieser Änderung wurde auch der lilafarbene Bereich **[!UICONTROL Zeit]** in **[!UICONTROL Datumsbereiche]** umbenannt. |
+| -----------| ---------- | 
+| Customer Journey Analytics | Am 21. November 2019 stellt Adobe [Customer Journey Analytics](https://www.adobe.com/analytics/customer-journey-analytics.html) als Add-On zu Adobe Analytics zur Verfügung.<br><br/>Customer Journey Analytics ermöglicht Ihnen, alle Kundendaten von jedem beliebigen Kanal zu bringen — sowohl online als auch offline — in die Adobe Experience Platform ein und analysieren Sie diese Daten dann genau so, wie Sie Ihre vorhandenen digitalen Daten heute mithilfe des Analysis Workspace nutzen würden. Customer Journey Analytics bietet Ihnen die Möglichkeit, zu steuern, wie Sie Ihre Online- und Offline-Daten im Analysis Workspace mit einer beliebigen Kunden-ID verbinden, wodurch Sie letztendlich Zuordnungen, Segmentierung, Fluss, Trichteranalyse usw. vornehmen können. über Ihren gesamten Kundendatensatz in Adobe Analytics.<br><br/>Kunden von Analytics Select, Prime und Ultimate sind zum Kauf dieses Zusatzprodukts berechtigt. Weitere Informationen erhalten Sie von Ihrem Adobe-Kundenbetreuungsteam. |
+| Privacy Service API: CCPA | Der California Consumer Privacy Act (CCPA) erweitert die Datenschutzrechte und den Verbraucherschutz für Einwohner von Kalifornien, USA. Die neue Regelung tritt am 1. Januar 2020 in Kraft.<br><br/>Der CCPA bietet neue Datenschutzrechte, mit denen Verbraucher beispielsweise ihre personenbezogenen Daten einsehen und löschen oder herausfinden können, ob (und an wen) ihre Daten verkauft oder weitergegeben wurden, und mit denen sie dem Verkauf ihrer personenbezogenen Daten widersprechen können.<br><br/>Zur Vorbereitung auf den CCPA unterstützt der Datenschutzdienst Anfragen zur Abmeldung vom Verkauf personenbezogener Daten.<br><br/>„Privacy Service“ ist der neue Name des DSGVO-Dienstes; der Service behält alle vorherigen Funktionen und unterstützt jetzt auch den CCPA.<br/><br/>[CCPA in Analytics](https://docs.adobe.com/content/help/en/analytics/admin/data-governance/an-ccpa-overview.html)<br><br/>[Übersicht über den Datenschutzdienst](https://www.adobe.io/apis/experiencecloud/gdpr/docs/alldocs.html#!api-specification/markdown/narrative/technical_overview/privacy_service_overview/privacy_service_overview.md) |
+| Datenschutz-Reporting: Analytics Admin Console | Wenn Sie das Datenschutz-Reporting für Analytics aktivieren, werden Report Suites verschiedene reservierte Variablen hinzugefügt.  Die Variablen unterstützen die Erfassung von Verbraucher-Einwilligungsdaten auf Trefferebene.<br><br/>Neue Dimensionen:<br/><ul><li>Einwilligungsmanagement Opt-out</li><li>Einwilligungsmanagement Opt-in</li><li>[Variablen des Einwilligungsmanagements](https://docs.adobe.com/content/help/en/analytics/admin/data-governance/consent-variables.html)</li></ul> |
+| Audio- und Videoanalyse: Datenschutzunterstützung | Der Media Collection API wurden zwei neue Variablen hinzugefügt:<br/><ul><li>analytics.optOutServerSideForwarding</li><li>analytics.optOutShare</li></ul><br/><br/>Mit diesen optionalen Variablen kann der Status der Benutzereinwilligung zum Zeitpunkt des Treffers erfasst werden.<br/><br/>[Dokumentation zur Medienerfassungs-API](https://docs.adobe.com/content/help/en/media-analytics/using/media-collection-api/mc-api-overview.html)<br/><br/>Die neuen Kontextdatenvariablen für Analytics-Einwilligungsmanagement wurden dem Federated Analytics-Formular hinzugefügt. Diese Variablen können Sie jetzt verwenden, um Abmeldungen von der Weitergabe oder vom Verkauf von Daten für Federated Analytics zu kennzeichnen.<br/><br/>[Federated-Formular herunterladen](https://docs.adobe.com/content/help/en/media-analytics/using/federated-analytics.html#download-the-federated-analytics-form) |
 
 #### Fehlerbehebungen
 
-* Analysis Workspace: Es wurde ein Problem behoben, bei dem für die Dimensionen in der linken Leiste falsche Suchergebnisse angezeigt wurden. (AN-185065)
-* Es wurden Probleme behoben, die das Löschen bzw. das Aufheben von Veröffentlichungen in Adobe Audience Manager (AAM) verhindert haben. Die Lösung ist es, nicht zu speichern, wenn AAM nicht reagiert. (AN-185882, AN-185883, AN-184607)
-* Es wurde ein Timeout-Problem behoben, durch das Segmente in der Ad Hoc Analysis nicht geladen wurden. (AN-184654)
-* Es wurde ein Problem behoben, das auftrat, wenn die zuletzt verwendete Report Suite nach ihrer Verwendung versteckt wurde oder Sie nicht mehr über Berechtigungen für den Zugriff auf diese Report Suite verfügten. In diesem Fall können Sie sich nicht mehr über Experience Cloud anmelden. (AN-181777)
-* Es wurde ein Problem in Segmenten behoben, das die Erstellung von VRS basierend auf einem Segment erschwerte. (AN-179684)
-* Es wurde ein Problem behoben, bei dem Daten abgeschnitten wurden, wenn in seltenen Fällen eine falsche Kodierung vorhanden war. (AN-186707)
-* Yandex-Suchmaschinen werden jetzt korrekt nach Land aufgeschlüsselt. (AN-181728)
+* Es wurde ein Fehler behoben, der beim Löschen von Datumsbereichen, die "Unbekannter Benutzer"gehörten, zu einem Fehler führte. (AN-185540)
 
 ### Wichtige Hinweise für [!DNL Analytics]-Administratoren {#aa-notices}
 
 | Hinweis | Hinzugefügt oder aktualisiert am | Beschreibung |
 | -----------| ---------- | ---------- |
+| EOL of **[!UICONTROL View Archive]** Option | 30. Oktober 2019 | Bei der Ankündigung des Enddatums Januar 2020 für die Option Archiv **** anzeigen im Dashboard-Manager ("**[!UICONTROL Komponenten"&gt; "Dashboards]**"). |
+| EOL der Option **[!UICONTROL IP-Anmeldebeschränkungen]** erzwingen | 30. Oktober 2019 | Bei der Ankündigung des Enddatums für die IP-Anmeldung in der Whitelist-Funktion (IP-Anmeldebeschränkungen **[!UICONTROL erzwingen]**) unter " **[!UICONTROL Admin"&gt; "Unternehmenseinstellungen"&gt; "Sicherheit]** ". |
+| Verarbeitung zu SameSite-Attribut für Cookies aktualisiert | 15. Oktober 2019 | Im August 2019 gab Adobe bekannt, dass die Einstellung "SameSite-Cookie"allen von Analytics eingerichteten Cookies hinzugefügt wurde. Eine Aktualisierung der Logik wird angewendet, wenn:<ul><li>Bei allen Drittanbieter-Cookies, die nicht auf Webkit basieren, ist das Attribut SameSite auf `none`eingestellt.</li><li>Für alle anderen Cookies ist nicht das Attribut SameSite festgelegt.</li></ul> |
 | Ende der Unterstützung für TLS 1.1 | 3. Oktober 2019 | Ab dem 31. März 2020 unterstützt Adobe Analytics TLS 1.1 nicht mehr. Diese Änderung ist Teil unserer laufenden Bemühungen, höchstmögliche Sicherheit von Kundendaten zu gewährleisten. |
 | FTP-Broker in San Jose endet für London und Singapur | Juli 2020 | Für Kunden in London und Singapur wird die Datenvermittlung zwischen den beiden Städten und dem Rechenzentrum in San Jose ([ftp.omniture.com](ftp://ftp.omniture.com/)) nicht mehr unterstützt.<br/><ul><li>Für London verwenden Sie [ftp3.omniture.com](ftp://ftp3.omniture.com/)</li><li>Für Singapur verwenden Sie [ftp4.omniture.com](ftp://ftp4.omniture.com/)</li> |
-| Aktualisierung der Summen der Freiformtabellen in Analysis Workspace | 12. September 2019 | Ab Oktober 2019 werden in den Freiformtabellenzeilen „Gesamt“ die angewendeten [Berichtsfilter](https://docs.adobe.com/content/help/de-DE/analytics/analyze/analysis-workspace/build-workspace-project/pagination-filtering-sorting.html) berücksichtigt. Bisher wurde bei den Summen nur die Segmentierung berücksichtigt. Mit dieser Änderung werden auch die entsprechenden Visualisierungen aktualisiert (z. B. verknüpfte Darstellungen von [!UICONTROL Zusammenfassungen]) sowie exportierte CSV- und PDF-Daten. |
+| Aktualisierung der Summen der Freiformtabellen in Analysis Workspace | 12. September 2019 | Ab Oktober 2019 werden in den Freiformtabellenzeilen „Gesamt“ die angewendeten [Berichtsfilter](https://docs.adobe.com/content/help/en/analytics/analyze/analysis-workspace/build-workspace-project/pagination-filtering-sorting.html) berücksichtigt. Bisher wurde bei den Summen nur die Segmentierung berücksichtigt. Mit dieser Änderung werden auch die entsprechenden Visualisierungen aktualisiert (z. B. verknüpfte Darstellungen von [!UICONTROL Zusammenfassungen]) sowie exportierte CSV- und PDF-Daten. |
 | Bevorstehende Änderung bezüglich des Felds `createDate` für Analytics-Benutzer | 30. August 2019 | Im Oktober oder November 2019 wird das Feld `createDate` für Analytics-Benutzer von der US Pacific Time auf einen korrekt formatierten Datums-/Uhrzeitwert mit Zeitzoneninformationen aktualisiert. (AN-183468) |
 | Unterstützung für frühere Unterschiede bei Zeitzonen | 8. August 2019 | Analytics handhabt jetzt automatisch Unterschiede bei Zeitzonen für Treffer mit Zeitstempel. Nach dieser Änderung am 8. August müssen die unterschiedlichen Zeitzonen von Daten, die nachträglich verarbeitet werden sollen, nicht mehr vor dem Laden angepasst werden. |
-| Einschränkungen für Classification Rule Builder | Hinzugefügt am 5. Juni 2019 | Diese Beschränkungen sind nicht neu, sondern wurden der Dokumentation [hier](https://docs.adobe.com/content/help/de-DE/analytics/components/classifications/classifications-rulebuilder/classification-rule-builder.html) hinzugefügt. |
+| Einschränkungen für Classification Rule Builder | Hinzugefügt am 5. Juni 2019 | Diese Beschränkungen sind nicht neu, sondern wurden der Dokumentation [hier](https://docs.adobe.com/content/help/en/analytics/components/classifications/classifications-rulebuilder/classification-rule-builder.html) hinzugefügt. |
 | Einschränkungen des neuen Segmentoperators | Hinzugefügt am 31. Mai 2019 | Ab dem 18. Juli 2019 sind die Segmentoperatoren _enthält beliebig viele_, _enthält keinerlei_, _enthält alle von_ und _enthält nicht alle_ auf 100 Wörter pro Eingabefeld beschränkt. Die Beschränkung wird nach diesem Datum auf alle neuen und geänderten Segmente angewendet. Vorhandene Segmente, die die Beschränkung überschreiten, werden weiterhin unterstützt, können jedoch erst geändert oder gespeichert werden, wenn das Eingabefeld reduziert wurde. Diese Grenzwerte werden im Rahmen kontinuierlicher Bemühungen zur Verbesserung der Abfrageleistung angewendet. |
 | Änderungen der Unterstützung für die Classifications **[!UICONTROL Datumsaktiviert]** und **[!UICONTROL Numerisch 2]** | Aktualisiert am 28. Mai 2019 | Die Möglichkeit, die Klassifizierungen „Numerisch 2“ und „Datumsaktiviert“ zu importieren, wurde aus der Codebasis entfernt. Diese Änderung wurde mit der Wartungsversion vom Juli 2019 wirksam. Wenn die Importdatei die Spalte „Numerisch“ oder „Datumsaktiviert“ enthält, werden diese Zellen still ignoriert und alle anderen Daten in dieser Datei werden normal importiert. <br/>Vorhandene Classifications können weiterhin über den Standard-Classification-Arbeitsablauf exportiert werden und sind weiterhin in Berichten verfügbar. |
 | Änderung bei Berechnungen der _Berichtssumme_ | Aktualisiert am 9. Juli 2019 | Am **18. Juni 2019** wurden in Adobe Analytics die Berechnungen von _Berichtssummen_ für alle Dimensionen und Metriken vereinheitlicht. Dadurch änderten sich die Gesamtsummen bei manchen Berichten (vor allem bei Berichten zu Eigenschaften oder Kundenattributen). Vor dieser Änderung kam es vor, dass in manchen Berichtssummen der Zeileneintrag _Unspecified_ uneinheitlich ein- oder ausgeschlossen wurde, und zwar unabhängig davon, ob _Unspecified_ im Bericht vorkam oder nicht. <br/>Ab 18. Juni 2019 wird _Nicht angegeben_ immer in Berichtssummen angezeigt, auch wenn dieser Wert nicht als Zeileneintrag im Bericht zu sehen ist. Darüber hinaus können Segmente, die die Logik _existiert_ oder _existiert nicht_ verwenden, für einige Dimensionen nach dieser Änderung andere Ergebnisse anzeigen, insbesondere Dimensionen, bei denen _Nicht angegeben_ einen speziellen Namen wie den Zeileneintrag „Eingegeben/Mit Lesezeichen versehen“ für die Dimension „Typ der verweisenden Stelle“ oder den Zeileneintrag „Sonstige“ für die Dimension „Gerätetyp“ verwendet werden. Diese Änderung betrifft Analysis Workspace, Reports &amp; Analytics, Ad Hoc Analysis, Report Builder und die Reporting-API. |
@@ -105,107 +104,108 @@ Eine Produktdokumentation finden Sie auf der [Startseite der Adobe Analytics-Hil
 
 ### [!DNL AppMeasurement] {#appm}
 
-Siehe [Versionshinweise zu AppMeasurement für JavaScript](https://docs.adobe.com/content/help/de-DE/analytics/implementation/appmeasurement-release-notes/c-release-notes-mjs.html).
+Siehe [Versionshinweise zu AppMeasurement für JavaScript](https://docs.adobe.com/content/help/en/analytics/implementation/appmeasurement-release-notes/c-release-notes-mjs.html).
 
 ## Audience Manager {#aam}
 
 Neue in Audience Manager verfügbare Funktionen, Verbesserungen und Fehlerbehebungen.
 
+| Funktion | Beschreibung |
+|--- |----|
+| [Erweiterungen der Profile Merge Rules](https://docs.adobe.com/help/en/audience-manager/user-guide/features/profile-merge-rules/merge-rules-overview.html) | Wir haben eine Reihe von Verbesserungen für [!UICONTROL Regeln]zur Profilzusammenführung veröffentlicht: <ul><li>Die Segmentbewertung wird jetzt für bis zu 100 Geräte im Batch unterstützt.</li><li>Wir haben die Berichtsgenauigkeit für Eigenschaften- und Segmentpopulationen verbessert.</li><li>Die Genauigkeit von Batch-Dateien, die mit geräteübergreifenden IDs generiert wurden, wurde verbessert.</li><li>Die Dokumentation wurde mit detaillierteren Anwendungsfällen für jede Regel aktualisiert. Siehe [Allgemeine Anwendungsfälle für Regeln](https://docs.adobe.com/help/en/audience-manager/user-guide/features/profile-merge-rules/merge-rule-targeting-options.html)zur Profilzusammenführung, Anwendungsfälle[für ](https://docs.adobe.com/help/en/audience-manager/user-guide/features/profile-merge-rules/external-graph-use-cases.html)externe Gerätediagramme und Anwendungsfälle für [Profillinkdiagramme](https://docs.adobe.com/help/en/audience-manager/user-guide/features/profile-merge-rules/profile-link-use-case.html).</li></ul> |
+| [Massenverwaltungswerkzeuge](https://docs.adobe.com/content/help/en/audience-manager/user-guide/reference/bulk-management-tools/bulk-management-intro.html) | Wir haben eine neue Version des Bulk Management-Arbeitsblatts herausgegeben, das auf MacOS- und Microsoft Windows-Betriebssystemen funktioniert und die Experience Cloud-Anmeldung unterstützt. |
+| [HTTP Strict-Transport-Security](https://docs.adobe.com/help/en/audience-manager/user-guide/overview/data-security-and-privacy/data-security.html#hsts) | Wir haben Unterstützung für [!DNL HTTP Strict-Transport-Security]eine Web-Sicherheitsrichtlinie hinzugefügt, die vor Cookie-Hijacking und Protokoll-Downgrade-Angriffen schützt. |
+
 **Fehlerbehebungen und Verbesserungen**
 
-* Allen Kundenkonten, die nach dem 1. Juli 2019 erstellt wurden, wird automatisch eine [!DNL Tableau]-Lizenz zugewiesen, über die sie auf ihre Berichte zugreifen können. Wenn Ihr Konto vor dem 1. Juli 2019 erstellt wurde und Sie dennoch nicht auf Ihre [!DNL Tableau]-Berichte zugreifen können, wenden Sie sich an den Kundensupport.
-* Wir haben einen Fehler behoben, der zu einer falschen Generierung von Aktivitätsmerkmalen und künstlich erhöhten Übereinstimmungsraten sowie Zielgruppengrößen führte. Nach dieser Fehlerbehebung nimmt die Größe von Segmenten eventuell ab, die mit automatisch generierten Aktivitätsmerkmalen erstellt wurden. Dies ist ein normales, erwartetes Verhalten (AAM-45371).
-* Ungültige globale Geräte-IDs haben wir aus den globalen Data Sources entfernt. Siehe [Globale Data Sources](https://docs.adobe.com/content/help/de-DE/audience-manager/user-guide/features/data-sources/global-data-sources.html), um zu erfahren, wie gültige Geräte-IDs aussehen sollten, um von Audience Manager akzeptiert zu werden (AAM-41259).
-* Es wurde ein Fehler behoben, durch den die Seite „Segmente“ beim Versuch, ein geschütztes Segment zu löschen, nicht mehr reagierte (AAM-49881).
-* Beim Bearbeiten von Twitter-Zielgruppen ist die Auswahl [!UICONTROL Konto] jetzt nur dann aktiv, wenn dem Ziel ein [!DNL Twitter Ads]-Konto zugewiesen wurde (AAM-49975).
-* Es wurde ein Fehler behoben, der Benutzer daran hinderte, [!UICONTROL Audience Marketplace]-Datenfeeds zu deaktivieren, wenn Abonnements deaktiviert waren (AAM-49640).
-* Im Zusammenhang mit der Barrierefreiheit der Audience Manager-Benutzeroberfläche wurden verschiedene Verbesserungen vorgenommen.
+* Es wurde ein Fehler in Audience Marketplace behoben, durch den die Benutzeroberfläche den Fehler 409 zurückgab, als Kunden die monatliche Segmentnutzung einreichten. (AAM-50825)
+* Es wurde ein Fehler in Abgeleiteten Signalen behoben, durch den Kunden kurzfristig keine neuen abgeleiteten Signale erstellen konnten. (AAM-50968)
+* Es wurde ein Fehler in People-Based Destination behoben, durch den Kunden den Namen eines Ziels nicht ändern konnten. (AAM-51025)
+* Es wurde ein Fehler behoben, durch den einige Benutzer doppelte Konten hatten, um sich bei der Benutzeroberfläche von Audience Manager anzumelden. Aufgrund der Berechtigungen, die mit den duplizierten Konten verknüpft sind, konnten diese Benutzer nicht auf einige Teile der Benutzeroberfläche zugreifen und Vorgänge durchführen. (AAM-50818)
+* Die Zugänglichkeit der Benutzeroberfläche von Audience Manager wurde weiter verbessert. (AAM-48932, AAM-49043, AAM-49054, AAM-49371, AAM-49375)
 
 ## Experience Manager {#aem}
 
 Neue Funktionen, Fehlerbehebungen und Aktualisierungen in Adobe Experience Manager (AEM). Adobe empfiehlt Kunden mit lokalen Implementierungen, die aktuellen Patches zu implementieren, um mehr Stabilität, Sicherheit und Leistung zu erzielen.
 
-### Produktversion
+### Produktversionen
 
-* **Cloud Manager 2019.9.0**
+* **Brand Portal 6.4.5**
 
-   * Cloud Manager 2019.9.0, veröffentlicht am 12. September 2019, aktualisiert die Kriterien für Sicherheitstests, fügt herunterladbare Überwachungsdiagramme hinzu und behebt einige von Kunden gemeldete Probleme mit der Benutzerfreundlichkeit.
-   * [Versionshinweise](https://docs.adobe.com/content/help/de-DE/experience-manager-cloud-manager/using/release-notes/release-notes-current.html)
+   Adobe Experience Manager Assets Brand Portal 6.4.5 ist eine Version mit Funktionen, die Benutzern von Markenportalen (externe Agenturen/Teams) die Möglichkeit geben soll, Inhalte in das Markenportal hochzuladen und auf AEM Assets zu veröffentlichen, ohne auf die Autorenumgebung zugreifen zu müssen. Diese Funktion wird als [Asset-Sourcing im Markenportal](https://docs.adobe.com/content/help/en/experience-manager-brand-portal/using/asset-sourcing-in-brand-portal/using-asset-sourcing/brand-portal-overiew-using-asset-sourcing.html)bezeichnet und verbessert die Kundenerfahrung, indem eine bidirektionale Methode zur Verfügung gestellt wird, mit der Benutzer Assets mit anderen global verteilten Markenportalen-Benutzern teilen und hinzufügen können.
 
-### Produktwartung
+   Siehe [Neue Funktionen im AEM Assets-Markenportal](https://docs.adobe.com/content/help/en/experience-manager-brand-portal/using/introduction/whats-new.html).
 
-* **AEM 6.3.3.6**
+   See [Release notes](https://docs.adobe.com/content/help/en/experience-manager-brand-portal/using/introduction/brand-portal-release-notes.html).
 
-   AEM 6.3 Service Pack 3, Cumulative Fix Pack 6 (6.3.3.6 vom 25. September 2019) ist ein wichtiges Update, das für Kunden wichtige Fehlerbehebungen enthält, die seit dem allgemeinen Release von AEM 6.3 im April 2017 veröffentlicht wurden.
-   * [Versionshinweise](https://helpx.adobe.com/de/experience-manager/release-notes—aem-6-3-cumulative-fix-pack.html)
-   * [CFP-Versionen für AEM Forms](https://helpx.adobe.com/de/aem-forms/kb/aem-forms-releases.html)
+* **Automatisierter Konvertierungsdienst für AEM Forms**
 
-* **AEM 6.4.6.0**
+   Der Dienst "Automatisierte Formularkonvertierung"beschleunigt die Digitalisierung und Modernisierung der Datenerfassungserfahrung durch die automatische Konvertierung von PDF-Formularen in adaptive Formulare. Der Dienst mit Adobe Sensei konvertiert Ihre PDF-Formulare automatisch in gerätefreundliche, reaktionsfähige und HTML5-basierte adaptive Formulare. Bei der Nutzung der vorhandenen Investitionen in PDF-Formulare und XFA wendet der Dienst während der Konvertierung auch geeignete Überprüfungen, Stile und Layouts auf adaptive Formularfelder an.
 
-   AEM 6.4 Service Pack 6.0 (6.4.6.0 vom 19. September 2019) ist ein Update, das für Kunden wichtige Fehlerbehebungen enthält, die seit dem allgemeinen Release von AEM 6.4 im April 2018 veröffentlicht wurden.
-   * [Versionshinweise](https://helpx.adobe.com/de/experience-manager/6-4/release-notes/sp-release-notes.html)
-   * [CFP-Versionen für AEM Forms](https://helpx.adobe.com/de/aem-forms/kb/aem-forms-releases.html)
+   Siehe Automatischer Konvertierungsdienst für [Adobe Experience Manager Forms](https://docs.adobe.com/content/help/en/aem-forms-automated-conversion-service/table-of-contents/introduction.html).
 
-* **AEM 6.5.2.0**
-AEM 6.5 Service Pack 2.0 (6.5.2.0 vom 19. September 2019) ist ein wichtiges Update, das für Kunden wichtige Fehlerbehebungen enthält, die seit dem allgemeinen Release von AEM 6.5 im April 2019 veröffentlicht wurden.
-   * [Versionshinweise](https://helpx.adobe.com/de/experience-manager/6-5/release-notes/sp-release-notes.html)
-   * [CFP-Versionen für AEM Forms](https://helpx.adobe.com/de/aem-forms/kb/aem-forms-releases.html)
+* **Cloud Manager 2019.10.0**
+
+   Die allgemeinen Versionshinweise für Cloud Manager 2019.10.0 sind jetzt verfügbar. In den Hinweisen werden auch Aktualisierungen der Implementierungsschritte und die Handhabung der Projektversion aufgeführt.
+
+   Siehe [Cloud Manager 2019.10.0 - Versionshinweise](https://docs.adobe.com/content/help/en/experience-manager-cloud-manager/using/release-notes/release-notes-current.html).
 
 ### Selbsthilfe
 
-* **Scene7: Workflow zum erneuten Verarbeiten von Assets**
+* **Activity Map**
 
-   Sie können jetzt Assets in Ordnern erneut verarbeiten, die bereits über ein bestehendes Verarbeitungsprofil verfügen, das Sie später geändert haben.
-Siehe [Neuverarbeitung von Assets in einem Ordner, nachdem Sie das Verarbeitungsprofil bearbeitet haben](https://helpx.adobe.com/de/experience-manager/6-5/assets/using/processing-profiles.html#Reprocessingassetsinafolderafteryouhaveediteditsprocessingprofile).
+   Aufgrund von Sicherheitsänderungen in der Adobe Analytics-API ist es nicht mehr möglich, die in AEM enthaltene Version von Activity Map zu verwenden. Siehe [Verbindung zu Adobe Analytics](https://helpx.adobe.com/experience-manager/6-5/sites/administering/using/adobeanalytics-connect.html#ConfiguringtheConnectiontoAdobeAnalytics)konfigurieren.
 
-* **Integration von Dynamic Media Viewers in Adobe Analytics und Adobe Launch**
+   Sie sollten jetzt das [Activity Map-Browser-Plugin](https://docs.adobe.com/content/help/en/analytics/analyze/activity-map/getting-started/get-started-users/activitymap-install.html) für Chrome, Firefox oder Internet Explorer verwenden, wie von Adobe Analytics bereitgestellt.
 
-   Mit der Erweiterung „Dynamic Media Viewers“ für Adobe Launch und der Veröffentlichung von Dynamic Media Viewers 5.13 können Kunden mit Dynamic Media, Adobe Analytics und Adobe Launch Viewers-spezifische Ereignisse und Daten in ihrer Adobe Launch-Konfiguration verwenden.
-Siehe [Integration von Dynamic Media Viewers in Adobe Analytics und Adobe Launch](https://helpx.adobe.com/de/experience-manager/6-5/assets/using/launch.html).
+* **Anleitung zu Best Practices für AEM Screens-Projekte**
 
-* **AEM-Desktopanwendung**
+   Der neue Leitfaden für _Best Practices für AEM Screens_ bietet umfassende Einblicke und praktische Ratschläge zur Vorstellung, Entwicklung und Einbindung vorsätzlicher Kundenerlebnisse in Ihre digitale Signaturimplementierung. Darüber hinaus wird erläutert, wie Sie mithilfe bewährter Verfahren positive Auswirkungen auf Ihr Unternehmen erzielen können, während Sie gleichzeitig ein Projekt zur digitalen Signatur in AEM Screens bereitstellen.
 
-   Version 2.0 der AEM-Desktopanwendung ist jetzt für Kreativ-, Marketing- und Geschäftsexperten verfügbar, die mit AEM Assets arbeiten.
-Weitere Informationen erhalten Sie in den [Versionshinweisen der AEM-Desktopanwendung.](https://docs.adobe.com/content/help/en/experience-manager-desktop-app/using/release-notes.html)
+   Siehe [Best Practices-Handbuch für AEM Screens-Projekte](https://docs.adobe.com/content/help/en/experience-manager-screens/using/about-guide.html).
 
-* **Kernkomponenten**
-   * Erfahren Sie mehr über die Lokalisierungsfunktionen von Core Components und ihre Funktionsweise mit AEM-Vorlagen.
-      [Siehe Beispiel](https://docs.adobe.com/content/help/de-DE/experience-manager-core-components/using/get-started/localization.html).
-   * Core Components 2.6.0 führt eine „Experience Fragment“-Komponente ein. Die Komponente ist jetzt gemeinsam mit der [Erstellungsdokumentation](https://docs.adobe.com/content/help/de-DE/experience-manager-core-components/using/introduction.html), den [Entwicklerdetails und dem Projektdownload auf GitHub](https://github.com/adobe/aem-core-wcm-components) verfügbar.
+* **Headless Experience Management**
 
-* **AEM Assets**
-   * Es ist eine neue Dokumentation für visuelle/Ähnlichkeitssuchen verfügbar.
-Siehe [Suchen ähnlicher Bilder](https://helpx.adobe.com/de/experience-manager/6-5/assets/using/search-assets.html#visualsearch).
-   * Verbundene Assets verwenden jetzt zusätzlich zu Bild-Dateiformaten auch Dokumente, die in Remote-DAM-Implementierungen verfügbar sind.
-Siehe [Verwenden von verbundenen Assets, um DAM-Assets in AEM Sites freizugeben](https://helpx.adobe.com/de/experience-manager/6-5/assets/using/use-assets-across-connected-assets-instances.html).
-   * Es wurden neue Inhalte für Asset-Suche und -Erkennung hinzugefügt. Unter dem Thema _Assets in AEM suchen_ finden Sie alle nötigen Informationen zu Verwendung, Konfiguration und Fehlerbehebung sowie Einschränkungen und Tipps.
-Siehe [Suchen von Assets in AEM](https://helpx.adobe.com/de/experience-manager/6-5/assets/using/search-assets.html).
+   Funktionen des [Remote Content Renderer](https://helpx.adobe.com/experience-manager/6-5/sites/developing/using/spa-ssr.html#main-pars_header_450130848) , der für die serverseitige Wiedergabe von Einzelseitenanwendungen verwendet wird, sind jetzt dokumentiert.
+
+* **SPA und serverseitiges Rendering**
+
+   Sie können den Renderdienst für Remote-Inhalte, den Ihre AEM-basierten SPAs für das serverseitige Rendering verwenden, erweitern und anpassen, um Ihren Anforderungen zu entsprechen.
+
+   Siehe [SPA- und serverseitiges Rendering](https://helpx.adobe.com/experience-manager/6-5/sites/developing/using/spa-ssr.html#RemoteContentRenderer).
+
+* **AEM Project Archetyp**
+
+   Der AEM Project Archetype erstellt ein Adobe Experience Manager-Projekt mit minimalen Best Practices als Ausgangspunkt für Ihre eigenen AEM-Projekte. Mit den Eigenschaften, die bei Verwendung dieses Archetyps angegeben werden müssen, können Sie die Namen für alle Teile dieses Projekts angeben sowie bestimmte optionale Funktionen steuern.
+
+   Siehe [AEM-Projektarchiv](https://docs.adobe.com/content/help/en/experience-manager-core-components/using/developing/archetype/overview.html).
+
+* **Aktualisierungen der AEM-Dokumentation**
+
+   Lesen Sie mehr über wichtige Dokumentationsänderungen und Aktualisierungen für Adobe Experience Manager in den letzten drei Monaten.
+
+   Siehe [AEM-Dokumentation: Jüngste Aktualisierungen der Dokumentation](https://helpx.adobe.com/experience-manager/documentation-updates.html).
 
 ### Zusätzliche Ressourcen
 
-* [AEM 6.5 Schulung und Support – Startseite](https://helpx.adobe.com/de/support/experience-manager/6-5.html)
-* [AEM 6.4 Schulung und Support – Startseite](https://helpx.adobe.com/de/support/experience-manager/6-4.html)
-* [AEM 6.3 Schulung und Support – Startseite](https://helpx.adobe.com/de/support/experience-manager/6-3.html)
-* [AEM 6.2 Schulung und Support – Startseite](https://helpx.adobe.com/de/support/experience-manager/6-2.html)
-* [Cloud Manager-Benutzerhandbuch](https://helpx.adobe.com/de/experience-manager/cloud-manager/user-guide.html)
-* [Ältere Versionen der AEM-Dokumentation](https://helpx.adobe.com/de/experience-manager/aem-previous-versions.html)
-* [Startseite der Hilfe zu Dynamic Media Classic](https://docs.adobe.com/content/help/de-DE/dynamic-media-classic/using/home.html)
+* [AEM 6.5 Schulung und Support – Startseite](https://helpx.adobe.com/support/experience-manager/6-5.html)
+* [AEM 6.4 Schulung und Support – Startseite](https://helpx.adobe.com/support/experience-manager/6-4.html)
+* [AEM 6.3 Schulung und Support – Startseite](https://helpx.adobe.com/support/experience-manager/6-3.html)
+* [AEM 6.2 Schulung und Support – Startseite](https://helpx.adobe.com/support/experience-manager/6-2.html)
+* [Cloud Manager-Benutzerhandbuch](https://helpx.adobe.com/experience-manager/cloud-manager/user-guide.html)
+* [Ältere Versionen der AEM-Dokumentation](https://helpx.adobe.com/experience-manager/aem-previous-versions.html)
+* [Startseite der Hilfe zu Dynamic Media Classic](https://docs.adobe.com/content/help/en/dynamic-media-classic/using/home.html)
 * [Versionshinweise zu Dynamic Media](https://marketing.adobe.com/resources/help/en_US/s7/release_notes/index.html)
-* [Livefyre-Versionshinweise](https://docs.adobe.com/content/help/de-DE/livefyre/using/release-notes/c-rn.translate.html)
+* [Livefyre-Versionshinweise](https://marketing.adobe.com/resources/help/en_US/livefyre/c_rn.html)
 
 ## [!DNL Campaign] {#ac}
 
 Adobe Campaign bietet die Möglichkeit, direkte Nachrichten über Online- und Offline-Marketing-Kanäle intuitiv und automatisiert zu übermitteln. Sie können nun vorhersagen, was Ihre Kunden wünschen, und ihnen Erlebnisse bieten, die Sie anhand ihrer Gewohnheiten und Vorlieben ermittelt haben.
 
-### Adobe Campaign Classic
+### Dokumentationsressourcen
 
-* [Campaign Classic 19.1.4 Update](https://docs.campaign.adobe.com/doc/AC/de/RN.html#9032) – Build 9032
-* [Campaign Classic 19.1.6 Update](https://docs.adobe.com/content/help/en/campaign-classic/using/release-notes/latest-release.html#release-19-1-6-build-9035) – Build 9035
-
-### Zusätzliche Ressourcen
-
-* Adobe Campaign Standard: [Dokumentation](https://helpx.adobe.com/de/support/campaign/standard.html) – [Versionshinweise](https://docs.adobe.com/content/help/de-DE/campaign-standard/using/release-notes/release-notes.html) – [Videoanleitungen](https://docs.adobe.com/content/help/en/campaign-learn/campaign-standard-tutorials/overview.html) – [Versionsplanung](https://helpx.adobe.com/de/campaign/kb/acs-release-planning.html)
-* Adobe Campaign Classic: [Dokumentation](https://helpx.adobe.com/de/support/campaign/classic.html) – [Versionshinweise](https://docs.campaign.adobe.com/doc/AC/de/RN.html) – [Videoanleitungen](https://docs.adobe.com/content/help/en/campaign-learn/campaign-classic-tutorials/overview.html)
+* Adobe Campaign Standard: [Dokumentation](https://helpx.adobe.com/support/campaign/standard.html) – [Versionshinweise](https://docs.adobe.com/content/help/en/campaign-standard/using/release-notes/release-notes.html) – [Videoanleitungen](https://docs.adobe.com/content/help/en/campaign-learn/campaign-standard-tutorials/overview.html) – [Versionsplanung](https://helpx.adobe.com/campaign/kb/acs-release-planning.html)
+* Adobe Campaign Classic: [Dokumentation](https://helpx.adobe.com/support/campaign/classic.html) – [Versionshinweise](https://docs.campaign.adobe.com/doc/AC/en/RN.html) – [Videoanleitungen](https://docs.adobe.com/content/help/en/campaign-learn/campaign-classic-tutorials/overview.html)
 
 ## Advertising Cloud {#adcloud}
 
