@@ -3,7 +3,7 @@ cloud: experience-cloud
 product: Experience Cloud
 user-guide-title: Adobe Experience Cloud – Versionshinweise
 user-guide-url: https://www.adobe.com
-translation-type: tm+mt
+translation-type: ht
 source-git-commit: 2c6076aa0af7b9a273e31b1f8919e006ff48e6b4
 
 ---
@@ -38,7 +38,7 @@ source-git-commit: 2c6076aa0af7b9a273e31b1f8919e006ff48e6b4
       + [Januar 2018](c-legacy-releases/2018/01182018.md)
    + 2017 {#2017}
       + [November 2017](c-legacy-releases/2017/11092017.md)
-      + [Oktober 2017](c-legacy-releases/2017/10262017.md)
+      + [Oktober 2017](c-legacy-releases/2017/10262017.md)
       + [September 2017](c-legacy-releases/2017/09212017.md)
       + [August 2017](c-legacy-releases/2017/08172017.md)
       + [Juli 2017](c-legacy-releases/2017/07202017.md)
@@ -50,7 +50,7 @@ source-git-commit: 2c6076aa0af7b9a273e31b1f8919e006ff48e6b4
       + [Januar 2017](c-legacy-releases/2017/01192017.md)
    + 2016 {#2016}
       + [November 2016](c-legacy-releases/2016/11102016.md)
-      + [Oktober 2016](c-legacy-releases/2016/10202016.md)
+      + [Oktober 2016](c-legacy-releases/2016/10202016.md)
       + [September 2016](c-legacy-releases/2016/09152016.md)
       + [August 2016](c-legacy-releases/2016/08182016.md)
       + [Juli 2016](c-legacy-releases/2016/07212016.md)
@@ -62,7 +62,7 @@ source-git-commit: 2c6076aa0af7b9a273e31b1f8919e006ff48e6b4
       + [Januar 2016](c-legacy-releases/2016/01212016.md)
    + 2015 {#2015}
       + [November 2015](c-legacy-releases/2015/11052015.md)
-      + [Oktober 2015](c-legacy-releases/2015/10152015.md)
+      + [Oktober 2015](c-legacy-releases/2015/10152015.md)
       + [September 2015](c-legacy-releases/2015/09172015.md)
       + [August 2015](c-legacy-releases/2015/08202015.md)
       + [Juli 2015](c-legacy-releases/2015/07162015.md)
