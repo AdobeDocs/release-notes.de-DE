@@ -5,7 +5,7 @@ doc-type: Versionshinweise
 last-update: November 2019
 author: mfrei
 translation-type: tm+mt
-source-git-commit: 32fa8a1156cafb4a54bae4d57b125efbb781e64d
+source-git-commit: 4dbc8703a58261a57deae59effa22fc89faaad32
 
 ---
 
@@ -26,7 +26,7 @@ Neue Funktionen und Fehlerbehebungen in Adobe Experience Cloud.
 * [!DNL Campaign](#ac)
 * [!DNL Target](https://docs.adobe.com/content/help/en/target/using/release-notes/target-release-notes.html) (Links zur Lösungshilfe)
 * [!DNL Primetime](https://helpx.adobe.com/primetime/user-guide.html) (Links zur Lösungshilfe)
-* [!DNL Advertising Cloud](#adcloud)
+* [!DNL Advertising Cloud](#adcloud) (Aktualisiert 1/11)
 
 Suchen Sie nach der Hilfe nach Hause? See [Experience Cloud Learn &amp; Support](https://helpx.adobe.com/support/experience-cloud.html).
 
@@ -113,6 +113,7 @@ Neue in Audience Manager verfügbare Funktionen, Verbesserungen und Fehlerbehebu
 | Funktion | Beschreibung |
 |--- |----|
 | [Verbesserungen bei den Regeln zur Profilzusammenführung](https://docs.adobe.com/help/en/audience-manager/user-guide/features/profile-merge-rules/merge-rules-overview.html) | Adobe hat eine Reihe von Verbesserungen für die [!UICONTROL Regeln zur Profilzusammenführung] veröffentlicht: <ul><li>Die Bewertung von Segmenten wird nun für Batches mit bis zu 100 Geräten unterstützt.</li><li>Die Genauigkeit von Berichten zur Eigenschafts- und Segmentpopulationen wurde optimiert.</li><li>Die Genauigkeit von Batch-Dateien, die mit geräteübergreifenden IDs generiert wurden, wurde optimiert.</li><li>Die Dokumentation wurde mit detaillierteren Anwendungsfällen für die einzelnen Regeln aktualisiert. Siehe [Allgemeine Anwendungsfälle für Regeln zur Profilzusammenführung](https://docs.adobe.com/help/en/audience-manager/user-guide/features/profile-merge-rules/merge-rule-targeting-options.html), [Anwendungsbeispiele für Diagramme externer Geräte](https://docs.adobe.com/help/en/audience-manager/user-guide/features/profile-merge-rules/external-graph-use-cases.html) und [Anwendungsfälle des Profillink-Gerätediagramms](https://docs.adobe.com/help/en/audience-manager/user-guide/features/profile-merge-rules/profile-link-use-case.html).</li></ul> |
+| [Intelligente Recommendations for Audience Marketplace-Daten, powered by Adobe Sensei](https://docs.adobe.com/content/help/en/audience-manager/user-guide/features/segments/trait-recommendations.html) | Bei Eigenschaften-Empfehlungen erhalten Sie beim Erstellen oder Bearbeiten eines Segments im [Segmentaufbau](https://docs.adobe.com/content/help/en/audience-manager/user-guide/features/segments/segment-builder.html)nun Empfehlungen zu zusätzlichen Eigenschaften, die Sie einbeziehen können, aus den [!UICONTROL Audience Marketplace] -Datenfeeds, die Sie nicht abonniert haben. Fügen Sie die empfohlenen Merkmale zu Ihrem Segment hinzu, um Ihre Zielgruppe zu erweitern. <br>  Darüber hinaus haben wir die [!UICONTROL Marketplace] -Seite neu gestaltet, um Ihnen das Auffinden ähnlicher Eigenschaften und das Filtern von Datenfeeds zu erleichtern. |
 | [Tools für die Massenverarbeitung](https://docs.adobe.com/content/help/en/audience-manager/user-guide/reference/bulk-management-tools/bulk-management-intro.html) | Ein neues Arbeitsblatt zur Massenverwaltung wurde veröffentlicht, das mit MacOS- und Windows-Betriebssystemen verwendet werden kann und die Experience Cloud-Anmeldung unterstützt. |
 | [HTTP Strict-Transport-Security](https://docs.adobe.com/help/en/audience-manager/user-guide/overview/data-security-and-privacy/data-security.html#hsts) | Es wurde Unterstützung für [!DNL HTTP Strict-Transport-Security] ergänzt, eine Web-Sicherheitsrichtlinie, die Schutz vor Cookie-Hijacking und Protocol-Downgrade-Angriffen bietet. |
 
@@ -122,7 +123,7 @@ Neue in Audience Manager verfügbare Funktionen, Verbesserungen und Fehlerbehebu
 * Es wurde ein Fehler bei abgeleiteten Signalen behoben, durch den Kunden kurzzeitig keine neuen abgeleiteten Signale erstellen konnten. (AAM-50968)
 * Es wurde ein Fehler in People-Based Destinations behoben, durch den Kunden den Namen eines Ziels nicht ändern konnten. (AAM-51025)
 * Es wurde ein Fehler behoben, durch den einige Benutzer für die Anmeldung bei der Benutzeroberfläche von Audience Manager ein dupliziertes Konto erhalten haben. Aufgrund der Berechtigungen, die für duplizierte Konten zugewiesen werden, konnten diese Benutzer auf einige Teile der Benutzeroberfläche nicht zugreifen und Aktionen durchführen. (AAM-50818)
-* Im Zusammenhang mit der Barrierefreiheit der Audience Manager-Benutzeroberfläche wurden weitere Verbesserungen vorgenommen. (AAM-48932, AAM-49043, AAM-49054, AAM-49371, AAM-49375)
+* Im Zusammenhang mit der Barrierefreiheit der Audience Manager-Benutzeroberfläche wurden weitere Verbesserungen vorgenommen. (AAM-48932, AAM-48997, AAM-49043, AAM-49054, AAM-49371, AAM-49375, AAM-51313)
 
 ## Experience Manager {#aem}
 
@@ -209,14 +210,10 @@ Adobe Campaign bietet die Möglichkeit, direkte Nachrichten über Online- und O
 
 ## Advertising Cloud {#adcloud}
 
-Aktualisiert für die Version vom 12. Oktober 2019
+Aktualisiert für Version vom 2. November 2019
 
 | Ansicht | Funktion |
 |------|---------|
-| Search-Kampagnen | Advertising Cloud kann jetzt Tracking auf Anzeigenebene synchronisieren und für Konten im Yahoo! Japan Display Network bereitstellen. Wenn Sie für ein Konto Anmeldeinformationen angeben, stehen alle vorhandenen Kampagnen, Anzeigengruppen und Anzeigen in diesem Konto in den Kampagnen-Management-Ansichten schreibgeschützt zur Verfügung. In den Kampagnen-Management-Ansichten sowie in einfachen und erweiterten Berichten werden Klicks, Kosten, Konversionen und andere Leistungsdaten bereitgestellt. |
-|  | (Werbetreibende mit Google Analytics) Advertising Cloud Search kann Konversionsmetriken für ein bestimmtes Google Analytics-Konto, eine bestimmte Eigenschaft und eine bestimmte Kombination von Ansichten zur Optimierung und zum Reporting synchronisieren. Seitenansichten, Sitzungen, Absprungraten (berechnet als Absprünge/Sitzungen) und Sitzungsdauer werden automatisch einbezogen. Sie können bis zu 16 zusätzliche Metriken pro Datenquelle einbeziehen. |
-|  | (Vorhandene Google Ads-Konten für Werbetreibende mit einer Integration von Advertising Cloud und Adobe Analytics) Für den s_kwcid-Trackingcode ist ein neues Format verfügbar, durch das Advertising Cloud Kontodaten unter Verwendung der Adobe Analytics-Reporting- und Analysefunktion teilen kann. Das aktuelle Format enthält Parameter für die Kampagnen-ID und Anzeigengruppen-ID, die erforderlich sind, um in Analytics auf Kampagnen- und Anzeigengruppenebene präzise Berichte für Google-Kampagnenentwürfe und -tests zu erstellen. Wenn Ihre bestehenden Google-Konten Google-Kampagnenentwürfe und -tests enthalten, bearbeiten Sie die Konto-Tracking-Einstellungen für jedes einzelne Konto, um zum neuen s_kwcid zu migrieren. Wenn Sie keine Google-Kampagnenentwürfe und -tests haben, ist die Migration zum neuen Format optional. Hinweis: Alle neuen Google-Konten verwenden automatisch das neue Format. |
-| Advanced Campaign Management (ACM) von Search | (Google Ads-Kampagnen) Sie können jetzt die Suffixe der finalen URL auf Kampagnenebene für Google-Textanzeigen und Shopping-Anzeigenvorlagen konfigurieren. |
-|  | (Google Ads-Kampagnen) Die optionalen Felder „Überschrift 3“ und „Beschreibung 2“ stehen für erweiterte Google-Textanzeigen zur Verfügung. |
-| Berichte | Die folgenden „Impression Share“-Metriken von Bing Ads, die mit der neuesten Bing Ads API beendet wurden, werden nach dem 11. Oktober nicht mehr erfasst: Search IS% Lost to Rank, Search IS% Lost to Bid (Bing), Search IS% Lost to Page Relevance (Bing) und Search IS% Lost to Keyword Relevance (Bing). Zuvor erfasste Metriken stehen weiterhin für das Reporting zur Verfügung. |
-| Adobe Analytics-Integration | (Nur für Werbetreibende mit Adobe Analytics) In Analysis Workspace ist die Dimension „Gerät (AMO-ID)“, die nie Daten erfasst hat, nicht mehr verfügbar. Verwenden Sie zum Reporting von Online-Analytics-Daten die Dimension „Mobile Device Type“ (Mobilgerätetyp). Verwenden Sie zum Reporting von Suchmaschinen-Traffic-Metriken (z. B. Klicks, Kosten und Impressionen) nach Gerätetyp weiterhin das Reporting in Advertising Cloud Search. |
+| Konversionsverfolgung | Das JavaScript-basierte Advertising Cloud-Zuordnungstag für Konversionen unterstützt jetzt die Verfolgung von Clickthroughs aus Mozilla Firefox Version 69 und höher, die Drittanbieter-Cookies standardmäßig blockieren. Das gleiche Tag unterstützt bereits Apple Safari.<br><br/>Wenn Sie die Advertising Cloud-Konversionsverfolgung verwenden und das Advertising Cloud-Konvertierungs-Zuordnungstag noch nicht bereitgestellt haben, stellen Sie den folgenden Code auf allen Einstiegsseiten bereit:<br></br>`<script src="//www.everestjs.net/static/amo-conversion-mapper.js"></script>`<br></br>Hinweis: Dieses Tag unterstützt Advertising Cloud JavaScript-Tags der Versionen 2 und 3 zur Konversionsverfolgung, nicht das Image-Tracking-Tag. |
+| Portfolios | Wenn die Portfoliooption "Kampagnenmax. %-Ziel aktivieren"aktiviert ist, wird das Ziel für die maximale Ausgaben jetzt nicht überschritten. Bisher würde die Advertising Cloud das maximale Ausgabenziel überschreiten, wenn dies optimal wäre. |
+| Zielgruppen suchen | Ihre Zielgruppenbibliothek unter "Suche"&gt; "Zielgruppen"&gt; "Bibliothek"enthält jetzt automatisch die Spalte "Zielgruppengröße", die täglich aus Bing-Anzeigen und Google-Anzeigen gefüllt wird. Sie können die Spalte optional als Datenfilter verwenden. |
