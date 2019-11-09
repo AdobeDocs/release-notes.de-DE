@@ -5,7 +5,7 @@ doc-type: Versionshinweise
 last-update: November 2019
 author: mfrei
 translation-type: tm+mt
-source-git-commit: 386664d1decd801eb894bead1afe848dfef22795
+source-git-commit: 9a17edded46ddd9f95ea3c849e23bc1962075174
 
 ---
 
@@ -26,7 +26,7 @@ Neue Funktionen und Fehlerbehebungen in Adobe Experience Cloud.
 * [!DNL Campaign](#ac)
 * [!DNL Target](https://docs.adobe.com/content/help/en/target/using/release-notes/target-release-notes.html) (Links zur Lösungshilfe)
 * [!DNL Primetime](https://helpx.adobe.com/primetime/user-guide.html) (Links zur Lösungshilfe)
-* [!DNL Advertising Cloud](#adcloud) (Aktualisiert 11/1)
+* [!DNL Advertising Cloud](#adcloud) (Aktualisiert am 1.11.2019)
 
 Suchen Sie nach der Hilfeseite? Siehe [Experience Cloud-Schulungen und -Support](https://helpx.adobe.com/support/experience-cloud.html).
 
@@ -113,7 +113,7 @@ Siehe [Versionshinweise zu AppMeasurement für JavaScript](https://docs.adobe.co
 | Funktion | Beschreibung |
 |--- |----|
 | [Verbesserungen bei den Regeln zur Profilzusammenführung](https://docs.adobe.com/help/en/audience-manager/user-guide/features/profile-merge-rules/merge-rules-overview.html) | Adobe hat eine Reihe von Verbesserungen für die [!UICONTROL Regeln zur Profilzusammenführung] veröffentlicht: <ul><li>Die Bewertung von Segmenten wird nun für Batches mit bis zu 100 Geräten unterstützt.</li><li>Die Genauigkeit von Berichten zur Eigenschafts- und Segmentpopulationen wurde optimiert.</li><li>Die Genauigkeit von Batch-Dateien, die mit geräteübergreifenden IDs generiert wurden, wurde optimiert.</li><li>Die Dokumentation wurde mit detaillierteren Anwendungsfällen für die einzelnen Regeln aktualisiert. Siehe [Allgemeine Anwendungsfälle für Regeln zur Profilzusammenführung](https://docs.adobe.com/help/en/audience-manager/user-guide/features/profile-merge-rules/merge-rule-targeting-options.html), [Anwendungsbeispiele für Diagramme externer Geräte](https://docs.adobe.com/help/en/audience-manager/user-guide/features/profile-merge-rules/external-graph-use-cases.html) und [Anwendungsfälle des Profillink-Gerätediagramms](https://docs.adobe.com/help/en/audience-manager/user-guide/features/profile-merge-rules/profile-link-use-case.html).</li></ul> |
-| [Intelligente Recommendations for Audience Marketplace-Daten, powered by Adobe Sensei](https://docs.adobe.com/content/help/en/audience-manager/user-guide/features/segments/trait-recommendations.html) | Bei Eigenschaften-Empfehlungen erhalten Sie beim Erstellen oder Bearbeiten eines Segments im [Segmentaufbau](https://docs.adobe.com/content/help/en/audience-manager/user-guide/features/segments/segment-builder.html)nun Empfehlungen zu zusätzlichen Eigenschaften, die Sie einbeziehen können, aus den [!UICONTROL Audience Marketplace] -Datenfeeds, die Sie nicht abonniert haben. Fügen Sie die empfohlenen Merkmale zu Ihrem Segment hinzu, um Ihre Zielgruppe zu erweitern. <br>  Darüber hinaus haben wir die [!UICONTROL Marketplace] -Seite neu gestaltet, um Ihnen das Auffinden ähnlicher Eigenschaften und das Filtern von Datenfeeds zu erleichtern. |
+| [Intelligente Recommendations für Audience Marketplace-Daten, powered by Adobe Sensei](https://docs.adobe.com/content/help/en/audience-manager/user-guide/features/segments/trait-recommendations.html) | Bei Eigenschaftsempfehlungen erhalten Sie jetzt beim Erstellen oder Bearbeiten eines Segments in [Segment Builder](https://docs.adobe.com/content/help/en/audience-manager/user-guide/features/segments/segment-builder.html) Empfehlungen zu zusätzlichen Eigenschaften, die Sie aus nicht abonnierten [!UICONTROL Audience Marketplace]-Daten-Feeds einbeziehen können. Fügen Sie die empfohlenen Eigenschaften zu Ihrem Segment hinzu, um Ihre Zielgruppe zu erweitern. <br>Darüber hinaus haben wir die [!UICONTROL Marketplace]-Seite neu gestaltet, um Ihnen das Finden ähnlicher Eigenschaften und das Filtern von Daten-Feeds zu erleichtern. |
 | [Tools für die Massenverarbeitung](https://docs.adobe.com/content/help/en/audience-manager/user-guide/reference/bulk-management-tools/bulk-management-intro.html) | Ein neues Arbeitsblatt zur Massenverwaltung wurde veröffentlicht, das mit MacOS- und Windows-Betriebssystemen verwendet werden kann und die Experience Cloud-Anmeldung unterstützt. |
 | [HTTP Strict-Transport-Security](https://docs.adobe.com/help/en/audience-manager/user-guide/overview/data-security-and-privacy/data-security.html#hsts) | Es wurde Unterstützung für [!DNL HTTP Strict-Transport-Security] ergänzt, eine Web-Sicherheitsrichtlinie, die Schutz vor Cookie-Hijacking und Protocol-Downgrade-Angriffen bietet. |
 
@@ -178,7 +178,7 @@ Neue Funktionen, Fehlerbehebungen und Aktualisierungen in Adobe Experience Man
 
    Siehe [Best-Practice-Handbuch für AEM Screens-Projekte](https://docs.adobe.com/content/help/en/experience-manager-screens/using/about-guide.html).
 
-* **Headless Experience Management**
+* **Headless-Erlebnis-Management**
 
    Die Funktionen des [Remote-Content-Renderers](https://helpx.adobe.com/experience-manager/6-5/sites/developing/using/spa-ssr.html#main-pars_header_450130848), der für die serverseitige Wiedergabe von Single Page Applications verwendet wird, sind jetzt dokumentiert.
 
@@ -223,10 +223,11 @@ Adobe Campaign bietet die Möglichkeit, direkte Nachrichten über Online- und O
 
 ## Advertising Cloud {#adcloud}
 
-Aktualisiert für Version vom 2. November 2019
+Aktualisiert am 8. November 2019, Version
 
 | Ansicht | Funktion |
 |------|---------|
-| Konversionsverfolgung | Das JavaScript-basierte Advertising Cloud-Zuordnungstag für Konversionen unterstützt jetzt die Verfolgung von Clickthroughs aus Mozilla Firefox Version 69 und höher, die Drittanbieter-Cookies standardmäßig blockieren. Das gleiche Tag unterstützt bereits Apple Safari.<br><br/>Wenn Sie die Advertising Cloud-Konversionsverfolgung verwenden und das Advertising Cloud-Konvertierungs-Zuordnungstag noch nicht bereitgestellt haben, stellen Sie den folgenden Code auf allen Einstiegsseiten bereit:<br></br>`<script src="//www.everestjs.net/static/amo-conversion-mapper.js"></script>`<br></br>Hinweis: Dieses Tag unterstützt Advertising Cloud JavaScript-Tags der Versionen 2 und 3 zur Konversionsverfolgung, nicht das Image-Tracking-Tag. |
-| Portfolios | Wenn die Portfoliooption "Kampagnenmax. %-Ziel aktivieren"aktiviert ist, wird das Ziel für die maximale Ausgaben jetzt nicht überschritten. Bisher würde die Advertising Cloud das maximale Ausgabenziel überschreiten, wenn dies optimal wäre. |
-| Zielgruppen suchen | Ihre Zielgruppenbibliothek unter "Suche"&gt; "Zielgruppen"&gt; "Bibliothek"enthält jetzt automatisch die Spalte "Zielgruppengröße", die täglich aus Bing-Anzeigen und Google-Anzeigen gefüllt wird. Sie können die Spalte optional als Datenfilter verwenden. |
+| Konversions-Tracking | Das JavaScript-basierte Advertising Cloud-Zuordnungstag für Konversionen unterstützt jetzt das Tracking von Klicks aus Mozilla Firefox Version 69 und höher, in der Drittanbieter-Cookies standardmäßig blockiert werden. Das gleiche Tag unterstützt bereits Apple Safari.<br><br/>Wenn Sie das Advertising Cloud-Konversions-Tracking verwenden und das Advertising Cloud-Konversions-Zuordnungstag noch nicht implementiert haben, implementieren Sie den folgenden Code auf allen Landingpages:<br></br>`<script src="//www.everestjs.net/static/amo-conversion-mapper.js"></script>`<br></br>Hinweis: Dieses Tag unterstützt Konversions-Tracking-Tags der JavaScript-Version 2 und 3 der Advertising Cloud, nicht aber das Bild-Tracking-Tag. |
+| Portfolios | Wenn die Portfoliooption „Enable campaign max spend % target“ aktiviert ist, wird das maximale Ausgabenziel jetzt nicht mehr überschritten. Bisher überschritt Advertising Cloud das maximale Ausgabenziel, wenn dies optimal war. |
+| Zielgruppen suchen | Ihre Zielgruppenbibliothek unter „Suche“ &gt; „Zielgruppen“ &gt; „Bibliothek“ enthält jetzt automatisch die Spalte „Zielgruppengröße“, die täglich mit Daten von Bing Ads und Google Ads gefüllt wird. Optional können Sie die Spalte als Datenfilter verwenden. |
+| Integration in Adobe Analytics | Analytics enthält jetzt die Dimension "Einstiegstyp (AMO-ID)"für Advertising Cloud DSP-Kampagnen.  Verwenden Sie diese Dimension, um Analytics-Metriken basierend darauf zu segmentieren, wie Besucher auf der Site einstiegen. Zu den Werten gehören "Durchklicken"und "Durchsicht".<br><br/>**** Hinweis: Daten für Durchsichten, die vor dem 31. Oktober 2019 erfolgten, werden als Daten für Durchklicks angezeigt. Daher empfehlen wir nicht, diese Dimension mit Daten vor Mitte November 2019 zu verwenden. |
