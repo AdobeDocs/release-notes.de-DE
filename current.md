@@ -5,7 +5,7 @@ doc-type: release notes
 last-update: November 2019
 author: mfrei
 translation-type: tm+mt
-source-git-commit: e023f8bb366a21e41013e6f94682d48e0a194ee6
+source-git-commit: 836117dd47be9051044e0c07b960361a65c7b15f
 
 ---
 
@@ -20,7 +20,7 @@ Neue Funktionen und Fehlerbehebungen in Adobe Experience Cloud.
 
 * [Experience Cloud-Benutzeroberfläche](#ecloud)
 * [Experience Platform](#platform)
-* [!DNL Analytics](#analytics) (**Aktualisiert am 21. November 2019**)
+* [!DNL Analytics](#analytics) (**Aktualisiert am 26. November 2019**)
 * [Audience Manager](#aam)
 * [Experience Manager](#aem)
 * [!DNL Campaign](#ac)
@@ -59,7 +59,7 @@ Versionshinweise und die Produktdokumentation finden Sie unter [Experience Platf
 Neue Funktionen und Fehlerbehebungen in Adobe Analytics:
 
 * [Neue Funktionen, Verbesserungen und Fehlerbehebungen in Adobe Analytics](#aa-features)
-* [Wichtige Hinweise für Analytics-Administratoren](#aa-notices) (**Aktualisiert am 21. November 2019**)
+* [Wichtige Hinweise für Analytics-Administratoren](#aa-notices) (**Aktualisiert am 26. November 2019**)
 * [AppMeasurement](#appm)
 
 Eine Produktdokumentation finden Sie auf der [Startseite der Adobe Analytics-Hilfe](https://docs.adobe.com/content/help/en/analytics/landing/home.html).
@@ -81,6 +81,7 @@ Eine Produktdokumentation finden Sie auf der [Startseite der Adobe Analytics-Hil
 
 | Hinweis | Hinzugefügt oder aktualisiert am | Beschreibung |
 | -----------| ---------- | ---------- |
+| Aktualisierung auf Dimensionsbezeichnungen "Monat"und "Quartal" | 26. November 2019 | Am 16. Januar 2020 werden die Dimensionsetiketten "Monat"und "Quartal"entsprechend dem Standardkalenderjahr aktualisiert. Benutzerdefinierte Kalendereinstellungen (definiert unter **[!UICONTROL Admin &gt; Report Suite &gt; Einstellungen bearbeiten &gt; Allgemein)** bestimmen weiterhin, welche Monate in einem Bericht zurückgegeben werden.<br>Wenn beispielsweise Ihr benutzerdefinierter Kalender für 2020 als Okt. 2019 bis September 2020 definiert ist, erscheinen Monate und Quartale in den Berichten wie folgt:<ul><li>Quartal - Oktober 2019-Dezember 2019, Januar 2020-März 2020, April 2020-Juni 2020, Juli 2020-September 2020</li><li>Monate - Oktober 2019, November 2019, Dezember 2019, Januar 2020, Februar 2020 usw.</li><li>Bisher hätten alle oben genannten Elemente das Jahr 2019 widergespiegelt, was zu Verwirrung für die Endnutzer geführt hätte.</li></ul>Wenn Sie Berichtsfilter oder Segmente haben, die nach diesen Werten suchen, müssen Sie keine Maßnahmen ergreifen. Sie werden entsprechend der neuen Benennungsregel aktualisiert. |
 | Option **[!UICONTROL IP-Anmeldebeschränkungen erzwingen]** wird eingestellt | 21. November 2019 | Announcing the *October, 2020*, end-of-life date for the IP login whitelisting (**[!UICONTROL Enforce IP Login Restrictions]**) functionality under the **[!UICONTROL Admin &gt; Company Settings &gt; Security]** menu. (Dies wurde ursprünglich im Januar 2020 angekündigt.) |
 | Option **[!UICONTROL Archiv anzeigen]** wird eingestellt | 30. Oktober 2019 | Die Option **[!UICONTROL Archiv anzeigen]** im Dashboard-Manager (**[!UICONTROL Komponenten &gt; Dashboards]**) wird im Januar 2020 eingestellt. |
 | SameSite-Attribut für Cookies wird neu geregelt | 15. Oktober 2019 | Im August 2019 gab Adobe bekannt, dass für alle von Analytics festgelegten Cookies das SameSite-Attribut festgelegt wird. Die neue Logik wird angewendet, wenn:<ul><li>bei allen nicht auf WebKit basierenden Drittanbieter-Cookies das SameSite-Attribut festgelegt ist auf `none`.</li><li>für alle anderen Cookies nicht das SameSite-Attribut festgelegt ist.</li></ul> |
