@@ -5,7 +5,7 @@ doc-type: release notes
 last-update: November 2019
 author: mfrei
 translation-type: tm+mt
-source-git-commit: b12f367551ffabf44c8f1f983acbd10afee78c3f
+source-git-commit: c8dca487e2a2f4992b7850632a8219ccca269713
 
 ---
 
@@ -29,6 +29,17 @@ Neue Funktionen und Fehlerbehebungen in Adobe Experience Cloud.
 * [!DNL Advertising Cloud](#adcloud) (Aktualisiert am 8.11.2019)
 
 Suchen Sie nach der Hilfeseite? Siehe die [Adobe Experience Cloud-Dokumentation](https://docs.adobe.com/content/help/en/experience-cloud/user-guides/home.html).
+<!-- ## Status.adobe.com
+
+Using your Adobe ID, you can subscribe to status event notifcations, based on your produts, region, and event preferences.
+
+| Feature    | Description  |
+| -----------| ---------- |
+|Self-subscription to pro-active notifications | <ul><li>Select products from Experience Cloud, Creative Cloud, Document Cloud</li><li>Item</li><li>Item</li></ul> |
+|Notifications preferences management | <ul><li>item</li><li>Item</li><li>Item</li></ul> |
+|Personalized and faster email delivery | <ul><li>item</li><li>Item</li><li>Item</li></ul> |
+|Personalized in-product notifications | <ul><li>item</li><li>Item</li><li>Item</li></ul> |
+ -->
 
 ## Experience Cloud-Benutzeroberfläche {#ecloud}
 
@@ -49,7 +60,7 @@ Versionshinweise für Experience Platform, Experience Platform Launch, Identity 
 
 * [Versionshinweise zur Experience Platform](https://www.adobe.io/apis/experienceplatform/home/services/release-notes.html#!end-user/markdown/release-notes/release-notes.md)
 * [Experience Platform Launch](#launch)
-* [Sicherheitsbulletins und -hinweise](https://helpx.adobe.com/security.html)  (Alle Adobe-Produkte)
+* [Sicherheitsbulletins und -hinweise](https://helpx.adobe.com/security.html)   (Alle Adobe-Produkte)
 
 ### Experience Platform Launch {#launch}
 
@@ -80,7 +91,7 @@ Eine Produktdokumentation finden Sie auf der [Startseite der Adobe Analytics-Hil
 
 ### Wichtige Hinweise für [!DNL Analytics]-Administratoren {#aa-notices}
 
-| Hinweis | Hinzugefügt  oder aktualisiert am | Beschreibung |
+| Hinweis | Hinzugefügt   oder aktualisiert am | Beschreibung |
 | -----------| ---------- | ---------- |
 | Option **[!UICONTROL Archiv anzeigen]** wird eingestellt | 30. Oktober 2019 | Die Option **[!UICONTROL Archiv anzeigen]** im Dashboard-Manager (**[!UICONTROL Komponenten &gt; Dashboards]**) wird im Januar 2020 eingestellt. |
 | Option **[!UICONTROL IP-Anmeldebeschränkungen erzwingen]** wird eingestellt | 30. Oktober 2019 | Die IP-Whitelist-Funktionalität (**[!UICONTROL IP-Anmeldebeschränkungen erzwingen]**) unter **[!UICONTROL Admin &gt; Unternehmenseinstellungen &gt; Sicherheit]**. |
