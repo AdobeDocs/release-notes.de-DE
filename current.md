@@ -5,7 +5,7 @@ doc-type: release notes
 last-update: January 2020
 author: mfrei
 translation-type: tm+mt
-source-git-commit: 51e45852d84bd30b5d0fb21640b2e9f31080840c
+source-git-commit: b0f2fe07102a20e343f69b1c156f48ca4f284966
 
 ---
 
@@ -65,7 +65,7 @@ Zu den Updates gehören:
 
 * Neue Lösungs-URLs: Dieses URL-Muster wird letztendlich von allen Produkten übernommen. `experience.adobe.com/<application name>.` Suchen Sie nach neuen URLs, die im Laufe des Monats wirksam werden.
 * Einfacherer Wechsel zwischen Ihren Organisationen oder zu einer anderen Anwendung.
-* Verbesserte Produkthilfe: Die [!UICONTROL Experience League] ist in das Produkt integriert, sodass bei einer Hilfesuche auch Ergebnisse aus Community-Foren und Videoinhalten berücksichtigt werden. Diese Änderung vereinfacht den Zugriff auf weitere Inhalte und hilft Ihnen, das Beste aus Experience Cloud zu machen. Klicken Sie außerdem auf **[!UICONTROL Hilfe]**>**[!UICONTROL  Feedback]** , um Probleme zu melden oder Ideen für das Produkt Adobe freizugeben.
+* Verbesserte Produkthilfe: Die [!UICONTROL Experience League] ist in das Produkt integriert, sodass bei einer Hilfesuche auch Ergebnisse aus Community-Foren und Videoinhalten berücksichtigt werden. Diese Änderung vereinfacht den Zugriff auf weitere Inhalte und hilft Ihnen, das Beste aus Experience Cloud zu machen. Klicken Sie außerdem auf **[!UICONTROL Hilfe]**>**[!UICONTROL  Feedback]** , um Probleme zu melden oder Ihre Ideen mit Adobe zu teilen.
 * Verbesserte Benachrichtigungen: Das Dropdownmenü [!UICONTROL Benachrichtigungen] enthält jetzt zwei Registerkarten: eine für Ihre eigenen Produktbenachrichtigungen und eine für globale Produktankündigungen.
 
 **** Hinweis: Die [!UICONTROL Feed] -Seite wird im Januar 2020 eingestellt. Innerhalb des Produkts finden Sie eine Benachrichtigung zur Einstellung.
