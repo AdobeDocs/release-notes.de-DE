@@ -5,7 +5,7 @@ doc-type: release notes
 last-update: January 2020
 author: mfrei
 translation-type: tm+mt
-source-git-commit: d48cab564bb6a45022d5c8a388dd71d52a1b63f1
+source-git-commit: 51e45852d84bd30b5d0fb21640b2e9f31080840c
 
 ---
 
@@ -63,9 +63,9 @@ Adobe aktualisiert die Domäne und die Kopfzeile der Benutzeroberfläche, um Ihr
 
 Zu den Updates gehören:
 
-* Neue Lösungs-URLs: Dieses URL-Muster wird letztendlich von allen Produkten übernommen. `experience.adobe.com/<application name>.` Suchen Sie nach neuen URLs, die im Laufe des Monats wirksam werden. Adobe empfiehlt, Ihre Lesezeichen zu aktualisieren, nachdem Sie die Umleitungen zu den neuen Domänen sehen.
+* Neue Lösungs-URLs: Dieses URL-Muster wird letztendlich von allen Produkten übernommen. `experience.adobe.com/<application name>.` Suchen Sie nach neuen URLs, die im Laufe des Monats wirksam werden.
 * Einfacherer Wechsel zwischen Ihren Organisationen oder zu einer anderen Anwendung.
-* Verbesserte Produkthilfe: Die [!UICONTROL Experience League] ist in das Produkt integriert, sodass bei einer Hilfesuche auch Ergebnisse aus Community-Foren und Videoinhalten berücksichtigt werden. Diese Änderung vereinfacht den Zugriff auf weitere Inhalte und hilft Ihnen, das Beste aus Experience Cloud zu machen. Klicken Sie außerdem auf **[!UICONTROL Hilfe]**>**[!UICONTROL  Feedback]** , um Probleme zu melden oder Ideen mit dem Produktdokumentationsteam zu teilen.
+* Verbesserte Produkthilfe: Die [!UICONTROL Experience League] ist in das Produkt integriert, sodass bei einer Hilfesuche auch Ergebnisse aus Community-Foren und Videoinhalten berücksichtigt werden. Diese Änderung vereinfacht den Zugriff auf weitere Inhalte und hilft Ihnen, das Beste aus Experience Cloud zu machen. Klicken Sie außerdem auf **[!UICONTROL Hilfe]**>**[!UICONTROL  Feedback]** , um Probleme zu melden oder Ideen für das Produkt Adobe freizugeben.
 * Verbesserte Benachrichtigungen: Das Dropdownmenü [!UICONTROL Benachrichtigungen] enthält jetzt zwei Registerkarten: eine für Ihre eigenen Produktbenachrichtigungen und eine für globale Produktankündigungen.
 
 **** Hinweis: Die [!UICONTROL Feed] -Seite wird im Januar 2020 eingestellt. Innerhalb des Produkts finden Sie eine Benachrichtigung zur Einstellung.
