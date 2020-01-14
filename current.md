@@ -5,7 +5,7 @@ doc-type: release notes
 last-update: January 2020
 author: mfrei
 translation-type: tm+mt
-source-git-commit: 7ec12529edf495c36cc153028458257939782e41
+source-git-commit: d92cffebc2db7e6a6d7d7b531390b6e307b2943e
 
 ---
 
@@ -63,8 +63,10 @@ Adobe aktualisiert die Domäne und die Kopfzeile der Benutzeroberfläche, um Ihr
 
 Zu den Updates gehören:
 
-* Neue Lösungs-URLs: Dieses URL-Muster wird letztendlich von allen Produkten übernommen. `experience.adobe.com/<application name>.` Suchen Sie nach neuen URLs, die im Laufe des Monats wirksam werden. Hinweise:
-   * Die Domänenänderung kann Cookie-Probleme in Safari verursachen. Wenn Sie die Option &quot; _Site-übergreifendes Tracking_ verhindern&quot;in den Safari-Datenschutzeinstellungen deaktivieren, werden domänenübergreifende Cookies (und alle Site-übergreifenden Erlebnisse) aktiviert und die Funktion der Experience Cloud auf dieser neuen Domäne ermöglicht. Sie können andere Browser ohne Probleme verwenden, da dies nur Safari-Benutzer betrifft.
+* Neue Lösungs-URLs: `experience.adobe.com/<application name>`:
+   * Alle Produkte übernehmen dieses URL-Muster. Suchen Sie nach neuen URLs, die im Laufe des Monats wirksam werden.
+   * Unterstützte Browser: [!DNL Microsoft Edge], [!DNL Google Chrome], [!DNL Firefox], [!DNL Safari]und [!DNL Opera] (neueste Versionen).
+   * ([!DNL Safari] Nur) Die Domänenänderung kann zu Cookie-Problemen führen [!DNL Safari]. Wenn Sie die _Option &quot;Site-übergreifendes Tracking_ verhindern&quot;in den [!DNL Safari] Datenschutzeinstellungen deaktivieren, werden domänenübergreifende Cookies (und alle Site-übergreifenden Erlebnisse) aktiviert und die Funktion der Experience Cloud in dieser neuen Domäne ermöglicht.
 * Einfacherer Wechsel zwischen Ihren Organisationen oder zu einer anderen Anwendung.
 * Verbesserte Produkthilfe: Die [!UICONTROL Experience League] ist in das Produkt integriert, sodass bei einer Hilfesuche auch Ergebnisse aus Community-Foren und Videoinhalten berücksichtigt werden. Diese Änderung vereinfacht den Zugriff auf weitere Inhalte und hilft Ihnen, das Beste aus Experience Cloud zu machen. Klicken Sie außerdem auf **[!UICONTROL Hilfe]**>**[!UICONTROL  Feedback]** , um Probleme zu melden oder Ihre Ideen mit Adobe zu teilen.
 * Verbesserte Benachrichtigungen: Das Dropdownmenü [!UICONTROL Benachrichtigungen] enthält jetzt zwei Registerkarten: eine für Ihre eigenen Produktbenachrichtigungen und eine für globale Produktankündigungen.
@@ -97,7 +99,7 @@ Versionshinweise und die Produktdokumentation finden Sie unter [Experience Platf
 
 ## Mobile Services and Mobile SDKs {#mobile}
 
-16\. Januar 2020: Version 4.18.0
+16. Januar 2020: Version 4.18.0
 
 * Akquise - Es wurde eine neue API zur Unterstützung `Analytics.processGooglePlayInstallReferrerUrl(final String url)`der [!DNL Google Play] Installieren von Referrer-APIs hinzugefügt.
 
