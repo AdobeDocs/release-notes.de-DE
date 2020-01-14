@@ -5,7 +5,7 @@ doc-type: release notes
 last-update: January 2020
 author: mfrei
 translation-type: tm+mt
-source-git-commit: b0f2fe07102a20e343f69b1c156f48ca4f284966
+source-git-commit: 7ec12529edf495c36cc153028458257939782e41
 
 ---
 
@@ -63,7 +63,8 @@ Adobe aktualisiert die Domäne und die Kopfzeile der Benutzeroberfläche, um Ihr
 
 Zu den Updates gehören:
 
-* Neue Lösungs-URLs: Dieses URL-Muster wird letztendlich von allen Produkten übernommen. `experience.adobe.com/<application name>.` Suchen Sie nach neuen URLs, die im Laufe des Monats wirksam werden.
+* Neue Lösungs-URLs: Dieses URL-Muster wird letztendlich von allen Produkten übernommen. `experience.adobe.com/<application name>.` Suchen Sie nach neuen URLs, die im Laufe des Monats wirksam werden. Hinweise:
+   * Die Domänenänderung kann Cookie-Probleme in Safari verursachen. Wenn Sie die Option &quot; _Site-übergreifendes Tracking_ verhindern&quot;in den Safari-Datenschutzeinstellungen deaktivieren, werden domänenübergreifende Cookies (und alle Site-übergreifenden Erlebnisse) aktiviert und die Funktion der Experience Cloud auf dieser neuen Domäne ermöglicht. Sie können andere Browser ohne Probleme verwenden, da dies nur Safari-Benutzer betrifft.
 * Einfacherer Wechsel zwischen Ihren Organisationen oder zu einer anderen Anwendung.
 * Verbesserte Produkthilfe: Die [!UICONTROL Experience League] ist in das Produkt integriert, sodass bei einer Hilfesuche auch Ergebnisse aus Community-Foren und Videoinhalten berücksichtigt werden. Diese Änderung vereinfacht den Zugriff auf weitere Inhalte und hilft Ihnen, das Beste aus Experience Cloud zu machen. Klicken Sie außerdem auf **[!UICONTROL Hilfe]**>**[!UICONTROL  Feedback]** , um Probleme zu melden oder Ihre Ideen mit Adobe zu teilen.
 * Verbesserte Benachrichtigungen: Das Dropdownmenü [!UICONTROL Benachrichtigungen] enthält jetzt zwei Registerkarten: eine für Ihre eigenen Produktbenachrichtigungen und eine für globale Produktankündigungen.
@@ -88,7 +89,7 @@ Versionshinweise für Experience Platform, Experience Platform Launch, Identity 
 
 * [Experience Platform – Versionshinweise](https://www.adobe.io/apis/experienceplatform/home/services/release-notes.html#!end-user/markdown/release-notes/release-notes.md)
 * [Experience Platform Launch](#launch)
-* [Sicherheitsbulletins und -hinweise](https://helpx.adobe.com/security.html)   (Alle Adobe-Produkte)
+* [Sicherheitsbulletins und -hinweise](https://helpx.adobe.com/security.html) (Alle Adobe-Produkte)
 
 ### Experience Platform Launch {#launch}
 
@@ -96,7 +97,7 @@ Versionshinweise und die Produktdokumentation finden Sie unter [Experience Platf
 
 ## Mobile Services and Mobile SDKs {#mobile}
 
-16\. Januar 2020: Version 4.18.0
+16. Januar 2020: Version 4.18.0
 
 * Akquise - Es wurde eine neue API zur Unterstützung `Analytics.processGooglePlayInstallReferrerUrl(final String url)`der [!DNL Google Play] Installieren von Referrer-APIs hinzugefügt.
 
@@ -131,7 +132,7 @@ Eine Produktdokumentation finden Sie auf der [Startseite der Adobe Analytics-Hil
 
 ### Wichtige Hinweise für [!DNL Analytics]-Administratoren {#aa-notices}
 
-| Hinweis | Hinzugefügt   oder aktualisiert am | Beschreibung |
+| Hinweis | Hinzugefügt oder aktualisiert am | Beschreibung |
 | -----------| ---------- | ---------- |
 | Neue Adobe Analytics-Domäne | 18. Dezember 2019 | Am 16. Januar 2020 beginnt Adobe Analytics mit der Umstellung auf eine neue Domäne - `https://experience.adobe.com/analytics.`<br>**Hinweis **: Diese Änderung gilt für alle Benutzer, die mit ihrer Adobe ID oder Enterprise ID auf Analytics zugreifen.<ul><li>Die Domänenänderung kann beim Laden von Analytics in Safari zu Cookie-Problemen führen. Unchecking _Prevent cross-site tracking_ in the Safari Privacy Preferences enables cookies across domains (and all cross-site experiences), and allows Analytics to function on this new Adobe Experience Cloud domain. Sie können andere Browser ohne Probleme verwenden, da dies nur Safari-Benutzer betrifft.</li><li>Die Domänenänderung kann dazu führen, dass [!UICONTROL Activity Map] bei einigen Kunden [in bestimmten Fällen](https://docs.adobe.com/content/help/en/analytics/analyze/activity-map/activity-map.html)nicht mehr funktioniert.</li></ul> |
 | Ende der Laufzeit - Analytics-APIs mit veralteter Version | 9. Januar 2020 | Im November 2020 werden die folgenden Analytics Legacy-API-Dienste bis zum Ende ihrer Laufzeit beendet und beendet. Aktuelle Integrationen, die mit diesen Diensten erstellt wurden, funktionieren nicht mehr. <ul><li>1.3 Analytics-APIs</li><li>1.4 SOAP Analytics-APIs</li><li>Legacy-OAuth-Authentifizierung (OAuth und JWT)</li></ul>Wir haben eine FAQ[ zu ](https://github.com/AdobeDocs/analytics-1.4-apis/blob/master/docs/APIEOL.md?mv=email)Legacy API EOL zur Verfügung gestellt, die Ihnen bei der Beantwortung Ihrer Fragen helfen und Anleitungen zum weiteren Vorgehen geben soll. API-Integrationen, die diese Dienste verwenden, können zu den Analytics-REST-APIs[ von ](https://github.com/AdobeDocs/analytics-1.4-apis?mv=email)1.4 oder den Analytics-APIs[von ](https://github.com/AdobeDocs/analytics-2.0-apis?mv=email)2.0 migrieren. Ältere OAuth-Konten können zu einem [Adobe IO](https://console.adobe.io/home?mv=email) Analytics-Integrationskonto migrieren, das für den Zugriff auf die Analytics-APIs 1.4 und 2.0 und Analytics-APIs verwendet werden kann. |
@@ -158,7 +159,7 @@ Korrekturen und Funktionen, die Audience Manager hinzugefügt wurden.
 ### Fehlerbehebungen und Verbesserungen {#aam-fixes-and-improvements}
 
 * Es wurde ein Problem im Arbeitsablauf zum [!UICONTROL Erstellen eines Ziels] behoben, bei dem bei Auswahl von **[!UICONTROL integrierten Plattformen]**als[!UICONTROL Kategorie]der Abschnitt[!UICONTROL Grundlegende Informationen]ausgeblendet wurde und der Workflow nicht abgeschlossen werden konnte. (AAM-52397, AAM-52414)
-* Es wurde ein Fehler behoben, durch den die Seite &quot;Ziele [!UICONTROL erstellen/bearbeiten] &quot;in den Apple Safari- und Mozilla Firefox-Browsern nicht geladen wurde. (AAM-51784)
+* We fixed a bug where the [!UICONTROL Create/edit] destinations page would not load in the Apple Safari and Mozilla Firefox browsers. (AAM-51784)
 
 ## Experience Manager {#aem}
 
@@ -194,6 +195,14 @@ Neue Funktionen, Fehlerbehebungen und Aktualisierungen in Adobe Experience Man
 
 ### Produktversionen
 
+* **NEU:AEM als Cloud-Dienst**
+
+   [Adobe Experience Manager](https://www.adobe.com/marketing/experience-manager.html) (AEM) ist jetzt als Cloud-Dienst verfügbar.
+
+   * [Einführung](https://docs.adobe.com/content/help/en/experience-manager-cloud-service/overview/introduction.html)
+   * [Versionsinformationen](https://docs.adobe.com/content/help/en/experience-manager-cloud-service/release-notes/home.html)
+   * [Dokumentation](https://docs.adobe.com/content/help/en/experience-manager-cloud-service/landing/home.html)
+
 * **Dienst zur automatisierten Formularumwandlung**
 
    Der automatisierte Forms-Konvertierungsdienst, der Dienst zum automatischen Konvertieren von PDF-Formularen in schöne, für Mobilgeräte geeignete HTML-Formulare, steht seit dem 12. Dezember 2019 für den allgemeinen Gebrauch zur Verfügung.
@@ -219,6 +228,7 @@ Siehe [Anzeigen einer Vorschau für 3D-Assets](https://docs.adobe.com/content/he
 
 ### Zusätzliche Ressourcen
 
+* [AEM als Cloud-Dienst](https://docs.adobe.com/content/help/en/experience-manager-cloud-service/landing/home.html)
 * [AEM 6.5 Schulung und Support – Startseite](https://helpx.adobe.com/support/experience-manager/6-5.html)
 * [AEM 6.4 Schulung und Support – Startseite](https://helpx.adobe.com/support/experience-manager/6-4.html)
 * [AEM 6.3 Schulung und Support – Startseite](https://helpx.adobe.com/support/experience-manager/6-3.html)
