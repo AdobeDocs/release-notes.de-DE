@@ -96,7 +96,7 @@ Versionshinweise und die Produktdokumentation finden Sie unter [Experience Platf
 
 ## Mobile Services and Mobile SDKs {#mobile}
 
-16. Januar 2020: Version 4.18.0
+16\. Januar 2020: Version 4.18.0
 
 * Akquise - Es wurde eine neue API zur Unterstützung `Analytics.processGooglePlayInstallReferrerUrl(final String url)`der [!DNL Google Play] Installieren von Referrer-APIs hinzugefügt.
 
