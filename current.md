@@ -5,7 +5,7 @@ doc-type: release notes
 last-update: January 2020
 author: mfrei
 translation-type: tm+mt
-source-git-commit: d92cffebc2db7e6a6d7d7b531390b6e307b2943e
+source-git-commit: e49bdb89cd3cf434a4932d1669d6f3a2df973769
 
 ---
 
@@ -65,7 +65,7 @@ Zu den Updates gehören:
 
 * Neue Lösungs-URLs: `experience.adobe.com/<application name>`:
    * Alle Produkte übernehmen dieses URL-Muster. Suchen Sie nach neuen URLs, die im Laufe des Monats wirksam werden.
-   * Unterstützte Browser: [!DNL Microsoft Edge], [!DNL Google Chrome], [!DNL Firefox], [!DNL Safari]und [!DNL Opera] (neueste Versionen).
+   * Browserunterstützung:Unterstützte Browser: [!DNL Microsoft Edge], [!DNL Google Chrome], [!DNL Firefox], [!DNL Safari]und [!DNL Opera] (neueste Versionen). **** Hinweis: Obwohl die Experience Cloud-Oberfläche diese Browser unterstützt, unterstützen einzelne Lösungen möglicherweise nicht jeden Browser. ( [Analytics](https://docs.adobe.com/content/help/en/analytics/admin/sys-reqs.html) unterstützt beispielsweise nicht [!DNL Opera], [Target](https://docs.adobe.com/help/en/target/using/implement-target/before-implement/supported-browsers.html) nicht [!DNL Safari].)
    * ([!DNL Safari] Nur) Die Domänenänderung kann zu Cookie-Problemen führen [!DNL Safari]. Wenn Sie die _Option &quot;Site-übergreifendes Tracking_ verhindern&quot;in den [!DNL Safari] Datenschutzeinstellungen deaktivieren, werden domänenübergreifende Cookies (und alle Site-übergreifenden Erlebnisse) aktiviert und die Funktion der Experience Cloud in dieser neuen Domäne ermöglicht.
 * Einfacherer Wechsel zwischen Ihren Organisationen oder zu einer anderen Anwendung.
 * Verbesserte Produkthilfe: Die [!UICONTROL Experience League] ist in das Produkt integriert, sodass bei einer Hilfesuche auch Ergebnisse aus Community-Foren und Videoinhalten berücksichtigt werden. Diese Änderung vereinfacht den Zugriff auf weitere Inhalte und hilft Ihnen, das Beste aus Experience Cloud zu machen. Klicken Sie außerdem auf **[!UICONTROL Hilfe]**>**[!UICONTROL  Feedback]** , um Probleme zu melden oder Ihre Ideen mit Adobe zu teilen.
@@ -99,7 +99,7 @@ Versionshinweise und die Produktdokumentation finden Sie unter [Experience Platf
 
 ## Mobile Services and Mobile SDKs {#mobile}
 
-16\. Januar 2020: Version 4.18.0
+16. Januar 2020: Version 4.18.0
 
 * Akquise - Es wurde eine neue API zur Unterstützung `Analytics.processGooglePlayInstallReferrerUrl(final String url)`der [!DNL Google Play] Installieren von Referrer-APIs hinzugefügt.
 
