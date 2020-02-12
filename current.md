@@ -5,7 +5,7 @@ doc-type: release notes
 last-update: January 2020
 author: mfrei
 translation-type: tm+mt
-source-git-commit: c7acef23595f68b576422738fb54a1bdf09a81c4
+source-git-commit: 99c054f82fd5ed798478330059a8f3e1f6484432
 
 ---
 
@@ -19,17 +19,19 @@ Neue Funktionen und Fehlerbehebungen in Adobe Experience Cloud.
 
 **Veröffentlichungsdatum: 16. Januar 2020**
 
+Neueste Aktualisierung: 10. Februar 2020
+
 * [Systemstatus von Adobe ](#status)
 * [Benutzeroberfläche und Core Services von Experience Cloud](#ecloud)
 * [Experience Platform](#platform)
 * [Mobile Services und Mobile SDKs](#mobile)
-* [!DNL Analytics](#analytics) (**Aktualisiert am 21. Januar 2020**)
+* [!DNL Analytics](#analytics) **(Aktualisiert am 21. Januar 2020)**
 * [Audience Manager](#aam)
 * [Experience Manager](#aem)
 * [!DNL Campaign](#ac)
 * [!DNL Target](https://docs.adobe.com/content/help/en/target/using/release-notes/target-release-notes.html) (Links zur Lösungshilfe)
 * [!DNL Primetime](https://helpx.adobe.com/primetime/user-guide.html) (Links zur Lösungshilfe)
-* [!DNL Advertising Cloud](#adcloud)
+* [!DNL Advertising Cloud](#adcloud) **(Aktualisiert am 10. Februar 2020)**
 
 Suchen Sie nach der Hilfeseite? Siehe die [Adobe Experience Cloud-Dokumentation](https://docs.adobe.com/content/help/en/experience-cloud/user-guides/home.html).
 
