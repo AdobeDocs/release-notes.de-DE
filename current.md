@@ -4,8 +4,8 @@ description: Vorlage für Experience Cloud-Versionshinweise
 doc-type: release notes
 last-update: January 2020
 author: mfrei
-translation-type: ht
-source-git-commit: f2d6f3489e183db682d62766d13be958cad5692b
+translation-type: tm+mt
+source-git-commit: c7acef23595f68b576422738fb54a1bdf09a81c4
 
 ---
 
@@ -27,11 +27,11 @@ Neue Funktionen und Fehlerbehebungen in Adobe Experience Cloud.
 * [Audience Manager](#aam)
 * [Experience Manager](#aem)
 * [!DNL Campaign](#ac)
-* [!DNL Target](https://docs.adobe.com/content/help/de-DE/target/using/release-notes/target-release-notes.html) (Links zur Lösungshilfe)
-* [!DNL Primetime](https://helpx.adobe.com/de/primetime/user-guide.html) (Links zur Lösungshilfe)
+* [!DNL Target](https://docs.adobe.com/content/help/en/target/using/release-notes/target-release-notes.html) (Links zur Lösungshilfe)
+* [!DNL Primetime](https://helpx.adobe.com/primetime/user-guide.html) (Links zur Lösungshilfe)
 * [!DNL Advertising Cloud](#adcloud)
 
-Suchen Sie nach der Hilfeseite? Siehe die [Adobe Experience Cloud-Dokumentation](https://docs.adobe.com/content/help/de-DE/experience-cloud/user-guides/home.html).
+Suchen Sie nach der Hilfeseite? Siehe die [Adobe Experience Cloud-Dokumentation](https://docs.adobe.com/content/help/en/experience-cloud/user-guides/home.html).
 
 ## Systemstatus von Adobe {#status}
 
@@ -62,15 +62,15 @@ Zu den Aktualisierungen gehören:
 
 * Neue URLs für Lösungen: `experience.adobe.com/<application name>`:
    * Dieses URL-Muster wird schließlich von allen Produkten übernommen. Im Laufe des Monats werden neue URLs hinzugefügt werden.
-   * Browserunterstützung: Unterstützte Browser sind [!DNL Microsoft Edge], [!DNL Google Chrome], [!DNL Firefox], [!DNL Safari] und [!DNL Opera] (neueste Versionen). **Hinweis:** Obwohl die Experience Cloud-Oberfläche diese Browser unterstützt, unterstützen einzelne Lösungen möglicherweise nicht alle Browser. ([Analytics](https://docs.adobe.com/content/help/de-DE/analytics/admin/sys-reqs.html) unterstützt beispielsweise nicht [!DNL Opera] und [Target](https://docs.adobe.com/help/de-DE/target/using/implement-target/before-implement/supported-browsers.html) unterstützt nicht [!DNL Safari].)
+   * Browserunterstützung: Unterstützte Browser sind [!DNL Microsoft Edge], [!DNL Google Chrome], [!DNL Firefox], [!DNL Safari] und [!DNL Opera] (neueste Versionen). **Hinweis:** Obwohl die Experience Cloud-Oberfläche diese Browser unterstützt, unterstützen einzelne Lösungen möglicherweise nicht alle Browser. ([Analytics](https://docs.adobe.com/content/help/en/analytics/admin/sys-reqs.html) unterstützt beispielsweise nicht [!DNL Opera] und [Target](https://docs.adobe.com/help/en/target/using/implement-target/before-implement/supported-browsers.html) unterstützt nicht [!DNL Safari].)
    * (Nur [!DNL Safari]) Die Domänenänderung kann bei [!DNL Safari] zu Cookie-Problemen führen. Wenn Sie in den Datenschutzeinstellungen von [!DNL Safari] die Option _Prevent cross-site tracking_ (Website übergreifendes Tracking verhindern) deaktivieren, werden domänenübergreifende Cookies (und alle Site-übergreifenden Ereignisse) aktiviert, sodass Experience Cloud in dieser neuen Domäne funktionieren kann.
 * Einfacherer Wechsel zwischen Ihren Organisationen oder zu einer anderen Anwendung.
-* Verbesserte Produkthilfe: [!UICONTROL Experience League] ist in das Produkt integriert, sodass bei einer Hilfesuche auch Ergebnisse aus Community-Foren und Videos berücksichtigt werden. Diese Änderung vereinfacht den Zugriff auf weitere Inhalte und hilft Ihnen, Experience Cloud optimal zu nutzen. Zusätzlich können Sie unter **[!UICONTROL Hilfe]**>**[!UICONTROL  Feedback]** Probleme melden oder Ihre Ideen mit Adobe teilen.
+* Verbesserte Produkthilfe: [!UICONTROL Experience League] ist in das Produkt integriert, sodass bei einer Hilfesuche auch Ergebnisse aus Community-Foren und Videos berücksichtigt werden. Diese Änderung vereinfacht den Zugriff auf weitere Inhalte und hilft Ihnen, Experience Cloud optimal zu nutzen. Zusätzlich können Sie unter **[!UICONTROL Hilfe]** > **[!UICONTROL Feedback]** Probleme melden oder Ihre Ideen mit Adobe teilen.
 * Verbesserte Benachrichtigungen: Das Dropdown-Menü [!UICONTROL Benachrichtigungen] enthält jetzt zwei Registerkarten: eine für Ihre eigenen Produktbenachrichtigungen und eine für globale Produktankündigungen.
 
 **Hinweis:** Die [!UICONTROL Feed]-Seite wird im Januar 2020 eingestellt. Innerhalb des Produkts finden Sie eine Benachrichtigung zur Einstellung.
 
-Die Produktdokumentation finden Sie auf der [Experience Cloud](https://docs.adobe.com/content/help/de-DE/core-services/interface/experience-cloud.html)-Seite.
+Die Produktdokumentation finden Sie auf der [Experience Cloud](https://docs.adobe.com/content/help/en/core-services/interface/experience-cloud.html)-Seite.
 
 ### Cookies in Experience Cloud
 
@@ -88,11 +88,11 @@ Versionshinweise für Experience Platform, Experience Platform Launch, Identity 
 
 * [Experience Platform – Versionshinweise](https://www.adobe.io/apis/experienceplatform/home/services/release-notes.html#!end-user/markdown/release-notes/release-notes.md)
 * [Experience Platform Launch](#launch)
-* [Sicherheitsbulletins und -hinweise](https://helpx.adobe.com/de/security.html) (Alle Adobe-Produkte)
+* [Sicherheitsbulletins und -hinweise](https://helpx.adobe.com/security.html) (Alle Adobe-Produkte)
 
 ### Experience Platform Launch {#launch}
 
-Versionshinweise und die Produktdokumentation finden Sie unter [Experience Platform Launch](https://docs.adobe.com/content/help/de-DE/launch/using/intro/release-notes/current.html).
+Versionshinweise und die Produktdokumentation finden Sie unter [Experience Platform Launch](https://docs.adobe.com/content/help/en/launch/using/intro/release-notes/current.html).
 
 ## Mobile Services und Mobile SDKs{#mobile}
 
@@ -110,17 +110,17 @@ Neue Funktionen und Fehlerbehebungen in Adobe Analytics:
 * [Wichtige Hinweise für Analytics-Administratoren](#aa-notices)
 * [AppMeasurement](#appm)
 
-Eine Produktdokumentation finden Sie auf der [Startseite der Adobe Analytics-Hilfe](https://docs.adobe.com/content/help/de-DE/analytics/landing/home.html).
+Eine Produktdokumentation finden Sie auf der [Startseite der Adobe Analytics-Hilfe](https://docs.adobe.com/content/help/en/analytics/landing/home.html).
 
 ### Neue Funktionen, Verbesserungen und Fehlerbehebungen in Adobe Analytics {#aa-features}
 
 | Funktion | Beschreibung |
 | -----------| ---------- |
 | Analysis Workspace – Verbesserungen an der Benutzeroberfläche | Am 16. Januar 2020 werden in Analysis Workspace Verbesserungen an der Benutzeroberfläche vorgenommen, was mehrere Monate dauern wird. Ziel dieser Änderungen ist es, die Anwendung für unsere Benutzer einfacher zugänglich zu machen und eine konsistente Benutzererfahrung in der Adobe Experience Cloud zu gewährleisten. |
-| Analysis Workspace – Erstellung von Freiformtabellen | Wenn die Tabellenerstellung aktiviert ist, können Sie für komplexe Geschäftsszenarien Tabellen mit vielen Dimensionen, Unterteilungen, Metriken und Segmenten per Drag &amp; Drop erstellen. Daten werden nicht sofort aktualisiert. Stattdessen werden Aktualisierungen nach dem Klicken auf **[!UICONTROL Erstellen]**angezeigt, sodass Sie Zeit sparen, sobald Sie wissen, welche Tabelle Sie erstellen möchten. Zusätzlich bietet diese Funktion Folgendes:<ul><li>**Vorschau**: Sie können eine Vorschau des Tabellenformats anzeigen, bevor Sie echte Daten rendern.</li><li>**Flexible Zeilen- und Aufschlüsselungseinstellungen**: Sie können für jede Zeile einer Dimension Zeilen- und Aufschlüsselungsebenen festlegen. Zuvor wurden im Workspace Standardwerte verwendet, die erst geändert werden konnten, nachdem die Daten zurückgegeben wurden.</li><li>**Aufschlüsselung nach Position**: Sie können Dimensionszeilen so einstellen, dass sie immer _nach Position_ und nicht nach einem _bestimmten Element_ (Standard) aufgeschlüsselt werden.</li><li>**Manuelle Anordnung statischer Zeilen**: Sie können statische Zeilen manuell sortieren, damit die Tabellenzeilen genau nach Bedarf angezeigt werden. Zuvor konnten statische Zeilen nur nach einer Metrikspalte oder alphabetisch sortiert werden.</li></ul>[Mehr Info...](https://docs.adobe.com/content/help/de-DE/analytics/analyze/analysis-workspace/visualizations/freeform-table.html). |
+| Analysis Workspace – Erstellung von Freiformtabellen | Wenn die Tabellenerstellung aktiviert ist, können Sie für komplexe Geschäftsszenarien Tabellen mit vielen Dimensionen, Unterteilungen, Metriken und Segmenten per Drag &amp; Drop erstellen. Daten werden nicht sofort aktualisiert. Stattdessen werden Aktualisierungen nach dem Klicken auf **[!UICONTROL Erstellen]** angezeigt, sodass Sie Zeit sparen, sobald Sie wissen, welche Tabelle Sie erstellen möchten. Zusätzlich bietet diese Funktion Folgendes:<ul><li>**Vorschau**: Sie können eine Vorschau des Tabellenformats anzeigen, bevor Sie echte Daten rendern.</li><li>**Flexible Zeilen- und Aufschlüsselungseinstellungen**: Sie können für jede Zeile einer Dimension Zeilen- und Aufschlüsselungsebenen festlegen. Zuvor wurden im Workspace Standardwerte verwendet, die erst geändert werden konnten, nachdem die Daten zurückgegeben wurden.</li><li>**Aufschlüsselung nach Position**: Sie können Dimensionszeilen so einstellen, dass sie immer _nach Position_ und nicht nach einem _bestimmten Element_ (Standard) aufgeschlüsselt werden.</li><li>**Manuelle Anordnung statischer Zeilen**: Sie können statische Zeilen manuell sortieren, damit die Tabellenzeilen genau nach Bedarf angezeigt werden. Zuvor konnten statische Zeilen nur nach einer Metrikspalte oder alphabetisch sortiert werden.</li></ul>[Mehr Info...](https://docs.adobe.com/content/help/en/analytics/analyze/analysis-workspace/visualizations/freeform-table.html). |
 | Neue Dimension [!UICONTROL Identifizierter Status] für Cross-Device Analytics (CDA) | Wir fügen eine neue Dimension namens [!UICONTROL Identifizierter Status] zu CDA-Virtual Report Suites hinzu. Die Dimension verfügt über zwei mögliche Werte: _Identifiziert_ und _Nicht identifiziert_. _Identifiziert_ bedeutet, dass die Person vom Gerätediagramm identifiziert wurde. _Nicht identifiziert_ bedeutet, dass die Person vom Gerätediagramm nicht identifiziert wurde.<br>Das bedeutet, dass CDA-Benutzer jetzt berechnete Metriken erstellen können, z. B. [!UICONTROL Device Graph Coverage], aus der hervorgeht, wie viele Personen in der Virtual Report Suite dem Gerätediagramm bekannt sind. Diese Metrik ist hilfreich, um Probleme bei CDA-Komprimierungsraten zu beheben. Wenn nur wenige Personen identifiziert werden, ist der Grad der Zusammensetzung gering. |
 | VRS-Unterstützung in Data Warehouse API | Virtual Report Suites stehen jetzt über die Data Warehouse-API zur Verfügung. Zuvor waren sie nur über die Data Warehouse-Benutzeroberfläche verfügbar. Bei Verwendung der Data Warehouse-API können Sie jetzt Virtual Report Suites anzeigen und abfragen, allerdings nur, wenn die auf eine Virtual Report Suite angewendeten Segmente mit Data Warehouse kompatibel sind. |
-| Privacy Service API: CCPA | Der California Consumer Privacy Act (CCPA) erweitert die Datenschutzrechte und den Verbraucherschutz für Einwohner von Kalifornien, USA. Dieses Gesetz trat am 1. Januar 2020 in Kraft.<br><br/>Der CCPA bietet neue Datenschutzrechte, mit denen Verbraucher beispielsweise ihre personenbezogenen Daten einsehen und löschen oder herausfinden können, ob (und an wen) ihre Daten verkauft oder weitergegeben wurden, und mit denen sie dem Verkauf ihrer personenbezogenen Daten widersprechen können.<br><br/>Der Datenschutzdienst unterstützt Anfragen zur Abmeldung vom Verkauf personenbezogener Daten.<br><br/>„Privacy Service“ ist der neue Name des DSGVO-Dienstes; der Service behält alle vorherigen Funktionen und unterstützt jetzt auch den CCPA.<br/><br/>[CCPA in Analytics](https://docs.adobe.com/content/help/de-DE/analytics/admin/data-governance/an-ccpa-overview.html)<br><br/>[Übersicht über den Datenschutzdienst](https://www.adobe.io/apis/experiencecloud/gdpr/docs/alldocs.html#!api-specification/markdown/narrative/technical_overview/privacy_service_overview/privacy_service_overview.md) |
+| Privacy Service API: CCPA | Der California Consumer Privacy Act (CCPA) erweitert die Datenschutzrechte und den Verbraucherschutz für Einwohner von Kalifornien, USA. Dieses Gesetz trat am 1. Januar 2020 in Kraft.<br><br/>Der CCPA bietet neue Datenschutzrechte, mit denen Verbraucher beispielsweise ihre personenbezogenen Daten einsehen und löschen oder herausfinden können, ob (und an wen) ihre Daten verkauft oder weitergegeben wurden, und mit denen sie dem Verkauf ihrer personenbezogenen Daten widersprechen können.<br><br/>Der Datenschutzdienst unterstützt Anfragen zur Abmeldung vom Verkauf personenbezogener Daten.<br><br/>„Privacy Service“ ist der neue Name des DSGVO-Dienstes; der Service behält alle vorherigen Funktionen und unterstützt jetzt auch den CCPA.<br/><br/>[CCPA in Analytics](https://docs.adobe.com/content/help/en/analytics/admin/data-governance/an-ccpa-overview.html)<br><br/>[Übersicht über den Datenschutzdienst](https://www.adobe.io/apis/experiencecloud/gdpr/docs/alldocs.html#!api-specification/markdown/narrative/technical_overview/privacy_service_overview/privacy_service_overview.md) |
 
 #### Fehlerkorrekturen
 
@@ -134,17 +134,17 @@ Eine Produktdokumentation finden Sie auf der [Startseite der Adobe Analytics-Hil
 
 | Hinweis | Hinzugefügt oder aktualisiert am | Beschreibung |
 | -----------| ---------- | ---------- |
-| Neue Adobe Analytics-Domäne | 18. Dezember 2019 | Am 16. Januar 2020 beginnt Adobe Analytics mit der Umstellung auf eine neue Domäne - `https://experience.adobe.com/analytics.`<br>**Hinweis **: Diese Änderung gilt für alle Benutzer, die mit ihrer Adobe ID oder Enterprise ID auf Analytics zugreifen.<ul><li>Diese Änderung kann zu Problemen mit Cookies führen, wenn Analytics in Safari geladen wird. Wenn Sie in den Datenschutzeinstellungen von Safari die Option _Prevent cross-site tracking_ (Website übergreifendes Tracking verhindern) deaktivieren, werden domänenübergreifende Cookies (und alle Site-übergreifenden Ereignisse) aktiviert, sodass Analytics in dieser neuen Adobe Experience Cloud-Domäne funktionieren kann. Sie können problemlos andere Browser verwenden, da dies nur Safari-Benutzer betrifft.</li><li>Die Domänenänderung kann dazu führen, dass [!UICONTROL Activity Map] bei einigen Kunden [in bestimmten Fällen](https://docs.adobe.com/content/help/de-DE/analytics/analyze/activity-map/activity-map.html) nicht mehr funktioniert.</li></ul> |
+| Neue Adobe Analytics-Domäne | 18. Dezember 2019 | Am 16. Januar 2020 beginnt Adobe Analytics mit der Umstellung auf eine neue Domäne - `https://experience.adobe.com/analytics.`<br>**Hinweis **: Diese Änderung gilt für alle Benutzer, die mit ihrer Adobe ID oder Enterprise ID auf Analytics zugreifen.<ul><li>Diese Änderung kann zu Problemen mit Cookies führen, wenn Analytics in Safari geladen wird. Wenn Sie in den Datenschutzeinstellungen von Safari die Option _Prevent cross-site tracking_ (Website übergreifendes Tracking verhindern) deaktivieren, werden domänenübergreifende Cookies (und alle Site-übergreifenden Ereignisse) aktiviert, sodass Analytics in dieser neuen Adobe Experience Cloud-Domäne funktionieren kann. Sie können problemlos andere Browser verwenden, da dies nur Safari-Benutzer betrifft.</li><li>Die Domänenänderung kann dazu führen, dass [!UICONTROL Activity Map] bei einigen Kunden [in bestimmten Fällen](https://docs.adobe.com/content/help/en/analytics/analyze/activity-map/activity-map.html) nicht mehr funktioniert.</li></ul> |
 | End of Life - veraltete Analytics-APIs | 9. Januar 2020 | Im November 2020 werden die folgenden Legacy-API-Dienste von Analytics eingestellt. Aktuelle Integrationen, die mit diesen Diensten erstellt wurden, funktionieren dann nicht mehr. <ul><li>1.3 Analytics-APIs</li><li>1.4 SOAP Analytics-APIs</li><li>Legacy-OAuth-Authentifizierung (OAuth und JWT)</li></ul>Wir haben [FAQ zu Legacy API EOL](https://github.com/AdobeDocs/analytics-1.4-apis/blob/master/docs/APIEOL.md?mv=email) bereitgestellt, die Ihnen bei der Beantwortung Ihrer Fragen helfen und Anleitungen zum weiteren Vorgehen geben sollen. API-Integrationen, die diese Dienste nutzen, können zu den [Analytics-REST-APIs 1.4](https://github.com/AdobeDocs/analytics-1.4-apis?mv=email) oder den [Analytics-APIs 2.0](https://github.com/AdobeDocs/analytics-2.0-apis?mv=email) migrieren. Ältere OAuth-Konten können zu einem [Adobe IO](https://console.adobe.io/home?mv=email) Analytics-Integrationskonto migrieren, das für den Zugriff auf sowohl Analytics-APIs 1.4 als auch Analytics-APIs 2.0 verwendet werden kann. |
-| Option **[!UICONTROL Archiv anzeigen]** wird eingestellt | 30. Oktober 2019 | Die Option **[!UICONTROL Archiv anzeigen]** im Dashboard-Manager (**[!UICONTROL  Komponenten > Dashboards]**) wird im Januar 2020 eingestellt. |
-| Option **[!UICONTROL IP-Anmeldebeschränkungen erzwingen]** wird eingestellt | 30. Oktober 2019 | Die IP-Whitelist-Funktionalität (**[!UICONTROL IP-Anmeldebeschränkungen erzwingen]**) unter **[!UICONTROL  Admin > Unternehmenseinstellungen > Sicherheit]** wird im Januar 2020 eingestellt. |
+| Option **[!UICONTROL Archiv anzeigen]** wird eingestellt | 30. Oktober 2019 | Die Option **[!UICONTROL Archiv anzeigen]** im Dashboard-Manager (**[!UICONTROL Komponenten > Dashboards]**) wird im Januar 2020 eingestellt. |
+| Option **[!UICONTROL IP-Anmeldebeschränkungen erzwingen]** wird eingestellt | 30. Oktober 2019 | Die IP-Whitelist-Funktionalität (**[!UICONTROL IP-Anmeldebeschränkungen erzwingen]**) unter **[!UICONTROL Admin > Unternehmenseinstellungen > Sicherheit]** wird im Januar 2020 eingestellt. |
 | Ende der Unterstützung für TLS 1.1 | 3. Oktober 2019 | Ab dem 31. März 2020 unterstützt Adobe Analytics TLS 1.1 nicht mehr. Diese Änderung ist Teil unserer laufenden Bemühungen, höchstmögliche Sicherheit von Kundendaten zu gewährleisten. |
 | FTP-Broker in San Jose endet für London und Singapur | Juli 2020 | Für Kunden in London und Singapur wird die Datenvermittlung zwischen den beiden Städten und dem Rechenzentrum in San Jose ([ftp.omniture.com](ftp://ftp.omniture.com/)) nicht mehr unterstützt.<br/><ul><li>Für London verwenden Sie [ftp3.omniture.com](ftp://ftp3.omniture.com/)</li><li>Für Singapur verwenden Sie [ftp4.omniture.com](ftp://ftp4.omniture.com/)</li></ul> |
 | Bevorstehende Änderung bezüglich des Felds `createDate` für Analytics-Benutzer | 30. August 2019 | Im Oktober oder November 2019 wurde das Feld `createDate` für Analytics-Benutzer von der US Pacific Time auf einen korrekt formatierten Datums-/Uhrzeitwert mit Zeitzoneninformationen aktualisiert.(AN-183468) |
 
 ### [!DNL AppMeasurement] {#appm}
 
-Siehe [Versionshinweise zu AppMeasurement für JavaScript](https://docs.adobe.com/content/help/de-DE/analytics/implementation/appmeasurement-release-notes/c-release-notes-mjs.html).
+Siehe [Versionshinweise zu AppMeasurement für JavaScript](https://docs.adobe.com/content/help/en/analytics/implementation/appmeasurement-release-notes/c-release-notes-mjs.html).
 
 ## Audience Manager {#aam}
 
@@ -154,11 +154,11 @@ Korrekturen und Funktionen, die Audience Manager hinzugefügt wurden.
 
 | Funktion | Beschreibung |
 | -----------| ---------- |
-| [California Consumer Privacy Act (CCPA) – Überarbeitung der Support- und Datenschutzdokumentation](https://docs.adobe.com/content/help/de-DE/audience-manager/user-guide/overview/data-privacy/data-privacy.html) | Der [California Consumer Privacy Act (CCPA)](https://www.caprivacy.org/about), der am 1. Januar 2020 in Kraft getreten ist, verleiht kalifornischen Bürgern neue Rechte in Bezug auf ihre personenbezogenen Daten und erlegt bestimmten Einrichtungen, die mit Kalifornien Geschäfte treiben, Datenschutzpflichten auf. <br><br> Audience Manager unterstützt Sie bei der Erfüllung Ihrer Verpflichtungen in Bezug auf die Datenschutzbestimmungen durch Datenschutzwerkzeuge wie den [Datenschutzdienst von Adobe Experience Platform](https://www.adobe.io/apis/experienceplatform/home/services/privacy-service.html) durch Funktionen für Datenzugriffs- und Löschanfragen. <br><br> Der aktuelle [Opt-out-Verwaltungsprozess](https://docs.adobe.com/content/help/de-DE/audience-manager/user-guide/overview/data-privacy/data-privacy-requests.html#opt-out-requests) wurde aktualisiert, sodass jetzt die Abmeldung einer beliebigen deklarierten ID (z. B. einer CRM-ID) ebenfalls möglich ist. Bei der Abmeldung über eine deklarierte ID werden die deklarierte ID und das zuletzt verbundene Gerät von der Datenerfassung durch Audience Manager ausgeschlossen. Bei Abmeldeanfragen werden jetzt auch sowohl in Batch- als auch in Echtzeit Anfragen zur Desegmentierung an [Zielpartner](https://docs.adobe.com/content/help/de-DE/audience-manager/user-guide/overview/data-privacy/data-privacy-requests.html#aam-partners-with-unsegmentation) gesendet, die diese Funktion unterstützen. <br><br> Darüber hinaus haben wir unsere Dokumentation zur [Datensicherheit](https://docs.adobe.com/content/help/de-DE/audience-manager/user-guide/overview/data-security.html), zum [Datenschutz](https://docs.adobe.com/content/help/de-DE/audience-manager/user-guide/overview/data-privacy/data-privacy.html) und zur [Datenverwaltung](https://docs.adobe.com/content/help/de-DE/audience-manager/user-guide/overview/data-governance.html) überarbeitet, um das Auffinden der Informationen zu erleichtern, die zur Einhaltung der oben genannten Vorschriften erforderlich sind. |
+| [California Consumer Privacy Act (CCPA) – Überarbeitung der Support- und Datenschutzdokumentation](https://docs.adobe.com/content/help/en/audience-manager/user-guide/overview/data-privacy/data-privacy.html) | Der [California Consumer Privacy Act (CCPA)](https://www.caprivacy.org/about), der am 1. Januar 2020 in Kraft getreten ist, verleiht kalifornischen Bürgern neue Rechte in Bezug auf ihre personenbezogenen Daten und erlegt bestimmten Einrichtungen, die mit Kalifornien Geschäfte treiben, Datenschutzpflichten auf. <br><br> Audience Manager unterstützt Sie bei der Erfüllung Ihrer Verpflichtungen in Bezug auf die Datenschutzbestimmungen durch Datenschutzwerkzeuge wie den [Datenschutzdienst von Adobe Experience Platform](https://www.adobe.io/apis/experienceplatform/home/services/privacy-service.html) durch Funktionen für Datenzugriffs- und Löschanfragen. <br><br> Der aktuelle [Opt-out-Verwaltungsprozess](https://docs.adobe.com/content/help/en/audience-manager/user-guide/overview/data-privacy/data-privacy-requests.html#opt-out-requests) wurde aktualisiert, sodass jetzt die Abmeldung einer beliebigen deklarierten ID (z. B. einer CRM-ID) ebenfalls möglich ist. Bei der Abmeldung über eine deklarierte ID werden die deklarierte ID und das zuletzt verbundene Gerät von der Datenerfassung durch Audience Manager ausgeschlossen. Bei Abmeldeanfragen werden jetzt auch sowohl in Batch- als auch in Echtzeit Anfragen zur Desegmentierung an [Zielpartner](https://docs.adobe.com/content/help/en/audience-manager/user-guide/overview/data-privacy/data-privacy-requests.html#aam-partners-with-unsegmentation) gesendet, die diese Funktion unterstützen. <br><br> Darüber hinaus haben wir unsere Dokumentation zur [Datensicherheit](https://docs.adobe.com/content/help/en/audience-manager/user-guide/overview/data-security.html), zum [Datenschutz](https://docs.adobe.com/content/help/en/audience-manager/user-guide/overview/data-privacy/data-privacy.html) und zur [Datenverwaltung](https://docs.adobe.com/content/help/en/audience-manager/user-guide/overview/data-governance.html) überarbeitet, um das Auffinden der Informationen zu erleichtern, die zur Einhaltung der oben genannten Vorschriften erforderlich sind. |
 
 ### Fehlerbehebungen und Verbesserungen {#aam-fixes-and-improvements}
 
-* Es wurde ein Problem im Workflow zum [!UICONTROL Erstellen eines Ziels] behoben, bei dem bei Auswahl von **[!UICONTROL integrierten Plattformen]**als[!UICONTROL Kategorie]der Bereich[!UICONTROL Grundlegende Informationen]ausgeblendet wurde und der Workflow nicht abgeschlossen werden konnte. (AAM-52397, AAM-52414)
+* Es wurde ein Problem im Workflow zum [!UICONTROL Erstellen eines Ziels] behoben, bei dem bei Auswahl von **[!UICONTROL integrierten Plattformen]** als [!UICONTROL Kategorie] der Bereich [!UICONTROL Grundlegende Informationen] ausgeblendet wurde und der Workflow nicht abgeschlossen werden konnte. (AAM-52397, AAM-52414)
 * Es wurde ein Fehler behoben, durch den die Seite [!UICONTROL Ziele erstellen/bearbeiten] nicht in den Apple Safari- und Mozilla Firefox-Browsern geladen wurde. (AAM-51784)
 
 ## Experience Manager {#aem}
@@ -169,36 +169,36 @@ Neue Funktionen, Fehlerbehebungen und Aktualisierungen in Adobe Experience Man
 
 * **AEM 6.5.3.0**
 AEM 6.5 Service Pack 3.0 (6.5.3.0 vom 12. Dezember 2019) ist ein wichtiges Update, das für Kunden wichtige Fehlerbehebungen enthält, die seit dem allgemeinen Release von AEM 6.5 im April 2019 veröffentlicht wurden.
-   * [Versionshinweise](https://helpx.adobe.com/de/experience-manager/6-5/release-notes/sp-release-notes.html)
-   * [CFP-Versionen für AEM Forms](https://helpx.adobe.com/de/aem-forms/kb/aem-forms-releases.html)
+   * [Versionshinweise](https://helpx.adobe.com/experience-manager/6-5/release-notes/sp-release-notes.html)
+   * [CFP-Versionen für AEM Forms](https://helpx.adobe.com/aem-forms/kb/aem-forms-releases.html)
 
 * **AEM 6.4.7.0**
 
    AEM 6.4 Service Pack 7.0 (6.4.7.0 vom 12. Dezember 2019) ist ein Update, das für Kunden wichtige Fehlerbehebungen enthält, die seit dem allgemeinen Release von AEM 6.4 im April 2018 veröffentlicht wurden.
-   * [Versionshinweise](https://helpx.adobe.com/de/experience-manager/6-4/release-notes/sp-release-notes.html)
-   * [CFP-Versionen für AEM Forms](https://helpx.adobe.com/de/aem-forms/kb/aem-forms-releases.html)
+   * [Versionshinweise](https://helpx.adobe.com/experience-manager/6-4/release-notes/sp-release-notes.html)
+   * [CFP-Versionen für AEM Forms](https://helpx.adobe.com/aem-forms/kb/aem-forms-releases.html)
 
 * **AEM 6.3.3.7**
 
    AEM 6.3 Service Pack 3, Cumulative Fix Pack 7 (6.3.3.7 vom 12. Dezember 2019) ist ein wichtiges Update, das für Kunden wichtige Fehlerbehebungen enthält, die seit dem allgemeinen Release von AEM 6.3 im April 2017 veröffentlicht wurden.
-   * [Versionshinweise](https://helpx.adobe.com/de/experience-manager/release-notes—aem-6-3-cumulative-fix-pack.html)
-   * [CFP-Versionen für AEM Forms](https://helpx.adobe.com/de/aem-forms/kb/aem-forms-releases.html)
+   * [Versionshinweise](https://helpx.adobe.com/experience-manager/release-notes--aem-6-3-cumulative-fix-pack.html)
+   * [CFP-Versionen für AEM Forms](https://helpx.adobe.com/aem-forms/kb/aem-forms-releases.html)
 
 * **AEM Desktop App 2.0.1.1**
 
    AEM Desktop App 2.0.1.1 bietet ein Update für Single Sign-On mit Okta und die Möglichkeit, den Speicherort temporärer Dateien in den Einstellungen anzugeben. Die Unterstützung für AEM 6.3.x der Desktop-App 2.x wird mit dieser Version beendet.
-   * [Versionshinweise](https://docs.adobe.com/content/help/de-DE/experience-manager-desktop-app/using/release-notes.html)
+   * [Versionshinweise](https://docs.adobe.com/content/help/en/experience-manager-desktop-app/using/release-notes.html)
 
 * **Adobe Asset Link 1.1 beendet die Unterstützung für AEM 6.3.x**
 
    Die Unterstützung für AEM 6.3.x von Adobe Asset Link wurde im April 2019 beendet. Adobe Asset Link 1.1 beendet ab 13. Januar 2020 die Unterstützung für AEM 6.3.x.
-   * [Adobe Asset Link](https://helpx.adobe.com/de/enterprise/using/adobe-asset-link.html)
+   * [Adobe Asset Link](https://helpx.adobe.com/enterprise/using/adobe-asset-link.html)
 
 ### Produktversionen
 
 * **NEU: AEM als Cloud-Dienst**
 
-   [Adobe Experience Manager](https://www.adobe.com/de/marketing/experience-manager.html) (AEM) ist jetzt als Cloud-Dienst verfügbar.
+   [Adobe Experience Manager](https://www.adobe.com/marketing/experience-manager.html) (AEM) ist jetzt als Cloud-Dienst verfügbar.
 
    * [Einführung](https://docs.adobe.com/content/help/en/experience-manager-cloud-service/overview/introduction.html)
    * [Versionsinformationen](https://docs.adobe.com/content/help/en/experience-manager-cloud-service/release-notes/home.html)
@@ -221,24 +221,24 @@ Siehe [Anzeigen einer Vorschau von 3D-Assets](https://docs.adobe.com/content/hel
 
 * **Kernkomponenten**
 
-   Core Components 2.8.0 ist jetzt gemeinsam mit der [Erstellungsdokumentation](https://docs.adobe.com/content/help/de-DE/experience-manager-core-components/using/introduction.html), den [Entwicklerdetails und dem Projektdownload auf GitHub](https://github.com/adobe/aem-core-wcm-components) verfügbar.
+   Core Components 2.8.0 ist jetzt gemeinsam mit der [Erstellungsdokumentation](https://docs.adobe.com/content/help/en/experience-manager-core-components/using/introduction.html), den [Entwicklerdetails und dem Projektdownload auf GitHub](https://github.com/adobe/aem-core-wcm-components) verfügbar.
 
 * **AEM Projektarchetyp**
 
-   Das [ui.frontend-Modul](https://docs.adobe.com/content/help/de-DE/experience-manager-core-components/using/developing/archetype/uifrontend.html) des [AEM-Projektarchetyps](https://docs.adobe.com/content/help/de-DE/experience-manager-core-components/using/developing/archetype/overview.html) ist ein nützliches und flexibles Tool, um die Front-End-Entwicklung für Ihr AEM-Projekt zu vereinfachen.
+   Das [ui.frontend-Modul](https://docs.adobe.com/content/help/en/experience-manager-core-components/using/developing/archetype/uifrontend.html) des [AEM-Projektarchetyps](https://docs.adobe.com/content/help/en/experience-manager-core-components/using/developing/archetype/overview.html) ist ein nützliches und flexibles Tool, um die Front-End-Entwicklung für Ihr AEM-Projekt zu vereinfachen.
 
 ### Zusätzliche Ressourcen
 
 * [AEM als Cloud-Dienst](https://docs.adobe.com/content/help/en/experience-manager-cloud-service/landing/home.html)
-* [AEM 6.5 Schulung und Support – Startseite](https://helpx.adobe.com/de/support/experience-manager/6-5.html)
-* [AEM 6.4 Schulung und Support – Startseite](https://helpx.adobe.com/de/support/experience-manager/6-4.html)
-* [AEM 6.3 Schulung und Support – Startseite](https://helpx.adobe.com/de/support/experience-manager/6-3.html)
-* [AEM 6.2 Schulung und Support – Startseite](https://helpx.adobe.com/de/support/experience-manager/6-2.html)
-* [Cloud Manager-Benutzerhandbuch](https://helpx.adobe.com/de/experience-manager/cloud-manager/user-guide.html)
-* [Ältere Versionen der AEM-Dokumentation](https://helpx.adobe.com/de/experience-manager/aem-previous-versions.html)
-* [Startseite der Hilfe zu Dynamic Media Classic](https://docs.adobe.com/content/help/de-DE/dynamic-media-classic/using/home.html)
+* [AEM 6.5 Schulung und Support – Startseite](https://helpx.adobe.com/support/experience-manager/6-5.html)
+* [AEM 6.4 Schulung und Support – Startseite](https://helpx.adobe.com/support/experience-manager/6-4.html)
+* [AEM 6.3 Schulung und Support – Startseite](https://helpx.adobe.com/support/experience-manager/6-3.html)
+* [AEM 6.2 Schulung und Support – Startseite](https://helpx.adobe.com/support/experience-manager/6-2.html)
+* [Cloud Manager-Benutzerhandbuch](https://helpx.adobe.com/experience-manager/cloud-manager/user-guide.html)
+* [Ältere Versionen der AEM-Dokumentation](https://helpx.adobe.com/experience-manager/aem-previous-versions.html)
+* [Startseite der Hilfe zu Dynamic Media Classic](https://docs.adobe.com/content/help/en/dynamic-media-classic/using/home.html)
 * [Versionshinweise zu Dynamic Media](https://marketing.adobe.com/resources/help/en_US/s7/release_notes/index.html)
-* [Livefyre-Versionshinweise](https://docs.adobe.com/content/help/de-DE/livefyre/using/release-notes/c-rn.html)
+* [Livefyre-Versionshinweise](https://marketing.adobe.com/resources/help/en_US/livefyre/c_rn.html)
 
 ## [!DNL Campaign] {#ac}
 
@@ -248,10 +248,10 @@ Adobe Campaign bietet die Möglichkeit, direkte Nachrichten über Online- und O
 
 | Funktionalität | Beschreibung |
 | ------------- | ----------- |
-| California Consumer Privacy Act (CCPA) | CCPA ist das neue Datenschutzgesetz des US-Bundesstaates Kalifornien, mit dem die Datenschutzbestimmungen harmonisiert und modernisiert werden und das am 1. Januar 2020 in Kraft trat. CCPA gilt für Adobe Campaign-Kunden, die Daten von in Kalifornien ansässigen Datensubjekten speichern. <br> Zusätzlich zu den bereits verfügbaren Datenschutzfunktionen (einschließlich Zustimmungsverwaltung, Einstellungen zur Datenspeicherung und Benutzerrollen) hilft Adobe Campaign Ihnen bei der Vorbereitung auf den CCPA: <ul><li>_Recht auf Dateneinsicht_ und _Recht auf Datenlöschung:_ Hierfür werden die für die DSGVO hinzugefügten Funktionen genutzt. [Mehr Info](https://helpx.adobe.com/de/campaign/kb/acc-privacy.html#righttoaccess) </li><li>Sie können erfassen, ob sich ein Verbraucher gegen den Verkauf seiner personenbezogenen Daten entschieden hat. Dazu müssen Sie die Tabelle [!UICONTROL Profile] erweitern und das Feld **[!UICONTROL Opt-out for CCPA]**hinzufügen.[Mehr Info](https://helpx.adobe.com/de/campaign/kb/acc-privacy.html#ccpa)</li></ul> Sehen Sie sich hierzu das [Anleitungsvideo](https://docs.adobe.com/content/help/en/campaign-learn/campaign-standard-tutorials/privacy/privacy-overview.html) an. |
+| California Consumer Privacy Act (CCPA) | CCPA ist das neue Datenschutzgesetz des US-Bundesstaates Kalifornien, mit dem die Datenschutzbestimmungen harmonisiert und modernisiert werden und das am 1. Januar 2020 in Kraft trat. CCPA gilt für Adobe Campaign-Kunden, die Daten von in Kalifornien ansässigen Datensubjekten speichern. <br> Zusätzlich zu den bereits verfügbaren Datenschutzfunktionen (einschließlich Zustimmungsverwaltung, Einstellungen zur Datenspeicherung und Benutzerrollen) hilft Adobe Campaign Ihnen bei der Vorbereitung auf den CCPA: <ul><li>_Recht auf Dateneinsicht_ und _Recht auf Datenlöschung:_ Hierfür werden die für die DSGVO hinzugefügten Funktionen genutzt. [Mehr Info](https://helpx.adobe.com/campaign/kb/acc-privacy.html#righttoaccess) </li><li>Sie können erfassen, ob sich ein Verbraucher gegen den Verkauf seiner personenbezogenen Daten entschieden hat. Dazu müssen Sie die Tabelle [!UICONTROL Profile] erweitern und das Feld **[!UICONTROL Opt-out for CCPA]** hinzufügen. [Mehr Info](https://helpx.adobe.com/campaign/kb/acc-privacy.html#ccpa) </li></ul> Sehen Sie sich hierzu das [Anleitungsvideo](https://docs.adobe.com/content/help/en/campaign-learn/campaign-standard-tutorials/privacy/privacy-overview.html) an. |
 | Live-Überwachung des Workflows | Sie können jetzt den Ausführungsstatus aller Workflows in Ihrer Instanz mithilfe vordefinierter Ansichten überwachen. <br> Weitere Informationen finden Sie unter [Filtern von Workflows nach ihrem Status](https://docs.adobe.com/content/help/en/campaign-classic/using/automating-with-workflows/monitoring-workflows/monitoring-workflow-execution.html#filtering-workflows-status). |
 | Interaktive Inhalte mit AMP | Mit Adobe Campaign können Sie das neue interaktive Format [AMP for Email](https://amp.dev/about/email/) ausprobieren. Marketingexperten können damit AMP-Komponenten in Nachrichten einfügen, um E-Mails mit komplexen, dynamischen und interaktiven Inhalten interessanter zu gestalten, die direkt in der Nachricht selbst aktiviert werden können. <br> Diese Funktion wird als Betaversion veröffentlicht. <br> Weitere Informationen finden Sie in der [jeweiligen Dokumentation](https://docs.adobe.com/content/help/en/campaign-classic/using/sending-messages/sending-emails/defining-interactive-content.html) und im [Anleitungsvideo](https://docs.adobe.com/content/help/en/campaign-learn/campaign-classic-tutorials/sending-messages/email-channel/defining-interactive-email-content-with-amp.html). |
-| Sicheres SMS-Messaging (TLS) | Gesicherte SMS werden jetzt über den Extended Generic SMPP Connector unterstützt. Dies ermöglicht eine verschlüsselte Verbindung zum Provider. <br> **Warnung**: Diese Funktion erfordert ein gültiges Zertifikat auf allen Servern. Ungültige, gesperrte oder abgelaufene Zertifikate verursachen Fehler, die sich auf die gesamten SMS-Sendefunktionen auswirken. <br> Weitere Informationen finden Sie in der [ausführlichen Dokumentation](https://helpx.adobe.com/de/campaign/kb/sms-connector-protocol-and-settings.html). |
+| Sicheres SMS-Messaging (TLS) | Gesicherte SMS werden jetzt über den Extended Generic SMPP Connector unterstützt. Dies ermöglicht eine verschlüsselte Verbindung zum Provider. <br> **Warnung**: Diese Funktion erfordert ein gültiges Zertifikat auf allen Servern. Ungültige, gesperrte oder abgelaufene Zertifikate verursachen Fehler, die sich auf die gesamten SMS-Sendefunktionen auswirken. <br> Weitere Informationen finden Sie in der [ausführlichen Dokumentation](https://helpx.adobe.com/campaign/kb/sms-connector-protocol-and-settings.html). |
 
 Fehlerbehebungen und Verbesserungen finden Sie unter [Adobe Campaign Classic – Versionshinweise](https://docs.adobe.com/content/help/en/campaign-classic/using/release-notes/latest-release.html).
 
@@ -259,10 +259,10 @@ Fehlerbehebungen und Verbesserungen finden Sie unter [Adobe Campaign Classic –
 
 | Funktionalität | Beschreibung |
 | ------------- | ----------- |
-| California Consumer Privacy Act (CCPA) | CCPA ist das neue Datenschutzgesetz des US-Bundesstaates Kalifornien, mit dem die Datenschutzbestimmungen harmonisiert und modernisiert werden und das am 1. Januar 2020 in Kraft trat. CCPA gilt für Adobe Campaign-Kunden, die Daten von in Kalifornien ansässigen Datensubjekten speichern. <br> Zusätzlich zu den Datenschutzfunktionen, die bereits in Adobe Campaign verfügbar sind (einschließlich Zustimmungsverwaltung, Einstellungen zur Datenspeicherung und Benutzerrollen), fügen wir weitere Funktionen hinzu, um Ihre CCPA-Bereitschaft zu verbessern: <ul><li> Recht auf Dateneinsicht und Recht auf Datenlöschung: Hierfür werden die für die DSGVO hinzugefügten Funktionen genutzt. [Mehr Info](https://helpx.adobe.com/de/campaign/kb/acs-privacy.html#righttoaccess) </li><li> Bei der Erstellung einer Datenschutzanfrage wurde zum Privacy Core Service der Typ des Gesetzes (DSGVO oder CCPA) hinzugefügt. Diese Methode sollten Sie für alle Zugriffs- und Löschanfragen verwenden. Die Verwendung der Campaign-API und -Schnittstelle für Zugriffs- und Löschanfragen wird nicht mehr unterstützt. Siehe Artikel zu [veralteten und entfernten Funktionen](https://helpx.adobe.com/de/campaign/kb/acs-deprecated-and-removed-features.html). </li><li> Der Profiles-Ressource wurde ein **CCPA-Opt-out**-Feld hinzugefügt, mit dem Adobe Campaign-Benutzer erfassen können, ob sich ein Kunde gegen den Verkauf seiner personenbezogenen Daten entschieden hat. [Mehr Info](https://helpx.adobe.com/de/campaign/kb/acs-privacy.html#ccpa) </li></ul> Sehen Sie sich hierzu das [Anleitungsvideo](https://docs.adobe.com/content/help/en/campaign-learn/campaign-standard-tutorials/privacy/privacy-overview.html) an. |
-| Integration von Microsoft Dynamics 365 (GA) | Die Integration zwischen Adobe Campaign Standard und Microsoft Dynamics 365 ist jetzt verfügbar. Sie können Ihre Kontakt- und benutzerdefinierten Entitätsdatensätze von Dynamics 365 auf Campaign übertragen und E-Mail-Ereignisdaten von Campaign in Dynamics 365 transferieren, um eine bessere Ausrichtung von Vertrieb und Marketing zu erzielen. <br> Lesen Sie die [entsprechende Dokumentation](https://helpx.adobe.com/de/campaign/kb/acs-ms-dynamics.html), um diese Integration einzurichten, sehen Sie sich das [Anleitungsvideo](https://docs.adobe.com/content/help/en/campaign-learn/campaign-standard-tutorials/integrating/microsoft-dynamics365-connector/introduction.html) an. |
+| California Consumer Privacy Act (CCPA) | CCPA ist das neue Datenschutzgesetz des US-Bundesstaates Kalifornien, mit dem die Datenschutzbestimmungen harmonisiert und modernisiert werden und das am 1. Januar 2020 in Kraft trat. CCPA gilt für Adobe Campaign-Kunden, die Daten von in Kalifornien ansässigen Datensubjekten speichern. <br> Zusätzlich zu den Datenschutzfunktionen, die bereits in Adobe Campaign verfügbar sind (einschließlich Zustimmungsverwaltung, Einstellungen zur Datenspeicherung und Benutzerrollen), fügen wir weitere Funktionen hinzu, um Ihre CCPA-Bereitschaft zu verbessern: <ul><li> Recht auf Dateneinsicht und Recht auf Datenlöschung: Hierfür werden die für die DSGVO hinzugefügten Funktionen genutzt. [Mehr Info](https://helpx.adobe.com/content/help/en/campaign/kb/acs-privacy.html#righttoaccess) </li><li> Bei der Erstellung einer Datenschutzanfrage wurde zum Privacy Core Service der Typ des Gesetzes (DSGVO oder CCPA) hinzugefügt. Diese Methode sollten Sie für alle Zugriffs- und Löschanfragen verwenden. Die Verwendung der Campaign-API und -Schnittstelle für Zugriffs- und Löschanfragen wird nicht mehr unterstützt. Siehe Artikel zu [veralteten und entfernten Funktionen](https://helpx.adobe.com/campaign/kb/acs-deprecated-and-removed-features.html). </li><li> Der Profiles-Ressource wurde ein **CCPA-Opt-out**-Feld hinzugefügt, mit dem Adobe Campaign-Benutzer erfassen können, ob sich ein Kunde gegen den Verkauf seiner personenbezogenen Daten entschieden hat. [Mehr Info](https://helpx.adobe.com/content/help/en/campaign/kb/acs-privacy.html#ccpa) </li></ul> Sehen Sie sich hierzu das [Anleitungsvideo](https://docs.adobe.com/content/help/en/campaign-learn/campaign-standard-tutorials/privacy/privacy-overview.html) an. |
+| Integration von Microsoft Dynamics 365 (GA) | Die Integration zwischen Adobe Campaign Standard und Microsoft Dynamics 365 ist jetzt verfügbar. Sie können Ihre Kontakt- und benutzerdefinierten Entitätsdatensätze von Dynamics 365 auf Campaign übertragen und E-Mail-Ereignisdaten von Campaign in Dynamics 365 transferieren, um eine bessere Ausrichtung von Vertrieb und Marketing zu erzielen. <br> Lesen Sie die [entsprechende Dokumentation](https://helpx.adobe.com/campaign/kb/acs-ms-dynamics.html), um diese Integration einzurichten, sehen Sie sich das [Anleitungsvideo](https://docs.adobe.com/content/help/en/campaign-learn/campaign-standard-tutorials/integrating/microsoft-dynamics365-connector/introduction.html) an. |
 
-Fehlerbehebungen und Verbesserungen finden Sie unter [Adobe Campaign Standard – Versionshinweise](https://docs.adobe.com/content/help/de-DE/campaign-standard/using/release-notes/release-notes.html).
+Fehlerbehebungen und Verbesserungen finden Sie unter [Adobe Campaign Standard – Versionshinweise](https://docs.adobe.com/content/help/en/campaign-standard/using/release-notes/release-notes.html).
 
 ### Control Panel von Adobe Campaign
 
@@ -270,8 +270,8 @@ Es wurden neue Funktionen hinzugefügt, mit denen Administratoren Subdomänen de
 
 Weitere Informationen finden Sie auf folgenden Seiten:
 
-* Einrichten einer neuen Subdomäne – [Weitere Informationen](https://docs.adobe.com/content/help/de-DE/control-panel/using/subdomains-and-certificates/setting-up-new-subdomain.html)
-* Verlängerung des SSL-Zertifikats einer Subdomäne – [Weitere Informationen](https://docs.adobe.com/content/help/de-DE/control-panel/using/subdomains-and-certificates/renewing-subdomain-certificate.html)
+* Einrichten einer neuen Subdomäne – [Weitere Informationen](https://docs.adobe.com/content/help/en/control-panel/using/subdomains-and-certificates/setting-up-new-subdomain.html)
+* Verlängerung des SSL-Zertifikats einer Subdomäne – [Weitere Informationen](https://docs.adobe.com/content/help/en/control-panel/using/subdomains-and-certificates/renewing-subdomain-certificate.html)
 
 >[!CAUTION]
 >
@@ -279,16 +279,16 @@ Weitere Informationen finden Sie auf folgenden Seiten:
 
 ### Zusätzliche Ressourcen
 
-* Adobe Campaign Standard: [Dokumentation](https://helpx.adobe.com/de/support/campaign/standard.html) – [Versionshinweise](https://docs.adobe.com/content/help/de-DE/campaign-standard/using/release-notes/release-notes.html) – [Videoanleitungen](https://docs.adobe.com/content/help/en/campaign-learn/campaign-standard-tutorials/overview.html) – [Versionsplanung](https://helpx.adobe.com/de/campaign/kb/acs-release-planning.html)
-* Adobe Campaign Classic: [Dokumentation](https://helpx.adobe.com/de/support/campaign/classic.html) – [Versionshinweise](https://docs.campaign.adobe.com/doc/AC/en/RN.html) – [Videoanleitungen](https://docs.adobe.com/content/help/en/campaign-learn/campaign-classic-tutorials/overview.html)
-* Control Panel von Adobe Campaign: [Dokumentation](https://docs.adobe.com/content/help/de-DE/control-panel/using/control-panel-home.html) – [Versionshinweise](https://docs.adobe.com/content/help/de-DE/control-panel/using/release-notes.html)
+* Adobe Campaign Standard: [Dokumentation](https://helpx.adobe.com/support/campaign/standard.html) – [Versionshinweise](https://docs.adobe.com/content/help/en/campaign-standard/using/release-notes/release-notes.html) – [Videoanleitungen](https://docs.adobe.com/content/help/en/campaign-learn/campaign-standard-tutorials/overview.html) – [Versionsplanung](https://helpx.adobe.com/campaign/kb/acs-release-planning.html)
+* Adobe Campaign Classic: [Dokumentation](https://helpx.adobe.com/support/campaign/classic.html) – [Versionshinweise](https://docs.campaign.adobe.com/doc/AC/en/RN.html) – [Videoanleitungen](https://docs.adobe.com/content/help/en/campaign-learn/campaign-classic-tutorials/overview.html)
+* Control Panel von Adobe Campaign: [Dokumentation](https://docs.adobe.com/content/help/en/control-panel/using/control-panel-home.html) – [Versionshinweise](https://docs.adobe.com/content/help/en/control-panel/using/release-notes.html)
 
 ## Advertising Cloud {#adcloud}
 
-Aktualisiert für die Version vom 11. Januar 2020
+Aktualisiert am 10. Februar 2020 für Version 8. Februar
 
 | Ansicht | Funktion |
 |------|---------|
-| Konversions-Tracking | Alle Advertising Cloud-Cookies wurden aktualisiert, um die neuen Cookie-Kontrollanforderungen für Google Chrome 80 zu erfüllen, die am 4. Februar veröffentlicht werden. Die Änderungen wurden über Adobe-Server mithilfe der vorhandenen Cookies implementiert, ohne dass sich dies auf die Besuchermetriken auswirkt. Es sind keine Advertiser-Aktualisierungen erforderlich. |
-| Insights > Beta-Warnhinweise, Search > Kampagnen | (Beta-Funktion nur für Search-Konten) Mit einer neuen Beta-Warnhinweisfunktion können Sie Benachrichtigungsvorlagen erstellen. Damit lässt sich erkennen, wann in einem bestimmten Zeitraum Search-Kampagnen, Anzeigengruppen, Keywords oder Anzeigen bestimmte Bedingungen erfüllen (wie z. B. Leistungsmetriken), woraufhin ein Warnhinweis generiert wird. Diese Warnhinweise sind für einen einzigen Advertiser verfügbar. |
-| Berichte | Daten für Produktanzeigen sind jetzt in den Berichten Label Classification, Label Value, Bid Rule und Constraint enthalten. |
+| Portfolios | Sie können jetzt Yahoo! Japan Display Network (YDN)-Kampagnen zu Portfolios, um die Kampagnenbudgets und Anzeigengruppenangebote zu optimieren. Das gleiche Angebot gilt für alle Anzeigen in einer Anzeigengruppe. Daten für YDN-Kampagnen sind in den Simulationen für das Portfolio enthalten. |
+| Suchen > Bulksheets | Sie können jetzt mithilfe von Bulksheets Google Responsive Search Anzeigen (RSAs) erstellen, bearbeiten und löschen. Zuvor war die Unterstützung nur über die Standard-Kampagnenverwaltungsoberfläche unter Suche > Kampagnen verfügbar |
+| Suche > Kampagnen, Berichte | Die Google-Anzeigenhervorhebungsmetriken &quot;Importieren&quot; (Abs. Top) %&quot; und &quot;Impr. (Top) %&quot;stehen nun in allen grundlegenden Berichten und Kampagnenverwaltungsansichten auf Entitätsebene zur Verfügung, mit Ausnahme der Ansichten für Einkaufswagenproduktgruppen, in den Kampagnen-Berichten Tägliche Impression Share und Keyword Tägliche Impression Share sowie in den Beschreibungen und Beschränkungsansichten. |
