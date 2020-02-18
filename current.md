@@ -5,7 +5,7 @@ doc-type: release notes
 last-update: February 2020
 author: mfrei
 translation-type: tm+mt
-source-git-commit: 0a9f95d1d9a2bba69cecada0d0c39f70e507c995
+source-git-commit: d2b03da33ea1c49d683fc9486ae8b7d7bc59c87f
 
 ---
 
@@ -156,10 +156,13 @@ Korrekturen und Funktionen, die Audience Manager hinzugefügt wurden.
 |----|----|
 | [Berichte zur Aktivitätsnutzung](https://docs.adobe.com/content/help/en/audience-manager/user-guide/features/administration/activity-usage-reporting.html) | Der Bericht[!UICONTROL  zur ]Aktivitätsauslastung hilft Ihnen, die Aktivitätsnutzung Ihrer Audience Manager-Instanz anzuzeigen und zu verfolgen, und gibt Ihnen eine klare Vorstellung davon, wie Ihre Aktivitätsnutzung mit Ihrer vertraglichen Verpflichtung verglichen wird. |
 
-<!-- ### Fixes and Improvements {#aam-fixes-and-improvements}
+### Fehlerbehebungen und Verbesserungen {#aam-fixes-and-improvements}
 
-* Fixes
-* Fixes -->
+* Es wurde ein Fehler behoben, der dazu führte, dass die Benutzeroberfläche für die Auswahl integrierter Konten durch die Zielerstellung beschädigt wurde (AAM-52414).
+* Es wurde ein Fehler behoben, der dazu führte, dass die Benutzeroberfläche beim Navigieren durch den Erstellungsfluss Algorithmischer Modelle (AAM-37942) beschädigt wurde.
+* Es wurde ein Fehler behoben, der dazu führte, dass beim Speichern von Datenexportsteuerelementen für neue oder vorhandene Ziele die Auswahl &quot;Datenexport&quot;für Kunden, die die Adobe Experience Platform-Integration (AAM-52814) verwenden, nicht gespeichert wurde.
+* Es wurde ein Fehler behoben, der dazu führte, dass Empfehlungen zu Eigenschaften von Drittanbietern für Eigenschaften mit Pipe-Zeichen (`|`) im Namen (AAM-51635) nicht korrekt funktionierten.
+* Verbesserungen an der Zugänglichkeit in der gesamten Benutzeroberfläche.
 
 ## Experience Manager {#aem}
 
