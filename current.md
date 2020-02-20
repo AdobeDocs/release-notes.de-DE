@@ -5,7 +5,7 @@ doc-type: release notes
 last-update: February 2020
 author: mfrei
 translation-type: tm+mt
-source-git-commit: d2b03da33ea1c49d683fc9486ae8b7d7bc59c87f
+source-git-commit: 6ff4708a5ec57bb590e9dacc718a42d1b8f71a8f
 
 ---
 
@@ -24,7 +24,7 @@ Neue Funktionen und Fehlerbehebungen in Adobe Experience Cloud.
 
 (Die spezifischen Produktveröffentlichungsdaten können variieren)
 
-Neueste Aktualisierung: 10. Februar 2020
+Letzte Aktualisierung: 10. Februar 2020
 
 * [Systemstatus von Adobe](#status)
 * [Benutzeroberfläche und Core Services von Experience Cloud](#ecloud)
@@ -90,7 +90,7 @@ Versionshinweise für Experience Platform, Experience Platform Launch, Identity 
 
 * [Experience Platform – Versionshinweise](https://www.adobe.io/apis/experienceplatform/home/services/release-notes.html#!end-user/markdown/release-notes/release-notes.md)
 * [Experience Platform Launch](#launch)
-* [Sicherheitsbulletins und -hinweise](https://helpx.adobe.com/security.html) (Alle Adobe-Produkte)
+* [Sicherheitsbulletins und -hinweise](https://helpx.adobe.com/security.html)  (Alle Adobe-Produkte)
 
 ### Experience Platform Launch {#launch}
 
@@ -108,7 +108,7 @@ In dieser Version wurde folgende Aktualisierung vorgenommen:
 
 Neue Funktionen und Fehlerbehebungen in Adobe Analytics:
 
-* [Neue Funktionen, Verbesserungen und Fehlerbehebungen in Adobe Analytics](#aa-features) (Aktualisiert am 21. Januar 2020)
+* [Neue Funktionen, Verbesserungen und Fehlerbehebungen in Adobe Analytics](#aa-features)  (Aktualisiert am 21. Januar 2020)
 * [Wichtige Hinweise für Analytics-Administratoren](#aa-notices)
 * [AppMeasurement](#appm)
 
@@ -132,7 +132,7 @@ Eine Produktdokumentation finden Sie auf der [Startseite der Adobe Analytics-Hil
 
 ### Wichtige Hinweise für [!DNL Analytics]-Administratoren {#aa-notices}
 
-| Hinweis | Hinzugefügt oder aktualisiert am | Beschreibung |
+| Hinweis | Hinzugefügt  oder aktualisiert am | Beschreibung |
 | -----------| ---------- | ---------- |
 | Neue Adobe Analytics-Domäne | 18. Dezember 2019 | `https://experience.adobe.com/analytics.`<br>** Am 16. Januar 2020 begann Adobe Analytics mit der Umstellung auf eine neue Domäne - **Hinweis: Diese Änderung gilt für alle Benutzer, die mit ihrer Adobe ID oder Enterprise ID auf Analytics zugreifen.<ul><li>Diese Änderung kann zu Problemen mit Cookies führen, wenn Analytics in Safari geladen wird. Deselecting _Prevent cross-site tracking_ in the Safari Privacy Preferences enables cookies across domains (and all cross-site experiences), and allows Analytics to function on this new Adobe Experience Cloud domain. Sie können problemlos andere Browser verwenden, da dies nur Safari-Benutzer betrifft.</li><li>Die Domänenänderung kann dazu führen, dass [!UICONTROL Activity Map] bei einigen Kunden [in bestimmten Fällen](https://docs.adobe.com/content/help/en/analytics/analyze/activity-map/activity-map.html) nicht mehr funktioniert.</li></ul> |
 | End of Life - veraltete Analytics-APIs | 9. Januar 2020 | Im November 2020 werden die folgenden Legacy-API-Dienste von Analytics eingestellt. Aktuelle Integrationen, die mit diesen Diensten erstellt wurden, funktionieren dann nicht mehr. <ul><li>1.3 Analytics-APIs</li><li>1.4 SOAP Analytics-APIs</li><li>Legacy-OAuth-Authentifizierung (OAuth und JWT)</li></ul>Wir haben [FAQ zu Legacy API EOL](https://github.com/AdobeDocs/analytics-1.4-apis/blob/master/docs/APIEOL.md?mv=email) bereitgestellt, die Ihnen bei der Beantwortung Ihrer Fragen helfen und Anleitungen zum weiteren Vorgehen geben sollen. API-Integrationen, die diese Dienste nutzen, können zu den [Analytics-REST-APIs 1.4](https://github.com/AdobeDocs/analytics-1.4-apis?mv=email) oder den [Analytics-APIs 2.0](https://github.com/AdobeDocs/analytics-2.0-apis?mv=email) migrieren. Ältere OAuth-Konten können zu einem [Adobe IO](https://console.adobe.io/home?mv=email) Analytics-Integrationskonto migrieren, das für den Zugriff auf sowohl Analytics-APIs 1.4 als auch Analytics-APIs 2.0 verwendet werden kann. |
@@ -209,17 +209,20 @@ Siehe [Unterstützte Plattformen für AEM Forms on JEE](https://docs.adobe.com/c
 
 Adobe Campaign bietet die Möglichkeit, direkte Nachrichten über Online- und Offline-Marketing-Kanäle intuitiv und automatisiert zu übermitteln. Sie können nun vorhersagen, was Ihre Kunden wünschen, und ihnen Erlebnisse bieten, die Sie anhand ihrer Gewohnheiten und Vorlieben ermittelt haben.
 
-### Campaign Classic 19.2.3
+### Campaign Classic
 
-Fehlerbehebungen und Verbesserungen finden Sie unter [Adobe Campaign Classic – Versionshinweise](https://docs.adobe.com/content/help/en/campaign-classic/using/release-notes/latest-release.html).
+* [Campaign Classic 20.1-Update](https://docs.adobe.com/content/help/en/campaign-classic/using/release-notes/latest-release.html)
+* [Campaign Classic 19.2.3 Update](https://docs.adobe.com/content/help/en/campaign-classic/using/release-notes/previous-releases/release--19-2.html)
 
-### Campaign Standard 20.1
+### Campaign Standard
 
-Fehlerbehebungen und Verbesserungen finden Sie unter [Adobe Campaign Standard – Versionshinweise](https://docs.adobe.com/content/help/en/campaign-standard/using/release-notes/release-notes.html).
+* [Aktualisierung von Campaign Standard 20.1.3](https://docs.adobe.com/content/help/en/campaign-standard/using/release-notes/release-notes.html#release-20-1-3---february-2020)
+* [Aktualisierung von Campaign Standard 20.1.2](https://docs.adobe.com/content/help/en/campaign-standard/using/release-notes/release-notes.htmll#release-20-1-2---february-2020)
+* [Aktualisierung von Campaign Standard 20.1](https://docs.adobe.com/content/help/en/campaign-standard/using/release-notes/release-notes.html#release-20-1---february-2020)
 
 ### Zusätzliche Ressourcen
 
-* Adobe Campaign Standard: [Dokumentation](https://helpx.adobe.com/support/campaign/standard.html) – [Versionshinweise](https://docs.adobe.com/content/help/en/campaign-standard/using/release-notes/release-notes.html) – [Videoanleitungen](https://docs.adobe.com/content/help/en/campaign-learn/campaign-standard-tutorials/overview.html) – [Versionsplanung](https://helpx.adobe.com/campaign/kb/acs-release-planning.html)
+* Adobe Campaign Standard: [Dokumentation](https://helpx.adobe.com/support/campaign/standard.html) – [Versionshinweise](https://docs.adobe.com/content/help/en/campaign-standard/using/release-notes/release-notes.html) – [Videoanleitungen](https://docs.adobe.com/content/help/en/campaign-learn/campaign-standard-tutorials/overview.html)  – [Versionsplanung](https://helpx.adobe.com/campaign/kb/acs-release-planning.html)
 * Adobe Campaign Classic: [Dokumentation](https://helpx.adobe.com/support/campaign/classic.html) – [Versionshinweise](https://docs.campaign.adobe.com/doc/AC/en/RN.html) – [Videoanleitungen](https://docs.adobe.com/content/help/en/campaign-learn/campaign-classic-tutorials/overview.html)
 * Control Panel von Adobe Campaign: [Dokumentation](https://docs.adobe.com/content/help/en/control-panel/using/control-panel-home.html) – [Versionshinweise](https://docs.adobe.com/content/help/en/control-panel/using/release-notes.html)
 
