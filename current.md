@@ -102,7 +102,7 @@ Versionshinweise und die Produktdokumentation finden Sie unter [Experience Platf
 
 ## Mobile Services und Mobile SDKs {#mobile}
 
-**4. Februar 2020: Version 4.19.0**
+4. Februar 2020: Version 4.19.0
 
 In dieser Version wurde folgende Aktualisierung vorgenommen:
 
@@ -266,14 +266,14 @@ See [!DNL Marketo] release notes for [February 2020](https://docs.marketo.com/di
 
 Die folgenden Funktionen werden im Laufe des Quartals veröffentlicht:
 
-| Ansicht | Funktion |
+| Funktion | Beschreibung |
 |------|---------|
 | [!DNL Bizible] | <ul><li>Neue kontobasierte Segmentierung</li><li>Dashboard-spezifische Filter speichern</li><li>Bizible Dashboards als PDF exportieren</li></ul> |
 | Sales Connect | Fenster- und Befehlszeilenaktualisierung/-verbesserungen erstellen |
 
 ### Mitteilungen
 
-**・** Marketing-Erfolgszentrum: Start im Februar 2020. Das Erfolgszentrum ist ein produktinternes Hilfesystem, mit dem Sie Produktdokumente und die Community durchsuchen, Anleitungen starten, auf Adoptionsinhalte zugreifen und vieles mehr. Hinweis: Diese Funktion wird als Betaversion in ANZ eingeführt und wird später in Nordamerika eingeführt.
+**** Marketing Engage Success Center: Start im Februar 2020. Das Erfolgszentrum ist ein produktinternes Hilfesystem, mit dem Sie Produktdokumente und die Community durchsuchen, Anleitungen starten, auf Adoptionsinhalte zugreifen und vieles mehr. Hinweis: Diese Funktion wird als Betaversion in ANZ eingeführt und wird später in Nordamerika eingeführt.
 
 ### Veraltungen
 
