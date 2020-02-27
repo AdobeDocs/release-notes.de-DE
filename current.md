@@ -5,12 +5,12 @@ doc-type: release notes
 last-update: February 2020
 author: mfrei
 translation-type: tm+mt
-source-git-commit: d6c2892cedd2641f35556f36c149b4a8a8203683
+source-git-commit: 8ee099db4445862bdae3c94010f70ba2696798f9
 
 ---
 
 
-# Versionshinweise zu Adobe Experience Cloud - Februar 2020
+# Adobe Experience Cloud – Versionshinweise, Februar 2020
 
 Neue Funktionen und Fehlerbehebungen in Adobe Experience Cloud.
 
@@ -21,13 +21,13 @@ Neue Funktionen und Fehlerbehebungen in Adobe Experience Cloud.
 
 (Die spezifischen Produktveröffentlichungstermine können variieren.)
 
-Letzte Aktualisierung: 21. Februar 2020
+Letzte Aktualisierung: 26. Februar 2020
 
 * [Systemstatus von Adobe](#status)
-* [Benutzeroberfläche und Core Services von Experience Cloud](#ecloud)
+* [Benutzeroberfläche und Core Services von Experience Cloud](#ecloud) (Aktualisierung: **26. Februar 2020**)
 * [Experience Platform](#platform)
 * [Mobile Services und Mobile SDKs](#mobile)
-* [!DNL Analytics](#analytics) (Aktualisiert am 21. Februar 2020)
+* [!DNL Analytics](#analytics) (Aktualisieren: 21. Februar 2020)
 * [Audience Manager](#aam)
 * [Experience Manager](#aem)
 * [!DNL Campaign](#ac)
@@ -35,6 +35,7 @@ Letzte Aktualisierung: 21. Februar 2020
 * [!DNL Primetime](https://helpx.adobe.com/primetime/user-guide.html) (Links zur Lösungshilfe)
 * [!DNL Advertising Cloud](#adcloud)
 * [!DNL Magento](#magento)
+* [!DNL Marketo](#marketo) (Aktualisierung: **26. Februar 2019**)
 
 Suchen Sie nach der Hilfeseite? Siehe die [Adobe Experience Cloud-Dokumentation](https://docs.adobe.com/content/help/en/experience-cloud/user-guides/home.html).
 
@@ -56,7 +57,13 @@ Suchen Sie nach der Hilfeseite? Siehe die [Adobe Experience Cloud-Dokumentation]
 
 ## Benutzeroberfläche und Core Services von Experience Cloud {#ecloud}
 
+Release-Update: 26. **Februar 2016**
+
 Neue Funktionen und Fehlerkorrekturen in der Benutzeroberfläche von Experience Cloud, einschließlich Verwaltung und Core Services (Kundenattribute, Zielgruppen, Auslöser, Cookies usw.).
+
+| Funktion | Beschreibung |
+| -----------| ---------- |
+| Admin Tool - Benutzerdetails anzeigen | Administratoren können eine sortierbare und filterbare Liste aller Experience Cloud-Benutzer und deren Details im neuen Admin Tool anzeigen. Zu den Benutzerdetails gehören der Produktzugriff, die Rollen und die zuletzt aufgerufenen Informationen. Weitere Informationen finden Sie in der Hilfe zum [Experience Cloud Admin Tool](https://docs.adobe.com/content/help/en/core-services/interface/manage-users-and-products/admin-tool-experience-cloud.html) . |
 
 **Fehlerbehebungen**
 
@@ -87,7 +94,7 @@ Versionshinweise für Experience Platform, Experience Platform Launch, Identity 
 
 * [Experience Platform – Versionshinweise](https://www.adobe.io/apis/experienceplatform/home/services/release-notes.html#!end-user/markdown/release-notes/release-notes.md)
 * [Experience Platform Launch](#launch)
-* [Sicherheitsbulletins und -hinweise](https://helpx.adobe.com/security.html)   (Alle Adobe-Produkte)
+* [Sicherheitsbulletins und -hinweise](https://helpx.adobe.com/security.html) (Alle Adobe-Produkte)
 
 ### Experience Platform Launch {#launch}
 
@@ -95,7 +102,7 @@ Versionshinweise und die Produktdokumentation finden Sie unter [Experience Platf
 
 ## Mobile Services und Mobile SDKs {#mobile}
 
-**4. Februar 2020: Version 4.19.0**
+4. Februar 2020: Version 4.19.0
 
 In dieser Version wurde folgende Aktualisierung vorgenommen:
 
@@ -129,7 +136,7 @@ Die Produktdokumentation finden Sie auf der [Startseite der Adobe Analytics-Hilf
 
 ### Wichtige Hinweise für [!DNL Analytics]-Administratoren {#aa-notices}
 
-| Hinweis | Hinzugefügt   oder aktualisiert am | Beschreibung |
+| Hinweis | Hinzugefügt oder aktualisiert am | Beschreibung |
 | -----------| ---------- | ---------- |
 | Neue Adobe Analytics-Domäne | 18. Dezember 2019 | Am 16. Januar 2020 begann Adobe Analytics mit der Umstellung auf eine neue Domäne – `https://experience.adobe.com/analytics.`<br>**Hinweis:** Diese Änderung gilt für alle Benutzer, die mit ihrer Adobe ID oder Enterprise ID auf Analytics zugreifen.<ul><li>Diese Änderung kann zu Problemen mit Cookies führen, wenn Analytics in Safari geladen wird. Wenn Sie in den Datenschutzvoreinstellungen von Safari die Option _Prevent cross-site tracking_ (Website-übergreifendes Tracking verhindern) deaktivieren, werden domänenübergreifende Cookies (und alle Site-übergreifenden Ereignisse) aktiviert, sodass Analytics in dieser neuen Adobe Experience Cloud-Domäne funktionieren kann. Sie können problemlos andere Browser verwenden, da dies nur Safari-Benutzer betrifft.</li><li>Die Domänenänderung kann dazu führen, dass [!UICONTROL Activity Map] bei einigen Kunden [in bestimmten Fällen](https://docs.adobe.com/content/help/en/analytics/analyze/activity-map/activity-map.html) nicht mehr funktioniert.</li></ul> |
 | End of Life - veraltete Analytics-APIs | 9. Januar 2020 | Im November 2020 werden die folgenden Legacy-API-Dienste von Analytics eingestellt. Aktuelle Integrationen, die mit diesen Diensten erstellt wurden, funktionieren dann nicht mehr. <ul><li>1.3 Analytics-APIs</li><li>1.4 SOAP Analytics-APIs</li><li>Legacy-OAuth-Authentifizierung (OAuth und JWT)</li></ul>Wir haben [FAQ zu Legacy API EOL](https://github.com/AdobeDocs/analytics-1.4-apis/blob/master/docs/APIEOL.md?mv=email) bereitgestellt, die Ihnen bei der Beantwortung Ihrer Fragen helfen und Anleitungen zum weiteren Vorgehen geben sollen. API-Integrationen, die diese Dienste nutzen, können zu den [Analytics-REST-APIs 1.4](https://github.com/AdobeDocs/analytics-1.4-apis?mv=email) oder den [Analytics-APIs 2.0](https://github.com/AdobeDocs/analytics-2.0-apis?mv=email) migrieren. Ältere OAuth-Konten können zu einem [Adobe IO](https://console.adobe.io/home?mv=email) Analytics-Integrationskonto migrieren, das für den Zugriff auf sowohl Analytics-APIs 1.4 als auch Analytics-APIs 2.0 verwendet werden kann. |
@@ -160,7 +167,7 @@ Korrekturen und Funktionen, die Audience Manager hinzugefügt wurden.
 * Es wurde ein Fehler behoben, der dazu führte, dass die Benutzeroberfläche beim Navigieren durch den Erstellungsfluss algorithmischer Modelle beschädigt wurde (AAM-37942).
 * Es wurde ein Fehler behoben, der dazu führte, dass beim Speichern von Datenexportsteuerelementen für neue oder vorhandene Ziele die Auswahl unter „Datenexport“ nicht gespeichert wurde. Dies betrifft Kunden, die die Adobe Experience Platform-Integration verwenden (AAM-52814).
 * Es wurde ein Fehler behoben, der dazu führte, dass Empfehlungen zu Eigenschaften von Drittanbietern für Eigenschaften mit Pipe-Zeichen (`|`) im Namen nicht korrekt funktionierten (AAM-51635).
-* Multiple accessibility improvements throughout the UI.
+* Mehrere Verbesserungen hinsichtlich der Barrierefreiheit auf der gesamten Benutzeroberfläche.
 
 ## Experience Manager {#aem}
 
@@ -217,7 +224,7 @@ Fehlerbehebungen und Verbesserungen finden Sie unter [Adobe Campaign Standard �
 
 ### Zusätzliche Ressourcen
 
-* Adobe Campaign Standard: [Dokumentation](https://helpx.adobe.com/support/campaign/standard.html) – [Versionshinweise](https://docs.adobe.com/content/help/en/campaign-standard/using/release-notes/release-notes.html) – [Videoanleitungen](https://docs.adobe.com/content/help/en/campaign-learn/campaign-standard-tutorials/overview.html)   – [Versionsplanung](https://helpx.adobe.com/campaign/kb/acs-release-planning.html)
+* Adobe Campaign Standard: [Dokumentation](https://helpx.adobe.com/support/campaign/standard.html) – [Versionshinweise](https://docs.adobe.com/content/help/en/campaign-standard/using/release-notes/release-notes.html) – [Videoanleitungen](https://docs.adobe.com/content/help/en/campaign-learn/campaign-standard-tutorials/overview.html)    – [Versionsplanung](https://helpx.adobe.com/campaign/kb/acs-release-planning.html)
 * Adobe Campaign Classic: [Dokumentation](https://helpx.adobe.com/support/campaign/classic.html) – [Versionshinweise](https://docs.campaign.adobe.com/doc/AC/en/RN.html) – [Videoanleitungen](https://docs.adobe.com/content/help/en/campaign-learn/campaign-classic-tutorials/overview.html)
 * Control Panel von Adobe Campaign: [Dokumentation](https://docs.adobe.com/content/help/en/control-panel/using/control-panel-home.html) – [Versionshinweise](https://docs.adobe.com/content/help/en/control-panel/using/release-notes.html)
 
@@ -237,3 +244,40 @@ Magento-Versionshinweise finden Sie unter:
 
 * [Magento Commerce 2.3.4](https://devdocs.magento.com/guides/v2.3/release-notes/release-notes-2-3-4-commerce.html)
 * [Magento Open Source 2.3.4](https://devdocs.magento.com/guides/v2.3/release-notes/release-notes-2-3-4-open-source.html)
+
+## [!DNL Marketo] {#marketo}
+
+[!DNL Marketo Engage] ist eine Komplettlösung für Interessentenmanagement und B2B-Marketingfachleute, die Kundenerlebnisse verändern möchten, indem sie sich über alle Phasen komplexer Kaufreisen hinweg engagieren.
+
+### Core Marketing Engage-Updates
+
+Versionsdatum: 21. Februar 2020
+
+* **_Microsoft Dynamics_Change Owner in Microsoft** Flow Action: Ändern Sie einen Interessenten- oder Kontaktinhaber direkt von Marketo Engage.
+* **Verbesserungen bei API-Aufrufen:**
+   * Benutzerverwaltungs-APIs
+   * Benutzerdefinierte Objektschema-APIs
+   * APIs für Umleitungsregeln auf der Einstiegsseite
+* **** Zwischenspeicherung des Formulardeskriptors: Verbesserungen bei Einstiegsseiten und Formularen.
+
+See [!DNL Marketo] release notes for [February 2020](https://docs.marketo.com/display/public/DOCS/Release+Notes%3A+Feb+%2720) for more information.
+
+### Anstehende Funktionen
+
+Die folgenden Funktionen werden im Laufe des Quartals veröffentlicht:
+
+| Ansicht | Funktion |
+|------|---------|
+| [!DNL Bizible] | <ul><li>Neue kontobasierte Segmentierung</li><li>Dashboard-spezifische Filter speichern</li><li>Bizible Dashboards als PDF exportieren</li></ul> |
+| Sales Connect | Fenster- und Befehlszeilenaktualisierung/-verbesserungen erstellen |
+
+### Mitteilungen
+
+**・** Marketing-Erfolgszentrum: Start im Februar 2020. Das Erfolgszentrum ist ein produktinternes Hilfesystem, mit dem Sie Produktdokumente und die Community durchsuchen, Anleitungen starten, auf Adoptionsinhalte zugreifen und vieles mehr. Hinweis: Diese Funktion wird als Betaversion in ANZ eingeführt und wird später in Nordamerika eingeführt.
+
+### Veraltungen
+
+* **** Parameter der Asset-API &quot;_method&quot;: Ab September 2020 akzeptieren Asset-API-Endpunkte &quot;_method&quot;nicht mehr, um Abfrageparameter in einem POST-Textkörper zu übergeben, um die Längenbeschränkungen des URI zu umgehen.
+* **** Einstellung der Unterstützung für Internet Explorer: Ab der Version vom 31. Juli 2020 wird die Benutzeroberfläche von Marketo Engage in Internet Explorer nicht mehr unterstützt.
+
+Informationen zu kumulativen und historischen Versionshinweisen finden Sie unter [Marketo-Versionshinweise](https://docs.marketo.com/x/CgA6Ag).
