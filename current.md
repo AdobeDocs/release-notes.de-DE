@@ -102,7 +102,7 @@ Versionshinweise und die Produktdokumentation finden Sie unter [Experience Platf
 
 ## Mobile Services und Mobile SDKs {#mobile}
 
-4. Februar 2020: Version 4.19.0
+&#x200B;4. Februar 2020: Version 4.19.0
 
 In dieser Version wurde folgende Aktualisierung vorgenommen:
 
