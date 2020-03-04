@@ -5,21 +5,23 @@ doc-type: release notes
 last-update: February 2020
 author: mfrei
 translation-type: tm+mt
-source-git-commit: 9ed727b23cbc90965f44c4bb914728bbc2394d6b
+source-git-commit: 2363a9f58f658e49054e3ac7a63083925a381eec
 
 ---
 
 
-# Versionshinweise zu Adobe Experience Cloud - März 2020
+# Adobe Experience Cloud – Versionshinweise, Februar 2020
 
 Neue Funktionen und Fehlerbehebungen in Adobe Experience Cloud.
 
 >[!NOTE]
 >Abonnieren Sie [[!DNL Adobe Priority Product Update]](https://www.adobe.com/subscription/priority-product-update.html), um per E-Mail über bald verfügbare Versionen benachrichtigt zu werden. Nach dem Release veröffentlichte neue Informationen werden mit dem Veröffentlichungsdatum gekennzeichnet.
 
-**Veröffentlichungsdatum: März 2020**
+**Versionsdatum: 20. Februar 2020**
 
 (Die spezifischen Produktveröffentlichungstermine können variieren.)
+
+Letzte Aktualisierung: 26. Februar 2020
 
 * [Systemstatus von Adobe](#status)
 * [Benutzeroberfläche und Core Services von Experience Cloud](#ecloud)  (Aktualisierung: **26. Februar 2020**)
@@ -33,7 +35,7 @@ Neue Funktionen und Fehlerbehebungen in Adobe Experience Cloud.
 * [!DNL Primetime](https://helpx.adobe.com/primetime/user-guide.html) (Links zur Lösungshilfe)
 * [!DNL Advertising Cloud](#adcloud)
 * [!DNL Magento](#magento)
-* [!DNL Marketo](#marketo)
+* [!DNL Marketo](#marketo) (Aktualisierung: **26. Februar 2019**)
 
 Suchen Sie nach der Hilfeseite? Siehe die [Adobe Experience Cloud-Dokumentation](https://docs.adobe.com/content/help/en/experience-cloud/user-guides/home.html).
 
@@ -62,6 +64,11 @@ Neue Funktionen und Fehlerkorrekturen in der Benutzeroberfläche von Experience 
 | Funktion | Beschreibung |
 | -----------| ---------- |
 | Admin-Tool – Benutzerdetails anzeigen | Administratoren können im neuen Admin-Tool eine sortierbare und filterbare Liste aller Experience Cloud-Benutzer und deren Details anzeigen. Zu den Benutzerdetails zählen der Produktzugriff, die Rollen und die zuletzt aufgerufenen Informationen. Weitere Informationen finden Sie in der Hilfe zum [Experience Cloud-Admin-Tool](https://docs.adobe.com/content/help/en/core-services/interface/manage-users-and-products/admin-tool-experience-cloud.html). |
+
+**Fehlerbehebungen**
+
+* **Kundenattribute:** Auf der Benutzeroberfläche „Kundenattribute“ werden jetzt zusätzliche Status zu den in Target synchronisierten Profilen angezeigt. (MCUI-10231)
+* **Triggers Hauptdienst:** Aufgrund der mangelnden Verwendung wurde der Tendenzwert „Wahrscheinlichkeit einer Rückkehr in 30 Tagen“ beim Erstellen eines Auslösers vom Typ „Abbruch“ entfernt. (MCUI-10056)
 
 ### Einheitliche Produktdomäne
 
@@ -95,7 +102,11 @@ Versionshinweise und die Produktdokumentation finden Sie unter [Experience Platf
 
 ## Mobile Services und Mobile SDKs {#mobile}
 
-Mobile Inhalte
+4. Februar 2020: Version 4.19.0
+
+In dieser Version wurde folgende Aktualisierung vorgenommen:
+
+**Lebenszyklus:** Es wurde eine neue API, `pauseCollectingLifecycleData`, hinzugefügt, um die von einigen alten iOS-Geräten gemeldeten unnormalen Sitzungslängen zu verringern.
 
 ## [!DNL Analytics] {#analytics}
 
@@ -109,20 +120,24 @@ Die Produktdokumentation finden Sie auf der [Startseite der Adobe Analytics-Hilf
 
 ### Neue Funktionen, Verbesserungen und Fehlerbehebungen in Adobe Analytics {#aa-features}
 
-* **Mehrere Report Suites im Analysis Workspace**: Sie können jetzt Daten aus mehreren Report Suites in ein einzelnes Analysis Workspace-Projekt einbeziehen, um sie nebeneinander anzuzeigen. Ab dem 12. März 2020 wird die Funktion im Laufe einiger Wochen für alle Kunden eingeführt. [Mehr Info...](https://docs.adobe.com/content/help/en/analytics/analyze/analysis-workspace/build-workspace-project/multiple-report-suites.html)
-* **Zielgruppenoptimierung** in Experience Cloud: Mit dieser Funktion können Sie Segmente innerhalb von 8 Stunden in der Experience Cloud veröffentlichen (anstelle der vorherigen 48-Stunden-Verarbeitungszeit). [Mehr Info...](https://docs.adobe.com/content/help/en/analytics/components/segmentation/segmentation-workflow/seg-publish.html)
+<!--* **Support for multiple report suites in Workspace:** You can now bring in data from multiple report suites into a single project to view side by side. Beginning on Feb 20, 2020, the feature will roll out to all customers over the course of several weeks. [Learn more...](https://docs.adobe.com/content/help/en/analytics/analyze/analysis-workspace/build-workspace-project/multiple-report-suites.html)-->
+* **Neue Workspace-Vorlage für Organisationen, die geräteübergreifende Analysen verwenden:** Diese Vorlage zeigt, wie effektiv CDA beim Zusammenfügen von Besuchen ist und informiert Sie über CDA-exklusive Dimensionen und Metriken. Eine Report Suite, die CDA verwendet, ist erforderlich. Weitere Informationen finden Sie unter [Einrichten von geräteübergreifenden Analysen](https://docs.adobe.com/content/help/en/analytics/components/cda/cda-setup.html).
+* **Die Latenz der CDA-Stiftung für Organisationen, die das private Diagramm verwenden, wird auf einen Tag reduziert:** Die Funktion „Privates Diagramm“ wurde verbessert, um die Wartezeit bei der Diagrammerstellung von einem wöchentlichen Batch-Prozess auf ein täglich aktualisiertes Diagramm zu reduzieren, sodass CDA-Kunden auf aktuellere Identitätsdiagramme und Links zugreifen können.
+* **Labs (Technologievorschau):** Mit dieser neuen Analytics-Funktion können Sie neue Funktionsprototypen in der Produktion testen und Adobe wertvolles Feedback geben. [Mehr Info...](https://docs.adobe.com/content/help/en/analytics/analyze/tech-previews/overview.html)
+* **Neue Hotkeys in Workspace:**<ul><li>Alle Bereiche reduzieren/erweitern: `alt + m`</li><li>Aktiven Bereich reduzieren/erweitern: `alt + ctrl + m`</li><li>Linke Leiste durchsuchen: `ctrl + /`</li><li>Zum nächsten Bereich wechseln: `alt + Right Key`</li><li>Zum vorherigen Bereich wechseln: `alt + Left Key`</li></ul>[Mehr Info...](https://docs.adobe.com/content/help/en/analytics/analyze/analysis-workspace/build-workspace-project/fa-shortcut-keys.html)
+* **Weitere Neuerungen in Workspace:**<ul><li>Wenn ein Bedienfeld oder eine Visualisierung in [!UICONTROL Workspace] abgelegt wird, wechselt die linke Leiste automatisch zu Komponenten, um einen nahtloseren Arbeitsablauf zu gewährleisten.</li><li>Für Vorlagenkomponenten können nun Aktionen ausgeführt werden (z. B. mit Tags versehen, als Favorit markieren, genehmigen).</li><li>Gefilterte Metrik- und Segmentlisten bieten die Schaltfläche `+` zum Hinzufügen einer neuen Komponente, wenn Sie das, was Sie benötigen, nicht finden können.</li></ul>
+* Der **Workspace-Debugger** wurde dem Menü „Hilfe“ hinzugefügt, sodass Sie ihn nahtloser zum Debuggen von Workspace-Anforderungen aktivieren können. [Mehr Info...](https://www.adobe.io/apis/experiencecloud/analytics/docs.html#!AdobeDocs/analytics-2.0-apis/master/reporting-tricks.md)
+* **Chromium-basierter Microsoft Edge-Browser:** Diese Version enthält Änderungen zur Erkennung des Chromium-basierten Microsoft Edge-Browsers (Version 79 und höher) zu Berichtszwecken.
 
 #### Fehlerbehebungen
 
-* Es wurde ein Fehler in Reports &amp; Analysen behoben, der verhinderte, dass Kunden .xls-Berichte herunterladen konnten.(AN-206541, AN-204008)
-* Mit der Einführung einer neuen Shell wurden mehrere Kundenprobleme beim Wechsel von Experience Cloud-Organisationen behoben.(AN-200844, AN-186920)
+* Es wurde ein Problem mit der Segment-Benutzeroberfläche behoben, bei dem angegeben wurde, dass [!UICONTROL Marketing-Kanal]-Dimensionen mit [!UICONTROL Data Warehouse] kompatibel wären, obwohl dies in Wirklichkeit nicht der Fall ist. In Zukunft werden diese Dimensionen im [!UICONTROL Segment Builder] nicht mehr als [!UICONTROL Data Warehouse]-kompatibel angezeigt. (AN-202297)
+* Es wurde ein Problem mit dem Namen eines veröffentlichten Segments behoben, das in Analytics aktualisiert wurde und nicht innerhalb von 24 Stunden in Audience Manager aktualisiert wurde. (AN-199974)
 
 ### Wichtige Hinweise für [!DNL Analytics]-Administratoren {#aa-notices}
 
 | Hinweis | Hinzugefügt  oder aktualisiert am | Beschreibung |
 | -----------| ---------- | ---------- |
-| Einstellung &quot;EOL of Conversion Level&quot; | 3. März 2020 | Die nicht funktionierende [Konvertierungsstufe](https://docs.adobe.com/content/help/en/analytics/admin/admin-tools/general-acct-settings-admin.html) unter Admin Tools > Report Suites > Allgemeine Kontoeinstellungen wird am 12. März 2020 aus der Benutzeroberfläche entfernt. |
-| EOL of Dashboard Archive | 3. März 2020 | Die Einstellung &quot;Archiv anzeigen&quot;unter &quot;Dashboards verwalten&quot;in Reports &amp; Analysen ist ab dem 12. März 2020 nicht mehr verfügbar. |
 | Neue Adobe Analytics-Domäne | 18. Dezember 2019 | Am 16. Januar 2020 begann Adobe Analytics mit der Umstellung auf eine neue Domäne – `https://experience.adobe.com/analytics.`<br>**Hinweis:** Diese Änderung gilt für alle Benutzer, die mit ihrer Adobe ID oder Enterprise ID auf Analytics zugreifen.<ul><li>Diese Änderung kann zu Problemen mit Cookies führen, wenn Analytics in Safari geladen wird. Wenn Sie in den Datenschutzvoreinstellungen von Safari die Option _Prevent cross-site tracking_ (Website-übergreifendes Tracking verhindern) deaktivieren, werden domänenübergreifende Cookies (und alle Site-übergreifenden Ereignisse) aktiviert, sodass Analytics in dieser neuen Adobe Experience Cloud-Domäne funktionieren kann. Sie können problemlos andere Browser verwenden, da dies nur Safari-Benutzer betrifft.</li><li>Die Domänenänderung kann dazu führen, dass [!UICONTROL Activity Map] bei einigen Kunden [in bestimmten Fällen](https://docs.adobe.com/content/help/en/analytics/analyze/activity-map/activity-map.html) nicht mehr funktioniert.</li></ul> |
 | End of Life - veraltete Analytics-APIs | 9. Januar 2020 | Im November 2020 werden die folgenden Legacy-API-Dienste von Analytics eingestellt. Aktuelle Integrationen, die mit diesen Diensten erstellt wurden, funktionieren dann nicht mehr. <ul><li>1.3 Analytics-APIs</li><li>1.4 SOAP Analytics-APIs</li><li>Legacy-OAuth-Authentifizierung (OAuth und JWT)</li></ul>Wir haben [FAQ zu Legacy API EOL](https://github.com/AdobeDocs/analytics-1.4-apis/blob/master/docs/APIEOL.md?mv=email) bereitgestellt, die Ihnen bei der Beantwortung Ihrer Fragen helfen und Anleitungen zum weiteren Vorgehen geben sollen. API-Integrationen, die diese Dienste nutzen, können zu den [Analytics-REST-APIs 1.4](https://github.com/AdobeDocs/analytics-1.4-apis?mv=email) oder den [Analytics-APIs 2.0](https://github.com/AdobeDocs/analytics-2.0-apis?mv=email) migrieren. Ältere OAuth-Konten können zu einem [Adobe IO](https://console.adobe.io/home?mv=email) Analytics-Integrationskonto migrieren, das für den Zugriff auf sowohl Analytics-APIs 1.4 als auch Analytics-APIs 2.0 verwendet werden kann. |
 | Option **[!UICONTROL Archiv anzeigen]** wird eingestellt | 30. Oktober 2019 | Die Option **[!UICONTROL Archiv anzeigen]** im Dashboard-Manager (**[!UICONTROL Komponenten > Dashboards]**) wird im Januar 2020 eingestellt. |
@@ -143,16 +158,44 @@ Korrekturen und Funktionen, die Audience Manager hinzugefügt wurden.
 
 | Funktion | Beschreibung |
 |----|----|
-|  |  |
-|  |  |
+| [Berichte zur Aktivitätsnutzung](https://docs.adobe.com/content/help/en/audience-manager/user-guide/features/administration/activity-usage-reporting.html) | Der [!UICONTROL Bericht zur Aktivitätsnutzung] hilft Ihnen, die Aktivitätsnutzung Ihrer Audience Manager-Instanz anzuzeigen und zu verfolgen, und gibt Ihnen eine klare Vorstellung davon, wie Ihre Aktivitätsnutzung mit Ihrer vertraglichen Verpflichtung abgeglichen wird. |
+| [DIL 9.4](https://docs.adobe.com/content/help/en/audience-manager/user-guide/dil-api/dil-release-notes.html) | Wir haben die [!DNL Data Integration Library] ([!DNL DIL]) auf Version 9.4 aktualisiert. Diese Aktualisierung verbessert die Kompatibilität mit [!DNL Google Chrome] [!DNL SameSite]-Cookies. |
 
 ### Fehlerbehebungen und Verbesserungen {#aam-fixes-and-improvements}
 
-Fehlerbehebungen für AAM.
+* Es wurde ein Fehler behoben, der dazu führte, dass die Benutzeroberfläche für die Auswahl integrierter Konten durch den Zielerstellungsfluss beschädigt wurde (AAM-52414).
+* Es wurde ein Fehler behoben, der dazu führte, dass die Benutzeroberfläche beim Navigieren durch den Erstellungsfluss algorithmischer Modelle beschädigt wurde (AAM-37942).
+* Es wurde ein Fehler behoben, der dazu führte, dass beim Speichern von Datenexportsteuerelementen für neue oder vorhandene Ziele die Auswahl unter „Datenexport“ nicht gespeichert wurde. Dies betrifft Kunden, die die Adobe Experience Platform-Integration verwenden (AAM-52814).
+* Es wurde ein Fehler behoben, der dazu führte, dass Empfehlungen zu Eigenschaften von Drittanbietern für Eigenschaften mit Pipe-Zeichen (`|`) im Namen nicht korrekt funktionierten (AAM-51635).
+* Mehrere Verbesserungen hinsichtlich der Barrierefreiheit auf der gesamten Benutzeroberfläche.
 
 ## Experience Manager {#aem}
 
 Neue Funktionen, Fehlerbehebungen und Aktualisierungen in Adobe Experience Manager (AEM). Adobe empfiehlt Kunden mit lokalen Implementierungen, die aktuellen Patches zu implementieren, um mehr Stabilität, Sicherheit und Leistung zu erzielen.
+
+### Produktversionen
+
+* **Cloud Manager 2020.2.0**
+
+   Cloud Manager 2020.2.0 vereinfacht die Sandbox-Selbstverwaltung für Adobe Experience Manager als Cloud Service.
+
+   Siehe [Versionshinweise](https://docs.adobe.com/content/help/en/experience-manager-cloud-manager/using/release-notes/release-notes-current.html).
+
+### Selbsthilfe
+
+* **Tutorials zu AEM als Cloud Service**
+
+   Mit den [Tutorials für AEM als Cloud Service](https://docs.adobe.com/content/help/en/experience-manager-learn/cloud-service/overview.html) finden Sie einen schnellen Einstieg.
+
+* **Batch API für die interaktive Kommunikation mit AEM Forms**
+
+   Mit der Batch API für die interaktive Kommunikation mit AEM Forms können Kunden mehrere interaktive Kommunikationen erstellen, entweder automatisch oder auf Abruf. Kunden können Druck- und Webausgaben gleichzeitig generieren.
+Siehe [Generieren mehrerer interaktiver Kommunikation mit der Batch API](https://docs.adobe.com/content/help/en/experience-manager-65/forms/interactive-communications/generate-multiple-interactive-communication-using-batch-api.html).
+
+* **Unterstützte Plattformen für AEM Forms in JEE**
+
+   Unterstützung für Oracle 19c für AEM Forms für JEE-Kunden hinzugefügt.
+Siehe [Unterstützte Plattformen für AEM Forms in JEE](https://docs.adobe.com/content/help/en/experience-manager-65/forms/install-aem-forms/jee-installation/aem-forms-jee-supported-platforms.html).
 
 ### Zusätzliche Ressourcen
 
@@ -171,6 +214,14 @@ Neue Funktionen, Fehlerbehebungen und Aktualisierungen in Adobe Experience Man
 
 Adobe Campaign bietet die Möglichkeit, direkte Nachrichten über Online- und Offline-Marketing-Kanäle intuitiv und automatisiert zu übermitteln. Sie können nun vorhersagen, was Ihre Kunden wünschen, und ihnen Erlebnisse bieten, die Sie anhand ihrer Gewohnheiten und Vorlieben ermittelt haben.
 
+### Campaign Classic 19.2.3
+
+Fehlerbehebungen und Verbesserungen finden Sie unter [Adobe Campaign Classic – Versionshinweise](https://docs.adobe.com/content/help/en/campaign-classic/using/release-notes/latest-release.html).
+
+### Campaign Standard 20.1
+
+Fehlerbehebungen und Verbesserungen finden Sie unter [Adobe Campaign Standard – Versionshinweise](https://docs.adobe.com/content/help/en/campaign-standard/using/release-notes/release-notes.html).
+
 ### Zusätzliche Ressourcen
 
 * Adobe Campaign Standard: [Dokumentation](https://helpx.adobe.com/support/campaign/standard.html) – [Versionshinweise](https://docs.adobe.com/content/help/en/campaign-standard/using/release-notes/release-notes.html) – [Videoanleitungen](https://docs.adobe.com/content/help/en/campaign-learn/campaign-standard-tutorials/overview.html)     – [Versionsplanung](https://helpx.adobe.com/campaign/kb/acs-release-planning.html)
@@ -180,6 +231,12 @@ Adobe Campaign bietet die Möglichkeit, direkte Nachrichten über Online- und O
 ## Advertising Cloud {#adcloud}
 
 Aktualisiert: 10. Februar 2020, für die Version vom 8. Februar
+
+| Ansicht | Funktion |
+|------|---------|
+| Portfolios | Sie können jetzt Yahoo! Japan Display Network (YDN)-Kampagnen zu Portfolios hinzufügen, um die Kampagnenbudgets und Gebote auf Anzeigengruppenebene zu optimieren. Das gleiche Gebot wird auf alle Anzeigen einer Anzeigengruppe angewendet. Daten für YDN-Kampagnen sind in den Simulationen für das Portfolio enthalten. |
+| Suche > Bulksheets | Sie können jetzt mithilfe von Bulksheets responsive Suchanzeigen (RSAs) von Google erstellen, bearbeiten und löschen. Zuvor war die Unterstützung nur über die Standard-Kampagnenverwaltungsoberfläche unter **[!UICONTROL Suche]** > **[!UICONTROL Kampagnen]** verfügbar. |
+| Suche > Kampagnen, Berichte | Die Google Ads-Bekanntheitsmetriken `Impr. (Abs. Top) %` und `Impr. (Top) %` stehen nun in allen allgemeinen Berichten und Kampagnenverwaltungsansichten auf Entitätsebene zur Verfügung, mit Ausnahme der Ansichten für Einkaufsproduktgruppen, in den Berichten [!UICONTROL Campaign Daily Impression Share] und [!UICONTROL Keyword Daily Impression Share] sowie in den Kennzeichnungs- und Beschränkungsansichten. |
 
 ## [!DNL Magento] {#magento}
 
