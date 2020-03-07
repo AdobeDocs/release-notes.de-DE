@@ -5,7 +5,7 @@ doc-type: release notes
 last-update: March 2020
 author: mfrei
 translation-type: tm+mt
-source-git-commit: ecee1c664485d710a62c9455e64eea3a16966780
+source-git-commit: e9fdb1166b47f17256afeaa7bced60f884de8d16
 
 ---
 
@@ -128,6 +128,12 @@ Die Produktdokumentation finden Sie auf der [Startseite der Adobe Analytics-Hilf
 
 * Es wurde ein Problem in [!UICONTROL Reports &amp; Analysen] behoben, das das Herunterladen von `.xls` Berichten verhinderte.(AN-206541, AN-204008)
 * Mit der Einführung einer neuen Shell wurden mehrere Kundenprobleme beim Wechsel von Experience Cloud-Organisationen behoben.(AN-200844, AN-186920)
+* Es wurde ein Fehler behoben, der dazu führte, dass eine Aufschlüsselung des Zeilenelements _Nicht angegeben_ (oder einiger anderer Berichtszeilenelemente) ohne _Nicht angegeben (Keine)_ in den Suchfiltern der Aufschlüsselung keine Ergebnisse in der Aufschlüsselung ergab.
+* Es wurde ein Fehler behoben, der bei Verwendung einer klassifizierten Dimension auftrat, wenn die Summen der Einstiegs- oder Ausstiegsmetriken nicht mit der Summe des Einzelelements bei einer Aufschlüsselung übereinstimmten.
+* Es wurde ein Problem behoben, bei dem First Touch- und Last Touch-Modelle in Attribution IQ die Gutschrift für einige Zeilenelemente in einigen Out-of-the-Box-Dimensionen nicht korrekt berechnen.
+* Es wurde ein Problem behoben, bei dem das Aufschlüsseln einer Datumsdimension durch eine andere Datumsdimension falsche Ergebnisse zurückgab.
+* Es wurde ein Problem behoben, bei dem Einstiegs- oder Ausstiegsmetriken manchmal falsch gezählt wurden, wenn sie auf &quot;Nicht angegeben&quot;in einem klassifizierten Dimensionsbericht angewendet wurden.
+
 
 ### Wichtige Hinweise für [!DNL Analytics]-Administratoren {#aa-notices}
 
