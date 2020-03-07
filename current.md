@@ -5,7 +5,7 @@ doc-type: release notes
 last-update: March 2020
 author: mfrei
 translation-type: tm+mt
-source-git-commit: e9fdb1166b47f17256afeaa7bced60f884de8d16
+source-git-commit: 101b94ed00ae148e946f17c134037ae880badc5d
 
 ---
 
@@ -133,7 +133,6 @@ Die Produktdokumentation finden Sie auf der [Startseite der Adobe Analytics-Hilf
 * Es wurde ein Problem behoben, bei dem First Touch- und Last Touch-Modelle in Attribution IQ die Gutschrift für einige Zeilenelemente in einigen Out-of-the-Box-Dimensionen nicht korrekt berechnen.
 * Es wurde ein Problem behoben, bei dem das Aufschlüsseln einer Datumsdimension durch eine andere Datumsdimension falsche Ergebnisse zurückgab.
 * Es wurde ein Problem behoben, bei dem Einstiegs- oder Ausstiegsmetriken manchmal falsch gezählt wurden, wenn sie auf &quot;Nicht angegeben&quot;in einem klassifizierten Dimensionsbericht angewendet wurden.
-
 
 ### Wichtige Hinweise für [!DNL Analytics]-Administratoren {#aa-notices}
 
