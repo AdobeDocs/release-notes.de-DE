@@ -5,7 +5,7 @@ doc-type: release notes
 last-update: March 2020
 author: mfrei
 translation-type: tm+mt
-source-git-commit: dcbcc2fff5026c07898e7887b837767e9a71dbf3
+source-git-commit: 897f8d8138403d42ee0387d3582464b41fd1a54c
 
 ---
 
@@ -27,6 +27,7 @@ Neue Funktionen und Fehlerbehebungen in Adobe Experience Cloud.
 * [Systemstatus von Adobe](#status)
 * [Benutzeroberfläche und Core Services von Experience Cloud](#ecloud)
 * [Experience Platform](#platform)
+* [Reisebegleitung](#journey)
 * [Mobile Services und Mobile SDKs](#mobile)
 * [!DNL Analytics](#analytics)
 * [Audience Manager](#aam)
@@ -103,11 +104,7 @@ Version Q1 wurde veröffentlicht. [Mehr dazu](https://docs.adobe.com/content/hel
 
 ### Zusätzliche Ressourcen
 
-[Dokumentation](https://docs.adobe.com/content/help/en/journeys/using/journey-orchestration-home.html)
-
-[Versionshinweise](https://docs.adobe.com/content/help/en/journeys/using/release-notes/release-notes.html)
-
-[Anleitungen zu Videos](https://docs.adobe.com/content/help/en/platform-learn/tutorials/journey-orchestration/introduction.html)
+[Dokumentation](https://docs.adobe.com/content/help/en/journeys/using/journey-orchestration-home.html) - [Versionshinweise](https://docs.adobe.com/content/help/en/journeys/using/release-notes/release-notes.html) - [Anleitungen](https://docs.adobe.com/content/help/en/platform-learn/tutorials/journey-orchestration/introduction.html)
 
 ## Mobile Services und Mobile SDKs {#mobile}
 
