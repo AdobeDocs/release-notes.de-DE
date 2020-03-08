@@ -5,7 +5,7 @@ doc-type: release notes
 last-update: March 2020
 author: mfrei
 translation-type: tm+mt
-source-git-commit: 101b94ed00ae148e946f17c134037ae880badc5d
+source-git-commit: dcbcc2fff5026c07898e7887b837767e9a71dbf3
 
 ---
 
@@ -94,6 +94,20 @@ Release notes for the [!UICONTROL Experience Platform,] [!UICONTROL Experience P
 ### Experience Platform Launch {#launch}
 
 Versionshinweise und die Produktdokumentation finden Sie unter [Experience Platform Launch](https://docs.adobe.com/content/help/en/launch/using/intro/release-notes/current.html).
+
+## Reisebegleitung {#journey}
+
+Mit der Adobe Experience Platform können Sie individuelle Kundenreisen in großem Maßstab über verschiedene Erlebniskanäle organisieren, indem Sie die Bedürfnisse jedes Einzelnen intelligent in Echtzeit vorhersehen, egal, wohin die Reise führt.
+
+Version Q1 wurde veröffentlicht. [Mehr dazu](https://docs.adobe.com/content/help/en/journeys/using/release-notes/release-notes.html#q1-release---march-2020)
+
+### Zusätzliche Ressourcen
+
+[Dokumentation](https://docs.adobe.com/content/help/en/journeys/using/journey-orchestration-home.html)
+
+[Versionshinweise](https://docs.adobe.com/content/help/en/journeys/using/release-notes/release-notes.html)
+
+[Anleitungen zu Videos](https://docs.adobe.com/content/help/en/platform-learn/tutorials/journey-orchestration/introduction.html)
 
 ## Mobile Services und Mobile SDKs {#mobile}
 
