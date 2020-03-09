@@ -140,7 +140,7 @@ Die Produktdokumentation finden Sie auf der [Startseite der Adobe Analytics-Hilf
 * Es wurde ein Problem in [!UICONTROL Reports &amp; Analysen] behoben, das das Herunterladen von `.xls` Berichten verhinderte. Dieses Problem betraf Kunden, die andere Währungen als US-Dollar und Euro verwenden. (AN-206541, AN-204008)
 * Mit der Einführung einer neuen Shell wurden mehrere Kundenprobleme beim Wechsel von Experience Cloud-Organisationen behoben.(AN-200844, AN-186920)
 * Es wurde ein Fehler behoben, der dazu führte, dass eine Aufschlüsselung des Zeileneintrags _Nicht angegeben_ (oder einiger anderer Zeileneinträge in Berichten) ohne _Nicht angegeben (Keine)_ in den Filtern der Aufschlüsselung keine Ergebnisse in der Aufschlüsselung ergab.
-* Es wurde ein Fehler behoben, der bei der Verwendung einer klassifizierten Dimension auftrat, wenn die Summen der Ein- oder Ausstiegsmetriken nicht mit der Summe des Einzelelements bei einer Aufschlüsselung übereinstimmten.
+* Es wurde ein Fehler behoben, der bei Verwendung einer klassifizierten Dimension auftrat, wenn die Summen der Einstiegs- oder Ausstiegsmetriken nicht mit der Summe des Einzelelements bei einer Aufschlüsselung übereinstimmten.
 * Es wurde ein Problem behoben, bei dem First Touch- und Last Touch-Modelle in Attribution IQ die Gutschrift für einige Zeilenelemente in einigen Out-of-the-Box-Dimensionen nicht korrekt berechnen.
 * Es wurde ein Problem behoben, bei dem das Aufschlüsseln einer Datumsdimension durch eine andere Datumsdimension falsche Ergebnisse zurückgab.
 * Es wurde ein Problem behoben, bei dem Einstiegs- oder Ausstiegsmetriken manchmal falsch gezählt wurden, wenn sie auf &quot;Nicht angegeben&quot;in einem klassifizierten Dimensionsbericht angewendet wurden.
