@@ -5,12 +5,14 @@ doc-type: release notes
 last-update: March 2020
 author: mfrei
 translation-type: tm+mt
-source-git-commit: e2cb2ca3bd773fb8d8de24142c876e5ed1f32e97
+source-git-commit: 6fa8ddb48734849f15490dce814b1fd8763051d3
 
 ---
 
 
 # Vorzeitiger Zugriff - Versionshinweise zu Adobe Experience Cloud - März 2020
+
+![Banner](/assets/experience-cloud-banner-3.png)
 
 Neue Funktionen und Fehlerbehebungen in [!DNL Adobe Experience Cloud].
 
@@ -22,13 +24,11 @@ Neue Funktionen und Fehlerbehebungen in [!DNL Adobe Experience Cloud].
 
 **Veröffentlichungsdatum: März 2020**
 
-(Die spezifischen Produktveröffentlichungstermine können variieren.)
+Neueste Aktualisierung: 11. März 2020
 
 * [Systemstatus von Adobe](#status)
 * [Benutzeroberfläche und Core Services von Experience Cloud](#ecloud)
 * [Experience Platform](#platform)
-* [Reisebegleitung](#journey)
-* [Mobile Services und Mobile SDKs](#mobile)
 * [!DNL Analytics](#analytics)
 * [Audience Manager](#aam)
 * [Experience Manager](#aem)
@@ -42,7 +42,9 @@ Neue Funktionen und Fehlerbehebungen in [!DNL Adobe Experience Cloud].
 
 Suchen Sie nach der Hilfeseite? Siehe die [Adobe Experience Cloud-Dokumentation](https://docs.adobe.com/content/help/en/experience-cloud/user-guides/home.html).
 
-## Systemstatus von Adobe {#status}
+(Das Datum der Produktversion kann unterschiedlich sein.)
+
+## ![Symbol](/assets/adobe.png) Adobe-Systemstatus {#status}
 
 [!UICONTROL Der Adobe-Systemstatus] liefert detaillierte Informationen, Statusaktualisierungen und E-Mail-Benachrichtigungen zu Ausfällen, Störungen und Wartungsarbeiten von Adobe Cloud-Produkten und -Diensten. Weiter Informationen dazu erhalten Sie unter [status.adobe.com](https://status.adobe.com/).
 
@@ -58,7 +60,7 @@ Suchen Sie nach der Hilfeseite? Siehe die [Adobe Experience Cloud-Dokumentation]
 | Personalisiertes Erlebnis basierend auf Benutzereinstellungen | <ul><li>Zeitzonenvoreinstellungen werden je nach Browsereinstellung in E-Mail-Benachrichtigungen verwendet.</li><li>E-Mail-Bestätigung beim Abonnieren/Abmelden mit allen ausgewählten Voreinstellungen gesendet.</li></ul> |
 | Besserer Versand von Ereignis-Nachrichten | <ul><li>Der Ereignis-Verlauf wurde nach chronologischen Ereignis-Aktualisierungen sortiert.</li><li>Zeitstempel für die Auflösung des Ereignisses, die zu &quot;Größer/Kleiner&quot;hinzugefügt wurden, wurden geschlossen.</li></ul> |
 
-## Benutzeroberfläche und Core Services von Experience Cloud {#ecloud}
+## ![Icon](/assets/experience-cloud.png) Experience Cloud-Benutzeroberfläche und Hauptdienste {#ecloud}
 
 Neue Funktionen und Fehlerkorrekturen in der Benutzeroberfläche von Experience Cloud, einschließlich Verwaltung und Core Services (Kundenattribute, Zielgruppen, Auslöser, Cookies usw.).
 
@@ -84,29 +86,31 @@ Zu den Aktualisierungen gehören:
 
 For product documentation, see [Experience Cloud](https://docs.adobe.com/content/help/en/core-services/interface/experience-cloud.html) help.
 
-## Experience Platform {#platform}
+## ![Symbol](/assets/platform.png) -Erlebnisplattform {#platform}
 
 Release notes for the [!UICONTROL Experience Platform,] [!UICONTROL Experience Platform Launch,] [!UICONTROL Identity Service,] and security bulletins.
 
 * [Experience Platform – Versionshinweise](https://www.adobe.io/apis/experienceplatform/home/services/release-notes.html#!end-user/markdown/release-notes/release-notes.md)
 * [Experience Platform Launch](#launch)
+* [Reisebegleitung](#journey)
+* [Mobile Services und Mobile SDKs](#mobile)
 * [Sicherheitsbulletins und -hinweise](https://helpx.adobe.com/security.html)   (Alle Adobe-Produkte)
 
 ### Experience Platform Launch {#launch}
 
 Versionshinweise und die Produktdokumentation finden Sie unter [Experience Platform Launch](https://docs.adobe.com/content/help/en/launch/using/intro/release-notes/current.html).
 
-## Reisebegleitung {#journey}
+### Reisebegleitung {#journey}
 
 Mit der Adobe Experience Platform können Sie maßgeschneiderte Kundenreisen für erfahrene Kanal organisieren, indem Sie die Bedürfnisse jedes Einzelnen in Echtzeit vorhersehen, egal, wohin die Reise führt.
 
 Version Q1 wurde veröffentlicht. [Mehr dazu](https://docs.adobe.com/content/help/en/journeys/using/release-notes/release-notes.html#q1-release---march-2020)
 
-### Zusätzliche Ressourcen
+**Zusätzliche Ressourcen**
 
 [Dokumentation](https://docs.adobe.com/content/help/en/journeys/using/journey-orchestration-home.html) - [Versionshinweise](https://docs.adobe.com/content/help/en/journeys/using/release-notes/release-notes.html) - [Anleitungen](https://docs.adobe.com/content/help/en/platform-learn/tutorials/journey-orchestration/introduction.html)
 
-## Mobile Services und Mobile SDKs {#mobile}
+### Mobile Services und Mobile SDKs {#mobile}
 
 **iOS v4.19.1**
 
@@ -117,7 +121,7 @@ Version Q1 wurde veröffentlicht. [Mehr dazu](https://docs.adobe.com/content/hel
 
 * [!DNL Target] - [!DNL Target] Die Sitzungs-ID wird jetzt als Kontextdatenparameter &quot;a.Zielgruppe.sessionId&quot;im internen Treffer [!UICONTROL von Analytics für Zielgruppen] hinzugefügt, der an Adobe Analytics gesendet wird.
 
-## [!DNL Analytics] {#analytics}
+## ![Symbol](/assets/analytics.png) [!DNL Analytics] {#analytics}
 
 Releasedatum: **12. März 2020**
 
@@ -140,7 +144,7 @@ Die Produktdokumentation finden Sie auf der [Startseite der Adobe Analytics-Hilf
 * Es wurde ein Problem in [!UICONTROL Reports &amp; Analysen] behoben, das das Herunterladen von `.xls` Berichten verhinderte. Dieses Problem betraf Kunden, die andere Währungen als US-Dollar und Euro verwenden. (AN-206541, AN-204008)
 * Mit der Einführung einer neuen Shell wurden mehrere Kundenprobleme beim Wechsel von Experience Cloud-Organisationen behoben.(AN-200844, AN-186920)
 * Es wurde ein Fehler behoben, der dazu führte, dass eine Aufschlüsselung des Zeileneintrags _Nicht angegeben_ (oder einiger anderer Zeileneinträge in Berichten) ohne _Nicht angegeben (Keine)_ in den Filtern der Aufschlüsselung keine Ergebnisse in der Aufschlüsselung ergab.
-* Es wurde ein Fehler behoben, der bei der Verwendung einer klassifizierten Dimension auftrat, wenn die Summen der Ein- oder Ausstiegsmetriken nicht mit der Summe des Einzelelements bei einer Aufschlüsselung übereinstimmten.
+* Es wurde ein Fehler behoben, der bei Verwendung einer klassifizierten Dimension auftrat, wenn die Summen der Einstiegs- oder Ausstiegsmetriken nicht mit der Summe des Einzelelements bei einer Aufschlüsselung übereinstimmten.
 * Es wurde ein Problem behoben, bei dem First Touch- und Last Touch-Modelle in Attribution IQ die Gutschrift für einige Zeilenelemente in einigen Out-of-the-Box-Dimensionen nicht korrekt berechnen.
 * Es wurde ein Problem behoben, bei dem das Aufschlüsseln einer Datumsdimension durch eine andere Datumsdimension falsche Ergebnisse zurückgab.
 * Es wurde ein Problem behoben, bei dem Einstiegs- oder Ausstiegsmetriken manchmal falsch gezählt wurden, wenn sie auf &quot;Nicht angegeben&quot;in einem klassifizierten Dimensionsbericht angewendet wurden.
@@ -160,7 +164,7 @@ Die Produktdokumentation finden Sie auf der [Startseite der Adobe Analytics-Hilf
 
 Siehe [Versionshinweise zu AppMeasurement für JavaScript](https://docs.adobe.com/content/help/en/analytics/implementation/appmeasurement-updates.html). Version 2.20.0 wurde am 5. März 2020 veröffentlicht.
 
-## Audience Manager {#aam}
+## ![Symbol](/assets/audience-manager.png) -Audience-Manager {#aam}
 
 Neue Funktionen und Updates für Audience Manager:
 
@@ -172,7 +176,7 @@ Neue Funktionen und Updates für Audience Manager:
 * Es wurde ein Fehler in der [!UICONTROL Segments-API] behoben, durch den die Oberfläche aufgrund einiger Segmente ohne Beschreibung gesperrt wurde, wenn Benutzer versuchten, auf diese Segmente zuzugreifen, und die Benutzer mussten von dieser Seite weg navigieren. (AAM-53071)
 * Mehrere Verbesserungen der Barrierefreiheit auf der Benutzeroberfläche. (AAM-48952, AAM-48969, AAM-48979, AAM-48993, AAM-49048, AAM-49057, AAM-49058,AAM-493 (92)
 
-## Experience Manager {#aem}
+## ![Symbol](/assets/aem.png) Experience Manager {#aem}
 
 Neue Funktionen, Fehlerbehebungen und Aktualisierungen in Adobe Experience Manager (AEM). Adobe empfiehlt Kunden mit lokalen Implementierungen, die aktuellen Patches zu implementieren, um mehr Stabilität, Sicherheit und Leistung zu erzielen.
 
@@ -242,7 +246,7 @@ Siehe [Arbeiten mit intelligentem Beschneiden](https://docs.adobe.com/content/he
 * [Versionshinweise zu Dynamic Media](https://marketing.adobe.com/resources/help/en_US/s7/release_notes/index.html)
 * [Livefyre-Versionshinweise](https://marketing.adobe.com/resources/help/en_US/livefyre/c_rn.html)
 
-## [!DNL Campaign] {#ac}
+## ![Symbol](/assets/campaign.png) [!DNL Campaign] {#ac}
 
 Adobe Campaign bietet die Möglichkeit, direkte Nachrichten über Online- und Offline-Marketing-Kanäle intuitiv und automatisiert zu übermitteln. Sie können nun vorhersagen, was Ihre Kunden wünschen, und ihnen Erlebnisse bieten, die Sie anhand ihrer Gewohnheiten und Vorlieben ermittelt haben.
 
@@ -256,7 +260,7 @@ Adobe Campaign bietet die Möglichkeit, direkte Nachrichten über Online- und O
 * Adobe Campaign Classic: [Dokumentation](https://helpx.adobe.com/support/campaign/classic.html) – [Versionshinweise](https://docs.campaign.adobe.com/doc/AC/en/RN.html) – [Videoanleitungen](https://docs.adobe.com/content/help/en/campaign-learn/campaign-classic-tutorials/overview.html)
 * Control Panel von Adobe Campaign: [Dokumentation](https://docs.adobe.com/content/help/en/control-panel/using/control-panel-home.html) – [Versionshinweise](https://docs.adobe.com/content/help/en/control-panel/using/release-notes.html)
 
-## Advertising Cloud {#adcloud}
+## ![Symbol](/assets/advertising-cloud.png) Advertising Cloud {#adcloud}
 
 Aktualisiert: 10. Februar 2020, für die Version vom 8. Februar:
 
@@ -266,14 +270,14 @@ Aktualisiert: 10. Februar 2020, für die Version vom 8. Februar:
 | [!UICONTROL Suche] > [!UICONTROL Bulksheets] | Sie können jetzt mithilfe von Bulksheets responsive Suchanzeigen (RSAs) von Google erstellen, bearbeiten und löschen. Zuvor war die Unterstützung nur über die Standard-Kampagnenverwaltungsoberfläche unter **[!UICONTROL Suche]** > **[!UICONTROL Kampagnen]** verfügbar. |
 | [!UICONTROL Suchen] > [!UICONTROL Campaign, Berichte] | Die Google Ads-Bekanntheitsmetriken `Impr. (Abs. Top) %` und `Impr. (Top) %` stehen nun in allen allgemeinen Berichten und Kampagnenverwaltungsansichten auf Entitätsebene zur Verfügung, mit Ausnahme der Ansichten für Einkaufsproduktgruppen, in den Berichten [!UICONTROL Campaign Daily Impression Share] und [!UICONTROL Keyword Daily Impression Share] sowie in den Kennzeichnungs- und Beschränkungsansichten. |
 
-## [!DNL Magento] {#magento}
+## ![Symbol](/assets/magento.png) [!DNL Magento] {#magento}
 
 Magento-Versionshinweise finden Sie unter:
 
 * [Magento Commerce 2.3.4](https://devdocs.magento.com/guides/v2.3/release-notes/release-notes-2-3-4-commerce.html)
 * [Magento Open Source 2.3.4](https://devdocs.magento.com/guides/v2.3/release-notes/release-notes-2-3-4-open-source.html)
 
-## [!DNL Marketo] {#marketo}
+## ![Symbol](/assets/marketo.png) [!DNL Marketo] {#marketo}
 
 [!DNL Marketo Engage] ist eine Komplettlösung für das Lead-Management. B2B-Marketer können damit Kundenerlebnisse transformieren, indem sie in allen Phasen komplexer Customer Journeys Interaktionen ermöglichen.
 
@@ -310,7 +314,7 @@ Die folgenden Funktionen werden im Laufe dieses Quartals veröffentlicht:
 
 Eine Sammlung historischer Versionshinweisen finden Sie unter [Marketo-Versionshinweise](https://docs.marketo.com/x/CgA6Ag).
 
-## Neue Dokumentation und Tutorials {#selfhelp}
+## ![Symbol](/assets/experience-cloud.png) Neue Dokumentation und Lernprogramme {#selfhelp}
 
 Neue und aktuelle Artikel und Videos zur Selbsthilfe. <!--`https://jira.corp.adobe.com/secure/Dashboard.jspa?selectPageId=60327`-->
 
