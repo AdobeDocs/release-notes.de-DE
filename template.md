@@ -5,7 +5,7 @@ doc-type: release notes
 last-update: March 2020
 author: mfrei
 translation-type: tm+mt
-source-git-commit: 01f2d4ae03be92da8d5d6feb1900cd4901a1b142
+source-git-commit: 53e2135044074e22470887540fb641262c607bd3
 
 ---
 
@@ -26,12 +26,12 @@ Neue Funktionen und Fehlerbehebungen in Adobe Experience Cloud.
 
 **Releasedatum: 2020**
 
-* [Systemstatus von Adobe](#status)
-* [Experience Cloud und Hauptdienste](#ecloud)
+* [[!DNL Adobe] Systemstatus](#status)
+* [[!DNL Experience Cloud] und [!UICONTROL Hauptdienste]](#ecloud)
 * [Experience Platform](#platform)
 * [!DNL Analytics](#analytics)
-* [Audience Manager](#aam)
-* [Experience Manager](#aem)
+* [[!DNL Audience Manager]](#aam)
+* [[!DNL Experience Manager]](#aem)
 * [!DNL Campaign](#ac)
 * [!DNL Target](https://docs.adobe.com/content/help/en/target/using/release-notes/target-release-notes.html) (Links zur Lösungshilfe)
 * [!DNL Advertising Cloud](#adcloud)
@@ -48,14 +48,14 @@ Funktionen und Fehlerbehebungen
 
 Siehe [Systemstatus von Adobe](https://status.adobe.com/).
 
-## Experience Cloud and core services{#ecloud}
+## [!DNL Experience Cloud] und [!UICONTROL Hauptdienste]{#ecloud}
 
 Neue Funktionen und Fehlerkorrekturen in der Benutzeroberfläche von Experience Cloud, einschließlich Verwaltung und Core Services (Kundenattribute, Zielgruppen, Auslöser, Cookies usw.).
 
-* [Experience Cloud Core Services](#core-services)
+* [[!UICONTROL Hauptdienste]](#core-services)
 * [Administration und Entwickler](#admin)
 
-### Experience Cloud Core services {#core-services}
+### [!UICONTROL Core Services] {#core-services}
 
 Funktionen und Fehlerbehebungen
 
@@ -67,36 +67,36 @@ Funktionen und Fehlerbehebungen
 
 Die Produktdokumentation finden Sie im Abschnitt zur [Verwaltung von Benutzern und Produkten](https://docs.adobe.com/content/help/en/core-services/interface/manage-users-and-products/admin-getting-started.html).
 
-## Experience Platform {#platform}
+## [!UICONTROL Experience Platform] {#platform}
 
-Release notes for the [!UICONTROL Experience Platform,] [!UICONTROL Experience Platform Launch,] [!UICONTROL Identity Service,] Journey Orchestration, Mobile Services, and security bulletins.
+Release notes for the [!UICONTROL Experience Platform,] [!UICONTROL Experience Platform Launch,] [!UICONTROL Identity Service,] [!UICONTROL Journey Orchestration,] [!UICONTROL Mobile Services,] and security bulletins.
 
 * [Experience Cloud ID-Dienst](#ecid)
 * [Experience Platform – Versionshinweise](https://www.adobe.io/apis/experienceplatform/home/services/release-notes.html#!end-user/markdown/release-notes/release-notes.md)
 * [Experience Platform Launch](#launch)
 * [Journey-Orchestrierung](#journey)
 * [Mobile Services und Mobile SDKs](#mobile)
-* [Sicherheitsbulletins und -hinweise](https://helpx.adobe.com/security.html) (Alle Adobe-Produkte)
+* [Sicherheitsbulletins und -hinweise](https://helpx.adobe.com/security.html)  (Alle Adobe-Produkte)
 
-### Experience Cloud ID-Dienst {#ecid}
+### [!UICONTROL Experience Cloud ID-Dienst] {#ecid}
 
 Funktionen und Fehlerbehebungen
 
 Informationen zur Produktdokumentation finden Sie unter [Experience Cloud ID-Dienst](https://marketing.adobe.com/resources/help/en_US/mcvid/).
 
-### Experience Platform Launch {#launch}
+### [!UICONTROL Experience Platform Launch] {#launch}
 
 Versionshinweise und die Produktdokumentation finden Sie unter [Experience Platform Launch](https://docs.adobe.com/content/help/en/launch/using/intro/release-notes/current.html).
 
-### Journey-Orchestrierung {#journey}
+### [!UICONTROL Journey-Orchestrierung] {#journey}
 
-Mithilfe der Adobe Experience Platform können Sie individuelle Customer Journeys maßstabsgetreu über verschiedene Erlebniskanäle orchestrieren, indem Sie die Bedürfnisse jedes einzelnen Kunden in Echtzeit und unabhängig vom Zielort intelligent antizipieren.
+Using Adobe [!UICONTROL Experience Platform,] orchestrate individual customer journeys at scale across experience channels by intelligently anticipating every individual&#39;s needs in real time, wherever their journey takes them.
 
-#### Zusätzliche Ressourcen für die Reiseorganisation
+#### Zusätzliche Ressourcen für [!UICONTROL die Reiseorganisation]
 
 [Dokumentation](https://docs.adobe.com/content/help/en/journeys/using/journey-orchestration-home.html) – [Versionshinweise](https://docs.adobe.com/content/help/en/journeys/using/release-notes/release-notes.html) – [Videoanleitungen](https://docs.adobe.com/content/help/en/platform-learn/tutorials/journey-orchestration/introduction.html)
 
-### Mobile Services und Mobile SDK {#mobile}
+### [!UICONTROL Mobile Services und Mobile SDK] {#mobile}
 
 **Funktionen**
 
@@ -131,7 +131,7 @@ Die Produktdokumentation finden Sie auf der [Startseite der Adobe Analytics-Hilf
 | Funktion B | Text |
 | Funktion C | Text |
 
-### [!DNL Media Analytics] SDK für iOS und Android (früher VHL SDK) {#aa-va}
+### [!DNL Media Analytics] SDK für [!DNL iOS] &amp; [!DNL Android] (ehemals VHL SDK) {#aa-va}
 
 | Funktion | Beschreibung |
 | -----------| ---------- |  
@@ -160,18 +160,18 @@ Die neuesten Versionsinformationen finden Sie in den [Data Workbench-Versionshin
 
 In der [Versionshistorie zu AppMeasurement](https://docs.adobe.com/content/help/en/analytics/implementation/appmeasurement-release-notes/c-release-notes-mjs.html) finden Sie Informationen zu den verschiedenen Versionen von AppMeasurement auf den folgenden Plattformen:
 
-* JavaScript
-* iOS
-* Android
-* Flash-Flex
-* OSX
-* Windows Phone, XBOX, Silverlight und .NET
+* [!DNL JavaScript]
+* [!DNL iOS]
+* [!DNL Android]
+* [!DNL Flash-Flex]
+* [!DNL OSX]
+* [!DNL Windows Phone,] [!DNL XBOX,] [!DNL Silverlight,] und [!DNL .NET]
 * [!DNL BlackBerry]
 * Java
 * PHP
 * Symbian
 
-## Audience Manager {#aam}
+## [!DNL Audience Manager] {#aam}
 
 | Funktion | Beschreibung |
 | -----------| ---------- |  
@@ -186,7 +186,7 @@ In der [Versionshistorie zu AppMeasurement](https://docs.adobe.com/content/help/
 * Fehlerbehebung
 * Fehlerbehebung
 
-## Experience Manager {#aem}
+## [!DNL Experience Manager] {#aem}
 
 Neue Funktionen, Fehlerbehebungen und Aktualisierungen in Adobe Experience Manager (AEM). Adobe empfiehlt Kunden mit lokalen Implementierungen, die aktuellen Patches zu implementieren, um mehr Stabilität, Sicherheit und Leistung zu erzielen.
 
@@ -227,7 +227,7 @@ Die folgenden AEM-Dokumentationssätze wurden in eine neue kollaborative Plattfo
 * [Scene7 Publishing System – Versionshinweise](https://marketing.adobe.com/resources/help/en_US/s7/release_notes/index.html)
 * [Livefyre-Versionshinweise](https://marketing.adobe.com/resources/help/en_US/livefyre/c_rn.html)
 
-### Livefyre {#livefyre}
+### [!DNL Livefyre] {#livefyre}
 
 | Funktion | Beschreibung |
 | -----------| ---------- |  
@@ -263,11 +263,11 @@ Adobe Campaign bietet die Möglichkeit, direkte Nachrichten über Online- und O
 
 ### Zusätzliche Ressourcen
 
-* Adobe Campaign Standard: [Dokumentation](https://helpx.adobe.com/support/campaign/standard.html) – [Versionshinweise](https://docs.adobe.com/content/help/en/campaign-standard/using/release-notes/release-notes.html) – [Videoanleitungen](https://docs.adobe.com/content/help/en/campaign-learn/campaign-standard-tutorials/overview.html) – [Versionsplanung](https://helpx.adobe.com/campaign/kb/acs-release-planning.html)
+* Adobe Campaign Standard: [Dokumentation](https://helpx.adobe.com/support/campaign/standard.html) – [Versionshinweise](https://docs.adobe.com/content/help/en/campaign-standard/using/release-notes/release-notes.html) – [Videoanleitungen](https://docs.adobe.com/content/help/en/campaign-learn/campaign-standard-tutorials/overview.html)  – [Versionsplanung](https://helpx.adobe.com/campaign/kb/acs-release-planning.html)
 * Adobe Campaign Classic: [Dokumentation](https://helpx.adobe.com/support/campaign/classic.html) – [Versionshinweise](https://docs.campaign.adobe.com/doc/AC/en/RN.html) – [Videoanleitungen](https://docs.adobe.com/content/help/en/campaign-learn/campaign-classic-tutorials/overview.html)
 * Control Panel von Adobe Campaign: [Dokumentation](https://docs.adobe.com/content/help/en/control-panel/using/control-panel-home.html) – [Versionshinweise](https://docs.adobe.com/content/help/en/control-panel/using/release-notes.html)
 
-## Advertising Cloud {#adcloud}
+## [!DNL Advertising Cloud] {#adcloud}
 
 | Funktion | Beschreibung |
 | -----------| ---------- |  
@@ -284,7 +284,7 @@ Adobe Campaign bietet die Möglichkeit, direkte Nachrichten über Online- und O
 
 ## [!DNL Magento] {#magento}
 
-Magento-Versionshinweise finden Sie unter:
+For [!DNL Magento] release notes, see:
 
 * [Magento Commerce 2.3.4](https://devdocs.magento.com/guides/v2.3/release-notes/release-notes-2-3-4-commerce.html)
 * [Magento Open Source 2.3.4](https://devdocs.magento.com/guides/v2.3/release-notes/release-notes-2-3-4-open-source.html)
@@ -293,7 +293,7 @@ Magento-Versionshinweise finden Sie unter:
 
 [!DNL Marketo Engage] ist eine Komplettlösung für das Lead-Management. B2B-Marketer können damit Kundenerlebnisse transformieren, indem sie in allen Phasen komplexer Customer Journeys Interaktionen ermöglichen.
 
-### Aktualisierungen von Core Marketo Engage
+### Core [!DNL Marketo Engage] Updates
 
 Versionsdatum: 21. Februar 2020
 
