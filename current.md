@@ -5,7 +5,7 @@ doc-type: release notes
 last-update: March 2020
 author: mfrei
 translation-type: tm+mt
-source-git-commit: 5246ec08b9a04fcbdfff401dc214256185faaf2d
+source-git-commit: 745a054c15f05d7957e8c98b8adfa41b665b6fa6
 
 ---
 
@@ -268,7 +268,7 @@ Adobe Campaign bietet die Möglichkeit, direkte Nachrichten über Online- und O
 
 ## ![Symbol](/assets/advertising-cloud.png) Advertising Cloud {#adcloud}
 
-Aktualisiert: 10. Februar 2020, für die Version vom 8. Februar:
+Aktualisiert am 20. März 2020, für Version vom 21. März:
 
 | Ansicht | Funktion |
 |------|---------|
