@@ -5,7 +5,7 @@ doc-type: release notes
 last-update: March 2020
 author: mfrei
 translation-type: tm+mt
-source-git-commit: 745a054c15f05d7957e8c98b8adfa41b665b6fa6
+source-git-commit: 11dd1c361df84ef52b54734e2cbd231fce0cfda3
 
 ---
 
@@ -183,7 +183,7 @@ Neue Funktionen und Updates für den Audience Manager:
 
 ## ![Symbol](/assets/aem.png) Experience Manager {#aem}
 
-Neue Funktionen, Fehlerbehebungen und Aktualisierungen in Adobe Experience Manager (AEM). Adobe empfiehlt Kunden mit lokalen Implementierungen, die aktuellen Patches zu implementieren, um mehr Stabilität, Sicherheit und Leistung zu erzielen.
+Neue Funktionen, Fehlerbehebungen und Aktualisierungen in Adobe Experience Manager (AEM). Adobe empfiehlt Kunden mit lokalen Implementierungen, die aktuellen Patches zu implementieren, um mehr Stabilität, Sicherheit und Leistung zu erzielen.
 
 ### Produktaktualisierungen
 
@@ -272,9 +272,11 @@ Aktualisiert am 20. März 2020, für Version vom 21. März:
 
 | Ansicht | Funktion |
 |------|---------|
-| [!UICONTROL Portfolios] | Sie können nun [!DNL Yahoo!] Japan Display Network(YDN)-Kampagnen zu Portfolios hinzufügen, um die Kampagnenbudgets und Gebote auf Anzeigengruppenebene zu optimieren. Das gleiche Gebot wird auf alle Anzeigen einer Anzeigengruppe angewendet. Daten für Japan Display Network-Kampagnen sind in den Simulationen für das Portfolio enthalten. |
-| [!UICONTROL Suche] > [!UICONTROL Bulksheets] | Sie können jetzt mithilfe von Bulksheets responsive Suchanzeigen (RSAs) von Google erstellen, bearbeiten und löschen. Zuvor war die Unterstützung nur über die Standard-Kampagnenverwaltungsoberfläche unter **[!UICONTROL Suche]** > **[!UICONTROL Kampagnen]** verfügbar. |
-| [!UICONTROL Suche] > [!UICONTROL Kampagnen, Berichte] | Die Google Ads-Bekanntheitsmetriken `Impr. (Abs. Top) %` und `Impr. (Top) %` stehen nun in allen allgemeinen Berichten und Kampagnenverwaltungsansichten auf Entitätsebene zur Verfügung, mit Ausnahme der Ansichten für Einkaufsproduktgruppen, in den Berichten [!UICONTROL Campaign Daily Impression Share] und [!UICONTROL Keyword Daily Impression Share] sowie in den Kennzeichnungs- und Beschränkungsansichten. |
+| [!UICONTROL Portfolios] | Wenden Sie sich an Ihren Kundenbetreuer, um Richtlinien zur Verwaltung Ihrer Portfolios zur Berücksichtigung von Traffic-Änderungen zu erhalten, die sich aus COVID-19 ergeben. |
+|  | (Google Ads- und Microsoft Ads-Kampagnen) In optimierten Portfolios mit der Option &quot;Angebotsanpassungswerte automatisch optimieren&quot;optimiert Advertising Cloud nicht mehr automatisch die Angebotsanpassungseinstellungen für Kampagnen mithilfe der verbesserten Angebotsstrategie &quot;Cost per Click&quot;(eCPC). Die Suchmaschine optimiert alle Angebotsanpassungen zum Zeitpunkt der Versteigerung. Advertising Cloud optimiert weiterhin die Basisangebote und — wenn die Option &quot;Budgetgrenzen für automatische Anpassung der Kampagne&quot;aktiviert ist — den Haushaltsplan der Kampagne. |
+| [!UICONTROL Warnungen Beta] | (Beta-Funktion) Sie können nun Warnvorlagen erstellen, um zu erkennen, wann ein Portfolio bestimmte Bedingungen erfüllt — wie Leistungsmetriken — während eines bestimmten Zeitraums und dann eine Warnung generieren. Sie können Warnungen auf Portfolioebene aus **[!UICONTROL Insight &amp; Reports]** > **[!UICONTROL Warnungen (Beta)]** , jedoch nicht aus **[!UICONTROL Optimierung]** > **[!UICONTROL Portfolios erstellen]**. **Hinweis:** Warnhinweise, die aus der älteren Version von Warnungen Beta erstellt wurden, die im Januar ersetzt wurde, sind nicht mehr verfügbar. |
+|  |
+| [!UICONTROL Admin] > [!UICONTROL Transaktionseigenschaften] | Eine neue Spalte &quot;Eigenschaften-ID&quot;zeigt die eindeutige Eigenschafts-ID für jede Transaktionseigenschaft. Sie können nach jeder beliebigen Zeichenfolge in den Spaltenwerten suchen. |
 
 ## ![Symbol](/assets/magento.png) [!DNL Magento] {#magento}
 
