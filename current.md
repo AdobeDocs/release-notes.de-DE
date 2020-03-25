@@ -5,7 +5,7 @@ doc-type: release notes
 last-update: March 2020
 author: mfrei
 translation-type: tm+mt
-source-git-commit: 11dd1c361df84ef52b54734e2cbd231fce0cfda3
+source-git-commit: 84d38312b8486b99fe12ada6d358682e3ae43847
 
 ---
 
@@ -273,7 +273,7 @@ Aktualisiert am 20. März 2020, für Version vom 21. März:
 | Ansicht | Funktion |
 |------|---------|
 | [!UICONTROL Portfolios] | Wenden Sie sich an Ihren Kundenbetreuer, um Richtlinien zur Verwaltung Ihrer Portfolios zur Berücksichtigung von Traffic-Änderungen zu erhalten, die sich aus COVID-19 ergeben. |
-|  | (Google Ads- und Microsoft Ads-Kampagnen) In optimierten Portfolios mit der Option &quot;Angebotsanpassungswerte automatisch optimieren&quot;optimiert Advertising Cloud nicht mehr automatisch die Angebotsanpassungseinstellungen für Kampagnen mithilfe der verbesserten Angebotsstrategie &quot;Cost per Click&quot;(eCPC). Die Suchmaschine optimiert alle Angebotsanpassungen zum Zeitpunkt der Versteigerung. Advertising Cloud optimiert weiterhin die Basisangebote und — wenn die Option &quot;Budgetgrenzen für automatische Anpassung der Kampagne&quot;aktiviert ist — den Haushaltsplan der Kampagne. |
+| Google Ads- und Microsoft Ads-Kampagnen | In optimierten Portfolios mit der Option &quot;Angebotsanpassungswerte automatisch optimieren&quot;optimiert Advertising Cloud nicht mehr automatisch die Angebotsanpassungseinstellungen für Kampagnen mithilfe der verbesserten Angebotsstrategie &quot;Cost per Click&quot;(eCPC). Die Suchmaschine optimiert alle Angebotsanpassungen zum Zeitpunkt der Versteigerung. Advertising Cloud optimiert weiterhin die Basisangebote und — wenn die Option &quot;Budgetgrenzen für automatische Anpassung der Kampagne&quot;aktiviert ist — den Haushaltsplan der Kampagne. |
 | [!UICONTROL Warnungen Beta] | (Beta-Funktion) Sie können nun Warnvorlagen erstellen, um zu erkennen, wann ein Portfolio bestimmte Bedingungen erfüllt — wie Leistungsmetriken — während eines bestimmten Zeitraums und dann eine Warnung generieren. Sie können Warnungen auf Portfolioebene aus **[!UICONTROL Insight &amp; Reports]** > **[!UICONTROL Warnungen (Beta)]** , jedoch nicht aus **[!UICONTROL Optimierung]** > **[!UICONTROL Portfolios erstellen]**. **Hinweis:** Warnhinweise, die aus der älteren Version von Warnungen Beta erstellt wurden, die im Januar ersetzt wurde, sind nicht mehr verfügbar. |
 |  |
 | [!UICONTROL Admin] > [!UICONTROL Transaktionseigenschaften] | Eine neue Spalte &quot;Eigenschaften-ID&quot;zeigt die eindeutige Eigenschafts-ID für jede Transaktionseigenschaft. Sie können nach jeder beliebigen Zeichenfolge in den Spaltenwerten suchen. |
