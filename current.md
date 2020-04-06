@@ -4,8 +4,8 @@ description: Vorlage für Experience Cloud-Versionshinweise
 doc-type: release notes
 last-update: March 2020
 author: mfrei
-translation-type: ht
-source-git-commit: abf763ddf0ed4ae9d8df5b7dcef4e664db4cf682
+translation-type: tm+mt
+source-git-commit: 870c6694107d7ca60a4b9c20031fb0e6c6d68645
 
 ---
 
@@ -60,7 +60,7 @@ Suchen Sie nach der Hilfeseite? Siehe die [Adobe Experience Cloud-Dokumentation]
 | Personalisierte Erlebnisse auf Basis Ihrer Anwendereinstellungen | <ul><li>In E-Mail-Benachrichtigungen werden die Zeitzonen je nach Browsereinstellung verwendet.</li><li>Beim Abonnieren oder Abmelden wird eine E-Mail-Bestätigung mit allen ausgewählten Voreinstellungen gesendet.</li></ul> |
 | Besserer Versand von Ereignisbenachrichtigungen | <ul><li>Der Ereignisverlauf wurde chronologisch nach Ereignisaktualisierungen sortiert.</li><li>Die Zeitstempel für die Ereignisauflösung wurden zu geschlossenen kleineren oder größeren Problemen hinzugefügt.</li></ul> |
 
-## ![Symbol](/assets/experience-cloud.png) Benutzeroberfläche und Core Services von Experience Cloud {#ecloud}
+## ![Symbol](/assets/ec_appicon_24.png) Benutzeroberfläche und Core Services von Experience Cloud {#ecloud}
 
 Neue Funktionen und Fehlerkorrekturen in der Benutzeroberfläche von Experience Cloud, einschließlich Verwaltung und Core Services (Kundenattribute, Zielgruppen, Auslöser, Cookies usw.).
 
@@ -86,7 +86,7 @@ Zu den Aktualisierungen gehören:
 
 Die Produktdokumentation finden Sie auf der [Experience Cloud](https://docs.adobe.com/content/help/de-DE/core-services/interface/experience-cloud.html)-Hilfeseite.
 
-## ![Symbol](/assets/platform.png) Experience Platform {#platform}
+## ![Symbol](/assets/experience_platform_appicon_24.png) Experience Platform {#platform}
 
 Versionshinweise für [!UICONTROL Experience Platform], [!UICONTROL Experience Platform Launch], [!UICONTROL Identity Service], Journey Orchestration, Mobile Services und Sicherheitsbulletins.
 
@@ -321,7 +321,7 @@ Die folgenden Funktionen werden im Laufe dieses Quartals veröffentlicht:
 
 Eine Sammlung historischer Versionshinweisen finden Sie unter [Marketo-Versionshinweise](https://docs.marketo.com/x/CgA6Ag).
 
-## ![Symbol](/assets/experience-cloud.png) Neue Dokumentationen und Tutorials {#selfhelp}
+## ![Symbol](/assets/ec_appicon_24.png) Neue Dokumentationen und Tutorials {#selfhelp}
 
 Neue und aktuelle Artikel und Videos zur Selbsthilfe. <!--`https://jira.corp.adobe.com/secure/Dashboard.jspa?selectPageId=60327`-->
 
