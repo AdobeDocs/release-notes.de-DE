@@ -5,7 +5,7 @@ doc-type: release notes
 last-update: March 2020
 author: mfrei
 translation-type: tm+mt
-source-git-commit: 5147d6252a3bf0bcf0426490c3d3bd96cb1739d5
+source-git-commit: 96d931c9b5001ddbaf9887b45a95adcc468a0376
 
 ---
 
@@ -273,10 +273,10 @@ Aktualisiert am 20. März 2020, für die Version vom 21. März:
 
 | Ansicht | Funktion |
 |------|---------|
-| [!UICONTROL Portfolios] | Wenden Sie sich an Ihren Kundenbetreuer, wenn Sie Richtlinien zur Verwaltung Ihrer Portfolios wegen des geänderten Traffics aufgrund von COVID-19 benötigen. |
-| Google Ads- und Microsoft Ads-Kampagnen | In optimierten Portfolios mit einer Option zur automatischen Optimierung der Angebotsanpassung optimiert Advertising Cloud nicht mehr automatisch die Angebotsanpassung für Kampagnen, die die verbesserte „Cost per Click“-Angebotsstrategie (eCPC) verwenden. Die Suchmaschine optimiert alle Angebotsanpassungen zum Zeitpunkt der Versteigerung. Advertising Cloud optimiert weiterhin die Basisangebote und – wenn die Option zur automatischen Anpassung der Budgetlimits einer Kampagne aktiviert ist – das Budget der Kampagne. |
+| [!UICONTROL Portfolios] | For guidelines on how to manage your portfolios to account for traffic changes resulting from [!DNL COVID-19], contact your account manager. |
+| Google Ads- und Microsoft Ads-Kampagnen | In optimized portfolios with the [!UICONTROL Auto-optimize Bid Adjustment Values] option, Advertising Cloud no longer automatically optimizes the bid adjustment settings for campaigns using the enhanced cost per click (eCPC) bid strategy. Die Suchmaschine optimiert alle Angebotsanpassungen zum Zeitpunkt der Versteigerung. Advertising Cloud still optimizes the base bids and — when the [!UICONTROL Auto adjust campaign budget limits] option is enabled — the campaign budget. |
 | [!UICONTROL Warnungen (Beta)] | (Beta-Funktion) Sie können nun Warnvorlagen erstellen, um zu erkennen, wann ein Portfolio in einem bestimmten Zeitraum gewisse Bedingungen wie etwa Leistungsmetriken erfüllt, und dann eine Warnung generieren. Sie können Warnungen auf Portfolioebene in **[!UICONTROL Insights &amp; Reports]** > **[!UICONTROL Warnungen (Beta)]** erstellen, jedoch nicht in **[!UICONTROL Optimierung]** > **[!UICONTROL Portfolios]**. **Hinweis:** Warnhinweise, die in der älteren, im Januar ersetzten Version von Warnungen (Beta) erstellt wurden, sind nicht mehr verfügbar. |
-| [!UICONTROL Admin] > [!UICONTROL Transaktionseigenschaften] | Eine neue Spalte mit der Bezeichnung „Eigenschaften-ID“ enthält die eindeutige Eigenschaften-ID für jede Transaktionseigenschaft. Sie können nach jeder beliebigen Zeichenfolge in den Spaltenwerten suchen. |
+| [!UICONTROL Admin] > [!UICONTROL Transaktionseigenschaften] | A new [!UICONTROL Property ID] column shows the unique property ID for each transaction property. Sie können nach jeder beliebigen Zeichenfolge in den Spaltenwerten suchen. |
 
 ## ![Symbol](/assets/magento.png) [!DNL Magento] {#magento}
 
