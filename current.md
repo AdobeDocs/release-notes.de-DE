@@ -63,7 +63,7 @@ Neue Funktionen und Fehlerkorrekturen in der Benutzeroberfläche von Experience 
 
 | Funktion | Releasedatum | Beschreibung |
 | ----|----|---- |
-| Admin-Tool – Benutzerdetails anzeigen | 26. Februar 2020 | Administratoren können im neuen Admin-Tool eine sortierbare und filterbare Liste aller Experience Cloud-Benutzer und deren Details anzeigen. Zu den Benutzerdetails zählen der Produktzugriff, die Rollen und die zuletzt aufgerufenen Informationen. Weitere Informationen finden Sie in der Hilfe zum [Experience Cloud-Admin-Tool](https://docs.adobe.com/content/help/en/core-services/interface/manage-users-and-products/admin-tool-experience-cloud.html). |
+| Admin-Tool – Benutzerdetails anzeigen | 26. Februar 2020 | Administratoren können im neuen Admin-Tool eine sortierbare und filterbare Liste aller Experience Cloud-Benutzer und deren Details anzeigen. Zu den Benutzerdetails zählen der Produktzugriff, die Rollen und die zuletzt aufgerufenen Informationen. Weitere Informationen finden Sie in der Hilfe zum [Experience Cloud-Admin-Tool](https://docs.adobe.com/content/help/de-DE/core-services/interface/manage-users-and-products/admin-tool-experience-cloud.html). |
 
 ### Einheitliche Produktdomäne
 
