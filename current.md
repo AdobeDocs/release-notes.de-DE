@@ -5,7 +5,7 @@ doc-type: release notes
 last-update: March 2020
 author: mfrei
 translation-type: tm+mt
-source-git-commit: 870c6694107d7ca60a4b9c20031fb0e6c6d68645
+source-git-commit: 5147d6252a3bf0bcf0426490c3d3bd96cb1739d5
 
 ---
 
@@ -29,7 +29,7 @@ Letzte Aktualisierung: 11. März 2020
 * [Systemstatus von Adobe](#status)
 * [Benutzeroberfläche und Core Services von Experience Cloud](#ecloud)
 * [Experience Platform](#platform)
-* [!DNL Analytics](#analytics) - Releasedatum: **12. März 2020**  (Aktualisiert am 27. März 2020)
+* [!DNL Analytics](#analytics) - Releasedatum: **12. März 2020**  (Aktualisiert am 7. April 2020)
 * [Audience Manager](#aam)
 * [Experience Manager](#aem)
 * [!DNL Campaign](#ac)
@@ -128,7 +128,7 @@ Releasedatum: **12. März 2020**
 Neue Funktionen und Fehlerbehebungen in Adobe Analytics:
 
 * [Neue Funktionen, Verbesserungen und Fehlerbehebungen in Adobe Analytics](#aa-features)
-* [Wichtige Hinweise für Analytics-Administratoren](#aa-notices)  (Aktualisiert am 27. März 2020)
+* [Wichtige Hinweise für Analytics-Administratoren](#aa-notices)  (Aktualisiert am 7. April 2020)
 * [AppMeasurement](#appm)
 
 Die Produktdokumentation finden Sie auf der [Startseite der Adobe Analytics-Hilfe](https://docs.adobe.com/content/help/de-DE/analytics/landing/home.html).
@@ -153,6 +153,7 @@ Die Produktdokumentation finden Sie auf der [Startseite der Adobe Analytics-Hilf
 
 | Hinweis | Hinzugefügt     oder aktualisiert am | Beschreibung |
 | -----------| ---------- | ---------- |
+| Änderung der Berechnung von Einstiegen/Ausstiegen in Workspace | 7. April 2020 | In Analyse Workspace haben wir seit März 2020 die Interaktion des Werts &quot;Keine&quot;mit Einstiegen/Ausstiegen geändert. Da Sie jetzt &quot;Nones&quot;in Analyse Workspace aktivieren und deaktivieren können, wird &quot;Keine&quot;nach dem Ein- oder Ausstieg angewendet, während sie (bei eVars) zuvor angewendet wurde. Angenommen, der erste Treffer eines Besuchs hat keinen Wert für eVarx, der zweite Hit jedoch. In Reports &amp; Analysen wird der Eintrag als &quot;Nicht angegeben&quot;angezeigt, in Analyse Workspace wird er jedoch als Wert beim zweiten Treffer angezeigt. |
 | Ende der **[!UICONTROL Konversionsebenen]**-Einstellung | 3. März 2020 | Die nicht funktionierende Einstellung der [Konversionsebene](https://docs.adobe.com/content/help/de-DE/analytics/admin/admin-tools/general-acct-settings-admin.html) unter **[!UICONTROL Admin Tools] > [!UICONTROL Report Suites] > [!UICONTROL Allgemeine Kontoeinstellungen]** wird am 12. März 2020 aus der Benutzeroberfläche entfernt. |
 | Ende des **[!UICONTROL Dashboard-Archivs]** | 27. März 2020 | Ab Oktober 2020 ist die Einstellung **[!UICONTROL Archiv anzeigen]** unter **[!UICONTROL Dashboards verwalten]** in [!UICONTROL Reports &amp; Analytics] nicht mehr verfügbar. |
 | Ende der Unterstützung für TLS 1.1 | 3. Oktober 2019 | Ab dem 31. März 2020 unterstützt Adobe Analytics TLS 1.1 nicht mehr. Diese Änderung ist Teil unserer laufenden Bemühungen, höchstmögliche Sicherheit von Kundendaten zu gewährleisten. |
