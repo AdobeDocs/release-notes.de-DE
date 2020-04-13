@@ -5,7 +5,7 @@ doc-type: release notes
 last-update: March 2020
 author: mfrei
 translation-type: tm+mt
-source-git-commit: 3e124e820e573047298f878cf8cb2bf2a6b7f7dd
+source-git-commit: 87f42aedd2b8c987b092c614468d536fa48ae724
 
 ---
 
@@ -165,6 +165,10 @@ Eine Produktdokumentation finden Sie in der Hilfe zu [Adobe Analytics](https://d
 ## ![Symbol](/assets/audience-manager.png) Audience Manager {#aam}
 
 Neue Funktionen und Fehlerbehebungen im Adobe Audience Manager verfügbar:
+
+| Funktion | Beschreibung |
+| -----------| ---------- |  
+| [Häufigste Probleme beim Kundensupport](../support-issues/support-issues-overview.md) | Wir haben einen neuen Abschnitt zu unserem Dokumentationsportal hinzugefügt, der Antworten auf die häufigsten Fragen enthält, die unser Kundensupport-Team erhalten hat. |
 
 * Es wurde ein Fehler behoben, der dazu führte, dass die Schaltflächen &quot; [!UICONTROL Duplikat-Test] und [!UICONTROL Duplikat-Zuordnungsvorlage] &quot;im Register &quot; [!UICONTROL Audience&quot;nicht funktionierten] . (AAM-53388)
 * Es wurde ein Fehler behoben, der dazu führte, dass die [!UICONTROL Übereinstimmungsrate] - und [!UICONTROL Segmentadressierbare Audiencen] als 0 angezeigt wurden, wenn ein Ziel für den Export von UUIDs konfiguriert wurde. Die [!UICONTROL Übereinstimmungsrate] - und [!UICONTROL Segmentadressierbare Audiencen] werden jetzt als 100 % angezeigt. (AAM-51615)
