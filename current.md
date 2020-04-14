@@ -5,7 +5,7 @@ doc-type: release notes
 last-update: March 2020
 author: mfrei
 translation-type: tm+mt
-source-git-commit: 1cbba06183a2cd2897303e99dd7da89041a2d106
+source-git-commit: 26ff9349ed0c5dc19167e4d21c03f5261f802e73
 
 ---
 
@@ -181,8 +181,9 @@ Neue Funktionen und Fehlerbehebungen im Adobe Audience Manager verfügbar:
 
 | Funktion | Beschreibung |
 | -----------| ---------- |  
-| Häufigste Probleme beim Kundensupport | Wir haben einen neuen Abschnitt zu unserem Dokumentationsportal hinzugefügt, der Antworten auf die häufigsten Fragen enthält, die unser Kundensupport-Team erhalten hat. |
+| [Häufigste Probleme beim Kundensupport](https://docs.adobe.com/content/help/en/audience-manager/user-guide/top-support-issues/support-issues-overview.html) | Wir haben einen neuen Abschnitt zu unserem Dokumentationsportal hinzugefügt, der Antworten auf die häufigsten Fragen enthält, die unser Kundensupport-Team erhalten hat. |
 
+* Es wurde ein Fehler behoben, der zu ungenauem Berichte von [Addressable-Audiencen](https://docs.adobe.com/content/help/en/audience-manager/user-guide/features/addressable-audiences.html) für Segmente mit Mobilgeräte-IDs führte. Nach diesem Update werden möglicherweise mehr [adressierbare Audiencen](https://docs.adobe.com/content/help/en/audience-manager/user-guide/features/addressable-audiences.html)angezeigt.
 * Es wurde ein Fehler behoben, der dazu führte, dass die Schaltflächen &quot; [!UICONTROL Duplikat-Test] und [!UICONTROL Duplikat-Zuordnungsvorlage] &quot;im Register &quot; [!UICONTROL Audience&quot;nicht funktionierten] . (AAM-53388)
 * Es wurde ein Fehler behoben, der dazu führte, dass die [!UICONTROL Übereinstimmungsrate] - und [!UICONTROL Segmentadressierbare Audiencen] als 0 angezeigt wurden, wenn ein Ziel für den Export von UUIDs konfiguriert wurde. Die [!UICONTROL Übereinstimmungsrate] - und [!UICONTROL Segmentadressierbare Audiencen] werden jetzt als 100 % angezeigt. (AAM-51615)
 * Es wurde ein Problem behoben, bei dem Eigenschaftsnamen, die Sonderzeichen enthalten, zweimal HTML-kodiert wurden. (AAM-54001)
