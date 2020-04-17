@@ -5,7 +5,7 @@ doc-type: release notes
 last-update: March 2020
 author: mfrei
 translation-type: tm+mt
-source-git-commit: 8ae9a44aa90a578b681ec1449d65781d3e3b7b65
+source-git-commit: 16804e8f1eeb1d836b904c85a8c538077166242b
 
 ---
 
@@ -26,7 +26,7 @@ Neue Funktionen und Fehlerbehebungen in [!DNL Adobe Experience Cloud].
 
 **Veröffentlichungsdatum: 2020. April**
 
-(Das Datum der spezifischen Lösungsversion kann unterschiedlich sein.)
+(Die spezifischen Veröffentlichungsdaten können unterschiedlich sein.)
 
 * [Systemstatus von Adobe](#status)
 * [Experience Platform](#platform)
@@ -34,10 +34,10 @@ Neue Funktionen und Fehlerbehebungen in [!DNL Adobe Experience Cloud].
 * [Audience Manager](#aam)
 * [Experience Manager](#aem)
 * [!DNL Campaign](#ac)
-* [!DNL Target](https://docs.adobe.com/content/help/de-DE/target/using/release-notes/target-release-notes.html) (Links zur Hilfeseite der Lösung)
+* [!DNL Target](https://docs.adobe.com/content/help/de-DE/target/using/release-notes/target-release-notes.html) (Links zur Hilfeseite der Zielgruppe)
 * [!DNL Magento](#magento)
 * [!DNL Marketo](#marketo)
-* [!DNL Primetime](https://helpx.adobe.com/de/primetime/user-guide.html) (Links zur Hilfeseite der Lösung)
+* [!DNL Primetime](https://helpx.adobe.com/de/primetime/user-guide.html) (Links zur Primetime-Hilfeseite)
 
 Suchen Sie nach der Hilfeseite? Siehe die [Adobe Experience Cloud-Dokumentation](https://docs.adobe.com/content/help/de-DE/experience-cloud/user-guides/home.html).
 
@@ -71,9 +71,9 @@ Adobe aktualisiert die Domäne und die Kopfzeile der Benutzeroberfläche, um Ihr
 
 Zu den Aktualisierungen gehören:
 
-* Neue URLs für Lösungen: `experience.adobe.com/<application name>`:
+* Neue Anwendungs-URLs: `experience.adobe.com/<application name>`:
    * Dieses URL-Muster wird schließlich von allen Produkten übernommen. Im Laufe des Monats werden neue URLs hinzugefügt werden.
-   * Browserunterstützung: Unterstützte Browser sind [!DNL Microsoft Edge], [!DNL Google Chrome], [!DNL Firefox], [!DNL Safari] und [!DNL Opera] (neueste Versionen). **Hinweis:** Obwohl die Experience Cloud-Oberfläche diese Browser unterstützt, unterstützen einzelne Lösungen möglicherweise nicht alle Browser. ([Analytics](https://docs.adobe.com/content/help/de-DE/analytics/admin/sys-reqs.html) unterstützt beispielsweise nicht [!DNL Opera] und [Target](https://docs.adobe.com/help/de-DE/target/using/implement-target/before-implement/supported-browsers.html) unterstützt nicht [!DNL Safari].)
+   * Browserunterstützung: Unterstützte Browser sind [!DNL Microsoft Edge], [!DNL Google Chrome], [!DNL Firefox], [!DNL Safari] und [!DNL Opera] (neueste Versionen). **Hinweis:** Obwohl die Experience Cloud-Oberfläche diese Browser unterstützt, unterstützen einzelne Anwendungen möglicherweise nicht jeden Browser. ([Analytics](https://docs.adobe.com/content/help/de-DE/analytics/admin/sys-reqs.html) unterstützt beispielsweise nicht [!DNL Opera] und [Target](https://docs.adobe.com/help/de-DE/target/using/implement-target/before-implement/supported-browsers.html) unterstützt nicht [!DNL Safari].)
    * (Nur [!DNL Safari]) Die Domänenänderung kann bei [!DNL Safari] zu Cookie-Problemen führen. Wenn Sie in den Datenschutzvoreinstellungen von [!DNL Safari] die Option _Prevent cross-site tracking_ (Website-übergreifendes Tracking verhindern) deaktivieren, werden domänenübergreifende Cookies (und alle Site-übergreifenden Ereignisse) aktiviert, sodass Experience Cloud in dieser neuen Domäne funktionieren kann.
 * Einfacherer Wechsel zwischen Ihren Organisationen oder zu einer anderen Anwendung.
 * Verbesserte Produkthilfe: [!UICONTROL Experience League] ist in das Produkt integriert, sodass bei einer Hilfesuche auch Ergebnisse aus Community-Foren und Videos berücksichtigt werden. Diese Änderung vereinfacht den Zugriff auf weitere Inhalte und hilft Ihnen, Experience Cloud optimal zu nutzen. Zusätzlich können Sie unter **[!UICONTROL Hilfe]** > **[!UICONTROL Feedback]** Probleme melden oder Ihre Ideen mit Adobe teilen.
@@ -194,7 +194,7 @@ Neue Funktionen und Fehlerbehebungen im Adobe Audience Manager verfügbar:
 * Es wurde ein Fehler behoben, der dazu führte, dass die Schaltflächen &quot; [!UICONTROL Duplikat-Test] und [!UICONTROL Duplikat-Zuordnungsvorlage] &quot;im Register &quot; [!UICONTROL Audience&quot;nicht funktionierten] . (AAM-53388)
 * Es wurde ein Fehler behoben, der dazu führte, dass die [!UICONTROL Übereinstimmungsrate] - und [!UICONTROL Segmentadressierbare Audiencen] als 0 angezeigt wurden, wenn ein Ziel für den Export von UUIDs konfiguriert wurde. Die [!UICONTROL Übereinstimmungsrate] - und [!UICONTROL Segmentadressierbare Audiencen] werden jetzt als 100 % angezeigt. (AAM-51615)
 * Es wurde ein Problem behoben, bei dem Eigenschaftsnamen, die Sonderzeichen enthalten, zweimal HTML-kodiert wurden. (AAM-54001)
-* Es wurde ein Fehler behoben, der einige Benutzer daran hinderte, über die [!DNL Audience Manager] Benutzeroberfläche zu anderen Adobe Experience Cloud-Lösungen zu wechseln. (AAM-52917)
+* Es wurde ein Fehler behoben, der einige Benutzer daran hinderte, über die [!DNL Audience Manager] Benutzeroberfläche zu anderen Adobe Experience Cloud-Anwendungen zu wechseln. (AAM-52917)
 * Es wurde ein Problem behoben, das einige Benutzer daran hinderte, eine SHA256-Datenquelle für bevölkerungsbasierte Ziele zu erstellen. (AAM-53525)
 * Mehrere Verbesserungen der Barrierefreiheit auf der Benutzeroberfläche. (AAM-48986, AAM-49009, AAM-48984, AAM-48939, AAM-48940, AAM-48964, AAM-49032, AAM-49360)
 
@@ -307,7 +307,7 @@ Magento-Versionshinweise finden Sie unter:
 
 ## ![Symbol](/assets/marketo.png) [!DNL Marketo] {#marketo}
 
-[!DNL Marketo Engage] ist eine Komplettlösung für das Lead-Management. B2B-Marketer können damit Kundenerlebnisse transformieren, indem sie in allen Phasen komplexer Customer Journeys Interaktionen ermöglichen.
+[!DNL Marketo Engage] ist eine komplette Anwendung für Interessentenmanagement und B2B-Marketingfachleute, die Kundenerlebnisse verändern möchten, indem sie sich über alle Phasen komplexer Kaufreisen hinweg engagieren.
 
 ### Aktualisierungen von Core Marketo Engage
 
