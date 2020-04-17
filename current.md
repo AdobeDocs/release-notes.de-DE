@@ -5,7 +5,7 @@ doc-type: release notes
 last-update: March 2020
 author: mfrei
 translation-type: tm+mt
-source-git-commit: 6bd8e1af2afa691e6796769ad1f8cb5f29433d8e
+source-git-commit: 8b516bbbc35cd7cbf450ac423b05ea69ded4b091
 
 ---
 
@@ -29,7 +29,7 @@ Neue Funktionen und Fehlerbehebungen in [!DNL Adobe Experience Cloud].
 (Das Datum der spezifischen Lösungsversion kann unterschiedlich sein.)
 
 * [Systemstatus von Adobe](#status)
-* [Benutzeroberfläche und Core Services von Experience Cloud](#ecloud)
+* [Experience Cloud-Benutzeroberfläche](#ecloud)
 * [Experience Platform](#platform)
 * [!DNL Analytics](#analytics) **(Änderung des Releasedatums - siehe Update am 15. April)**
 * [Audience Manager](#aam)
@@ -57,9 +57,9 @@ Suchen Sie nach der Hilfeseite? Siehe die [Adobe Experience Cloud-Dokumentation]
 | Personalisierte Abonnement basierend auf Berechtigungen | <ul><li>Vorab ausgewählte Abonnement-Empfehlungen basierend auf den DX-Berechtigungen des Benutzers.</li><li>Empfohlene Abonnement werden zur schnellen Visualisierung oben in der Liste hervorgehoben.</li><li>Die erhaltenen E-Mail-Benachrichtigungen beziehen sich auf die Produktberechtigungen des Benutzers.</li></ul> |
 | Einfacheres Management von Abonnements | <ul><li>**[!UICONTROL Abonnement]** verwalten verfügt über eine neue Benutzererfahrung, um Produkt- und Ereignis-Abonnement zu verwalten.</li><li>Neue Option zur separaten Ansicht und Bearbeitung von Produkt- und Ereignis-Abonnements.</li><li>Mit der Option &quot; **[!UICONTROL Löschen]** &quot;können Sie sich von einem Produkt- oder Ereignis-Abonnement abmelden.</li><li>Die Option Alle **[!UICONTROL abonnieren]** mit einem Klick ist für die Abonnement verfügbar.</li><li>UX-Unterstützung ist für Web-/Mobile-/Tablet-Oberflächen und lokale Anpassung in 19 Sprachen verfügbar.</li></ul> |
 
-## ![Symbol](/assets/ec_appicon_24.png) Benutzeroberfläche und Core Services von Experience Cloud {#ecloud}
+## ![Icon](/assets/ec_appicon_24.png) Experience Cloud-Benutzeroberfläche {#ecloud}
 
-Neue Funktionen und Fehlerbehebungen in der Benutzeroberfläche der Experience Cloud, einschließlich Verwaltung und Hauptdienste (Kundenattribute, Audiencen, Auslöser, Cookies usw.):
+Neue Funktionen und Fehlerbehebungen in der Benutzeroberfläche der Experience Cloud, einschließlich Verwaltung und Dienste wie Kundenattribute, Audiencen, Auslöser usw.):
 
 * Die Seite &quot;Experience Cloud- [!UICONTROL Feed] &quot;wurde nicht mehr unterstützt. (EXC-8505)
 * Die Experience Cloud-Anmeldeseite wurde aktualisiert, um neue Branding-Elemente widerzuspiegeln. (EXC-10747)
