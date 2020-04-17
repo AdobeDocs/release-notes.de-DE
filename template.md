@@ -5,7 +5,7 @@ doc-type: release notes
 last-update: March 2020
 author: mfrei
 translation-type: tm+mt
-source-git-commit: 78a2b7841c4b404cc96b912cef2a3702c7e29ec8
+source-git-commit: 8ae9a44aa90a578b681ec1449d65781d3e3b7b65
 
 ---
 
@@ -27,20 +27,20 @@ Neue Funktionen und Fehlerbehebungen in Adobe Experience Cloud.
 **Releasedatum: 2020**
 
 * [Systemstatus von Adobe](#status)
-* [Experience Cloud und [!UICONTROL Hauptdienste]](#ecloud)
+* [Experience Cloud-Benutzeroberfläche](#ecloud)
 * [Experience Platform](#platform)
 * [Analytics](#analytics)
 * [Audience Manager](#aam)
 * [Experience Manager](#aem)
 * [Kampagne](#ac)
-* [Zielgruppe](https://docs.adobe.com/content/help/en/target/using/release-notes/target-release-notes.html) (Links zur Hilfe zur Lösung)
+* [Zielgruppe](https://docs.adobe.com/content/help/de-DE/target/using/release-notes/target-release-notes.html) (Links zur Hilfe zur Lösung)
 * [Advertising Cloud](#adcloud)
 * [Magento](#magento)
 * [Marketo](#marketo)
-* [Primetime](https://helpx.adobe.com/primetime/user-guide.html) (Links zur Lösungshilfe)
+* [Primetime](https://helpx.adobe.com/de/primetime/user-guide.html) (Links zur Lösungshilfe)
 * [Neue Dokumentationen und Tutorials](#selfhelp)
 
-Suchen Sie nach der Hilfeseite? Siehe die [Adobe Experience Cloud-Dokumentation](https://docs.adobe.com/content/help/en/experience-cloud/user-guides/home.html).
+Suchen Sie nach der Hilfeseite? Siehe die [Adobe Experience Cloud-Dokumentation](https://docs.adobe.com/content/help/de-DE/experience-cloud/user-guides/home.html).
 
 ## Systemstatus von Adobe {#status}
 
@@ -48,7 +48,7 @@ Funktionen und Fehlerbehebungen
 
 Siehe [Systemstatus von Adobe](https://status.adobe.com/).
 
-## Experience Cloud and [!UICONTROL core services]{#ecloud}
+## Experience Cloud-Benutzeroberfläche{#ecloud}
 
 Neue Funktionen und Fehlerkorrekturen in der Benutzeroberfläche von Experience Cloud, einschließlich Verwaltung und Core Services (Kundenattribute, Zielgruppen, Auslöser, Cookies usw.).
 
@@ -59,34 +59,36 @@ Neue Funktionen und Fehlerkorrekturen in der Benutzeroberfläche von Experience 
 
 Funktionen und Fehlerbehebungen
 
-Die Produktdokumentation finden Sie unter [Experience Cloud und Core Services](https://docs.adobe.com/content/help/en/core-services/interface/experience-cloud.html)
+For product documentation, see [Experience Cloud interface](https://docs.adobe.com/content/help/de-DE/core-services/interface/experience-cloud.html)
 
 ### Administration und Entwickler {#admin}
 
 Funktionen und Fehlerbehebungen
 
-Die Produktdokumentation finden Sie im Abschnitt zur [Verwaltung von Benutzern und Produkten](https://docs.adobe.com/content/help/en/core-services/interface/manage-users-and-products/admin-getting-started.html).
+Die Produktdokumentation finden Sie im Abschnitt zur [Verwaltung von Benutzern und Produkten](https://docs.adobe.com/content/help/de-DE/core-services/interface/manage-users-and-products/admin-getting-started.html).
 
 ## [!UICONTROL Experience Platform] {#platform}
 
-Release notes for the [!UICONTROL Experience Platform,] [!UICONTROL Experience Platform Launch,] [!UICONTROL Identity Service,] [!UICONTROL Journey Orchestration,] [!UICONTROL Mobile Services,] and security bulletins.
+## ![Symbol](/assets/experience_platform_appicon_24.png) Experience Platform {#platform}
+
+Versionshinweise für die [!DNL Experience Platform,] folgenden [!DNL Experience Platform Launch,] Reisebegleiter [!UICONTROL ,]Angebote [!UICONTROL ,]Personen [!UICONTROL ,]Orte ,Mobile Services, Sicherheitsbulletins und Sicherheitsbulletins.
 
 * [Experience Cloud ID-Dienst](#ecid)
 * [Experience Platform – Versionshinweise](https://www.adobe.io/apis/experienceplatform/home/services/release-notes.html#!end-user/markdown/release-notes/release-notes.md)
 * [Experience Platform Launch](#launch)
 * [Journey-Orchestrierung](#journey)
 * [Mobile Services und Mobile SDKs](#mobile)
-* [Sicherheitsbulletins und -hinweise](https://helpx.adobe.com/security.html)  (Alle Adobe-Produkte)
+* [Sicherheitsbulletins und -hinweise](https://helpx.adobe.com/de/security.html) (alle Adobe-Produkte)
 
 ### [!UICONTROL Experience Cloud ID-Dienst] {#ecid}
 
 Funktionen und Fehlerbehebungen
 
-Informationen zur Produktdokumentation finden Sie unter [Experience Cloud ID-Dienst](https://marketing.adobe.com/resources/help/en_US/mcvid/).
+Informationen zur Produktdokumentation finden Sie unter [Experience Cloud ID-Dienst](https://marketing.adobe.com/resources/help/de_DE/mcvid/).
 
 ### [!UICONTROL Experience Platform Launch] {#launch}
 
-Versionshinweise und die Produktdokumentation finden Sie unter [Experience Platform Launch](https://docs.adobe.com/content/help/en/launch/using/intro/release-notes/current.html).
+Versionshinweise und die Produktdokumentation finden Sie unter [Experience Platform Launch](https://docs.adobe.com/content/help/de-DE/launch/using/intro/release-notes/current.html).
 
 ### [!UICONTROL Journey-Orchestrierung] {#journey}
 
@@ -94,7 +96,7 @@ Using Adobe [!UICONTROL Experience Platform,] orchestrate individual customer jo
 
 #### Zusätzliche Ressourcen für [!UICONTROL die Reiseorganisation]
 
-[Dokumentation](https://docs.adobe.com/content/help/en/journeys/using/journey-orchestration-home.html) – [Versionshinweise](https://docs.adobe.com/content/help/en/journeys/using/release-notes/release-notes.html) – [Videoanleitungen](https://docs.adobe.com/content/help/en/platform-learn/tutorials/journey-orchestration/introduction.html)
+[Dokumentation](https://docs.adobe.com/content/help/de-DE/journeys/using/journey-orchestration-home.html) – [Versionshinweise](https://docs.adobe.com/content/help/de-DE/journeys/using/release-notes/release-notes.html) – [Videoanleitungen](https://docs.adobe.com/content/help/en/platform-learn/tutorials/journey-orchestration/introduction.html)
 
 ### [!UICONTROL Mobile Services und Mobile SDK] {#mobile}
 
@@ -109,9 +111,9 @@ Beschreibung der neuen Funktionen. Verwendung von Überschriften oder Tabellen.
 * Fehlerbehebung
 * Fehlerbehebung
 
-Informationen zur Produktdokumentation finden Sie unter [Mobile Services](https://docs.adobe.com/content/help/en/mobile-services/using/home.html).
+Informationen zur Produktdokumentation finden Sie unter [Mobile Services](https://docs.adobe.com/content/help/de-DE/mobile-services/using/home.html).
 
-Weitere Informationen zu den Mobile-SDKs finden Sie unter [Android-SDK 4.x für Experience Cloud-Lösungen](https://marketing.adobe.com/resources/help/en_US/mobile/android/) und [iOS-SDK 4.x für Experience Cloud-Lösungen](https://docs.adobe.com/content/help/en/mobile-services/ios/overview.html).
+Weitere Informationen zu den Mobile-SDKs finden Sie unter [Android-SDK 4.x für Experience Cloud-Lösungen](https://marketing.adobe.com/resources/help/de_DE/mobile/android/) und [iOS-SDK 4.x für Experience Cloud-Lösungen](https://docs.adobe.com/content/help/de-DE/mobile-services/ios/overview.html).
 
 ## Analytics {#analytics}
 
@@ -121,7 +123,7 @@ Neue Funktionen und Fehlerbehebungen in Adobe Analytics:
 * [Media Analytics SDK für iOS und Android (früher VHL SDK)](#aa-va)
 * [Wichtige Hinweise für Analytics-Administratoren](analytics-important-notices.md)
 
-Die Produktdokumentation finden Sie auf der [Startseite der Adobe Analytics-Hilfe](https://docs.adobe.com/content/help/en/analytics/landing/home.html).
+Die Produktdokumentation finden Sie auf der [Startseite der Adobe Analytics-Hilfe](https://docs.adobe.com/content/help/de-DE/analytics/landing/home.html).
 
 ### Neue Funktionen in Adobe Analytics {#aa-features}
 
@@ -158,7 +160,7 @@ Die neuesten Versionsinformationen finden Sie in den [Data Workbench-Versionshin
 * Fehlerbehebung
 * Fehlerbehebung
 
-In der [Versionshistorie zu AppMeasurement](https://docs.adobe.com/content/help/en/analytics/implementation/appmeasurement-release-notes/c-release-notes-mjs.html) finden Sie Informationen zu den verschiedenen Versionen von AppMeasurement auf den folgenden Plattformen:
+In der [Versionshistorie zu AppMeasurement](https://docs.adobe.com/content/help/de-DE/analytics/implementation/appmeasurement-updates.html) finden Sie Informationen zu den verschiedenen Versionen von AppMeasurement auf den folgenden Plattformen:
 
 * [!DNL JavaScript]
 * [!DNL iOS]
@@ -188,7 +190,7 @@ In der [Versionshistorie zu AppMeasurement](https://docs.adobe.com/content/help/
 
 ## Experience Manager {#aem}
 
-Neue Funktionen, Fehlerbehebungen und Aktualisierungen in Adobe Experience Manager (AEM). Adobe empfiehlt Kunden mit lokalen Implementierungen, die aktuellen Patches zu implementieren, um mehr Stabilität, Sicherheit und Leistung zu erzielen.
+Neue Funktionen, Fehlerbehebungen und Aktualisierungen in Adobe Experience Manager (AEM). Adobe empfiehlt Kunden mit lokalen Implementierungen, die aktuellen Patches zu implementieren, um mehr Stabilität, Sicherheit und Leistung zu erzielen.
 
 ### Produktversionen
 
@@ -219,13 +221,13 @@ Die folgenden AEM-Dokumentationssätze wurden in eine neue kollaborative Plattfo
 
 ### Zusätzliche Ressourcen
 
-* [AEM 6.4 Schulung und Support – Startseite](https://helpx.adobe.com/support/experience-manager/6-4.html)
-* [AEM 6.3 Schulung und Support – Startseite](https://helpx.adobe.com/support/experience-manager/6-3.html)
-* [AEM 6.2 Schulung und Support – Startseite](https://helpx.adobe.com/support/experience-manager/6-2.html)
-* [Cloud Manager-Benutzerhandbuch](https://helpx.adobe.com/experience-manager/cloud-manager/user-guide.html)
-* [Ältere Versionen der AEM-Dokumentation](https://helpx.adobe.com/experience-manager/aem-previous-versions.html)
+* [AEM 6.4 Schulung und Support – Startseite](https://helpx.adobe.com/de/support/experience-manager/6-4.html)
+* [AEM 6.3 Schulung und Support – Startseite](https://helpx.adobe.com/de/support/experience-manager/6-3.html)
+* [AEM 6.2 Schulung und Support – Startseite](https://helpx.adobe.com/de/support/experience-manager/6-2.html)
+* [Cloud Manager-Benutzerhandbuch](https://helpx.adobe.com/de/experience-manager/cloud-manager/user-guide.html)
+* [Ältere Versionen der AEM-Dokumentation](https://helpx.adobe.com/de/experience-manager/aem-previous-versions.html)
 * [Scene7 Publishing System – Versionshinweise](https://marketing.adobe.com/resources/help/en_US/s7/release_notes/index.html)
-* [Livefyre-Versionshinweise](https://marketing.adobe.com/resources/help/en_US/livefyre/c_rn.html)
+* [Livefyre-Versionshinweise](https://docs.adobe.com/content/help/de-DE/livefyre/using/release-notes/c-rn.html)
 
 ### [!DNL Livefyre] {#livefyre}
 
@@ -263,9 +265,9 @@ Adobe Campaign bietet die Möglichkeit, direkte Nachrichten über Online- und O
 
 ### Zusätzliche Ressourcen
 
-* Adobe Campaign Standard: [Dokumentation](https://helpx.adobe.com/support/campaign/standard.html) – [Versionshinweise](https://docs.adobe.com/content/help/en/campaign-standard/using/release-notes/release-notes.html) – [Videoanleitungen](https://docs.adobe.com/content/help/en/campaign-learn/campaign-standard-tutorials/overview.html)  – [Versionsplanung](https://helpx.adobe.com/campaign/kb/acs-release-planning.html)
-* Adobe Campaign Classic: [Dokumentation](https://helpx.adobe.com/support/campaign/classic.html) – [Versionshinweise](https://docs.campaign.adobe.com/doc/AC/en/RN.html) – [Videoanleitungen](https://docs.adobe.com/content/help/en/campaign-learn/campaign-classic-tutorials/overview.html)
-* Control Panel von Adobe Campaign: [Dokumentation](https://docs.adobe.com/content/help/en/control-panel/using/control-panel-home.html) – [Versionshinweise](https://docs.adobe.com/content/help/en/control-panel/using/release-notes.html)
+* Adobe Campaign Standard: [Dokumentation](https://helpx.adobe.com/de/support/campaign/standard.html) – [Versionshinweise](https://docs.adobe.com/content/help/de-DE/campaign-standard/using/release-notes/release-notes.html) – [Videoanleitungen](https://docs.adobe.com/content/help/en/campaign-learn/campaign-standard-tutorials/overview.html) – [Versionsplanung](https://helpx.adobe.com/de/campaign/kb/acs-release-planning.html)
+* Adobe Campaign Classic: [Dokumentation](https://helpx.adobe.com/de/support/campaign/classic.html) – [Versionshinweise](https://docs.campaign.adobe.com/doc/AC/de-DE/RN.html) – [Videoanleitungen](https://docs.adobe.com/content/help/en/campaign-learn/campaign-classic-tutorials/overview.html)
+* Control Panel von Adobe Campaign: [Dokumentation](https://docs.adobe.com/content/help/de-DE/control-panel/using/control-panel-home.html) – [Versionshinweise](https://docs.adobe.com/content/help/de-DE/control-panel/using/release-notes.html)
 
 ## Advertising Cloud {#adcloud}
 
@@ -359,7 +361,7 @@ Neue und aktuelle Artikel und Videos zur Selbsthilfe. <!--`https://jira.corp.ado
 | Adobe Analytics | Video – [Adobe Sensei und Adobe Analytics – Erweiterte Version](https://docs.adobe.com/content/help/en/analytics-learn/tutorials/intro-to-analytics/what-can-aa-do-for-me/adobe-sensei-and-adobe-analytics.html) | Ansicht der wichtigsten Funktionen in Adobe Analytics auf Basis von Adobe [!DNL Sensei,] einschließlich [!UICONTROL Anomalieerkennung,] [!UICONTROL Beitragsanalyse,] [!UICONTROL intelligenter Warnhinweise,] [!UICONTROL Clustering,] [!UICONTROL Segment-IQ] und [!UICONTROL Propensity Modelling.] |
 | Adobe Analytics | Video – [Wie Adobe Analysis Workspace Ihr Unternehmen verändern kann](https://docs.adobe.com/content/help/en/analytics-learn/tutorials/intro-to-analytics/what-can-aa-do-for-me/how-adobe-analysis-workspace-can-change-your-business.html) | Erfahren Sie, wie Sie Ad-hoc-Analysen, flexible Analysen, Kohortenanalysen und Falloutanalysen mithilfe von [!UICONTROL Analysis Workspace] durchführen können. Sie können die Arbeitsumgebung für Analysen auch für alle Mitarbeiter Ihres Unternehmens freigeben. Die Drag &amp; Drop-Funktion ermöglicht es jedem, die Daten einfach zu analysieren und schnell Einblicke zu erhalten. |
 | Adobe Analytics | Video – [Anwendungsfall: Das Home Depot wird durch Customer Experience Management innovativ](https://docs.adobe.com/content/help/en/analytics-learn/tutorials/intro-to-analytics/what-can-aa-do-for-me/the-home-depot-innovates-with-customer-experience-management.html) | Erfahren Sie, wie [!DNL Home Depot] mit Adobe-Lösungen ein personalisiertes und benutzerspezifisches Einkaufserlebnis und dadurch Markenloyalität und Kundenzufriedenheit schafft. |
-| Adobe Analytics | Präsentation – [Informationen zur Customer Journey-Analyse](https://docs.adobe.com/content/help/en/platform-learn/tutorials/cja/understanding-customer-journey-analytics.html) | Erfahren Sie, wie Sie mit [!UICONTROL Adobe Customer Journey Analytics], einer Anwendung auf der Basis von [!DNL Adobe Experience Platform], [!UICONTROL Analysis Workspace] in die Experience Platform integrieren können. Diese Funktion ermöglicht mehrkanalige Analysen aller Ihrer [!DNL Adobe Experience Platform]-Datensätze. |
+| Adobe Analytics | Präsentation – [Informationen zur Customer Journey Analytics](https://docs.adobe.com/content/help/en/platform-learn/tutorials/cja/understanding-customer-journey-analytics.html) | Erfahren Sie, wie Sie mit [!UICONTROL Adobe Customer Journey Analytics], einer Anwendung auf der Basis von [!DNL Adobe Experience Platform], [!UICONTROL Analysis Workspace] in die Experience Platform integrieren können. Diese Funktion ermöglicht mehrkanalige Analysen aller Ihrer [!DNL Adobe Experience Platform]-Datensätze. |
 | Adobe Analytics | Video – [Kanalgewichtung in CJA](https://docs.adobe.com/content/help/en/platform-learn/tutorials/cja/cross-channel-attribution-in-customer-journey-analytics.html) | Erfahren Sie, wie Sie mithilfe von Visualisierungen die Kanalgewichtung in [!UICONTROL Customer Journey Analytics] anzeigen können. |
 | Adobe Analytics | Artikel – [Kundentipps zur Fortführung Ihrer Adobe Analytics-Lernreise](https://docs.adobe.com/content/help/en/analytics-learn/tutorials/analysis-workspace/tips-and-tricks/customer-tips-for-continuing-your-adobe-analytics-learning-journey.html) | Treffen Sie drei Adobe-Kunden, die Ihnen Tipps und Tricks zeigen, wie Sie Adobe Analytics optimal nutzen können. |
 | Adobe Analytics | Video – [Erstellen von kanalübergreifenden Visualisierungen in CJA](https://docs.adobe.com/content/help/en/platform-learn/tutorials/cja/creating-cross-channel-visualizations-in-customer-journey-analytics.html) | Erfahren Sie, wie Sie mit [!UICONTROL Customer Journey Analytics] Visualisierungen erstellen können, die Daten aus mehreren Datensätzen über mehrere Kanal hinweg enthalten, einschließlich der Zusammenführung von Besucherdaten. |
