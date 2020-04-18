@@ -5,7 +5,7 @@ doc-type: release notes
 last-update: March 2020
 author: mfrei
 translation-type: tm+mt
-source-git-commit: 16804e8f1eeb1d836b904c85a8c538077166242b
+source-git-commit: 14d29e8e2baf7f09929353acbb71466eee3b0de2
 
 ---
 
@@ -15,10 +15,6 @@ source-git-commit: 16804e8f1eeb1d836b904c85a8c538077166242b
 ![Banner](/assets/experience-cloud-banner-3.png)
 
 Neue Funktionen und Fehlerbehebungen in [!DNL Adobe Experience Cloud].
-
->[!IMPORTANT]
->
->Diese Seite enthält Inhalte einer Vorabversion und kann vor der geplanten Veröffentlichung der Version geändert werden.
 
 >[!NOTE]
 >
