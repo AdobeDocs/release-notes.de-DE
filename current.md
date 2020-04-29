@@ -4,8 +4,8 @@ description: Vorlage für Experience Cloud-Versionshinweise
 doc-type: release notes
 last-update: March 2020
 author: mfrei
-translation-type: ht
-source-git-commit: 3a66c0ee04a336a702ea9ff502a0f2ce6c5b2109
+translation-type: tm+mt
+source-git-commit: bdd987971b9bb9afbc97847642c5d797f122e67d
 
 ---
 
@@ -22,11 +22,13 @@ Neue Funktionen und Fehlerbehebungen in [!DNL Adobe Experience Cloud].
 
 **Veröffentlichungsdatum: 2020. April**
 
+Neueste Aktualisierung: 29. **April 2020**
+
 (Die einzelnen Veröffentlichungsdaten können variieren.)
 
 * [Systemstatus von Adobe](#status)
 * [Experience Platform](#platform)
-* [!DNL Analytics](#analytics) **(Aktualisiert am 16. April)**
+* [!DNL Analytics](#analytics) **(Aktualisiert am 29. April)**
 * [Audience Manager](#aam)
 * [Experience Manager](#aem)
 * [!DNL Campaign](#ac)
@@ -123,6 +125,7 @@ Unity 4.19.0 (10. März 2020):
 
 | Funktion | Beschreibung |
 | -----------| ---------- |
+| Data Workbench 6.74 (**Update 4/29/2020**) | Aktualisierung der IMS-Zertifikatanalyse für Identitätsverwaltungsdienste (Identity Management Service) bei der Serverimplementierung. Dieses Update erweitert die Analyse von der Zeichenfolgenübereinstimmung auf den regulären Ausdruck, einschließlich der Möglichkeit, Zertifikate mit alternativen Themennamen (SAN) zu verarbeiten. See [Data Workbench release notes](https://docs.adobe.com/content/help/en/data-workbench/using/release-notes/release-notes.html) for more information. |
 | [!UICONTROL Customer Journey Analytics]: Automatische Aufstockung von Datensätzen | Mit dieser neuen Option können Sie alle historischen Daten importieren und eine Verbindung mit [!UICONTROL Customer Journey Analytics] herstellen. [Mehr Infos](https://docs.adobe.com/content/help/de-DE/analytics-platform/using/cja-connections/create-connection.translate.html) |
 
 <!--### New features in Adobe Analytics {#aa-features}
