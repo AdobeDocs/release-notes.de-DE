@@ -5,9 +5,9 @@ doc-type: release notes
 last-update: May 2020
 author: mfrei
 translation-type: tm+mt
-source-git-commit: de8c5772f391dffac4458a736f0e0ea38c53c701
+source-git-commit: ea42901b975981a10d42b9681d494604c385018c
 workflow-type: tm+mt
-source-wordcount: '4764'
+source-wordcount: '4766'
 ht-degree: 39%
 
 ---
@@ -50,6 +50,8 @@ Benötigen Sie Hilfe? Besuchen Sie [[!DNL Adobe Experience League]](https://expe
 
 [!UICONTROL Der Adobe-Systemstatus] liefert detaillierte Informationen, Statusaktualisierungen und E-Mail-Benachrichtigungen zu Ausfällen, Störungen und Wartungsarbeiten von Adobe Cloud-Produkten und -Diensten. Weitere Informationen dazu erhalten Sie unter [status.adobe.com](https://status.adobe.com/).
 
+Releasedatum: **21. Mai 2020**
+
 **Neuigkeiten**
 
 * Mit Ihrer Adobe ID können Sie Ereignisbenachrichtigungen mit größerer Granularität bis hinunter zur Produktangebot- und Add-on-Ebene abonnieren. Damit Sie Ihr Abonnement schneller einrichten können, empfiehlt das Self-Abonnement-Verfahren jetzt eine Auswahl von Produkten und Angeboten, die auf Ihren Produktberechtigungen basieren. Dadurch wird die Anzahl der E-Mails, die Sie erhalten, verringert und relevantere Benachrichtigungen in Ihrem Posteingang bereitgestellt. Weitere Informationen erhalten Sie unter [status.adobe.com/subscriptions](https://status.adobe.com/proactive-notifications/subscriptions/edit).
@@ -58,7 +60,7 @@ Benötigen Sie Hilfe? Besuchen Sie [[!DNL Adobe Experience League]](https://expe
 
 | Funktion | Beschreibung |
 | -----------| ---------- |
-| Verbesserte Benutzererfahrung bei Abonnements und Benachrichtigungen | <ul><li>[!DNL Marketo Engage] Regionale Standorte werden nun basierend auf der Liste der ausgewählten Produktangebote gefiltert.</li><li>[!DNL Marketo Engage] E-Mail-Benachrichtigungen sind für die Benutzerregion, den Standort und die Voreinstellungen für die Umgebung relevant.</li></ul> |
+| Verbesserte Benutzererfahrung bei Abonnements und Benachrichtigungen | <ul><li>[!DNL Marketo Engage] Regionale Standorte werden nun basierend auf der Liste der ausgewählten Produktangebote gefiltert.</li><li>[!DNL Marketo Engage] E-Mail-Benachrichtigungen sind für die Benutzerregion, den Standort und die Umgebung relevant.</li></ul> |
 | Bestätigung des Ereignis-Abonnements | <ul><li>Sie können jetzt eine E-Mail-Bestätigung erhalten, wenn Sie laufende Updates für einzelne Ereignis abonnieren.</li></ul> |
 | Verbesserungen der Benutzerfreundlichkeit der globalen Navigation | <ul><li>Konsistente Benutzererfahrung mit `Adobe.com` im Navigationsmenü auf der obersten Navigationsebene.</li></ul> |
 
