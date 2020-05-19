@@ -5,9 +5,9 @@ doc-type: release notes
 last-update: May 2020
 author: mfrei
 translation-type: tm+mt
-source-git-commit: e10656f2a2d2180295c61b7aad9e75391e23ccbd
+source-git-commit: 99e67d659f3da76d0613629dfc7e7d853a9e1349
 workflow-type: tm+mt
-source-wordcount: '4800'
+source-wordcount: '4798'
 ht-degree: 39%
 
 ---
@@ -160,7 +160,7 @@ First-Party Domains Available in China RDC: Enables customers with a cn domain t
 | Analytics-Unterstützung für [!UICONTROL Adobe Experience Platform Edge Network] | Ermöglicht die Verwendung eines einzelnen Tags zum Senden von Daten an mehrere Adobe-Lösungen, z. B. Adobe Analytics, Adobe Zielgruppe, Adobe Audience Manager, Adobe Experience Platform Data Lake, Unified Profil und Experience Cloud ID Service. [Mehr Infos...](https://docs.adobe.com/content/help/de-DE/experience-platform/edge/home.html) |
 | [!UICONTROL Adobe Analytics-Dashboard] | [!UICONTROL Adobe Analytics-Dashboard] sind eine mobile App, mit der Benutzer jederzeit und überall auf Einblicke aus Adobe Analytics zugreifen können. Diese App ist für Führungskräfte gedacht, die unterwegs nach Schlüsselmetriken suchen. Es ermöglicht den Zugriff auf kuratierte, interaktive Scorecards und ist für iOS- und Android-Betriebssysteme verfügbar. [Mehr Infos...](https://docs.adobe.com/content/help/en/analytics/analyze/mobapp/home.html) |
 | [!UICONTROL Workspace][!UICONTROL : Freiformtabellen können automatisch in einem leeren Projekt erstellt werden.] | Previously, you could not drop components directly into a blank project or blank panel; you had to add a [!UICONTROL Freeform Table] first. You can now drop components directly into a blank project or panel, and a [!UICONTROL Freeform Table] is automatically built for you in a recommended format. Darüber hinaus wurden Verbesserungen daran vorgenommen, wie gemischte Komponententypen (wie Dimensionen und Metriken) behandelt werden, wenn sie zusammen in eine leere Freiformtabelle abgelegt werden. |
-| [!UICONTROL Adobe Analytics-Paket] zur Seite &quot; [!UICONTROL Funktionenzugriffsstufe] &quot;hinzugefügt | Sie können jetzt auf der Seite [!UICONTROL Admin] > Einstellungen für die [!UICONTROL Firma] > Zugriffsebene [!UICONTROL für] Funktionen Ansichten für das Adobe Analytics-Paket [!UICONTROL (SKU) erstellen, für das Ihre Firma berechtigt ist] . |
+| [!UICONTROL Adobe Analytics-Paket] zur Seite &quot; [!UICONTROL Funktionenzugriffsstufe] &quot;hinzugefügt | Sie können jetzt Ansichten darüber erstellen, für welches [!UICONTROL Adobe Analytics-Paket] (SKU) Ihre Firma unter **[!UICONTROL Admin]** > **[!UICONTROL Firma-Einstellungen]** > **[!UICONTROL Funktionenzugriffsstufe]** berechtigt ist. |
 
 #### Fehlerbehebungen in Adobe Analytics
 
