@@ -5,10 +5,10 @@ doc-type: release notes
 last-update: May 2020
 author: mfrei
 translation-type: tm+mt
-source-git-commit: 99e67d659f3da76d0613629dfc7e7d853a9e1349
+source-git-commit: 16d1b900c55d8e9674275c4113298a109de09df6
 workflow-type: tm+mt
-source-wordcount: '4798'
-ht-degree: 39%
+source-wordcount: '4811'
+ht-degree: 40%
 
 ---
 
@@ -97,6 +97,10 @@ Die folgenden Apps verwenden die neue Domäne &quot;experience.adobe.com&quot;:
 | Places Service | `experience.adobe.com/places` |
 | Softwareverteilung | `experience.adobe.com/downloads` |
 | Admin Tool (Beta) | `experience.adobe.com/admin` |
+
+>[!NOTE]
+>
+>**[!UICONTROL Pinnwand und Sammlungen]**, ein älterer Filter in der [!UICONTROL Marketing Cloud-Asset] -Auswahl, werden derzeit stillgelegt.
 
 ## ![Symbol](/assets/experience_platform_appicon_24.png) Experience Platform {#platform}
 
@@ -359,8 +363,8 @@ Adobe Campaign bietet die Möglichkeit, direkte Nachrichten über Online- und O
 
 | Funktion | Beschreibung |
 | -----------| ---------- |  
-| GPG-Schlüsselverwaltung | Installieren und/oder generieren Sie GPG-Schlüssel auf einer Marketing-Instanz, um von der Kampagne gesendete Daten zu verschlüsseln und eingehende Daten zu entschlüsseln. |
-| Zertifikatverwaltung für CNAME-Subdomänen | Über die Systemsteuerung können Sie jetzt die SSL-Zertifikate Ihrer Subdomänen erneuern, die mit der CNAME-Methode delegiert wurden. |
+| GPG-Schlüsselverwaltung | Installieren und/oder Generieren von GPG-Schlüsseln in einer Marketing-Instanz, um von Campaign gesendete Daten zu verschlüsseln und eingehende Daten zu entschlüsseln. |
+| Zertifikatverwaltung für CNAME-Subdomains | Das Control Panel ermöglicht es Ihnen jetzt, die SSL-Zertifikate Ihrer Subdomains zu erneuern, die mit der CNAME-Methode zugewiesen wurden. |
 
 ### Neue Kampagnenübungen
 
