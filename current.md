@@ -5,10 +5,10 @@ doc-type: release notes
 last-update: May 2020
 author: mfrei
 translation-type: tm+mt
-source-git-commit: c0a5d3cca0320f8459aeb4ee34bfd655d032c23c
+source-git-commit: 2a41fbc7e69c9c2a262c71e20808e6b672037c6a
 workflow-type: tm+mt
-source-wordcount: '4895'
-ht-degree: 39%
+source-wordcount: '5024'
+ht-degree: 38%
 
 ---
 
@@ -144,6 +144,7 @@ Mithilfe der Adobe Experience Platform können Sie individuelle Customer Journey
 * [Neue Funktionen in Customer Journey Analytics](#cust-journey)
 * [Neue Funktionen in Adobe Analytics](#aa-features)
 * [Wichtige Hinweise für Analytics-Administratoren](#aa-notices) (**aktualisiert am 21. Mai 2020**)
+* [Fehlerbehebungen](#aa-fixes) in Adobe Analytics (**Aktualisiert 21. Mai 2020**)
 * [AppMeasurement](#appm)
 * [Neue Analytics-Tutorials](#tutorials-analytics)
 
@@ -167,8 +168,10 @@ First-Party Domains Available in China RDC: Enables customers with a cn domain t
 | [!UICONTROL Adobe Analytics-Paket] zur Seite &quot; [!UICONTROL Funktionenzugriffsstufe] &quot;hinzugefügt | Sie können jetzt Ansichten darüber erstellen, für welches [!UICONTROL Adobe Analytics-Paket] (SKU) Ihre Firma unter **[!UICONTROL Admin]** > **[!UICONTROL Firma-Einstellungen]** > **[!UICONTROL Funktionenzugriffsstufe]** berechtigt ist. |
 | Verbesserungen der Zugänglichkeit | Das Adobe Analytics-Team hat verschiedene Verbesserungen an der Barrierefreiheit in Analyse Workspace vorgenommen, darunter verbesserte Tastaturnavigation, Farbkontrast und Unterstützung für Bildschirmlesehilfen. |
 
-#### Fehlerbehebungen in Adobe Analytics
+#### Fehlerbehebungen in Adobe Analytics (#aa-fixes)
 
+* Adobe hat die Metrik [!UICONTROL &quot;Besuchszeit] &quot;so geändert, dass sie &quot;keine&quot;enthält. Das bedeutet, dass wir unabhängig davon, ob die Benutzeroberfläche &quot;Ohne&quot;einschließen soll oder nicht, eine besondere Ausnahme machen, um &quot;Keine&quot;in der Berechnung der [!UICONTROL Besuchszeit] immer auszuschließen. Selbst wenn Sie einen Bericht konfiguriert haben, der die Metrik &quot; [!UICONTROL Besuchszeit] &quot;mit &quot;Keine einschließen&quot;enthält, wird daher immer die Besuchszeit für den Zeileneintrag &quot;Keine&quot;zurückgegeben. Beachten Sie, dass sich dadurch der historische Berichte in Reports &amp; Analysen sowie die Berichte-API Version 1.4 ändern kann. (AN-197958)
+* Es wurde ein Problem behoben, bei dem die Metriken &quot;Instanz&quot;/&quot;Besuch&quot;und &quot;Besucher&quot;nicht im Nenner für die Metriken &quot; [!UICONTROL Besuchszeit] &quot;gezählt wurden.  Dies geschieht, wenn ein Treffer ohne Wert für die Dimension (z. B. [!UICONTROL Seitenname]) in derselben Sekunde folgt. (AN-211074)
 * Fixed an issue that caused missing [!DNL Analytics] segment data in Audience Manager. (AN-206221)
 * Es wurde ein Problem mit [!UICONTROL Data Sources] behoben, durch das bei der Verarbeitung die falschen Daten angezeigt wurden. (AN-213604)
 * Es wurde ein Problem behoben, durch das Klassifizierungsdateien nicht ordnungsgemäß auf FTP hochgeladen wurden. (AN-214102)
