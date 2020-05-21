@@ -5,10 +5,10 @@ doc-type: release notes
 last-update: May 2020
 author: mfrei
 translation-type: tm+mt
-source-git-commit: 4ad9ee85f4eba950bf6cc1a6a18ece9d3eb5e61a
+source-git-commit: c0a5d3cca0320f8459aeb4ee34bfd655d032c23c
 workflow-type: tm+mt
-source-wordcount: '4835'
-ht-degree: 40%
+source-wordcount: '4895'
+ht-degree: 39%
 
 ---
 
@@ -29,12 +29,12 @@ Diese Seite enthält neue Funktionen, Fehlerbehebungen und wichtige Hinweise in 
 
 **Veröffentlichungsdatum: 2020. Mai**
 
-Neueste Aktualisierung: **19. Mai 2020**
+Neueste Aktualisierung: **21. Mai 2020**
 
 * [Systemstatus von Adobe](#status)
 * [Experience Cloud-Benutzeroberfläche](#ecloud)
 * [Experience Platform](#platform)
-* [!DNL Analytics](#analytics)
+* [!DNL Analytics](#analytics) (**Aktualisiert am 21. Mai 2020**)
 * [Audience Manager](#aam)
 * [Experience Manager](#aem)
 * [!DNL Campaign](#ac)
@@ -143,7 +143,7 @@ Mithilfe der Adobe Experience Platform können Sie individuelle Customer Journey
 
 * [Neue Funktionen in Customer Journey Analytics](#cust-journey)
 * [Neue Funktionen in Adobe Analytics](#aa-features)
-* [Wichtige Hinweise für Analytics-Administratoren](#aa-notices)
+* [Wichtige Hinweise für Analytics-Administratoren](#aa-notices) (**aktualisiert am 21. Mai 2020**)
 * [AppMeasurement](#appm)
 * [Neue Analytics-Tutorials](#tutorials-analytics)
 
@@ -161,7 +161,7 @@ First-Party Domains Available in China RDC: Enables customers with a cn domain t
 
 | Funktion | Beschreibung |
 | -----------| ---------- |
-| Analytics-Unterstützung für [!UICONTROL Adobe Experience Platform Edge Network] | Ermöglicht die Verwendung eines einzelnen Tags zum Senden von Daten an mehrere Adobe-Lösungen, z. B. Adobe Analytics, Adobe Zielgruppe, Adobe Audience Manager, Adobe Experience Platform Data Lake, Unified Profil und Experience Cloud ID Service. [Mehr Infos...](https://docs.adobe.com/content/help/de-DE/experience-platform/edge/home.html) |
+| Analytics-Unterstützung für [!UICONTROL Adobe Experience Platform Edge Network] | Ermöglicht die Verwendung eines einzelnen Tags zum Senden von Daten an mehrere Adobe-Lösungen, z. B. Adobe Analytics, Adobe Zielgruppe, Adobe Audience Manager, Adobe Experience Platform Data Lake, Unified Profil und Experience Cloud ID Service. [Mehr Infos...](https://docs.adobe.com/content/help/en/experience-platform/edge/solutions/analytics/analytics-overview.html) |
 | [!UICONTROL Adobe Analytics-Dashboard] | [!UICONTROL Adobe Analytics-Dashboard] sind eine mobile App, mit der Benutzer jederzeit und überall auf Einblicke aus Adobe Analytics zugreifen können. Diese App ist für Führungskräfte gedacht, die unterwegs nach Schlüsselmetriken suchen. Es ermöglicht den Zugriff auf kuratierte, interaktive Scorecards und ist für iOS- und Android-Betriebssysteme verfügbar. [Mehr Infos...](https://docs.adobe.com/content/help/en/analytics/analyze/mobapp/home.html) |
 | [!UICONTROL Workspace][!UICONTROL : Freiformtabellen können automatisch in einem leeren Projekt erstellt werden.] | Previously, you could not drop components directly into a blank project or blank panel; you had to add a [!UICONTROL Freeform Table] first. You can now drop components directly into a blank project or panel, and a [!UICONTROL Freeform Table] is automatically built for you in a recommended format. Darüber hinaus wurden Verbesserungen daran vorgenommen, wie gemischte Komponententypen (wie Dimensionen und Metriken) behandelt werden, wenn sie zusammen in eine leere Freiformtabelle abgelegt werden. |
 | [!UICONTROL Adobe Analytics-Paket] zur Seite &quot; [!UICONTROL Funktionenzugriffsstufe] &quot;hinzugefügt | Sie können jetzt Ansichten darüber erstellen, für welches [!UICONTROL Adobe Analytics-Paket] (SKU) Ihre Firma unter **[!UICONTROL Admin]** > **[!UICONTROL Firma-Einstellungen]** > **[!UICONTROL Funktionenzugriffsstufe]** berechtigt ist. |
@@ -210,6 +210,7 @@ AN-101871, AN-115525; AN-123869; AN-152580; AN-160480; AN-178128; AN-186907; AN-
 
 | Hinweis | Hinzugefügt oder aktualisiert am | Beschreibung |
 | -----------| ---------- | ---------- |
+| Verbesserte Redundanz für Analyse Workspace-Verfügbarkeit | 21. Mai 2020 | Um die Verfügbarkeit von Analyse Workspace sicherzustellen, fügen wir ein sekundäres CDN (Content Versand Network) hinzu, um die Redundanz zu verbessern. Die folgenden URLs sollten zu allen erforderlichen Netzwerk-Firewall-Whitelists hinzugefügt werden:<ul><li>https://aaui-879784980514.s3.us-east-2.amazonaws</li><li>https://d30ln29764hddd.cloudfront.net</li><li>https://awaascicdprodva7.blob.core.windows.net</li><li>https://aauicdnva7.azureedge.net</li></ul> |
 | Änderung der Berechnung von [!UICONTROL Einstiegen/Ausstiegen] in [!UICONTROL Workspace] | 7. April 2020 | In [!UICONTROL Analysis Workspace] wurde im März 2020 die Weise geändert, wie der Wert _Keine_ in Bezug auf [!UICONTROL Einstiege/Ausstiege] verwendet wird. Because you can now turn _Nones_ on and off in [!UICONTROL Analysis Workspace], we apply the _None_ value after the entry or exit, whereas (for eVars) it used to be applied before entry or exit. Angenommen, der erste Treffer eines Besuchs hat keinen Wert für eVars, der zweite Hit jedoch. In [!UICONTROL Reports &amp; Analytics] the first hit will show as _Unspecified_ for the Entry, but in [!UICONTROL Analysis Workspace] it will show up as the value on the second hit. |
 | Ende der **[!UICONTROL Konversionsebenen]**-Einstellung | 3. März 2020 | Die nicht funktionierende Einstellung der [Konversionsebene](https://docs.adobe.com/content/help/de-DE/analytics/admin/admin-tools/general-acct-settings-admin.html) unter **[!UICONTROL Admin Tools]** > **[!UICONTROL Report Suites]** > **[!UICONTROL Allgemeine Kontoeinstellungen]** wird am 12. März 2020 aus der Benutzeroberfläche entfernt. |
 | Entfernung des **[!UICONTROL Dashboard-Archivs]** | 27. März 2020 | Ab Oktober 2020 ist die Einstellung **[!UICONTROL Archiv anzeigen]** unter **[!UICONTROL Dashboards verwalten]** in [!UICONTROL Reports &amp; Analytics] nicht mehr verfügbar. |
