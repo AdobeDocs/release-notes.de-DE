@@ -5,9 +5,9 @@ doc-type: release notes
 last-update: May 2020
 author: mfrei
 translation-type: tm+mt
-source-git-commit: 4bdb8dde04f55703e52aca1295aad03374f3eb25
+source-git-commit: 1784b66efbcd85c25145fbf5b84f95c0285412ab
 workflow-type: tm+mt
-source-wordcount: '4998'
+source-wordcount: '4997'
 ht-degree: 38%
 
 ---
@@ -164,7 +164,7 @@ First-Party Domains Available in China RDC: Enables customers with a cn domain t
 | [!UICONTROL Adobe Analytics-Paket] zur Seite &quot; [!UICONTROL Funktionenzugriffsstufe] &quot;hinzugefügt | Sie können jetzt Ansichten darüber erstellen, für welches [!UICONTROL Adobe Analytics-Paket] (SKU) Ihre Firma unter **[!UICONTROL Admin]** > **[!UICONTROL Firma-Einstellungen]** > **[!UICONTROL Funktionenzugriffsstufe]** berechtigt ist. |
 | Verbesserungen der Zugänglichkeit | Das Adobe Analytics-Team hat verschiedene Verbesserungen an der Barrierefreiheit in Analyse Workspace vorgenommen, darunter verbesserte Tastaturnavigation, Farbkontrast und Unterstützung für Bildschirmlesehilfen. |
 
-#### Fehlerbehebungen in Adobe Analytics (#aa-fixes)
+#### Fehlerbehebungen in Adobe Analytics {#aa-fixes}
 
 * Adobe hat die Metrik &quot; [!UICONTROL Besuchszeit] &quot;geändert, um &quot;Nicht angegeben&quot;nie in die Berechnung aufzunehmen. Das bedeutet, dass wir unabhängig davon, ob in der Benutzeroberfläche angegeben wird, dass &quot;Nicht angegeben&quot;enthalten sein soll, eine besondere Ausnahme machen, um &quot;Nicht angegeben&quot;in der Berechnung der [!UICONTROL Besuchszeit] immer auszuschließen. Selbst wenn Sie einen Bericht konfiguriert haben, der die Metrik &quot; [!UICONTROL Besuchszeit] &quot;enthält, um &quot;Nicht angegeben&quot;einzuschließen, wird daher immer 0 Besuchszeit für den Zeileneintrag &quot;Nicht angegeben&quot;zurückgegeben. Beachten Sie, dass sich dadurch der historische Berichte in Reports &amp; Analysen sowie die Berichte-API v1.4 ändern kann. (AN-197958)
 * Es wurde ein Problem behoben, bei dem die Metriken &quot;Instanz&quot;/&quot;Besuch&quot;und &quot;Besucher&quot;nicht im Nenner für die Metriken &quot; [!UICONTROL Besuchszeit] &quot;gezählt wurden.  Dies geschieht, wenn ein Treffer ohne Wert für die Dimension (z. B. [!UICONTROL Seitenname]) in derselben Sekunde gefolgt wird. (AN-211074)
