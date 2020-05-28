@@ -5,10 +5,10 @@ doc-type: release notes
 last-update: May 2020
 author: mfrei
 translation-type: tm+mt
-source-git-commit: 8296d1788e4768e12b7dcbb6b520c534419d6360
+source-git-commit: 5283f48c529ee5d1eca229bbd0164bb9e8864aa6
 workflow-type: tm+mt
-source-wordcount: '5161'
-ht-degree: 37%
+source-wordcount: '5201'
+ht-degree: 89%
 
 ---
 
@@ -17,7 +17,7 @@ ht-degree: 37%
 
 ![Banner](/assets/experience-cloud-banner-3.png)
 
-Diese Seite enthält neue Funktionen, Fehlerbehebungen und wichtige Hinweise in [!DNL Adobe Experience Cloud]. Das Release-Datum der Lösung kann unterschiedlich sein. Hier finden Sie die neuesten Updates.
+Auf dieser Seite finden Sie neue Funktionen, Fehlerbehebungen und wichtige Hinweise in [!DNL Adobe Experience Cloud]. Die Veröffentlichungsdaten einzelner Lösungen können variieren. Informieren Sie sich regelmäßig über die neuesten Aktualisierungen.
 
 >[!NOTE]
 >
@@ -40,7 +40,7 @@ Neueste Aktualisierung: **27. Mai 2020**
 * [!DNL Marketo](#marketo)
 * [!DNL Primetime](https://helpx.adobe.com/de/primetime/user-guide.html) (Link zur Primetime-Hilfeseite)
 
-Benötigen Sie Hilfe? Besuchen Sie [[!DNL Adobe Experience League]](https://experienceleague.adobe.com/#home) , um von Adobe kuratierte Kurse, technische Dokumentation, schnelle Antworten, Einblicke in die Community und Schulungen unter Kursleitern zu erhalten.
+Benötigen Sie Hilfe? Unter [[!DNL Adobe Experience League]](https://experienceleague.adobe.com/#home) finden Sie von Adobe kuratierte Kurse, technische Dokumentationen, schnelle Antworten, Einblicke in die Community und von Schulungsleitern geführte Schulungen.
 
 ## ![Symbol](/assets/adobe.png) Systemstatus von Adobe {#status}
 
@@ -50,23 +50,23 @@ Releasedatum: **21. Mai 2020**
 
 **Neuigkeiten**
 
-* Mit Ihrer Adobe ID können Sie Ereignisbenachrichtigungen mit größerer Granularität bis hinunter zur Produktangebot- und Add-on-Ebene abonnieren. Damit Sie Ihr Abonnement schneller einrichten können, empfiehlt das Self-Abonnement-Verfahren jetzt eine Auswahl von Produkten und Angeboten, die auf Ihren Produktberechtigungen basieren. Dadurch wird die Anzahl der E-Mails, die Sie erhalten, verringert und relevantere Benachrichtigungen in Ihrem Posteingang bereitgestellt. Weitere Informationen erhalten Sie unter [status.adobe.com/subscriptions](https://status.adobe.com/proactive-notifications/subscriptions/edit).
+* Mit Ihrer Adobe ID können Sie Ereignisbenachrichtigungen mit größerer Granularität bis hinunter zur Produktangebot- und Add-on-Ebene abonnieren. Um die Konfiguration Ihres Abonnements zu beschleunigen, wird bei der Abonnement-Selbstregistrierung jetzt eine Auswahl von Produkten und Dienstleistungen empfohlen, die auf Ihren Produktberechtigungen basieren. Dies sollte die Anzahl der E-Mails, die Sie erhalten, reduzieren und relevantere Benachrichtigungen in Ihrem Posteingang liefern. Weitere Informationen erhalten Sie unter [status.adobe.com/subscriptions](https://status.adobe.com/proactive-notifications/subscriptions/edit).
 
 **Ab heute verfügbare neue Funktionen und Verbesserungen**
 
 | Funktion | Beschreibung |
 | -----------| ---------- |
-| Verbesserte Benutzererfahrung bei Abonnements und Benachrichtigungen | <ul><li>[!DNL Marketo Engage] Regionale Standorte werden nun basierend auf der Liste der ausgewählten Produktangebote gefiltert.</li><li>[!DNL Marketo Engage] E-Mail-Benachrichtigungen sind für die Benutzerregion, den Standort und die Umgebung relevant.</li></ul> |
-| Bestätigung des Ereignis-Abonnements | <ul><li>Sie können jetzt eine E-Mail-Bestätigung erhalten, wenn Sie laufende Updates für einzelne Ereignis abonnieren.</li></ul> |
-| Verbesserungen der Benutzerfreundlichkeit der globalen Navigation | <ul><li>Konsistente Benutzererfahrung mit `Adobe.com` im Navigationsmenü auf der obersten Navigationsebene.</li></ul> |
+| Verbessertes Kundenerlebnis bei Abonnements und Benachrichtigungen | <ul><li>Regionale [!DNL Marketo Engage]-Standorte werden nun anhand der Liste der ausgewählten Produktangebote gefiltert.</li><li>[!DNL Marketo Engage] E-Mail-Benachrichtigungen sind für die Benutzerregion, den Standort und die Umgebung relevant.</li></ul> |
+| Bestätigungen von Ereignis-Abonnements | <ul><li>Sie können jetzt eine E-Mail-Bestätigung erhalten, wenn Sie laufende Aktualisierungen für einzelne Ereignisse abonnieren.</li></ul> |
+| Verbesserungen der Benutzerfreundlichkeit der globalen Navigation | <ul><li>Konsistentes Kundenerlebnis im obersten Navigationsmenü auf `Adobe.com`.</li></ul> |
 
 ## ![Symbol](/assets/ec_appicon_24.png) Experience Cloud-Benutzeroberfläche {#ecloud}
 
-Allgemeine Aktualisierungen der Experience Cloud-Oberfläche.
+Allgemeine Aktualisierungen der Experience Cloud-Benutzeroberfläche.
 
 **Einheitliche Produktdomäne**
 
-Adobe hat die Domäne und die Kopfzeile der Benutzeroberfläche aktualisiert, um Ihre Erfahrung in allen Experience Cloud-Anwendungen zu vereinheitlichen und zu verbessern. Diese simplen Aktualisierungen sollen die Benutzerfreundlichkeit vereinfachen und verbessern. Diese Verbesserungen ändern Ihre aktuelle Workflows nicht.
+Adobe hat die Domäne und die Kopfzeile der Benutzeroberfläche aktualisiert, um Ihr Benutzererlebnis in allen Experience Cloud-Anwendungen zu vereinheitlichen und zu verbessern. Diese Verbesserungen sollen das Benutzererlebnis auf kleine, aber wichtige Weise vereinfachen. Ihre aktuellen Workflows werden dadurch nicht geändert.
 
 Zu den Aktualisierungen gehören:
 
@@ -77,22 +77,22 @@ Zu den Aktualisierungen gehören:
 * Einfacherer Wechsel zwischen Ihren Organisationen oder zu einer anderen Anwendung.
 * Verbesserte Produkthilfe: [!UICONTROL Experience League] ist in das Produkt integriert, sodass bei einer Hilfesuche auch Ergebnisse aus Community-Foren und Videos berücksichtigt werden. Diese Änderung vereinfacht den Zugriff auf weitere Inhalte und hilft Ihnen, Experience Cloud optimal zu nutzen. Zusätzlich können Sie unter **[!UICONTROL Hilfe]** > **[!UICONTROL Feedback]** Probleme melden oder Ihre Ideen mit Adobe teilen.
 
-Die folgenden Apps verwenden die neue Domäne &quot;experience.adobe.com&quot;:
+Die folgenden Anwendungen verwenden die neue Domäne „experience.adobe.com“:
 
-| App oder Dienst | Domäne |
+| Anwendung oder Dienst | Domäne |
 | -----------| ---------- |
 | Experience Cloud-Startseite | `experience.adobe.com/home` |
 | Adobe Target | `experience.adobe.com/target` |
 | Adobe Audience Manager | `experience.adobe.com/audience-manager` |
 | Adobe Launch | `experience.adobe.com/launch` |
 | Adobe Experience Platform | `experience.adobe.com/platform` |
-| Reisemanagement | `experience.adobe.com/journeys` |
+| Journey Management | `experience.adobe.com/journeys` |
 | Customer Journey Analytics | `experience.adobe.com/platform/analytics` |
 | Control Panel von Adobe Campaign | `experience.adobe.com/controlpanel` |
 | Cloud Manager | `experience.adobe.com/cloud-manager` |
 | Places Service | `experience.adobe.com/places` |
 | Softwareverteilung | `experience.adobe.com/downloads` |
-| Admin Tool (Beta) | `experience.adobe.com/admin` |
+| Admin-Tool (Beta) | `experience.adobe.com/admin` |
 
 >[!NOTE]
 >
@@ -104,22 +104,22 @@ Versionshinweise für [!DNL Experience Platform,] einschließlich [!DNL Experien
 
 ### Verbesserungen an der Benutzeroberfläche
 
-Updated: **May 15, 2020**
+Aktualisiert: **15. Mai 2020**
 
-[!DNL Adobe Experience Platform] veröffentlicht Updates für die Domäne und Kopfzeilenleiste, um Ihr Erlebnis zu verbessern und die Verbindung mit anderen Experience Cloud-Anwendungen herzustellen. Zu den Aktualisierungen gehören:
+[!DNL Adobe Experience Platform] veröffentlicht Aktualisierungen für die Domäne und die Kopfleiste, um Ihr Erlebnis zu verbessern und mit anderen Experience Cloud-Anwendungen zu vereinheitlichen. Zu den Aktualisierungen gehören:
 
 * Einfacherer Wechsel zwischen Ihren Organisationen oder zu einer anderen Anwendung.
-* Verbesserte Hilfe für Benutzer, einschließlich spezieller Artikel und kontextbezogener Dokumentation im Hilfemenü.
-* Möglichkeit zur Rückmeldung über die Experience Platform und Dateiunterstützungskarten.
+* Verbessertes Handbuch, einschließlich spezieller Artikel und kontextbezogener Dokumentationen im Hilfemenü.
+* Möglichkeit, Feedback zu Experience Platform zu geben und Support-Tickets einzureichen.
 
-See [Experience Platform release notes](https://www.adobe.io/apis/experienceplatform/home/services/release-notes.html#!end-user/markdown/release-notes/release-notes.md) for more information.
+Weitere Informationen finden Sie in den [Experience Platform-Versionshinweisen](https://www.adobe.io/apis/experienceplatform/home/services/release-notes.html#!end-user/markdown/release-notes/release-notes.md).
 
-### Kundenattribute - neue Dokumentation
+### Kundenattribute – neue Dokumentation
 
-Updated: **May 15, 2020**
+Aktualisiert: **15. Mai 2020**
 
-* [Unterstützung von Kundenattributen für CCPA](https://docs.adobe.com/content/help/en/core-services/interface/customer-attributes/ccpa.html) (California Consumer Privacy Act)
-* [Unterstützung von Kundenattributen für GDPR](https://docs.adobe.com/content/help/en/core-services/interface/customer-attributes/gdpr.html) (Allgemeine Datenschutzverordnung)
+* [Unterstützung von Kundenattributen für CCPA](https://docs.adobe.com/content/help/de-DE/core-services/interface/customer-attributes/ccpa.html) (California Consumer Privacy Act)
+* [Unterstützung von Kundenattributen für DSGVO](https://docs.adobe.com/content/help/de-DE/core-services/interface/customer-attributes/gdpr.html) (Datenschutz-Grundverordnung)
 
 ### Journey-Orchestrierung {#journey}
 
@@ -161,9 +161,9 @@ First-Party Domains Available in China RDC: Enables customers with a cn domain t
 
 | Funktion | Beschreibung |
 | -----------| ---------- |
-| Analytics-Unterstützung für [!UICONTROL Adobe Experience Platform Edge Network] | Ermöglicht die Verwendung eines einzelnen Tags zum Senden von Daten an mehrere Adobe-Lösungen, z. B. Adobe Analytics, Adobe Zielgruppe, Adobe Audience Manager, Adobe Experience Platform Data Lake, Unified Profil und Experience Cloud ID Service. [Mehr Infos...](https://docs.adobe.com/content/help/en/experience-platform/edge/solutions/analytics/analytics-overview.html) |
-| [!UICONTROL Adobe Analytics-Dashboard] | [!UICONTROL Adobe Analytics-Dashboard] sind eine mobile App, mit der Benutzer jederzeit und überall auf Einblicke aus Adobe Analytics zugreifen können. Diese App ist für Führungskräfte gedacht, die unterwegs nach Schlüsselmetriken suchen. Es ermöglicht den Zugriff auf kuratierte, interaktive Scorecards und ist für iOS- und Android-Betriebssysteme verfügbar. [Mehr Infos...](https://docs.adobe.com/content/help/en/analytics/analyze/mobapp/home.html) |
-| [!UICONTROL Workspace][!UICONTROL : Freiformtabellen können automatisch in einem leeren Projekt erstellt werden.] | Previously, you could not drop components directly into a blank project or blank panel; you had to add a [!UICONTROL Freeform Table] first. You can now drop components directly into a blank project or panel, and a [!UICONTROL Freeform Table] is automatically built for you in a recommended format. Darüber hinaus wurden Verbesserungen daran vorgenommen, wie gemischte Komponententypen (wie Dimensionen und Metriken) behandelt werden, wenn sie zusammen in eine leere Freiformtabelle abgelegt werden. |
+| Analytics-Unterstützung für [!UICONTROL Adobe Experience Platform-Edge-Netzwerk] | Ermöglicht die Verwendung eines einzelnen Tags zum Senden von Daten an mehrere Adobe-Lösungen, z. B. Adobe Analytics, Adobe Target, Adobe Audience Manager, Adobe Experience Platform Data Lake, Unified Profile und Experience Cloud ID-Dienst. [Mehr Infos...](https://docs.adobe.com/content/help/en/experience-platform/edge/solutions/analytics/analytics-overview.html) |
+| [!UICONTROL Adobe Analytics-Dashboards] | [!UICONTROL Adobe Analytics-Dashboards] ist eine App, mit der Benutzer jederzeit und überall auf Einblicke aus Adobe Analytics zugreifen können. Diese App ist für Führungskräfte gedacht, die unterwegs nach Schlüsselmetriken suchen. Sie ermöglicht den Zugriff auf kuratierte, interaktive Bewertungskarten und ist für iOS- und Android-Betriebssysteme verfügbar. [Mehr Infos...](https://docs.adobe.com/content/help/de-DE/analytics/analyze/mobapp/home.html) |
+| [!UICONTROL Workspace]: [!UICONTROL Freiformtabellen] können in einem leeren Projekt automatisch erstellt werden. | Zuvor war es nicht möglich, Komponenten direkt in ein leeres Projekt oder ein leeres Bedienfeld zu ziehen. Zuerst musste eine [!UICONTROL Freiformtabelle] hinzugefügt werden. Jetzt können Sie Komponenten direkt in einem leeren Projekt oder Bedienfeld ablegen. Eine [!UICONTROL Freiformtabelle] wird automatisch im empfohlenen Format erstellt. Darüber hinaus wurde die Handhabung von gemischten Komponententypen (z. B. Dimensionen und Metriken) verbessert, wenn sie zusammen in einer leeren Freiformtabelle abgelegt werden. |
 | [!UICONTROL Adobe Analytics-Paket] zur Seite &quot; [!UICONTROL Funktionenzugriffsstufe] &quot;hinzugefügt | Sie können jetzt Ansichten darüber erstellen, für welches [!UICONTROL Adobe Analytics-Paket] (SKU) Ihre Firma unter **[!UICONTROL Admin]** > **[!UICONTROL Firma-Einstellungen]** > **[!UICONTROL Funktionenzugriffsstufe]** berechtigt ist. |
 | Verbesserungen der Zugänglichkeit | Das Adobe Analytics-Team hat verschiedene Verbesserungen an der Barrierefreiheit in Analyse Workspace vorgenommen, darunter verbesserte Tastaturnavigation, Farbkontrast und Unterstützung für Bildschirmlesehilfen. |
 
@@ -185,7 +185,7 @@ Inhaltslink verfügbar.
 
 * Adobe hat die Metrik &quot; [!UICONTROL Besuchszeit] &quot;geändert, um &quot;Nicht angegeben&quot;nie in die Berechnung aufzunehmen. Das bedeutet, dass wir unabhängig davon, ob in der Benutzeroberfläche angegeben wird, dass &quot;Nicht angegeben&quot;enthalten sein soll, eine besondere Ausnahme machen, um &quot;Nicht angegeben&quot;in der Berechnung der [!UICONTROL Besuchszeit] immer auszuschließen. Selbst wenn Sie einen Bericht konfiguriert haben, der die Metrik &quot; [!UICONTROL Besuchszeit] &quot;enthält, um &quot;Nicht angegeben&quot;einzuschließen, wird daher immer 0 Besuchszeit für den Zeileneintrag &quot;Nicht angegeben&quot;zurückgegeben. Beachten Sie, dass sich dadurch der historische Berichte in Reports &amp; Analysen sowie die Berichte-API v1.4 ändern kann. (AN-197958)
 * Es wurde ein Problem behoben, bei dem die Metriken &quot;Instanz&quot;/&quot;Besuch&quot;und &quot;Besucher&quot;nicht im Nenner für die Metriken &quot; [!UICONTROL Besuchszeit] &quot;gezählt wurden.  Dies geschieht, wenn ein Treffer ohne Wert für die Dimension (z. B. [!UICONTROL Seitenname]) in derselben Sekunde gefolgt wird. (AN-211074)
-* Fixed an issue that caused missing [!DNL Analytics] segment data in Audience Manager. (AN-206221)
+* Es wurde ein Fehler behoben, der dazu führte, dass [!DNL Analytics]-Segmentdaten in Audience Manager fehlten. (AN-206221)
 * Es wurde ein Problem mit [!UICONTROL Data Sources] behoben, durch das bei der Verarbeitung die falschen Daten angezeigt wurden. (AN-213604)
 * Es wurde ein Problem behoben, durch das Klassifizierungsdateien nicht ordnungsgemäß auf FTP hochgeladen wurden. (AN-214102)
 * Es wurde ein Problem behoben, bei dem die API-Methode `Segments.Get` keine vollständige Antwort zurückgab. (AN-206210)
@@ -193,30 +193,30 @@ Inhaltslink verfügbar.
 * Es wurde ein Problem behoben, bei dem der Aufruf der Adobe Analytics API 1.4 `visattrcustomeridcustomerattributes` nicht ordnungsgemäß funktionierte. (AN-186873)
 * Es wurde ein Problem behoben, bei dem Daten in Berichten angezeigt wurden, die aber im [!UICONTROL Daten-Feed] fehlten. (AN-211923)
 * Es wurde ein Fehler behoben, der dazu führte, dass Berechtigungen für [!UICONTROL Produktprofile] nicht kopiert werden konnten. (AN-211113)
-* Fixed an issue where users with Federated IDs were not able to log in to [!UICONTROL Report Builder]. (AN-207750)
+* Es wurde ein Problem behoben, bei dem sich Benutzer mit Federated IDs nicht bei [!UICONTROL Report Builder] anmelden konnten. (AN-207750)
 * Es wurde ein Problem behoben, bei dem [!UICONTROL AdWords]-Daten nicht in [!UICONTROL Advertising Analytics] angezeigt wurden. (AN-213249)
 * Es wurde ein Problem behoben, bei dem Klassifizierungsdaten nicht in der Trend-Ansicht dargestellt wurden. (AN-212761)
 * Es wurde ein Fehler behoben, der dazu führte, dass in [!UICONTROL Segment Manager] eine falsche Anzahl veröffentlichter Segmente ausgegeben wurde. (AN-213374)
-* Es wurde ein Problem mit dem Trend **[!UICONTROL nach oben anzeigen unter ... behoben.]** im Editor für [!UICONTROL berechnete Metriken] - es funktionierte nicht, wenn Filter angewendet wurden. (AN-214223)
-* Mehrere Probleme mit [!UICONTROL Classification] Import und Export wurden behoben. (AN-213488, AN-215309, AN-216345, AN-215307, AN-216671)
-* Mehrere Probleme mit [!UICONTROL Classification Rule Builder]wurden behoben. (AN-213826, AN-213550, AN-213095)
-* Es wurden Probleme bei der Verarbeitung von [!UICONTROL Datenquellen] behoben. (AN-218083, AN-213604, AN-214102, AN-215485, AN-215339, AN-212911, AN-217551, AN -217947, AN-219018, AN-214691, AN-218401)
+* Es wurde ein Fehler mit der Option **[!UICONTROL Aufwärts-Trend anzeigen als...]** im [!UICONTROL Editor für berechnete Metriken] behoben. Sie funktionierte nicht, wenn Filter angewendet wurden. (AN-214223)
+* Es wurden mehrere Fehler mit dem Import und Export von [!UICONTROL Klassifizierungen] behoben. (AN-213488, AN-215309, AN-216345, AN-215307, AN-216671)
+* Es wurden mehrere Fehler mit [!UICONTROL Classification Rule Builder] behoben. (AN-213826, AN-213550, AN-213095)
+* Es wurden Fehler bei der Verarbeitung von [!UICONTROL Data Sources] behoben. (AN-218083, AN-213604, AN-214102, AN-215485, AN-215339, AN-212911, AN-217551, AN-217947, AN-219018, AN-214691, AN-218401)
 * Es wurden FTP-Verbindungsprobleme behoben. (AN-115525)
-* Korrektur mehrerer [!DNL Analytics] Datenfeeds  -Probleme. (AN-176769, AN-160480, AN-211923, AN-204286, AN-212977, AN-214528, AN-215080, AN -217784, AN-219093, AN-218817, AN-217798, AN-218267, AN-218382)
-* Es wurden Probleme mit [!UICONTROL Data Warehouse] -Anforderungen behoben. (AN-181836)
-* Es wurden Probleme in PDF-heruntergeladenen [!UICONTROL Workspace] -Projekten behoben, bei denen Werte in Sonderzeichen umgewandelt wurden. (AN-196153)
-* Fixed an issue with being unable to copy [!UICONTROL Product Profile] permissions in [!UICONTROL Admin Console]. (AN-211113)
-* Korrektur des Problems, bei dem Zeitformate in berechneten Metriken für negative Werte beschädigt wurden. (AN-210900)
-* Es wurde ein Fehler behoben, der verhinderte, dass Benutzer das [!UICONTROL Zuordnungsmodell] für statische Zeilenmetriken ändern konnten. (AN-207872)
-* Es wurde ein Fehler behoben, der dazu führte, dass der [!UICONTROL Builder für terminierte Berichte] in einem Warteschlangenstatus feststeckte. (AN-215317)
-* Korrektur des [!UICONTROL ExactTarget Data Connector]. (AN-210794)
-* Korrektur von Latenzproblemen in der [!UICONTROL Bulk Ingestion API]. (AN-210165)
-* Es wurde ein Problem behoben, bei dem Benutzer sich nicht mit einer Federated ID bei [!UICONTROL ReportBuilder] anmelden konnten. (AN-207750)
-* Es wurde ein Problem in [!UICONTROL Advertising Analytics] behoben, das die Anzeige von [!DNL Google AdWords] Daten verhinderte. (AN-213249)
-* Es wurde ein Fehler behoben, der verhinderte, dass [!UICONTROL Workspace] [!UICONTROL Project Viewed] -Ereignis in Protokollen angezeigt wurden. (AN-214134)
-* Es wurde ein Problem behoben, das beim Ändern des Datumsbereichs in [!UICONTROL Workspace] und der Auswahl von **[!UICONTROL Anwenden auf alle Bereiche]** auftrat. Das Datum wurde in einigen Bereichen nicht geändert. (AN-214944)
-* Es wurde ein Problem behoben, durch das Warnhinweise nicht erstellt oder bearbeitet werden konnten. (AN-215920)
-* Es wurde ein Problem behoben, bei dem alle dynamischen Datumsbereiche in [!UICONTROL Workspace] aufgrund der sporadischen Umstellung auf einen Sonntag von einem Montag falsche Daten anzeigten. (AN-218835)
+* Es wurden mehrere Fehler bei [!DNL Analytics]-[!UICONTROL Daten-Feeds] behoben. (AN-176769, AN-160480, AN-211923, AN-204286, AN-212977, AN-214528, AN-215080, AN-217784, AN-219093, AN-218817, AN-217798, AN-218267, AN-218382)
+* Es wurden Fehler bei [!UICONTROL Data Warehouse]-Anfragen behoben. (AN-181836)
+* Es wurden Fehler bei im PDF-Format heruntergeladenen [!UICONTROL Workspace]-Projekten behoben, bei denen Werte in Sonderzeichen umgewandelt wurden. (AN-196153)
+* Es wurde ein Fehler behoben, der dazu führte, dass Berechtigungen für [!UICONTROL Produktprofile] in [!UICONTROL Admin Console] nicht kopiert werden konnten. (AN-211113)
+* Es wurde ein Fehler behoben, bei dem Zeitformate in berechneten Metriken für negative Werte fehlerhaft waren. (AN-210900)
+* Es wurde ein Fehler behoben, der verhinderte, dass Benutzer das [!UICONTROL Attributionsmodell] für statische Zeilenmetriken ändern konnten. (AN-207872)
+* Es wurde ein Fehler behoben, der dazu führte, dass der Builder für [!UICONTROL terminierte Berichte] in einem Warteschlangenstatus feststeckte. (AN-215317)
+* Der [!UICONTROL ExactTarget-Connector] wurde korrigiert. (AN-210794)
+* Es wurden Latenzprobleme bei der [!UICONTROL Bulk Ingestion-API] behoben. (AN-210165)
+* Es wurde ein Fehler behoben, bei dem Benutzer sich nicht mit einer Federated ID bei [!UICONTROL Report Builder] anmelden konnten. (AN-207750)
+* Es wurde ein Fehler in [!UICONTROL Advertising Analytics] behoben, der die Anzeige von [!DNL Google AdWords]-Daten verhinderte. (AN-213249)
+* Es wurde ein Fehler behoben, der verhinderte, dass [!UICONTROL Workspace]-Ereignisse [!UICONTROL Projekt angezeigt] in Protokollen angezeigt wurden. (AN-214134)
+* Es wurde ein Fehler behoben, der beim Ändern des Datumsbereichs in [!UICONTROL Workspace] und der Auswahl von **[!UICONTROL In alle Bedienfelder übernehmen]** auftrat. Das Datum wurde in einigen Bedienfeldern nicht geändert. (AN-214944)
+* Es wurde ein Fehler behoben, der dazu führte, dass Warnhinweise nicht erstellt oder bearbeitet werden konnten. (AN-215920)
+* Es wurde ein Fehler behoben, bei dem alle dynamischen Datumsbereiche in [!UICONTROL Workspace] falsche Daten anzeigten, weil der erste Wochentag sporadisch von einem Montag auf einen Sonntag wechselte. (AN-218835)
 
 #### Weitere Fehlerbehebungen in Adobe Analytics
 
@@ -226,9 +226,10 @@ AN-101871, AN-115525; AN-123869; AN-152580; AN-160480; AN-178128; AN-186907; AN-
 
 | Hinweis | Hinzugefügt oder aktualisiert am | Beschreibung |
 | -----------| ---------- | ---------- |
-| Whitelist zur Drittanbieter-Technologie | 12. März 2020 (Datum des In-Kraft-Tretens) | Adobe Analytics hat begonnen, Technologien von Drittanbietern für die Verwaltung von Funktionen und die Unterstützung von In-Produkt-Produkten zu nutzen. Die folgenden URLs sollten zu allen erforderlichen Netzwerk-Firewall-Whitelists hinzugefügt werden, um den vollen Funktionenzugriff sicherzustellen:<ul><li>Gainsight: https://esp.aptrinsic.com</li><li>LaunchDarkly: https://app.launchdarkly.com</li></ul> |
+| Neue Adobe Analytics-Standard-Landingpage | Datum des Inkrafttretens: 18. Juni 2020 | Am 18. Juni 2020 ändert sich die standardmäßige Landingpage für Adobe Analytics von [!UICONTROL Reports] in [!UICONTROL Workspace]. Diese Änderung tritt für alle Benutzer auf, die zuvor keine benutzerdefinierte Landingpage festgelegt haben. |
+| Whitelist zur Drittanbieter-Technologie | (Gültiges Datum: 12. März 2020 | Adobe Analytics hat begonnen, Technologien von Drittanbietern für die Verwaltung von Funktionen und die Unterstützung von In-Produkt-Produkten zu nutzen. Die folgenden URLs sollten zu allen erforderlichen Netzwerk-Firewall-Whitelists hinzugefügt werden, um den vollen Funktionenzugriff sicherzustellen:<ul><li>Gainsight: https://esp.aptrinsic.com</li><li>LaunchDarkly: https://app.launchdarkly.com</li></ul> |
 | Verbesserte Redundanz für Analyse Workspace-Verfügbarkeit | 21. Mai 2020 | Um die Verfügbarkeit von Analyse Workspace sicherzustellen, fügen wir ein sekundäres CDN (Content Versand Network) hinzu, um die Redundanz zu verbessern. Die folgenden URLs sollten zu allen erforderlichen Netzwerk-Firewall-Whitelists hinzugefügt werden:<ul><li>https://aaui-879784980514.s3.us-east-2.amazonaws</li><li>https://d30ln29764hddd.cloudfront.net</li><li>https://awaascicdprodva7.blob.core.windows.net</li><li>https://aauicdnva7.azureedge.net</li></ul> |
-| Änderung der Berechnung von [!UICONTROL Einstiegen/Ausstiegen] in [!UICONTROL Workspace] | 7. April 2020 | In [!UICONTROL Analysis Workspace] wurde im März 2020 die Weise geändert, wie der Wert _Keine_ in Bezug auf [!UICONTROL Einstiege/Ausstiege] verwendet wird. Because you can now turn _Nones_ on and off in [!UICONTROL Analysis Workspace], we apply the _None_ value after the entry or exit, whereas (for eVars) it used to be applied before entry or exit. Angenommen, der erste Treffer eines Besuchs hat keinen Wert für eVars, der zweite Hit jedoch. In [!UICONTROL Reports &amp; Analytics] the first hit will show as _Unspecified_ for the Entry, but in [!UICONTROL Analysis Workspace] it will show up as the value on the second hit. |
+| Änderung der Berechnung von [!UICONTROL Einstiegen/Ausstiegen] in [!UICONTROL Workspace] | 7. April 2020 | In [!UICONTROL Analysis Workspace] wurde im März 2020 die Weise geändert, wie der Wert _Keine_ in Bezug auf [!UICONTROL Einstiege/Ausstiege] verwendet wird. Da Sie jetzt _Keine_ in [!UICONTROL Analysis Workspace] aktivieren und deaktivieren können, wird _Keine_ jetzt erst nach einem Ein- oder Ausstieg angewendet, während dieser Wert früher (bei eVars) vor einem Ein- oder Ausstieg angewendet wurde. Angenommen, der erste Treffer eines Besuchs liefert keinen Wert für eVars, der zweite aber schon. In [!UICONTROL Reports &amp; Analytics] wird der erste Treffer als _Nicht angegeben_ für den Einstieg angezeigt, aber in [!UICONTROL Analysis Workspace] wird dieser Wert beim zweiten Treffer angezeigt. |
 | Ende der **[!UICONTROL Konversionsebenen]**-Einstellung | 3. März 2020 | Die nicht funktionierende Einstellung der [Konversionsebene](https://docs.adobe.com/content/help/de-DE/analytics/admin/admin-tools/general-acct-settings-admin.html) unter **[!UICONTROL Admin Tools]** > **[!UICONTROL Report Suites]** > **[!UICONTROL Allgemeine Kontoeinstellungen]** wird am 12. März 2020 aus der Benutzeroberfläche entfernt. |
 | Entfernung des **[!UICONTROL Dashboard-Archivs]** | 27. März 2020 | Ab Oktober 2020 ist die Einstellung **[!UICONTROL Archiv anzeigen]** unter **[!UICONTROL Dashboards verwalten]** in [!UICONTROL Reports &amp; Analytics] nicht mehr verfügbar. |
 | Ende der Unterstützung für TLS 1.1 | 3. Oktober 2019 | Ab dem 31. März 2020 unterstützt Adobe Analytics TLS 1.1 nicht mehr. Diese Änderung ist Teil unserer laufenden Bemühungen, höchstmögliche Sicherheit von Kundendaten zu gewährleisten. |
@@ -245,58 +246,58 @@ Siehe [Versionshinweise zu AppMeasurement für JavaScript](https://docs.adobe.co
 
 | Inhalt | Beschreibung |
 | -----------| ---------- |
-| [Schulungslehrvorlage im Arbeitsbereich für Analysen](https://docs.adobe.com/content/help/en/analytics-learn/tutorials/analysis-workspace/navigating-workspace-projects/training-tutorial-template-in-analysis-workspace.html) | Das Schulungslehrgang zum [!UICONTROL Arbeitsbereich] für Analysen führt Sie durch die gängige Terminologie und die Schritte zum Erstellen Ihres ersten Projekts in [!UICONTROL Workspace]. |
-| [Hinzufügen von Vergleichen mit vorherigen Monaten und Jahren zu Trends](https://docs.adobe.com/content/help/en/analytics-learn/tutorials/analysis-workspace/calendar-and-date-ranges/adding-prior-month-and-year-comparisons-to-trends.html) | Erfahren Sie, wie Sie benutzerspezifische Datumsbereiche anwenden, um monatliche und jährliche Trendvergleiche für Metriken in [!UICONTROL Analyse Workspace]zu erstellen. |
-| [Dark Mode Extension for Analyse Workspace](https://docs.adobe.com/content/help/en/analytics-learn/tutorials/intro-to-analytics/customizing-the-ui/dark-mode-extension-for-analysis-workspace.html) | Aktivieren Sie die Chrome-Erweiterung für Dark Reader, um den Arbeitsbereich für Analysen dunkel zu machen. |
-| [Farb-Pipettenerweiterung zum Definieren benutzerdefinierter Paletten](https://docs.adobe.com/content/help/en/analytics-learn/tutorials/intro-to-analytics/customizing-the-ui/color-eyedropper-extension-for-defining-custom-palettes.html) | Erfahren Sie, wie Sie mit der ColorPick EyeDropper Chrome-Erweiterung die Hex-Werte, die Sie für eine benutzerdefinierte Farbpalette in Ihren [!UICONTROL Workspace] -Projekten benötigen, einfach finden. |
+| [Vorlage für Training-Tutorials in Analysis Workspace](https://docs.adobe.com/content/help/en/analytics-learn/tutorials/analysis-workspace/navigating-workspace-projects/training-tutorial-template-in-analysis-workspace.html) | Im Training-Tutorial für [!UICONTROL Analysis Workspace] machen Sie sich mit der gängigen Terminologie und den Schritten zum Erstellen Ihres ersten Projekts in [!UICONTROL Workspace] vertraut. |
+| [Hinzufügen von Vergleichen mit vorherigen Monaten und Jahren zu Trends](https://docs.adobe.com/content/help/en/analytics-learn/tutorials/analysis-workspace/calendar-and-date-ranges/adding-prior-month-and-year-comparisons-to-trends.html) | Erfahren Sie, wie Sie benutzerdefinierte Datumsbereiche anwenden, um monatliche und jährliche Trend-Vergleiche für Metriken in [!UICONTROL Analysis Workspace] zu erstellen. |
+| [Dunkelmoduserweiterung für Analysis Workspace](https://docs.adobe.com/content/help/en/analytics-learn/tutorials/intro-to-analytics/customizing-the-ui/dark-mode-extension-for-analysis-workspace.html) | Aktivieren Sie die Dark Reader-Chrome-Erweiterung, um den Analysis Workspace dunkel zu schalten. |
+| [Farbpipettenerweiterung zum Definieren benutzerdefinierter Paletten](https://docs.adobe.com/content/help/en/analytics-learn/tutorials/intro-to-analytics/customizing-the-ui/color-eyedropper-extension-for-defining-custom-palettes.html) | Erfahren Sie, wie Sie mit der ColorPick EyeDropper-Chrome-Erweiterung die Hex-Werte finden, die Sie für eine benutzerdefinierte Farbpalette in Ihren [!UICONTROL Workspace]-Projekten benötigen. |
 
 #### Analytics-Hilferessourcen
 
-* [Adobe Analytics-Übungen](https://docs.adobe.com/content/help/en/analytics-learn/tutorials/overview.html)
+* [Adobe Analytics-Tutorials](https://docs.adobe.com/content/help/en/analytics-learn/tutorials/overview.html)
 * [Adobe Analytics-Produktdokumentation](https://docs.adobe.com/content/help/de-DE/analytics/landing/home.html)
 
 ## ![Symbol](/assets/audience-manager.png) Audience Manager {#aam}
 
-Neue Funktionen, Fehlerbehebungen, Dokumentation und Lernprogramme in Audience Manager.
+Neue Funktionen, Fehlerbehebungen, Dokumentationen und Tutorials in Audience Manager.
 
 ### Aktualisierungen der Benutzeroberfläche
 
-Audience Manager veröffentlicht Updates für die Domäne und Kopfzeilenleiste, um Ihr Erlebnis zu verbessern und mit anderen Experience Cloud-Anwendungen zu vereinen.
+Audience Manager veröffentlicht Aktualisierungen für die Domäne und die Kopfleiste, um Ihr Erlebnis zu verbessern und mit anderen Experience Cloud-Anwendungen zu vereinheitlichen.
 
 * Einfacherer Wechsel zwischen Ihren Organisationen oder zu einer anderen Anwendung.
-* Verbesserte Hilfe für Benutzer, einschließlich Artikel und kontextbezogene Videos im Hilfemenü.
-* Möglichkeit zur Rückmeldung über die Experience Platform und Dateiunterstützungskarten.
+* Verbessertes Handbuch, einschließlich spezieller Artikel und kontextbezogener Videos im Hilfemenü.
+* Möglichkeit, Feedback zu Experience Platform zu geben und Support-Tickets einzureichen.
 * Ein neues einfacheres URL-Muster. Aktualisieren Sie Ihre Lesezeichen auf die neue URL: `experience.adobe.com/audience-manager`.
 
-Diese Updates stehen nur Benutzern zur Verfügung, die sich mit der Adobe ID anmelden. Informationen zum Wechsel zu einer Adobe ID-Anmeldung finden Sie unter [Verwalten von Experience Cloud-Benutzern und -Produkten](https://docs.adobe.com/content/help/de-DE/core-services/interface/manage-users-and-products/admin-getting-started.html).
+Diese Aktualisierungen stehen nur Benutzern zur Verfügung, die sich mit der Adobe ID anmelden. Informationen zum Wechsel zu einer Adobe ID finden Sie unter [Verwalten von Experience Cloud-Benutzern und -Produkten](https://docs.adobe.com/content/help/de-DE/core-services/interface/manage-users-and-products/admin-getting-started.html).
 
-### Neue Funktionen und Fehlerbehebungen in Adobe Audience Manager verfügbar
+### Neue Funktionen und Fehlerbehebungen in Adobe Audience Manager
 
 | Funktion | Beschreibung |
 | -----------| ---------- |  
-| [Bulk Management Tools (BAAAM)](https://docs.adobe.com/content/help/en/audience-manager/user-guide/reference/bulk-management-tools/bulk-management-intro.html#download) | Wir haben ein neues Arbeitsblatt für Massen-Management-Tools hochgeladen, das Folgendes beinhaltet: <br><br><ul><li>Ermöglicht die Liste der Unterordner in Ihrer Eigenschaftenhierarchie (AAM-51528)</li><li>Ruft Metriken ab, wenn Sie nach Eigenschaften für CRM-IDs (geräteübergreifende IDs) (AAM-52135) gefragt werden</li><li>Behebung eines Sprachkodierungsfehlers für koreanische Zeichen (AAM-AAM-54006)</li></ul> |
+| [Tools für die Massenverarbeitung (BAAAM)](https://docs.adobe.com/content/help/de-DE/audience-manager/user-guide/reference/bulk-management-tools/bulk-management-intro.html#download) | Wir haben ein neues Arbeitsblatt für Massenverarbeitungs-Tools hochgeladen, das Folgendes ermöglicht: <br><br><ul><li>Auflisten der Unterordner in Ihrer Eigenschaftenhierarchie (AAM-51528)</li><li>Abrufen von Metriken, wenn Sie nach Eigenschaften für CRM-IDs (geräteübergreifende IDs) gefragt werden (AAM-52135)</li><li>Behebung eines Sprachkodierungsfehlers für koreanische Zeichen (AAM-AAM-54006)</li></ul> |
 
 **Fehlerbehebungen**
 
-* Es wurde ein Problem behoben, bei dem Trendberichte für Ordner mit einer großen Anzahl von Eigenschaften ausliefen. (AAM-54457)
-* Es wurde ein Problem behoben, bei dem Kunden den [!UICONTROL Ausdruck-Builder] im Arbeitsablauf zum Erstellen/Bearbeiten von Eigenschaften nicht sehen konnten. (AAM-54255)
-* Es wurde ein Problem behoben, bei dem Fehlermeldungen in der Benutzeroberfläche nur für kurze Zeit angezeigt wurden und verschwanden, bevor Kunden die Möglichkeit hatten, sie zu lesen. Dies trat beispielsweise beim Versuch auf, ein Segment zu löschen, das einem Ziel zugeordnet wurde. (AAM-54031)
-* Es wurde ein Problem behoben, bei dem Kunden, die den [!UICONTROL Audience Marketplace] nicht mehr verwenden, monatliche E-Mails zur Rechnungsstellung erhielten. (AAM-54602)
-* Es wurde ein Problem behoben, bei dem Kunden, die von anderen Stellen in der Benutzeroberfläche auf bestimmte Eigenschaften klickten, fehlerhafte Links anstelle der Eigenschaften sahen. (AAM-54768)
-* Es wurde ein Problem behoben, durch das beim Bearbeiten des Ausdrucks Eigenschaften durch Drücken der EINGABETASTE die Seite aktualisiert und der Ausdruck der Eigenschaft verloren ging. (AAM-54210)
+* Es wurde ein Fehler behoben, der dazu führte, dass bei Trend-Berichten für Ordner mit einer großen Anzahl von Eigenschaften eine Zeitüberschreitung auftrat. (AAM-54457)
+* Es wurde ein Fehler behoben, der dazu führte, dass Kunden den [!UICONTROL Ausdrucksgenerator] im Workflow zum Erstellen/Bearbeiten von Eigenschaften nicht sehen konnten. (AAM-54255)
+* Es wurde ein Fehler behoben, der dazu führte, dass Fehlermeldungen in der Benutzeroberfläche nur für kurze Zeit angezeigt wurden und verschwanden, bevor Kunden die Möglichkeit hatten, sie zu lesen. Dies trat z. B. auf, wenn versucht wurde, ein Segment zu löschen, das einem Ziel zugeordnet war. (AAM-54031)
+* Es wurde ein Fehler behoben, der dazu führte, dass Kunden, die den [!UICONTROL Audience Marketplace] nicht mehr verwenden, monatliche E-Mails zur Rechnungsstellung erhielten. (AAM-54602)
+* Es wurde ein Fehler behoben, der dazu führte, dass Kunden, die von anderen Stellen in der Benutzeroberfläche auf bestimmte Eigenschaften klickten, fehlerhafte Links anstelle der Eigenschaften sahen. (AAM-54768)
+* Es wurde ein Fehler behoben, der dazu führte, dass im Bearbeitungsmodus für Eigenschaftenausdrücke durch Drücken der EINGABETASTE die Seite aktualisiert wurde und der Eigenschaftenausdruck verloren ging. (AAM-54210)
 * Mehrere Verbesserungen hinsichtlich der Barrierefreiheit auf der gesamten Benutzeroberfläche. (AAM-47781, AAM-49075, AAM-49360, AAM-49361, AAM-49376, AAM-50432, AAM-52550, AAM-54660).
 
-### Neue Audience Manager-Lernprogramme {#tutorials-aam}
+### Neue Audience Manager-Tutorials {#tutorials-aam}
 
 | Inhalt | Beschreibung |
 | -----------| ---------- |  
 | [Grundlegende Begriffe und Konzepte in Audience Manager](https://docs.adobe.com/content/help/en/audience-manager-learn/tutorials/intro-to-audience-manager/understanding-basic-terms-and-concepts-in-audience-manager.html) | In diesem Video werden einige der grundlegenden Begriffe und Konzepte behandelt, die Sie in Audience Manager verwenden, darunter Signale, Eigenschaften, Segmente usw. |
-| [Datenfluss in Audience Manager](https://docs.adobe.com/content/help/en/audience-manager-learn/tutorials/intro-to-audience-manager/understanding-the-data-flow-in-audience-manager.html) | In diesem Video erfahren Sie mehr über Adobe Audience Manager, indem Sie den Datenfluss in die, durch und aus der Anwendung beschreiben. |
-| [Audience Manager - Übersicht über ein DMP](https://docs.adobe.com/content/help/en/audience-manager-learn/tutorials/intro-to-audience-manager/audience-manager-overview-of-a-dmp.html) | Machen Sie sich mit den wichtigsten Herausforderungen bei der Personalisierung von Kanälen vertraut und erfahren Sie, wie Adobe Audience Manager die Customer Journey optimiert. Erfahren Sie außerdem, welche Datentypen in Audience Manager integriert werden können, und identifizieren Sie die Ad-Tech-Ökosystempartner, die in Audience Manager integriert sind. |
-| [Anwendungsfälle von Audience Manager](https://docs.adobe.com/content/help/en/audience-manager-learn/tutorials/intro-to-audience-manager/audience-manager-use-cases.html) | In diesem Video identifizieren wir vier gängige Anwendungsfälle von Audience Manager und beschreiben die damit verbundenen Best Practices. |
-| [Geräteübergreifende Metriken im Audiencen-Manager](https://docs.adobe.com/content/help/en/audience-manager-learn/tutorials/build-and-manage-audiences/profile-merge/understanding-cross-device-metrics-in-audience-manager.html) | In diesem Video besprechen wir den Unterschied zwischen Profilen und geräteübergreifenden Profilen und zeigen, wo die Zahlen in der Benutzeroberfläche mit den verschiedenen Profilen übereinstimmen. |
-| [Prognostische Audiencen in Audience Manager](https://docs.adobe.com/content/help/en/audience-manager-learn/tutorials/build-and-manage-audiences/algorithmic-models/understanding-predictive-audiences.html) | In diesem Video besprechen wir, was die Predictive Audiencen von Audience Manager sind, erläutern Einzelheiten zu ihrer Funktionsweise und zeigen Anwendungsfälle auf. |
-| [Prognostische Audiencen konfigurieren und in Audience Manager Bericht erstatten](https://docs.adobe.com/content/help/en/audience-manager-learn/tutorials/build-and-manage-audiences/algorithmic-models/configure-and-report-on-predictive-audiences.html) | In diesem Video gehen wir durch die Konfiguration von Predictive Audiencen in der Audience Manager-Oberfläche. Es werden auch die Berichte angezeigt, die die Ergebnisse des Modells anzeigen. |
+| [Grundlegendes zum Datenfluss in Audience Manager](https://docs.adobe.com/content/help/en/audience-manager-learn/tutorials/intro-to-audience-manager/understanding-the-data-flow-in-audience-manager.html) | In diesem Video erfahren Sie mehr über Adobe Audience Manager, indem der Datenfluss in, durch und aus der Anwendung beschrieben wird. |
+| [Audience Manager – Übersicht über eine DMP](https://docs.adobe.com/content/help/en/audience-manager-learn/tutorials/intro-to-audience-manager/audience-manager-overview-of-a-dmp.html) | Machen Sie sich mit den wichtigsten Herausforderungen bei der kanalübergreifenden Personalisierung vertraut und erfahren Sie, wie Adobe Audience Manager die Customer Journey unterstützt. Erfahren Sie auch, welche Datentypen in Audience Manager integriert werden können, und identifizieren Sie die in Audience Manager integrierten Ökosystempartner für Werbetechnologie. |
+| [Anwendungsfälle für Audience Manager](https://docs.adobe.com/content/help/en/audience-manager-learn/tutorials/intro-to-audience-manager/audience-manager-use-cases.html) | In diesem Video identifizieren wir vier gängige Anwendungsfälle von Audience Manager und beschreiben die damit verbundenen Best Practices. |
+| [Grundlegendes zu geräteübergreifenden Metriken in Audience Manager](https://docs.adobe.com/content/help/en/audience-manager-learn/tutorials/build-and-manage-audiences/profile-merge/understanding-cross-device-metrics-in-audience-manager.html) | In diesem Video besprechen wir den Unterschied zwischen Geräteprofilen und geräteübergreifenden Profilen und zeigen, wo die Zahlen in der Benutzeroberfläche mit diesen verschiedenen Profiltypen übereinstimmen. |
+| [Grundlegendes zu vorausschauenden Audiences in Audience Manager](https://docs.adobe.com/content/help/en/audience-manager-learn/tutorials/build-and-manage-audiences/algorithmic-models/understanding-predictive-audiences.html) | In diesem Video besprechen wir vorausschauende Audiences in Audience Manager sind, erläutern Einzelheiten zu ihrer Funktionsweise und zeigen Anwendungsfälle auf. |
+| [Konfigurieren von und Erstellung von Berichten über vorausschauende Audiences in Audience Manager](https://docs.adobe.com/content/help/en/audience-manager-learn/tutorials/build-and-manage-audiences/algorithmic-models/configure-and-report-on-predictive-audiences.html) | In diesem Video gehen wir durch die Konfiguration von vorausschauenden Audiences in der Audience Manager-Benutzeroberfläche. Es werden auch die Berichte vorgestellt, die die Ergebnisse des Modells zeigen. |
 
 ## ![Symbol](/assets/aem.png) Experience Manager {#aem}
 
@@ -304,62 +305,62 @@ Neue Funktionen, Fehlerbehebungen und Aktualisierungen in Adobe Experience Manag
 
 ### Produktaktualisierungen
 
-* **AEM als Cloud-Dienst**
+* **AEM as a Cloud Service**
 
-   * Verbesserungen und Fehlerbehebungen bei der Asset-Verarbeitung. Das Dialogfeld &quot;Asset-Wiederaufarbeitung&quot;bietet mehr Kontrolle, ermöglicht die Auswahl eines bestimmten Profils und stellt fest, ob der Arbeitsablauf für die Nachbearbeitung ausgelöst werden soll.
-   * Leistungsverbesserungen bei der Erfassung dynamischer Medienelemente.
+   * Verbesserungen und Fehlerbehebungen bei der Asset-Verarbeitung. Das Dialogfeld für die erneute Verarbeitung von Assets bietet mehr Kontrolle, ermöglicht die Auswahl eines bestimmten Profils und ob der Nachbearbeitungs-Workflow ausgelöst werden soll.
+   * Leistungsverbesserungen bei der Dynamic Media-Asset-Erfassung.
 
 ### Selbsthilfe
 
-* **Automatisierter Forms-Konvertierungsdienst - Version AFC-2020.03.1**
+* **Dienst für die automatische Formularkonvertierung – Version AFC-2020.03.1**
 
-   Eine neue Option ist verfügbar, wenn Sie den neuesten Connector installieren:
+   Bei der Installation des neuesten Connectors ist eine neue Option verfügbar:
 
-   **[!UICONTROL Logische Abschnitte]** automatisch erkennen: Sie können die Option &quot;logische Abschnitte  automatisch erkennen&quot;verwenden, um Bedienfelder auf Seitenebene (auf Seitenzahlen basierende Bedienfelder) abzulegen und nur logische Bedienfelder zu erstellen. Außerdem werden die Felder, die keinem Abschnitt mit vorhergehenden logischen Abschnitten und Feldern eines logischen Abschnitts angehören, der sich über zwei nebeneinander liegende Seiten verteilt, in einen einzigen logischen Abschnitt zusammengefasst. Wenn sich beispielsweise einige Felder eines logischen Abschnitts am Ende der ersten Seite und einige im Beginn der zweiten Seite befinden, werden alle diese Felder in einen einzigen logischen Abschnitt unterteilt.
+   **[!UICONTROL Logische Abschnitte automatisch erkennen]**: Sie können die Option [!UICONTROL Logische Abschnitte automatisch erkennen] verwenden, um Bereiche auf Seitenebene (Bereiche auf Seitenzahlbasis) zu löschen und nur logische Bereiche zu erstellen. Außerdem werden die Felder, die zu keinem Abschnitt mit vorhergehenden logischen Abschnitten gehören, und die Felder eines logischen Abschnitts, der auf zwei benachbarte Seiten verteilt ist, zu einem einzigen logischen Abschnitt zusammengefasst. Wenn sich beispielsweise einige Felder eines logischen Abschnitts am Ende von Seite eins und einige am Anfang von Seite zwei befinden, werden alle diese Felder in einem einzigen logischen Abschnitt zusammengefasst.
 
-* **Nicht unterstützte Bildformate in dynamischen Medien**
+* **Nicht unterstützte Bildformate in Dynamic Media**
 
-   Informationen zu den Untertypen von Rasterbilddateiformaten, die in [!UICONTROL dynamischen Medien]nicht unterstützt werden.
+   Informationen zu den Untertypen von Rastergrafikdateiformaten, die in [!UICONTROL Dynamic Media] nicht unterstützt werden.
 
-   Siehe [Nicht unterstützte Rasterbildformate in dynamischen Medien](https://docs.adobe.com/content/help/en/experience-manager-65/assets/administer/assets-formats.html#unsupported-image-formats-dynamic-media).
+   Siehe [Nicht unterstützte Rasterbildformate in Dynamic Media](https://docs.adobe.com/content/help/de-DE/experience-manager-65/assets/administer/assets-formats.html#unsupported-image-formats-dynamic-media).
 
 * **Inhaltsfragmente**
 
-   Informationen zur Unterstützung von [Inhaltsfragmenten in der AEM Assets-HTTP-API](https://docs.adobe.com/content/help/en/experience-manager-cloud-service/assets/admin/assets-api-content-fragments.html)sowie zum [Anpassen und Erweitern von Inhaltsfragmenten](https://docs.adobe.com/content/help/en/experience-manager-cloud-service/implementing/configuring-and-extending/content-fragments-customizing.html)und zu [Inhaltsfragmenten Konfigurieren von Komponenten für die Wiedergabe](https://docs.adobe.com/content/help/en/experience-manager-cloud-service/implementing/configuring-and-extending/content-fragments-configuring-components-rendering.html).
+   Informationen zur Unterstützung von [Inhaltsfragmenten in der AEM Assets-HTTP-API](https://docs.adobe.com/content/help/de-DE/experience-manager-cloud-service/assets/admin/assets-api-content-fragments.html) sowie zum [Anpassen und Erweitern von Inhaltsfragmenten](https://docs.adobe.com/content/help/de-DE/experience-manager-cloud-service/implementing/configuring-and-extending/content-fragments-customizing.html) und zu [Inhaltsfragmenten, die Komponenten für das Rendering konfigurieren](https://docs.adobe.com/content/help/de-DE/experience-manager-cloud-service/implementing/configuring-and-extending/content-fragments-configuring-components-rendering.html).
 
 * **AEM Experience League-Community**
 
-   Verbindung mit der [AEM Experience League-Community](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-manager/ct-p/adobe-experience-manager-community): Stellen Sie Fragen an andere Lernende und AEM-Experten, durchsuchen Sie Threads und teilen Sie Ihre Tipps und Erfahrungen mit!
+   Verbindung mit der [AEM Experience League-Community](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-manager/ct-p/adobe-experience-manager-community): Stellen Sie Fragen an andere Lernende und AEM-Experten, durchsuchen Sie Threads und tauschen Sie Tipps und Erfahrungen aus!
 
 * **AEM-Newsletter**
 
-   Der AEM-Newsletter von [!UICONTROL Experience League] hilft Ihnen, sich mit AEM auf den neuesten Stand zu bringen, damit Sie sofort Beginn die Wertschöpfung realisieren können. Der aktuelle Newsletter:
+   Der AEM-Newsletter von [!UICONTROL Experience League] soll Ihnen helfen, sich mit AEM vertraut zu machen, damit Sie sofort Nutzen ziehen können. Der aktuelle Newsletter:
 
-   * [Volume 30](https://expleague.azureedge.net/assets/aem/Experience-Insider-vol.30.html): Experience Manager ist jetzt als Cloud-Dienst verfügbar.
+   * [Ausgabe 30](https://expleague.azureedge.net/assets/aem/Experience-Insider-vol.30.html): Experience Manager ist jetzt als Cloud-Dienst verfügbar.
    * [Abonnieren](https://adobeeventsonline.com/AEM/2017/NL/Optin/) Sie den Experience Insider-Newsletter.
-   * Ansicht Newsletter-Archive im Bereich [AEM-Ressourcen](https://helpx.adobe.com/de/support/experience-manager/6-5.html) auf der Seite &quot;Training &amp; Support&quot;von Adobe Experience Manager 6.5.
+   * Die Newsletter-Archive finden Sie im Bereich [AEM-Ressourcen](https://helpx.adobe.com/de/support/experience-manager/6-5.html) auf der Seite „Adobe Experience Manager 6.5 – Schulungsmaterialien und Support“.
 
 ### Neue Experience Manager-Tutorials
 
 | Inhalt | Beschreibung |
 | -----------| ---------- |  
-| [Lokale AEM-Laufzeit einrichten](https://docs.adobe.com/content/help/en/experience-manager-learn/cloud-service/local-development-environment-set-up/aem-runtime.html) | Adobe Experience Manager (AEM) can be run locally using the [!UICONTROL AEM as a Cloud Service] SDK&#39;s [!UICONTROL Quickstart Jar]. This allows developers to deploy to, and test custom code, configuration, and content prior to committing it to source control, and deploying it to a [!UICONTROL AEM as a Cloud Service] environment. |
-| [Erste Schritte mit AEM Assets](https://video.tv.adobe.com/v/33624?captions=ger) | Ein Einführungsvideo zu den ersten Schritten mit AEM Assets für Geschäftsbenutzer. |
-| [Schema des Metadatenordners](https://docs.adobe.com/content/help/en/experience-manager-learn/assets/configuring/metadata-folder-schemas.html) | Mit den Metadaten-Ordnern können Schema Metadaten verwalten und überprüfen, die mit Asset-Ordnern selbst verknüpft sind, und nicht direkt auf Assets. |
-| [Tagging](https://docs.adobe.com/content/help/en/experience-manager-learn/assets/configuring/tagging.html) | Tags sind ein integrales Werkzeug zur Verwaltung von Assets in der Ordnerhierarchie von Assets. Die Einrichtung einer Tagging-Taxonomie ist entscheidend, damit Benutzer Assets in AEM finden und organisieren können. |
-| [Metadatenprofile](https://docs.adobe.com/content/help/en/experience-manager-learn/assets/configuring/metadata-profiles.html) | Metadaten-Profil ermöglichen die automatische Anwendung von Standardmetadaten auf Assets in Asset-Ordnern. Dadurch wird die Belastung der AEM-Benutzer durch das Metadatenmanagement verringert und die Konsistenz der Metadaten erhöht. |
-| [Metadatenschemata](https://docs.adobe.com/content/help/en/experience-manager-learn/assets/configuring/metadata-schemas.html) | Metadaten-Schema definieren die Schnittstelle, über die Asset-Metadaten in AEM verfügbar gemacht werden. In diesem Video wird die Kombination von Ansätzen zum Anwenden von Assets untersucht. |
+| [Einrichten lokaler AEM-Laufzeitumgebungen](https://docs.adobe.com/content/help/en/experience-manager-learn/cloud-service/local-development-environment-set-up/aem-runtime.html) | Adobe Experience Manager (AEM) kann lokal mithilfe der [!UICONTROL Quickstart Jar]-Datei der [!UICONTROL AEM as a Cloud Service]-SDK ausgeführt werden. Auf diese Weise können Entwickler benutzerdefinierten Code, Konfigurationen und Inhalte bereitstellen und testen, bevor sie sie der Quellcode-Kontrolle übergeben und in einer [!UICONTROL AEM as a Cloud Service]-Umgebung bereitstellen. |
+| [Erste Schritte mit AEM Assets](https://video.tv.adobe.com/v/33624?captions=ger) | Ein Einführungsvideo zu den ersten Schritten mit AEM Assets für Unternehmenskunden. |
+| [Metadatenordnerschemata](https://docs.adobe.com/content/help/en/experience-manager-learn/assets/configuring/metadata-folder-schemas.html) | Mit Metadatenordnerschemata können Benutzer Metadaten, die mit Asset-Ordnern verknüpft sind, selbst verwalten und überprüfen, anstatt direkt mit den Assets zu arbeiten. |
+| [Tagging](https://docs.adobe.com/content/help/en/experience-manager-learn/assets/configuring/tagging.html) | Tags sind ein integrales Tool zur Verwaltung von Assets über die Ordnerhierarchie der Assets hinweg. Die Einrichtung einer Tagging-Taxonomie ist entscheidend, damit Benutzer Assets in AEM finden und organisieren können. |
+| [Metadatenprofile](https://docs.adobe.com/content/help/en/experience-manager-learn/assets/configuring/metadata-profiles.html) | Metadatenprofile ermöglichen die automatische Anwendung von Standardmetadaten auf Assets in Asset-Ordnern. Dies reduziert den Aufwand der AEM-Benutzer für die Metadatenverwaltung und erhöht die Metadatenkonsistenz. |
+| [Metadatenschemata](https://docs.adobe.com/content/help/en/experience-manager-learn/assets/configuring/metadata-schemas.html) | Metadatenschema definieren die Schnittstelle, über die Asset-Metadaten in AEM verfügbar gemacht werden. In diesem Video wird die Kombination von Ansätzen zum Anwenden von Assets beschrieben. |
 
 ### Zusätzliche Ressourcen
 
-* [Versionshinweise zu AEM als Cloud-Dienst](https://docs.adobe.com/content/help/en/experience-manager-cloud-service/release-notes/release-notes/release-notes-current.html)
+* [Versionshinweise für AEM as a Cloud Service](https://docs.adobe.com/content/help/de-DE/experience-manager-cloud-service/release-notes/release-notes/release-notes-current.html)
 * [Dokumentation zu AEM as a Cloud Service](https://docs.adobe.com/content/help/de-DE/experience-manager-cloud-service/landing/home.html)
 * [AEM 6.5 Schulung und Support – Startseite](https://helpx.adobe.com/de/support/experience-manager/6-5.html)
 * [AEM 6.4 Schulung und Support – Startseite](https://helpx.adobe.com/de/support/experience-manager/6-4.html)
 * [AEM 6.3 Schulung und Support – Startseite](https://helpx.adobe.com/de/support/experience-manager/6-3.html)
 * [AEM 6.2 Schulung und Support – Startseite](https://helpx.adobe.com/de/support/experience-manager/6-2.html)
 * [Cloud Manager-Benutzerhandbuch](https://docs.adobe.com/content/help/de-DE/experience-manager-cloud-manager/using/introduction-to-cloud-manager.html)
-* [Versionshinweise zu AEM Cloud Manager](https://docs.adobe.com/content/help/de-DE/experience-manager-cloud-manager/using/release-notes/release-notes-current.html)
+* [Versionshinweise für AEM Cloud Manager](https://docs.adobe.com/content/help/de-DE/experience-manager-cloud-manager/using/release-notes/release-notes-current.html)
 * [Ältere Versionen der AEM-Dokumentation](https://helpx.adobe.com/de/experience-manager/aem-previous-versions.html)
 * [Startseite der Hilfe zu Dynamic Media Classic](https://docs.adobe.com/content/help/de-DE/dynamic-media-classic/using/home.html)
 * [Versionshinweise zu Dynamic Media](https://docs.adobe.com/content/help/de-DE/dynamic-media-developer-resources/release-notes/s7rn2017.html)
@@ -375,15 +376,15 @@ Adobe Campaign bietet die Möglichkeit, direkte Nachrichten über Online- und O
 
 ### Campaign Classic
 
-* [Adobe Campaign Classic 20.1.3](https://docs.adobe.com/content/help/en/campaign-classic/using/release-notes/latest-release.html#release-20-1-3-build-9124)
+* [Adobe Campaign Classic 20.1.3](https://docs.adobe.com/content/help/de-DE/campaign-classic/using/release-notes/latest-release.html#release-20-1-3-build-9124)
 * [Adobe Campaign Classic 19.1.4](https://docs.adobe.com/content/help/de-DE/campaign-classic/using/release-notes/previous-releases/release--19-1.html#release-19-1-4-build-9032)
 
 ### Kampagne-Systemsteuerung
 
 | Funktion | Beschreibung |
 | -----------| ---------- |  
-| GPG-Schlüsselverwaltung | Installieren und/oder Generieren von GPG-Schlüsseln in einer Marketing-Instanz, um von Campaign gesendete Daten zu verschlüsseln und eingehende Daten zu entschlüsseln. |
-| Zertifikatverwaltung für CNAME-Subdomains | Das Control Panel ermöglicht es Ihnen jetzt, die SSL-Zertifikate Ihrer Subdomains zu erneuern, die mit der CNAME-Methode zugewiesen wurden. |
+| GPG-Schlüsselverwaltung | Installieren und/oder generieren Sie GPG-Schlüssel in einer Marketing-Instanz, um von Campaign gesendete Daten zu verschlüsseln und eingehende Daten zu entschlüsseln. |
+| Zertifikatverwaltung für CNAME-Subdomänen | Über Control Panel können Sie jetzt die SSL-Zertifikate Ihrer Subdomänen erneuern, die mit der CNAME-Methode zugewiesen wurden. |
 
 ### Neue Kampagnenübungen
 
@@ -391,16 +392,16 @@ Adobe Campaign bietet die Möglichkeit, direkte Nachrichten über Online- und O
 
 | Inhalt | Beschreibung |
 | -----------| ---------- |  
-| [Systemsteuerung - Google TXT-Datensatzverwaltung](https://docs.adobe.com/content/help/en/campaign-standard-learn/tutorials/administrating/control-panel/google-txt-record-management.html) | Erfahren Sie, wie Sie Google TXT-Site-Überprüfungsdatensätze zu allen Subdomänen hinzufügen, die zum Senden von E-Mails an GMAIL-Adressen mit der Kampagne Control Panel verwendet werden. |
-| [Konfigurieren und Ausführen eines Workflows mit der Aktivität &quot;Externe API&quot;](https://docs.adobe.com/content/help/en/campaign-standard-learn/tutorials/managing-processes-and-data/data-management-activities/external-api-activity.html) | Erfahren Sie, wie Sie einen externen REST-API-Endpunkt mit der Aktivität &quot;External API&quot;aufrufen. |
-| [Erste Schritte mit Push-Benachrichtigungen für Android-Tutorial](https://docs.adobe.com/content/help/en/campaign-standard-learn/getting-started-with-push-notifications-android/introduction.html) | In diesem Lernprogramm werden die Schritte erläutert, die zum Einrichten von Push-Benachrichtigungen mit Campaign Standard und der Android-App erforderlich sind. |
+| [Control Panel – Verwaltung von Google TXT-Einträgen](https://docs.adobe.com/content/help/en/campaign-standard-learn/tutorials/administrating/control-panel/google-txt-record-management.html) | Erfahren Sie, wie Sie allen Subdomains, die zum Senden von E-Mails an Gmail-Adressen über das Campaign Control Panel verwendet werden, einen Eintrag der TXT-Websiteüberprüfung von Google hinzufügen. |
+| [Konfigurieren und Ausführen eines Workflows mit der Aktivität „Externe API“](https://docs.adobe.com/content/help/en/campaign-standard-learn/tutorials/managing-processes-and-data/data-management-activities/external-api-activity.html) | Erfahren Sie, wie Sie einen externen REST-API-Endpunkt mit der Aktivität „External API“ aufrufen. |
+| [Tutorial zu den ersten Schritten mit Push-Benachrichtigungen für Android](https://docs.adobe.com/content/help/en/campaign-standard-learn/getting-started-with-push-notifications-android/introduction.html) | In diesem Lernprogramm werden die Schritte erläutert, die zum Einrichten von Push-Benachrichtigungen mit Campaign Standard und der Android-App erforderlich sind. |
 
-* Neue Kampagnen-Classic-Tutorials
+* Neue Tutorials für Campaign Classic
 
 | Inhalt | Beschreibung |
 | -----------| ---------- |  
-| [Großes Data Management auf Schneeflocke](https://docs.adobe.com/content/help/en/campaign-classic-learn/tutorials/administrating/fda/big-data-segmentation-on-snowflake.html) | Erfahren Sie, wie Sie den Snowflake-Connector in Adobe Campaign Classic nutzen können. |
-| [Systemsteuerung - Google TXT-Datensatzverwaltung](https://docs.adobe.com/content/help/en/campaign-classic-learn/tutorials/administrating/control-panel-acc/google-txt-record-management.html) | Erfahren Sie, wie Sie Google TXT-Site-Überprüfungsdatensätze zu allen Subdomänen hinzufügen, die zum Senden von E-Mails an GMAIL-Adressen mit der Kampagne Control Panel verwendet werden. |
+| [Big Data-Management mit Snowflake](https://docs.adobe.com/content/help/en/campaign-classic-learn/tutorials/administrating/fda/big-data-segmentation-on-snowflake.html) | Erfahren Sie, wie Sie den Snowflake-Connector in Adobe Campaign Classic nutzen können. |
+| [Control Panel – Verwaltung von Google TXT-Einträgen](https://docs.adobe.com/content/help/en/campaign-classic-learn/tutorials/administrating/control-panel-acc/google-txt-record-management.html) | Erfahren Sie, wie Sie allen Subdomains, die zum Senden von E-Mails an Gmail-Adressen über das Campaign Control Panel verwendet werden, einen Eintrag der TXT-Websiteüberprüfung von Google hinzufügen. |
 
 ### Kampagne-Hilferessourcen
 
@@ -411,25 +412,25 @@ Adobe Campaign bietet die Möglichkeit, direkte Nachrichten über Online- und O
 ## ![Symbol](/assets/advertising-cloud.png) Advertising Cloud {#adcloud}
 
 * [Neue Funktionen in Advertising Cloud DSP](#adcloud-dsp)
-* [Neue Funktionen in der Advertising Cloud-Suche](#adcloud-search)
+* [Neue Funktionen in Advertising Cloud Search](#adcloud-search)
 
 ### Neue Funktionen in Advertising Cloud DSP {#adcloud-dsp}
 
 | Funktion | Beschreibung |
 | -----------| ---------- |
-| [!UICONTROL Kampagnen Classic] und [!UICONTROL Kampagnen Beta] | Die IAS-Messungseinstellungen für Betrug und Markensicherheit, die Sie optional für jede Kampagne konfigurieren können, enthalten nun Optionen zur Messung des VAST- und VPAID-Bestands. |
-| [!UICONTROL Kampagnen Beta] | Datenvisualisierungen und Seitenladezeiten wurden verbessert. |
+| [!UICONTROL Campaign Classic] und [!UICONTROL Campaign-Beta] | Die IAS-Messeinstellungen für Betrug und Markensicherheit, die Sie optional für jede Kampagne konfigurieren können, enthalten nun Optionen zur Messung des VAST- und VPAID-Bestands. |
+| [!UICONTROL Campaign-Beta] | Datenvisualisierungen und Seitenladezeiten wurden verbessert. |
 |  | Auf allen Seiten können Sie jetzt Excel-Berichte herunterladen, die auf den aktuellen Filtern und Ansichten basieren. |
-|  | (Version vom 22. Mai) Zu den neuen Metriken zählen &quot;Allzeitmetriken&quot;, &quot;Aktuelles Intervall&quot;, &quot;Datumsspezifische OTS&quot;. |
-| [!UICONTROL Blacklists] | Das Prognosesystem verwendet nun automatisch die schwarze Liste auf Advertiser- oder Kontoebene. Benutzer müssen die schwarze Liste nicht mehr in die Platzierungseinstellungen einfügen. |
-| [!UICONTROL Lagerbestandsgeschäfte] | (Geschlossene Betaversion) Mit einem neuen vereinfachten Formular können Sie schnell und einfach angebotsseitige Plattformgeschäfte (SSPs) einrichten, bearbeiten und beheben, die nicht im Posteingang &quot;Deal ID&quot;verfügbar sind. |
-|  | Wenn Sie ein Paket mit programmgesteuerten, garantierten Deals im Deal-ID-Posteingang akzeptieren, werden Sie jetzt darauf hingewiesen, dass Sie für jede der Deal-IDs eine Standardplatzierung erstellen müssen. |
+|  | (Version vom 22. Mai) Zu den neuen Metriken zählen Allzeit-Metriken, Metriken zur aktuellen Intervallbereitstellung und datumsspezifische OTS=-Metriken. |
+| [!UICONTROL Blacklists] | Das Prognosesystem verwendet nun automatisch die Blacklist auf Advertiser- oder Kontoebene. Benutzer müssen die Blacklist nicht mehr in die Platzierungseinstellungen einfügen. |
+| [!UICONTROL Inventarangebote] | (Geschlossene Betaversion) Mit einem neuen, vereinfachten Formular können Sie schnell SSP (Supply Side Platform)-Angebote einrichten, bearbeiten und Fehler beheben, die nicht im Posteingang der Angebots-ID verfügbar sind. |
+|  | Wenn Sie ein Paket programmgesteuerter garantierter Angebote im Posteingang der Angebots-ID akzeptieren, werden Sie jetzt benachrichtigt, dass Sie für jede Angebots-ID eine Standardplatzierung erstellen müssen. |
 
-### Neue Funktionen in der [!UICONTROL Advertising Cloud-Suche] {#adcloud-search}
+### Neue Funktionen in [!UICONTROL Advertising Cloud Search] {#adcloud-search}
 
 | Funktion | Beschreibung |
 | -----------| ---------- |
-| [!UICONTROL Kampagnen] | (Google Ads-Konten; Beta-Dienst) Ab Ende Mai kann die Advertising Cloud Search Daten für Ihre Google Gmail-Display-Kampagnen und Ihre Google Smart Shopping-Kampagnen mit Google-Konversionen für die Verfolgung und den Berichte synchronisieren. Der Dienst ermöglicht Ihnen auch, die Einstellungen für die Kampagne und die Anzeigengruppen für Ihre bestehenden Kampagnen in den Ansichten &quot;Kampagnen&quot;und &quot;Anzeigengruppen&quot;zu bearbeiten. Der Dienst ist optional. Sobald der Service allgemein verfügbar ist, wird eine zusätzliche Gebühr erhoben.<br>Weitere Informationen zum Dienst, einschließlich des Beta-Programms und des zukünftigen Anwendungsbereichs, erhalten Sie von Ihrem Adobe-Kundenbetreuer. |
+| [!UICONTROL Kampagnen] | (Google Ads-Konten; Beta-Dienst) Ab Ende Mai kann Advertising Cloud Search Daten für Ihre Google Gmail-Display-Kampagnen und Ihre Google Smart Shopping-Kampagnen mit Google-Konversionen für Tracking und Berichterstellung synchronisieren. Mit dem Dienst können Sie auch die Kampagneneinstellungen und Anzeigengruppeneinstellungen für Ihre vorhandenen Kampagnen in den Ansichten „Kampagnen“ und „Anzeigengruppen“ bearbeiten. Der Dienst ist optional. Sobald der Dienst allgemein verfügbar ist, wird eine zusätzliche Gebühr erhoben.<br>Weitere Informationen zu diesem Service, einschließlich des Betaprogramms und dem zukünftigen Umfang, erhalten Sie von Ihrem Adobe-Kundenbetreuer. |
 
 ## ![Symbol](/assets/magento.png) [!DNL Magento] {#magento}
 
@@ -444,7 +445,7 @@ Magento-Versionshinweise finden Sie unter:
 
 ### Aktualisierungen von Core Marketo Engage
 
-Aktuelle Versionsinformationen finden Sie in den [!DNL Marketo] Versionshinweisen [](https://docs.marketo.com/display/public/DOCS/Release+Notes%3A+Feb+%2720) .
+Die aktuellen Versionsinformationen finden Sie in den [!DNL Marketo] [Versionshinweisen](https://docs.marketo.com/display/public/DOCS/Release+Notes%3A+Feb+%2720).
 
 ### Bevorstehende Funktionen
 
