@@ -5,10 +5,10 @@ doc-type: release notes
 last-update: May 2020
 author: mfrei
 translation-type: tm+mt
-source-git-commit: be366e4ce14fe1f095ba60b85cc9adcd633cb3eb
+source-git-commit: fd2f8976431bd49e32939414b71f08edbe9e245e
 workflow-type: tm+mt
-source-wordcount: '5040'
-ht-degree: 38%
+source-wordcount: '5159'
+ht-degree: 37%
 
 ---
 
@@ -25,12 +25,12 @@ Diese Seite enthält neue Funktionen, Fehlerbehebungen und wichtige Hinweise in 
 
 **Veröffentlichungsdatum: 2020. Mai**
 
-Neueste Aktualisierung: **26. Mai 2020**
+Neueste Aktualisierung: **27. Mai 2020**
 
 * [Systemstatus von Adobe](#status)
 * [Experience Cloud-Benutzeroberfläche](#ecloud)
 * [Experience Platform](#platform)
-* [!DNL Analytics](#analytics) (**Aktualisiert am 26. Mai 2020**)
+* [!DNL Analytics](#analytics) (**Aktualisiert am 27. Mai 2020**)
 * [Audience Manager](#aam)
 * [Experience Manager](#aem)
 * [!DNL Campaign](#ac)
@@ -137,8 +137,11 @@ Mithilfe der Adobe Experience Platform können Sie individuelle Customer Journey
 
 ## ![Symbol](/assets/analytics.png) [!DNL Analytics] {#analytics}
 
+Updated **May 27, 2020**
+
 * [Neue Funktionen in Customer Journey Analytics](#cust-journey)
 * [Neue Funktionen in Adobe Analytics](#aa-features)
+* [Neue Funktionen in Media Analytics](#media-aa) (**aktualisiert am 27. Mai 2020**)
 * [Wichtige Hinweise für Analytics-Administratoren](#aa-notices) (**aktualisiert am 26. Mai 2020**)
 * [Fehlerbehebungen](#aa-fixes) in Adobe Analytics (**Aktualisiert 21. Mai 2020**)
 * [AppMeasurement](#appm)
@@ -163,6 +166,18 @@ First-Party Domains Available in China RDC: Enables customers with a cn domain t
 | [!UICONTROL Workspace][!UICONTROL : Freiformtabellen können automatisch in einem leeren Projekt erstellt werden.] | Previously, you could not drop components directly into a blank project or blank panel; you had to add a [!UICONTROL Freeform Table] first. You can now drop components directly into a blank project or panel, and a [!UICONTROL Freeform Table] is automatically built for you in a recommended format. Darüber hinaus wurden Verbesserungen daran vorgenommen, wie gemischte Komponententypen (wie Dimensionen und Metriken) behandelt werden, wenn sie zusammen in eine leere Freiformtabelle abgelegt werden. |
 | [!UICONTROL Adobe Analytics-Paket] zur Seite &quot; [!UICONTROL Funktionenzugriffsstufe] &quot;hinzugefügt | Sie können jetzt Ansichten darüber erstellen, für welches [!UICONTROL Adobe Analytics-Paket] (SKU) Ihre Firma unter **[!UICONTROL Admin]** > **[!UICONTROL Firma-Einstellungen]** > **[!UICONTROL Funktionenzugriffsstufe]** berechtigt ist. |
 | Verbesserungen der Zugänglichkeit | Das Adobe Analytics-Team hat verschiedene Verbesserungen an der Barrierefreiheit in Analyse Workspace vorgenommen, darunter verbesserte Tastaturnavigation, Farbkontrast und Unterstützung für Bildschirmlesehilfen. |
+
+#### New features in [!UICONTROL Media Analytics] {#media-aa}
+
+Date added: **May 27, 2020**
+
+**Player-Statusverfolgung:** [!UICONTROL Media Analytics] -Kunden können die Interaktion mit dem Viewer während der Wiedergabe mit einem Standardsatz von Lösungsvariablen für Vollbild, Untertitel, Stummschaltung, Bild-in-Bild und im Fokus erfassen. Sie haben auch die Flexibilität, benutzerdefinierte Player-Status zu erstellen. Player-Statusverfolgungsvariablen sind jetzt für den Berichte in [!UICONTROL Analyse Workspace]verfügbar. Diese Funktion erfordert eine der folgenden Funktionen:
+
+* Media [!DNL JavaScript] SDK 3.0 oder höher
+* Zur Verwendung mit dem [!DNL Adobe Experience Platform] (AEP-)SDK:
+   * [!UICONTROL Media Analytics Extension] (für Web): [!UICONTROL Adobe Media Analytics] (3.x SDK) für Audio und Video v1.0 oder höher
+   * [!UICONTROL Media Analytics Extension] (für Mobilgeräte): [!UICONTROL Adobe Media Analytics für Audio] und Video v2.0 oder höher
+* [!UICONTROL Mediensammlungs-API]
 
 #### Fehlerbehebungen in Adobe Analytics {#aa-fixes}
 
@@ -320,7 +335,7 @@ Neue Funktionen, Fehlerbehebungen und Aktualisierungen in Adobe Experience Manag
 
    * [Volume 30](https://expleague.azureedge.net/assets/aem/Experience-Insider-vol.30.html): Experience Manager ist jetzt als Cloud-Dienst verfügbar.
    * [Abonnieren](https://adobeeventsonline.com/AEM/2017/NL/Optin/) Sie den Experience Insider-Newsletter.
-   * Ansicht Newsletter-Archive im Bereich [AEM-Ressourcen](https://helpx.adobe.com/de/support/experience-manager/6-5.html) auf der Seite &quot;Training &amp; Support&quot;von Adobe Experience Manager 6.5.
+   * Ansicht Newsletter-Archive im Bereich [AEM-Ressourcen](https://helpx.adobe.com/de/support/experience-manager/6-5.html) auf der Seite &quot;Training und Support&quot;von Adobe Experience Manager 6.5.
 
 ### Neue Experience Manager-Tutorials
 
