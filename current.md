@@ -5,10 +5,10 @@ doc-type: release notes
 last-update: May 2020
 author: mfrei
 translation-type: tm+mt
-source-git-commit: fd2f8976431bd49e32939414b71f08edbe9e245e
+source-git-commit: 0256f7a16a4a3b0909d83256d82e5f44cafa43da
 workflow-type: tm+mt
-source-wordcount: '5159'
-ht-degree: 37%
+source-wordcount: '5042'
+ht-degree: 38%
 
 ---
 
@@ -141,7 +141,7 @@ Updated **May 27, 2020**
 
 * [Neue Funktionen in Customer Journey Analytics](#cust-journey)
 * [Neue Funktionen in Adobe Analytics](#aa-features)
-* [Neue Funktionen in Media Analytics](#media-aa) (**aktualisiert am 27. Mai 2020**)
+<!-- * [New features in Media Analytics](#media-aa) (**Updated May 27, 2020**) -->
 * [Wichtige Hinweise für Analytics-Administratoren](#aa-notices) (**aktualisiert am 26. Mai 2020**)
 * [Fehlerbehebungen](#aa-fixes) in Adobe Analytics (**Aktualisiert 21. Mai 2020**)
 * [AppMeasurement](#appm)
@@ -167,17 +167,17 @@ First-Party Domains Available in China RDC: Enables customers with a cn domain t
 | [!UICONTROL Adobe Analytics-Paket] zur Seite &quot; [!UICONTROL Funktionenzugriffsstufe] &quot;hinzugefügt | Sie können jetzt Ansichten darüber erstellen, für welches [!UICONTROL Adobe Analytics-Paket] (SKU) Ihre Firma unter **[!UICONTROL Admin]** > **[!UICONTROL Firma-Einstellungen]** > **[!UICONTROL Funktionenzugriffsstufe]** berechtigt ist. |
 | Verbesserungen der Zugänglichkeit | Das Adobe Analytics-Team hat verschiedene Verbesserungen an der Barrierefreiheit in Analyse Workspace vorgenommen, darunter verbesserte Tastaturnavigation, Farbkontrast und Unterstützung für Bildschirmlesehilfen. |
 
-#### New features in [!UICONTROL Media Analytics] {#media-aa}
+<!-- #### New features in [!UICONTROL Media Analytics] {#media-aa}
 
 Date added: **May 27, 2020**
 
-**Player-Statusverfolgung:** [!UICONTROL Media Analytics] -Kunden können die Interaktion mit dem Viewer während der Wiedergabe mit einem Standardsatz von Lösungsvariablen für Vollbild, Untertitel, Stummschaltung, Bild-in-Bild und im Fokus erfassen. Sie haben auch die Flexibilität, benutzerdefinierte Player-Status zu erstellen. Player-Statusverfolgungsvariablen sind jetzt für den Berichte in [!UICONTROL Analyse Workspace]verfügbar. Diese Funktion erfordert eine der folgenden Funktionen:
+**Player State Tracking:** [!UICONTROL Media Analytics] customers can capture viewer interaction during playback using a standard set of solution variables for full screen, closed captioning, mute, picture-in-picture, and in-focus. You also have the flexibility to create custom player states. Player State Tracking variables are now available for reporting in [!UICONTROL Analysis Workspace]. This feature requires one of the following:
 
-* Media [!DNL JavaScript] SDK 3.0 oder höher
-* Zur Verwendung mit dem [!DNL Adobe Experience Platform] (AEP-)SDK:
-   * [!UICONTROL Media Analytics Extension] (für Web): [!UICONTROL Adobe Media Analytics] (3.x SDK) für Audio und Video v1.0 oder höher
-   * [!UICONTROL Media Analytics Extension] (für Mobilgeräte): [!UICONTROL Adobe Media Analytics für Audio] und Video v2.0 oder höher
-* [!UICONTROL Mediensammlungs-API]
+* Media [!DNL JavaScript] SDK 3.0 or higher
+* For use with the [!DNL Adobe Experience Platform] (AEP) SDK:
+  * [!UICONTROL Media Analytics Extension] (for web): [!UICONTROL Adobe Media Analytics] (3.x SDK) for Audio and Video v1.0 or higher
+  * [!UICONTROL Media Analytics Extension] (for mobile): [!UICONTROL Adobe Media Analytics for Audio] and Video v2.0 or higher
+* [!UICONTROL Media Collection] API -->
 
 #### Fehlerbehebungen in Adobe Analytics {#aa-fixes}
 
