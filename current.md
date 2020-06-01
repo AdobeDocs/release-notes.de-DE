@@ -5,10 +5,10 @@ doc-type: release notes
 last-update: May 2020
 author: mfrei
 translation-type: tm+mt
-source-git-commit: 8e6be9e0d672aceac0cb99ec0973de6122e3ad51
+source-git-commit: 6c9c4b782fdf3dc9283d98d78d459bd38fef648d
 workflow-type: tm+mt
-source-wordcount: '5212'
-ht-degree: 88%
+source-wordcount: '5322'
+ht-degree: 87%
 
 ---
 
@@ -25,12 +25,12 @@ Auf dieser Seite finden Sie neue Funktionen, Fehlerbehebungen und wichtige Hinwe
 
 **Veröffentlichungsdatum: 2020. Mai**
 
-Neueste Aktualisierung: **29. Mai 2020**
+Neueste Aktualisierung: **1. Juni 2020**
 
 * [Systemstatus von Adobe](#status)
 * [Experience Cloud-Benutzeroberfläche](#ecloud)
 * [Experience Platform](#platform)
-* [!DNL Analytics](#analytics) (**Aktualisiert am 29. Mai 2020**)
+* [!DNL Analytics](#analytics) (**Aktualisiert am 1. Juni 2020**)
 * [Audience Manager](#aam)
 * [Experience Manager](#aem)
 * [!DNL Campaign](#ac)
@@ -142,7 +142,7 @@ Updated **May 29, 2020**
 * [Neue Funktionen in Customer Journey Analytics](#cust-journey)
 * [Neue Funktionen in Adobe Analytics](#aa-features)
 * [Neue Funktionen in Media Analytics](#media-aa) (**aktualisiert am 29. Mai 2020**)
-* [Wichtige Hinweise für Analytics-Administratoren](#aa-notices) (**aktualisiert am 26. Mai 2020**)
+* [Wichtige Hinweise für Analytics-Administratoren](#aa-notices) (**Aktualisiert 1. Juni 2020**)
 * [Fehlerbehebungen](#aa-fixes) in Adobe Analytics (**Aktualisiert 21. Mai 2020**)
 * [AppMeasurement](#appm)
 * [Neue Analytics-Tutorials](#tutorials-analytics)
@@ -226,6 +226,7 @@ AN-101871, AN-115525; AN-123869; AN-152580; AN-160480; AN-178128; AN-186907; AN-
 
 | Hinweis | Hinzugefügt oder aktualisiert am | Beschreibung |
 | -----------| ---------- | ---------- |
+| Migration zu einer einheitlichen Produktdomäne | Datum des In-Kraft-Tretens: 28. Mai 2020 | Die Migration zu einer einheitlichen Produktdomäne für Adobe Analytics, die im Januar 2020 begann, wurde am 28. Mai 2020 abgeschlossen. Während Adobe Analytics alle `omniture.com` Domänenverweise aus seiner Architektur entfernt, ist es wichtig, die Whitelist `omniture.com` als Drittanbieter-Cookie zu verwenden. Wenn die Migration der vollständigen Architektur (bald) abgeschlossen ist, werden wir Sie über die Versionshinweise benachrichtigen und dieser Schritt der Whitelist ist nicht mehr erforderlich. [Hier](https://helpx.adobe.com/analytics/kb/adobe-ip-addresses.html) finden Sie eine vollständige Liste der empfohlenen IP-Adressen und Domänen, die Sie als Whitelist verwenden sollten.<br>Wenn Ihr Unternehmen Drittanbieter-Cookies blockiert, wenden Sie sich an den Kundendienst, um Ihren Zugriff auf Adobe Analytics wiederzuerlangen. |
 | Neue Adobe Analytics-Standard-Landingpage | Datum des Inkrafttretens: 18. Juni 2020 | Am 18. Juni 2020 ändert sich die standardmäßige Landingpage für Adobe Analytics von [!UICONTROL Reports] in [!UICONTROL Workspace]. Diese Änderung tritt für alle Benutzer auf, die zuvor keine benutzerdefinierte Landingpage festgelegt haben. |
 | Whitelist zur Drittanbieter-Technologie | (Gültiges Datum: 12. März 2020 | Adobe Analytics hat begonnen, Technologien von Drittanbietern für die Verwaltung von Funktionen und die Unterstützung von In-Produkt-Produkten zu nutzen. Die folgenden URLs sollten zu allen erforderlichen Netzwerk-Firewall-Whitelists hinzugefügt werden, um den vollen Funktionenzugriff sicherzustellen:<ul><li>Gainsight: https://esp.aptrinsic.com</li><li>LaunchDarkly: https://app.launchdarkly.com</li></ul> |
 | Verbesserte Redundanz für Analyse Workspace-Verfügbarkeit | 21. Mai 2020 | Um die Verfügbarkeit von Analyse Workspace sicherzustellen, fügen wir ein sekundäres CDN (Content Versand Network) hinzu, um die Redundanz zu verbessern. Die folgenden URLs sollten zu allen erforderlichen Netzwerk-Firewall-Whitelists hinzugefügt werden:<ul><li>https://aaui-879784980514.s3.us-east-2.amazonaws</li><li>https://d30ln29764hddd.cloudfront.net</li><li>https://awaascicdprodva7.blob.core.windows.net</li><li>https://aauicdnva7.azureedge.net</li></ul> |
@@ -379,7 +380,7 @@ Adobe Campaign bietet die Möglichkeit, direkte Nachrichten über Online- und O
 * [Adobe Campaign Classic 20.1.3](https://docs.adobe.com/content/help/de-DE/campaign-classic/using/release-notes/latest-release.html#release-20-1-3-build-9124)
 * [Adobe Campaign Classic 19.1.4](https://docs.adobe.com/content/help/de-DE/campaign-classic/using/release-notes/previous-releases/release--19-1.html#release-19-1-4-build-9032)
 
-### Kampagne-Systemsteuerung
+### Campaign Control Panel
 
 | Funktion | Beschreibung |
 | -----------| ---------- |  
