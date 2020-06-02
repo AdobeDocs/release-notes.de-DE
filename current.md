@@ -5,9 +5,9 @@ doc-type: release notes
 last-update: May 2020
 author: mfrei
 translation-type: tm+mt
-source-git-commit: 4e1e40af6c04665ce8a44e4fb30156da2d5d9357
+source-git-commit: 9ca2b181b020052ec1f2cc968e9c2cf1bdfa7fdc
 workflow-type: tm+mt
-source-wordcount: '5379'
+source-wordcount: '5386'
 ht-degree: 86%
 
 ---
@@ -137,8 +137,6 @@ Mithilfe der Adobe Experience Platform können Sie individuelle Customer Journey
 
 ## ![Symbol](/assets/analytics.png) [!DNL Analytics] {#analytics}
 
-Updated **May 29, 2020**
-
 * [Neue Funktionen in Customer Journey Analytics](#cust-journey)
 * [Neue Funktionen in Adobe Analytics](#aa-features) (**Updated June 2, 2020**)
 * [Neue Funktionen in Media Analytics](#media-aa) (**aktualisiert am 29. Mai 2020**)
@@ -158,11 +156,11 @@ Updated **May 29, 2020**
 
 <!--First-Party Domains Available in China RDC: Enables customers with a cn domain to request a 1st-party domain for use inside of Mainland China. Learn more... -->
 
-| Funktion | Allgemeines Verfügbarkeitsdatum | Beschreibung |
+| Funktion | [Zielgruppe - Allgemeines Verfügbarkeitsdatum](https://docs.adobe.com/content/help/en/analytics/landing/an-releases.html) | Beschreibung |
 | -----------| ------------ | ---------- |
 | Bulk Data Insertion API | 31. Mai 2020 | Ermöglicht die einfache und unabhängige Erfassung von Analytics-Datenstapeln. Nützlich für serverseitige und Offlinedaten. [Mehr Infos...](https://www.adobe.io/apis/experiencecloud/analytics/docs.html#!AdobeDocs/analytics-2.0-apis/master/bdia.md) |
 | Analytics-Unterstützung für [!UICONTROL Adobe Experience Platform-Edge-Netzwerk] | 31. Mai 2020 | Ermöglicht die Verwendung eines einzelnen Tags zum Senden von Daten an mehrere Adobe-Lösungen, z. B. Adobe Analytics, Adobe Target, Adobe Audience Manager, Adobe Experience Platform Data Lake, Unified Profile und Experience Cloud ID-Dienst. [Mehr Infos...](https://docs.adobe.com/content/help/en/experience-platform/edge/solutions/analytics/analytics-overview.html) |
-| [!UICONTROL Adobe Analytics-Dashboards] | 31. Mai 2020 | [!UICONTROL Adobe Analytics-Dashboards] ist eine App, mit der Benutzer jederzeit und überall auf Einblicke aus Adobe Analytics zugreifen können. Diese App ist für Führungskräfte gedacht, die unterwegs nach Schlüsselmetriken suchen. Sie ermöglicht den Zugriff auf kuratierte, interaktive Bewertungskarten und ist für iOS- und Android-Betriebssysteme verfügbar. [Mehr Infos...](https://docs.adobe.com/content/help/de-DE/analytics/analyze/mobapp/home.html) |
+| [!UICONTROL Adobe Analytics-Dashboards] | 21. Mai 2020 | [!UICONTROL Adobe Analytics-Dashboards] ist eine App, mit der Benutzer jederzeit und überall auf Einblicke aus Adobe Analytics zugreifen können. Diese App ist für Führungskräfte gedacht, die unterwegs nach Schlüsselmetriken suchen. Sie ermöglicht den Zugriff auf kuratierte, interaktive Bewertungskarten und ist für iOS- und Android-Betriebssysteme verfügbar. [Mehr Infos...](https://docs.adobe.com/content/help/de-DE/analytics/analyze/mobapp/home.html) |
 | [!UICONTROL Workspace]: [!UICONTROL Freiformtabellen] können in einem leeren Projekt automatisch erstellt werden. | [21. Mai 2020 | Zuvor war es nicht möglich, Komponenten direkt in ein leeres Projekt oder ein leeres Bedienfeld zu ziehen. Zuerst musste eine [!UICONTROL Freiformtabelle] hinzugefügt werden. Jetzt können Sie Komponenten direkt in einem leeren Projekt oder Bedienfeld ablegen. Eine [!UICONTROL Freiformtabelle] wird automatisch im empfohlenen Format erstellt. Darüber hinaus wurde die Handhabung von gemischten Komponententypen (z. B. Dimensionen und Metriken) verbessert, wenn sie zusammen in einer leeren Freiformtabelle abgelegt werden. |
 | [!UICONTROL Adobe Analytics-Paket] zur Seite &quot; [!UICONTROL Funktionenzugriffsstufe] &quot;hinzugefügt | 21. Mai 2020 | Sie können jetzt Ansichten darüber erstellen, für welches [!UICONTROL Adobe Analytics-Paket] (SKU) Ihre Firma unter **[!UICONTROL Admin]** > **[!UICONTROL Firma-Einstellungen]** > **[!UICONTROL Funktionenzugriffsstufe]** berechtigt ist. |
 | Verbesserungen der Zugänglichkeit | 21. Mai 2020 | Das Adobe Analytics-Team hat verschiedene Verbesserungen an der Barrierefreiheit in Analyse Workspace vorgenommen, darunter verbesserte Tastaturnavigation, Farbkontrast und Unterstützung für Bildschirmlesehilfen. [Mehr Infos...](https://docs.adobe.com/content/help/en/analytics/analyze/analysis-workspace/workspace-faq/aw-accessibility.html) |
