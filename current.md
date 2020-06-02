@@ -5,9 +5,9 @@ doc-type: release notes
 last-update: May 2020
 author: mfrei
 translation-type: tm+mt
-source-git-commit: 02f473e0c7908d44aa0444ce99f4540d9e79b254
+source-git-commit: 4e1e40af6c04665ce8a44e4fb30156da2d5d9357
 workflow-type: tm+mt
-source-wordcount: '5368'
+source-wordcount: '5379'
 ht-degree: 86%
 
 ---
@@ -163,9 +163,9 @@ Updated **May 29, 2020**
 | Bulk Data Insertion API | 31. Mai 2020 | Ermöglicht die einfache und unabhängige Erfassung von Analytics-Datenstapeln. Nützlich für serverseitige und Offlinedaten. [Mehr Infos...](https://www.adobe.io/apis/experiencecloud/analytics/docs.html#!AdobeDocs/analytics-2.0-apis/master/bdia.md) |
 | Analytics-Unterstützung für [!UICONTROL Adobe Experience Platform-Edge-Netzwerk] | 31. Mai 2020 | Ermöglicht die Verwendung eines einzelnen Tags zum Senden von Daten an mehrere Adobe-Lösungen, z. B. Adobe Analytics, Adobe Target, Adobe Audience Manager, Adobe Experience Platform Data Lake, Unified Profile und Experience Cloud ID-Dienst. [Mehr Infos...](https://docs.adobe.com/content/help/en/experience-platform/edge/solutions/analytics/analytics-overview.html) |
 | [!UICONTROL Adobe Analytics-Dashboards] | 31. Mai 2020 | [!UICONTROL Adobe Analytics-Dashboards] ist eine App, mit der Benutzer jederzeit und überall auf Einblicke aus Adobe Analytics zugreifen können. Diese App ist für Führungskräfte gedacht, die unterwegs nach Schlüsselmetriken suchen. Sie ermöglicht den Zugriff auf kuratierte, interaktive Bewertungskarten und ist für iOS- und Android-Betriebssysteme verfügbar. [Mehr Infos...](https://docs.adobe.com/content/help/de-DE/analytics/analyze/mobapp/home.html) |
-| [!UICONTROL Arbeitsbereich]: Automatisch [am 21. Mai 2020 erstellen!UICONTROL Freiform Tables] aus einem leeren Status | Zuvor war es nicht möglich, Komponenten direkt in ein leeres Projekt oder ein leeres Bedienfeld zu ziehen. Zuerst musste eine [!UICONTROL Freiformtabelle] hinzugefügt werden. Jetzt können Sie Komponenten direkt in einem leeren Projekt oder Bedienfeld ablegen. Eine [!UICONTROL Freiformtabelle] wird automatisch im empfohlenen Format erstellt. Darüber hinaus wurde die Handhabung von gemischten Komponententypen (z. B. Dimensionen und Metriken) verbessert, wenn sie zusammen in einer leeren Freiformtabelle abgelegt werden. |
+| [!UICONTROL Workspace]: [!UICONTROL Freiformtabellen] können in einem leeren Projekt automatisch erstellt werden. | [21. Mai 2020 | Zuvor war es nicht möglich, Komponenten direkt in ein leeres Projekt oder ein leeres Bedienfeld zu ziehen. Zuerst musste eine [!UICONTROL Freiformtabelle] hinzugefügt werden. Jetzt können Sie Komponenten direkt in einem leeren Projekt oder Bedienfeld ablegen. Eine [!UICONTROL Freiformtabelle] wird automatisch im empfohlenen Format erstellt. Darüber hinaus wurde die Handhabung von gemischten Komponententypen (z. B. Dimensionen und Metriken) verbessert, wenn sie zusammen in einer leeren Freiformtabelle abgelegt werden. |
 | [!UICONTROL Adobe Analytics-Paket] zur Seite &quot; [!UICONTROL Funktionenzugriffsstufe] &quot;hinzugefügt | 21. Mai 2020 | Sie können jetzt Ansichten darüber erstellen, für welches [!UICONTROL Adobe Analytics-Paket] (SKU) Ihre Firma unter **[!UICONTROL Admin]** > **[!UICONTROL Firma-Einstellungen]** > **[!UICONTROL Funktionenzugriffsstufe]** berechtigt ist. |
-| Verbesserungen der Zugänglichkeit | 21. Mai 2020 | Das Adobe Analytics-Team hat verschiedene Verbesserungen an der Barrierefreiheit in Analyse Workspace vorgenommen, darunter verbesserte Tastaturnavigation, Farbkontrast und Unterstützung für Bildschirmlesehilfen. |
+| Verbesserungen der Zugänglichkeit | 21. Mai 2020 | Das Adobe Analytics-Team hat verschiedene Verbesserungen an der Barrierefreiheit in Analyse Workspace vorgenommen, darunter verbesserte Tastaturnavigation, Farbkontrast und Unterstützung für Bildschirmlesehilfen. [Mehr Infos...](https://docs.adobe.com/content/help/en/analytics/analyze/analysis-workspace/workspace-faq/aw-accessibility.html) |
 
 #### New features in [!UICONTROL Media Analytics] {#media-aa}
 
