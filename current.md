@@ -5,10 +5,10 @@ doc-type: release notes
 last-update: June 2020
 author: mfrei
 translation-type: tm+mt
-source-git-commit: 7f127b38a8c27f5e7a439d7130dd2577d987bf0d
+source-git-commit: d5f592e1e804a94619ccf3ce34a4a310867f9f70
 workflow-type: tm+mt
-source-wordcount: '6484'
-ht-degree: 38%
+source-wordcount: '6487'
+ht-degree: 37%
 
 ---
 
@@ -140,7 +140,7 @@ Mithilfe der Adobe Experience Platform können Sie individuelle Customer Journey
 
 ### Neueste Version
 
-Version Q2 wurde veröffentlicht. [Weitere Infos](https://docs.adobe.com/content/help/de-DE/journeys/using/release-notes/release-notes.html)
+Die neuesten Versionshinweise finden Sie unter Versionshinweise zur [Journey Orchestration](https://docs.adobe.com/content/help/de-DE/journeys/using/release-notes/release-notes.html)
 
 ### Neue Journey Orchestrationen - Kurse und Tutorials {#jo-tutorials}
 
@@ -346,10 +346,12 @@ Neue Funktionen, Fehlerbehebungen und Aktualisierungen in Adobe Experience Manag
       * Dank der verbesserten Unterstützung für die Self-Service-Sandbox in Cloud Manager können berechtigte Benutzer alle Umgebung in einer Sandbox löschen und Gutschriften erhalten.
       * Sandbox-Umgebung mit automatischer Hibernation werden nach einer Inaktivität automatisch &quot;Hibernates&quot;-Sandboxen. Kunden können aktiv eine &quot;Entspannung&quot;auslösen.
    * Werkzeuge zur Transition zur Unterstützung der Cloud-Beschleunigung
+
    Mit dem Ziel, die Kosten für die Transition und die Zeit von Ort zu Cloud Service zu reduzieren, wurden in diesem Monat zwei Transitionen-Tools eingeführt. Diese Tools wurden entwickelt, um einige der wichtigsten Aufgaben während der Transition zu automatisieren und damit den Gesamtaufwand zu reduzieren. .
 
    1. [Mit dem Content Transfer Tool](https://docs.adobe.com/content/help/en/experience-manager-cloud-service/moving/cloud-migration/content-transfer-tool/using-content-transfer-tool.html) (auf SD verfügbar) wird die Aktivität der Inhaltsübertragung optimiert und skalierbar. Mit einer benutzerfreundlichen Benutzeroberfläche ist das Tool eine Selbstbedienung für Bestandskunden und -partner (on-prem/AMS), die als Cloud Service auf AEM umsteigen.
    1. [AMS Dispatcher Converter](https://github.com/adobe/aem-cloud-service-dispatcher-converter) (Open-Source) Tool zur Automatisierung der Konvertierung von AMS Dispatcher-Konfigurationen in Cloud Service Dispatcher-Konfigurationen.
+
    [Versionshinweise für AEM als Cloud Service 2020.6.0](https://docs.adobe.com/content/help/de-DE/experience-manager-cloud-service/release-notes/release-notes/release-notes-current.html)
 
    Werkzeuge für Transitionen:
