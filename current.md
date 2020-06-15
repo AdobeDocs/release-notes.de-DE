@@ -5,10 +5,10 @@ doc-type: release notes
 last-update: June 2020
 author: mfrei
 translation-type: tm+mt
-source-git-commit: dd357da4e362c01ab350891b1082020c90eb77fe
+source-git-commit: 233093d41875b9fba88afefa0ecbfc9ace21a900
 workflow-type: tm+mt
-source-wordcount: '6522'
-ht-degree: 38%
+source-wordcount: '6530'
+ht-degree: 37%
 
 ---
 
@@ -31,13 +31,13 @@ This page describes new features, fixes, and important notices in [!DNL Adobe Ex
 
 Das Datum der Produktveröffentlichung kann variieren. Suchen Sie regelmäßig nach Updates.
 
-Letzte Aktualisierung: **12. Juni 2020**
+Letzte Aktualisierung: **15. Juni 2020**
 
 * [Systemstatus von Adobe](#status)
 * [Experience Cloud-Benutzeroberfläche](#ecloud)
 * [Experience Platform](#platform)
 * [Journey-Orchestrierung](#journey-orch)
-* [Analytics](#analytics)
+* [Analytics](#analytics) (und [Customer Journey Analytics](#cust-journey))
 * [Audience Manager](#aam)
 * [Experience Manager](#aem)
 * [Kampagne](#ac)
@@ -169,15 +169,15 @@ Updated **June 10, 2020**
 
 | Funktion | [Allgemeine Verfügbarkeit](https://docs.adobe.com/content/help/de-DE/analytics/landing/an-releases.html) – geplantes Datum | Beschreibung |
 | -----------| ---------- |-------|
-| Zuordnung IQ: [!UICONTROL Algorithmische Zuordnung] | 18. Juni 2020 | Das [!UICONTROL algorithmische Zuordnungsmodell] in [!UICONTROL Analysis Workspace] verwendet statistische Verfahren, um die optimale Zuordnung der Gutschrift für die ausgewählte Metrik dynamisch zu bestimmen. [Mehr Infos...](https://docs.adobe.com/content/help/en/analytics/analyze/analysis-workspace/panels/attribution/algorithmic.html) |
-| Zuordnung IQ: Benutzerdefinierte Lookback-Fenster | 18. Juni 2020 | Sie können jetzt jedes Zuordnungsmodell in [!UICONTROL Attribution IQ] so konfigurieren, dass Berührungspunkte von bis zu 90 Tagen vor dem Zeitraum des Berichte einbezogen werden. Dies erhöht in der Regel die Zuordnungsgenauigkeit für Ereignis, die frühzeitig im Berichte auftreten, indem Interaktionen berücksichtigt werden, die im/den Vormonat/en aufgetreten sind. [Mehr Infos...](https://docs.adobe.com/content/help/en/analytics/analyze/analysis-workspace/panels/attribution/attribution.html#lookback-windows) |
-| Projektrollen für freigegebene [!UICONTROL Workspace] -Projekte | 18. Juni 2020 | Beim Freigeben eines [!UICONTROL Workspace] -Projekts können Sie nun Empfänger je nach Projekterfahrung in eine der drei Rollen setzen: Bearbeiten, Duplikat und Ansicht. [Mehr Infos...](https://docs.adobe.com/content/help/en/analytics/analyze/analysis-workspace/curate-share/share-projects.html) |
-| Ansicht-only- [!UICONTROL Workspace] -Projekte | 18. Juni 2020 | [!UICONTROL Workspace] -Projekte können für Benutzer freigegeben werden, da nur _[!UICONTROL Kann-Ansicht]_verwendet werden kann. Wenn ein Empfänger der Ansicht das freigegebene Projekt öffnet, erhält er eine restriktivere Projekterfahrung ohne linke Leiste und eingeschränkte Interaktionen.[Mehr Infos...](https://docs.adobe.com/content/help/en/analytics/analyze/analysis-workspace/curate-share/view-only-projects.html) |
-| Möglichkeit zur Kobearbeitung von [!UICONTROL Workspace] -Projekten | 18. Juni 2020 | Empfänger, die der Rolle &quot; _[!UICONTROL Kann bearbeiten]_&quot;hinzugefügt wurden, können über einem Projekt speichern, das für sie freigegeben wurde. Dies gilt sowohl für Administratoren als auch für Nicht-Administratoren.[Mehr Infos...](https://docs.adobe.com/content/help/en/analytics/analyze/analysis-workspace/curate-share/share-projects.html) |
-| Aktualisiertes leeres Bedienfeld in [!UICONTROL Workspace] | 18. Juni 2020 | Das leere Bedienfeld in [!UICONTROL Workspace] umfasst jetzt Bedienfelder und Visualisierungen, sodass Sie den Arbeitsablauf für die Analyse, der für Sie am besten geeignet ist, nahtloser wählen können. |
-| In China RDC verfügbare Erstanbieter-Domänen | 18. Juni 2020 | Ermöglicht Kunden mit einer `.cn` Domäne, eine Erstanbieterdomäne zur Verwendung innerhalb von Mainland China anzufordern. (Dokumentation verfügbar mit dem Kauf der China Performance Optimization SKU.) |
-| Bereich „Quick Insights“ in [!UICONTROL Arbeitsbereich] | 25. Juni 2020 | Quick Insights bietet Nicht-Analytikern und neuen Benutzern von [!UICONTROL Analysis Workspace] eine Möglichkeit, betriebliche Fragen schnell und einfach zu beantworten. [Mehr Infos...](https://docs.adobe.com/content/help/de-DE/analytics/analyze/analysis-workspace/panels/quickinsight.html) |
-| Bereich [!UICONTROL Analytics for Target] in [!UICONTROL Arbeitsbereich] | 25. Juni 2020 | Im Bereich [!UICONTROL Analytics for Target] (A4T) können Sie Ihre Adobe Target-Aktivitäten und -Erlebnisse in [!UICONTROL Analysis Workspace analysieren]. [Mehr Infos...](https://docs.adobe.com/content/help/de-DE/analytics/analyze/analysis-workspace/panels/a4t-panel.html) |
+| Zuordnung IQ: Algorithmische Zuordnung | 18. Juni 2020 | Das [!UICONTROL algorithmische Zuordnungsmodell] in Analysis Workspace verwendet statistische Verfahren, um die optimale Zuordnung der Gutschrift für die ausgewählte Metrik dynamisch zu bestimmen. [Mehr Infos...](https://docs.adobe.com/content/help/en/analytics/analyze/analysis-workspace/panels/attribution/algorithmic.html) |
+| Zuordnung IQ: Benutzerdefinierte Lookback-Fenster | 18. Juni 2020 | Sie können jetzt jedes Zuordnungsmodell in [!UICONTROL Attribution IQ] so konfigurieren, dass Touchpoints von bis zu 90 Tagen vor dem Zeitraum des Berichte einbezogen werden. Dies erhöht in der Regel die Zuordnungsgenauigkeit für Ereignis, die frühzeitig im Berichte auftreten, indem Interaktionen berücksichtigt werden, die im/den Vormonat/en aufgetreten sind. [Mehr Infos...](https://docs.adobe.com/content/help/en/analytics/analyze/analysis-workspace/panels/attribution/attribution.html#lookback-windows) |
+| Projektrollen für freigegebene Workspace-Projekte | 18. Juni 2020 | Beim Freigeben eines Workspace-Projekts können Sie nun Empfänger je nach Projekterfahrung in eine der drei Rollen setzen: Bearbeiten, Duplikat und Ansicht. [Weitere Informationen...]((https://docs.adobe.com/content/help/en/analytics/analyze/analysis-workspace/curate-share/share-projects.html) |
+| Arbeitsbereich-Projekte, die nur für Ansichten gedacht sind | 18. Juni 2020 | Workspace-Projekte können nur als &quot;Kann Ansicht&quot;freigegeben werden. Wenn ein Empfänger der Ansicht das freigegebene Projekt öffnet, erhält er eine restriktivere Projekterfahrung ohne linke Leiste und eingeschränkte Interaktionen. [Mehr Infos...](https://docs.adobe.com/content/help/en/analytics/analyze/analysis-workspace/curate-share/view-only-projects.html) |
+| Möglichkeit zur Kobearbeitung von Workspace-Projekten | 18. Juni 2020 | Empfänger, die der Rolle &quot;Kann bearbeiten&quot;hinzugefügt wurden, können über einem Projekt speichern, das für sie freigegeben wurde. Dies gilt sowohl für Administratoren als auch für Nicht-Administratoren. [Mehr Infos...](https://docs.adobe.com/content/help/en/analytics/analyze/analysis-workspace/curate-share/share-projects.html) |
+| Aktualisiertes leeres Bedienfeld in Workspace | 18. Juni 2020 | Der leere Bereich in Workspace umfasst jetzt Bedienfelder und Visualisierungen, sodass Sie den Arbeitsablauf für die Analyse, der für Sie am besten geeignet ist, nahtloser wählen können. |
+| In China RDC verfügbare Erstanbieter-Domänen | 18. Juni 2020 | Ermöglicht Kunden mit einer `.cn` Domäne, eine Erstanbieterdomäne zur Verwendung innerhalb von Mainland China anzufordern. (Dokumentation verfügbar mit dem Kauf der SKU &quot;China Performance Optimization&quot;.) |
+| Bereich „Quick Insights“ in Arbeitsbereich | 25. Juni 2020 | Quick Insights bietet Nicht-Analytikern und neuen Benutzern von Analysis Workspace eine Möglichkeit, betriebliche Fragen schnell und einfach zu beantworten. [Mehr Infos...](https://docs.adobe.com/content/help/de-DE/analytics/analyze/analysis-workspace/panels/quickinsight.html) |
+| Bereich Analytics for Target in Arbeitsbereich | 25. Juni 2020 | Mit dem Bedienfeld &quot;Analytics for Target&quot;(A4T) können Sie Ihre Adobe Target-Aktivitäten und -Erlebnisse mit Steigerung und Konfidenz im Analysis Workspace analysieren. [Mehr Infos...](https://docs.adobe.com/content/help/de-DE/analytics/analyze/analysis-workspace/panels/a4t-panel.html) |
 
 ### Neue Funktionen in Customer Journey Analytics {#cust-journey}
 
@@ -186,7 +186,7 @@ Updated **June 10, 2020**
 | Zuordnung IQ: [!UICONTROL Algorithmische Zuordnung] | 18. Juni 2020 | Das [!UICONTROL algorithmische Zuordnungsmodell] in [!UICONTROL Analysis Workspace] verwendet statistische Verfahren, um die optimale Zuordnung der Gutschrift für die ausgewählte Metrik dynamisch zu bestimmen. [Mehr Infos...](https://docs.adobe.com/content/help/en/analytics/analyze/analysis-workspace/panels/attribution/algorithmic.html) |
 | Zuordnung IQ: Benutzerdefinierte Lookback-Fenster | 18. Juni 2020 | Sie können jetzt jedes Zuordnungsmodell in [!UICONTROL Attribution IQ] so konfigurieren, dass Berührungspunkte von bis zu 90 Tagen vor dem Zeitraum des Berichte einbezogen werden. Dies erhöht in der Regel die Zuordnungsgenauigkeit für Ereignis, die frühzeitig im Berichte auftreten, indem Interaktionen berücksichtigt werden, die im/den Vormonat/en aufgetreten sind. [Mehr Infos...](https://docs.adobe.com/content/help/en/analytics/analyze/analysis-workspace/panels/attribution/attribution.html#lookback-windows) |
 | Unterstützung der [!UICONTROL Anomalieerkennung] | 18. Juni 2020 | [!UICONTROL Die Anomalieerkennung] bietet eine statistische Methode, um zu bestimmen, wie sich eine bestimmte Metrik im Vergleich zu vorherigen Daten verändert hat. [Mehr Infos...](https://docs.adobe.com/content/help/de-DE/analytics/analyze/analysis-workspace/virtual-analyst/anomaly-detection/anomaly-detection.html) |
-| Projektrollen für freigegebene [!UICONTROL Workspace] -Projekte | 18. Juni 2020 | Beim Freigeben eines [!UICONTROL Workspace] -Projekts können Sie nun Empfänger je nach Projekterfahrung in eine der drei Rollen setzen: Bearbeiten, Duplikat und Ansicht. [Mehr Infos...](https://docs.adobe.com/content/help/en/analytics/analyze/analysis-workspace/curate-share/share-projects.html) |
+| Projektrollen für freigegebene [!UICONTROL Workspace] -Projekte | 18. Juni 2020 | Beim Freigeben eines [!UICONTROL Workspace] -Projekts können Sie Empfänger nun je nach Projekterfahrung in eine der drei Rollen platzieren: Bearbeiten, Duplikat und Ansicht. [Mehr Infos...](https://docs.adobe.com/content/help/en/analytics/analyze/analysis-workspace/curate-share/share-projects.html) |
 | Ansicht-only- [!UICONTROL Workspace] -Projekte | 18. Juni 2020 | [!UICONTROL Workspace] -Projekte können für Benutzer freigegeben werden, da nur _[!UICONTROL Kann-Ansicht]_verwendet werden kann. Wenn ein Empfänger der Ansicht das freigegebene Projekt öffnet, erhält er eine restriktivere Projekterfahrung ohne linke Leiste und eingeschränkte Interaktionen.[Mehr Infos...](https://docs.adobe.com/content/help/en/analytics/analyze/analysis-workspace/curate-share/view-only-projects.html) |
 | Möglichkeit zur Kobearbeitung von [!UICONTROL Workspace] -Projekten | 18. Juni 2020 | Empfänger, die der Rolle &quot; _[!UICONTROL Kann bearbeiten]_&quot;hinzugefügt wurden, können über einem Projekt speichern, das für sie freigegeben wurde.[Mehr Infos...](https://docs.adobe.com/content/help/en/analytics/analyze/analysis-workspace/curate-share/share-projects.html) |
 | Bereich „Quick Insights“ in [!UICONTROL Arbeitsbereich] | 25. Juni 2020 | Quick Insights bietet Nicht-Analytikern und neuen Benutzern von [!UICONTROL Analysis Workspace] eine Möglichkeit, betriebliche Fragen schnell und einfach zu beantworten. [Mehr Infos...](https://docs.adobe.com/content/help/de-DE/analytics/analyze/analysis-workspace/panels/quickinsight.html) |
@@ -481,7 +481,7 @@ Updated **June 3, 2020**
 | Funktion | Beschreibung |
 | -----------| ---------- |
 | [!UICONTROL Kampagne] - Startseite | (Release 3. Juni) Es stehen neue Pacing-Metriken auf Kampagne-Ebene zur Verfügung, die auf dem bereitgestellten Budget und der bereitgestellten Kampagne basieren. |
-| Platzierungsvorhersage | (Version 3. Juni) Für CTV- und Videoplatzierungen mit Optimierung auf Platzierungsebene beinhalten die Platzierungseinstellungen jetzt Prognosen für mehrere Anzeigenlängen (15 Sek. und 30 Sek.). Sie umfassen auch Prognosen für VAST- und VPAID-Bestände. |
+| Platzierungsvorhersage | (Release 3. Juni) Bei CTV- und Videoplatzierungen mit Optimierung auf Platzierungsebene beinhalten die Platzierungseinstellungen jetzt Prognosen für mehrere Anzeigenlängen (15 Sek. und 30 Sek.). Sie umfassen auch Prognosen für VAST- und VPAID-Bestände. |
 | CPA/ROAS-Optimierung | (Release 20. Mai) Kampagnen-Manager müssen keine neuen Platzierungen mehr in Paketen beschränken, um eine Überzuweisung des Budgets zu verhindern. Praktika erhalten nun eine dynamische Budgetzwischenzuweisung basierend auf ihrer CPM- oder CPA/ROAS-Leistung. |
 
 ### Neue Funktionen in [!UICONTROL Advertising Cloud Search] {#adcloud-search}
