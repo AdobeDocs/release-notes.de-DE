@@ -4,7 +4,7 @@ product: Experience Cloud
 user-guide-title: Adobe Experience Cloud – Versionshinweise
 user-guide-url: https://www.adobe.com
 translation-type: tm+mt
-source-git-commit: c794742334033a11c712fd6cabfcc1b382fbefce
+source-git-commit: bb83a8031e9f82a957fc95057f92d36c92502e3e
 workflow-type: tm+mt
 source-wordcount: '88'
 ht-degree: 100%
@@ -14,7 +14,7 @@ ht-degree: 100%
 
 # Experience Cloud – Versionshinweise {#experience-cloud}
 
-+ Adobe Experience Cloud – Versionshinweise
++ Adobe Experience Cloud – Versionshinweise{#exl-rns}
    + [Neueste Versionshinweise](current.md)
 + Frühere Versionshinweise {#previous}
    + 2020 {#2020}
