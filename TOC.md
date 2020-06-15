@@ -4,17 +4,17 @@ product: Experience Cloud
 user-guide-title: Adobe Experience Cloud – Versionshinweise
 user-guide-url: https://www.adobe.com
 translation-type: tm+mt
-source-git-commit: 3dd0f7e9f8712786acc31a01dc0fdece9f4004b9
+source-git-commit: 515812727fbc95bb787ec092eed719ad2b2d9171
 workflow-type: tm+mt
-source-wordcount: '91'
-ht-degree: 96%
+source-wordcount: '92'
+ht-degree: 100%
 
 ---
 
 
 # Experience Cloud – Versionshinweise {#experience-cloud}
 
-+ Adobe Experience Cloud – Versionshinweise{#exl-rns}
++ Adobe Experience Cloud – Versionshinweise {#exl-rns}
    + [Neueste Versionshinweise](current.md)
 + Frühere Versionshinweise {#previous}
    + 2020 {#2020}
@@ -35,7 +35,7 @@ ht-degree: 96%
       + [März 2019](c-legacy-releases/2019/03072019.md)
       + [Februar 2019](c-legacy-releases/2019/02072019.md)
       + [Januar 2019](c-legacy-releases/2019/01172019.md)
-   + [2018 und früher]{#legacy-rns)
+   + 2018 und früher {#legacy-rns}
       + 2018 {#2018}
          + [November 2018](c-legacy-releases/2018/11012018.md)
          + [Oktober 2018](c-legacy-releases/2018/10112018.md)
@@ -84,4 +84,5 @@ ht-degree: 96%
          + [März 2015](c-legacy-releases/2015/03192015.md)
          + [Februar 2015](c-legacy-releases/2015/02192015.md)
          + [Januar 2015](c-legacy-releases/2015/01152015.md)
-      + [2014 und früher](c-legacy-releases/2014-earlier.md)
+      + 2014 und früher {#2014-earlier}
+         + [2014 und früher](c-legacy-releases/2014-earlier.md)
