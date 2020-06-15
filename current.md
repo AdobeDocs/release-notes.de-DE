@@ -5,10 +5,10 @@ doc-type: release notes
 last-update: June 2020
 author: mfrei
 translation-type: tm+mt
-source-git-commit: c794742334033a11c712fd6cabfcc1b382fbefce
+source-git-commit: 3dd0f7e9f8712786acc31a01dc0fdece9f4004b9
 workflow-type: tm+mt
-source-wordcount: '6530'
-ht-degree: 37%
+source-wordcount: '6484'
+ht-degree: 38%
 
 ---
 
@@ -186,7 +186,7 @@ Updated **June 10, 2020**
 | Zuordnung IQ: [!UICONTROL Algorithmische Zuordnung] | 18. Juni 2020 | Das [!UICONTROL algorithmische Zuordnungsmodell] in [!UICONTROL Analysis Workspace] verwendet statistische Verfahren, um die optimale Zuordnung der Gutschrift für die ausgewählte Metrik dynamisch zu bestimmen. [Mehr Infos...](https://docs.adobe.com/content/help/en/analytics/analyze/analysis-workspace/panels/attribution/algorithmic.html) |
 | Zuordnung IQ: Benutzerdefinierte Lookback-Fenster | 18. Juni 2020 | Sie können jetzt jedes Zuordnungsmodell in [!UICONTROL Attribution IQ] so konfigurieren, dass Berührungspunkte von bis zu 90 Tagen vor dem Zeitraum des Berichte einbezogen werden. Dies erhöht in der Regel die Zuordnungsgenauigkeit für Ereignis, die frühzeitig im Berichte auftreten, indem Interaktionen berücksichtigt werden, die im/den Vormonat/en aufgetreten sind. [Mehr Infos...](https://docs.adobe.com/content/help/en/analytics/analyze/analysis-workspace/panels/attribution/attribution.html#lookback-windows) |
 | Unterstützung der [!UICONTROL Anomalieerkennung] | 18. Juni 2020 | [!UICONTROL Die Anomalieerkennung] bietet eine statistische Methode, um zu bestimmen, wie sich eine bestimmte Metrik im Vergleich zu vorherigen Daten verändert hat. [Mehr Infos...](https://docs.adobe.com/content/help/de-DE/analytics/analyze/analysis-workspace/virtual-analyst/anomaly-detection/anomaly-detection.html) |
-| Projektrollen für freigegebene [!UICONTROL Workspace] -Projekte | 18. Juni 2020 | Beim Freigeben eines [!UICONTROL Workspace] -Projekts können Sie nun Empfänger je nach Projekterfahrung in eine der drei Rollen setzen: Bearbeiten, Duplikat und Ansicht. [Mehr Infos...](https://docs.adobe.com/content/help/en/analytics/analyze/analysis-workspace/curate-share/share-projects.html) |
+| Projektrollen für freigegebene [!UICONTROL Workspace] -Projekte | 18. Juni 2020 | Beim Freigeben eines [!UICONTROL Workspace] -Projekts können Sie Empfänger nun je nach Projekterfahrung in eine der drei Rollen platzieren: Bearbeiten, Duplikat und Ansicht. [Mehr Infos...](https://docs.adobe.com/content/help/en/analytics/analyze/analysis-workspace/curate-share/share-projects.html) |
 | Ansicht-only- [!UICONTROL Workspace] -Projekte | 18. Juni 2020 | [!UICONTROL Workspace] -Projekte können für Benutzer freigegeben werden, da nur _[!UICONTROL Kann-Ansicht]_verwendet werden kann. Wenn ein Empfänger der Ansicht das freigegebene Projekt öffnet, erhält er eine restriktivere Projekterfahrung ohne linke Leiste und eingeschränkte Interaktionen.[Mehr Infos...](https://docs.adobe.com/content/help/en/analytics/analyze/analysis-workspace/curate-share/view-only-projects.html) |
 | Möglichkeit zur Kobearbeitung von [!UICONTROL Workspace] -Projekten | 18. Juni 2020 | Empfänger, die der Rolle &quot; _[!UICONTROL Kann bearbeiten]_&quot;hinzugefügt wurden, können über einem Projekt speichern, das für sie freigegeben wurde.[Mehr Infos...](https://docs.adobe.com/content/help/en/analytics/analyze/analysis-workspace/curate-share/share-projects.html) |
 | Bereich „Quick Insights“ in [!UICONTROL Arbeitsbereich] | 25. Juni 2020 | Quick Insights bietet Nicht-Analytikern und neuen Benutzern von [!UICONTROL Analysis Workspace] eine Möglichkeit, betriebliche Fragen schnell und einfach zu beantworten. [Mehr Infos...](https://docs.adobe.com/content/help/de-DE/analytics/analyze/analysis-workspace/panels/quickinsight.html) |
@@ -346,10 +346,12 @@ Neue Funktionen, Fehlerbehebungen und Aktualisierungen in Adobe Experience Manag
       * Dank der verbesserten Unterstützung für die Self-Service-Sandbox in Cloud Manager können berechtigte Benutzer alle Umgebung in einer Sandbox löschen und Gutschriften erhalten.
       * Sandbox-Umgebung mit automatischer Hibernation werden nach einer Inaktivität automatisch &quot;Hibernates&quot;-Sandboxen. Kunden können aktiv eine &quot;Entspannung&quot;auslösen.
    * Werkzeuge zur Transition zur Unterstützung der Cloud-Beschleunigung
+
    Mit dem Ziel, die Kosten für die Transition und die Zeit von Ort zu Cloud Service zu reduzieren, wurden in diesem Monat zwei Transitionen-Tools eingeführt. Diese Tools wurden entwickelt, um einige der wichtigsten Aufgaben während der Transition zu automatisieren und damit den Gesamtaufwand zu reduzieren. .
 
    1. [Mit dem Content Transfer Tool](https://docs.adobe.com/content/help/en/experience-manager-cloud-service/moving/cloud-migration/content-transfer-tool/using-content-transfer-tool.html) (auf SD verfügbar) wird die Aktivität der Inhaltsübertragung optimiert und skalierbar. Mit einer benutzerfreundlichen Benutzeroberfläche ist das Tool eine Selbstbedienung für Bestandskunden und -partner (on-prem/AMS), die als Cloud Service auf AEM umsteigen.
    1. [AMS Dispatcher Converter](https://github.com/adobe/aem-cloud-service-dispatcher-converter) (Open-Source) Tool zur Automatisierung der Konvertierung von AMS Dispatcher-Konfigurationen in Cloud Service Dispatcher-Konfigurationen.
+
    [Versionshinweise für AEM als Cloud Service 2020.6.0](https://docs.adobe.com/content/help/de-DE/experience-manager-cloud-service/release-notes/release-notes/release-notes-current.html)
 
    Werkzeuge für Transitionen:
@@ -435,34 +437,21 @@ Neue Funktionen, Fehlerbehebungen und Aktualisierungen in Adobe Experience Manag
 
 Adobe Campaign bietet die Möglichkeit, direkte Nachrichten über Online- und Offline-Marketing-Kanäle intuitiv und automatisiert zu übermitteln. Sie können nun vorhersagen, was Ihre Kunden wünschen, und ihnen Erlebnisse bieten, die Sie anhand ihrer Gewohnheiten und Vorlieben ermittelt haben.
 
-### Campaign Standard
+### Neue Produktversionen
 
-#### Neue Campaign Standard-Kurse und -Tutorials
+[Version](https://docs.adobe.com/content/help/de-DE/campaign-classic/using/release-notes/latest-release.html) 20.2 von Adobe Campaign Classic umfasst:
+
+* _Unterstützung von Emoticon_ - _Azurblase Synapse FDA Connector_ - _Neue Datenschutzbestimmungen_
+* Kampagne-Systemsteuerung: [Aktive Profil-Überwachung](https://docs.adobe.com/content/help/en/control-panel/using/performance-monitoring/active-profiles-monitoring.html)
+
+### Neue Kampagnenkurse und -übungen
 
 | Inhalt | Content-Typ | Beschreibung |
 | -----------| ---------- | ---------- |  
 | [Erste Schritte mit Adobe Campaign Standard für Geschäftsbenutzer](https://experienceleague.adobe.com/?recommended=Campaign-U-1-2020.1.standard) | Kurs | Erfahren Sie, wie Sie in der Benutzeroberfläche navigieren, mit Versänden arbeiten und Empfänger-Daten erstellen und verwalten. |
+| [Installieren und Einrichten des Adobe Campaign-Clients](https://experienceleague.adobe.com/?recommended=Campaign-U-1-2020.1.standard) | Video | Erfahren Sie, wie Sie die Adobe Campaign Client-Konsole herunterladen und installieren, Ihre Verbindungen zu mehreren Umgebung erstellen und verwalten und den Zugriff auf die Adobe Campaign Client-Konsole überprüfen. |
 
-### Campaign Classic
-
-#### Neueste Version
-
-[Adobe Campaign Classic Version 20.2](https://docs.adobe.com/content/help/de-DE/campaign-classic/using/release-notes/latest-release.html)
-
-#### Campaign Classic-Lernprogramme
-
-| Inhalt | Content-Typ | Beschreibung |
-| -----------| ---------- | ---------- |  
-| [Installieren und Einrichten des Adobe Campaign-Clients](https://docs.adobe.com/content/help/en/campaign-classic-learn/tutorials/getting-started/install-and-setup-the-adobe-campaign-client.html) | Videoschulung | Erfahren Sie, wie Sie die Adobe Campaign Client-Konsole herunterladen und installieren, Verbindungen zu mehreren Umgebung erstellen und verwalten und den Zugriff auf die Adobe Campaign Client-Konsole überprüfen. |
-
-### Control Panel von Campaign
-
-| Funktion | Beschreibung |
-| -----------| ---------- |  
-| Überwachung aktiver Profil | Über die Systemsteuerung können Sie die Verwendung der aktiven Profil für jede Ihrer Instanzen der Kampagne überwachen. Diese Funktion ist als Betaversion verfügbar und steht Kunden zur Verfügung, die ab dem Build von Campaign Standard 10368 und dem Build von Campaign Classic 8931 auf AWS gehostet werden. [Weitere Infos](https://docs.adobe.com/content/help/en/control-panel/using/performance-monitoring/active-profiles-monitoring.html) |
-
-### Hilferessourcen für Campaign
-
+### Hilfe-Ressourcen
 * Adobe Campaign Standard: [Hilfe-Center](https://docs.adobe.com/content/help/de-DE/campaign-standard/using/campaign-standard-home.html) – [Versionshinweise](https://docs.adobe.com/content/help/de-DE/campaign-standard/using/release-notes/release-notes.html) – [Anleitungsvideos](https://docs.adobe.com/content/help/de-DE/campaign-standard-learn/tutorials/overview.html) – [Versionsplanung](https://docs.adobe.com/content/help/de-DE/campaign-standard/using/release-notes/release-planning.html) – [Neueste Aktualisierungen der Dokumentation](https://docs.adobe.com/content/help/de-DE/campaign-standard/using/documentation-updates.html)
 * Adobe Campaign Classic: [Hilfe-Center](https://docs.adobe.com/content/help/de-DE/campaign-classic/using/campaign-classic-home.html) – [Versionshinweise](https://docs.adobe.com/content/help/de-DE/campaign-classic/using/release-notes/latest-release.html) – [Anleitungsvideos](https://docs.adobe.com/content/help/en/campaign-learn/campaign-classic-tutorials/overview.html) – [Neueste Aktualisierungen der Dokumentation](https://docs.adobe.com/content/help/de-DE/campaign-classic/using/documentation-updates.html)
 * Control Panel von Adobe Campaign: [Dokumentation](https://docs.adobe.com/content/help/de-DE/control-panel/using/control-panel-home.html) – [Versionshinweise](https://docs.adobe.com/content/help/de-DE/control-panel/using/release-notes.html) - Anleitungen zu Videos für [Campaign Standard](https://docs.adobe.com/content/help/en/campaign-standard-learn/tutorials/administrating/control-panel/control-panel-overview.html) / [Campaign Classic](https://docs.adobe.com/content/help/en/campaign-classic-learn/tutorials/administrating/control-panel-acc/control-panel-overview.html)
