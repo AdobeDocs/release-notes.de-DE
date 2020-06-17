@@ -5,9 +5,9 @@ doc-type: release notes
 last-update: June 2020
 author: mfrei
 translation-type: tm+mt
-source-git-commit: 2a69ecde6ebbe9ffbb67d6a82daf7d026e28ed19
+source-git-commit: 0c5c9f6f0c03b68eb4c5695db71fca94afc9141b
 workflow-type: tm+mt
-source-wordcount: '6487'
+source-wordcount: '6486'
 ht-degree: 37%
 
 ---
@@ -362,7 +362,7 @@ Neue Funktionen, Fehlerbehebungen und Aktualisierungen in Adobe Experience Manag
 
 * **Kernkomponenten**
 
-   Die Version 2.9.0 der Core-Komponenten führt die Integration mit der [Adobe Client-Datenschicht](https://github.com/adobe/adobe-client-data-layer) und einer neuen Fortschrittsleistenkomponente ein und ist jetzt zusammen mit der [Authoring-Dokumentation](https://docs.adobe.com/content/help/de-DE/experience-manager-core-components/using/introduction.html) und den [Entwicklerdetails sowie dem Projektdownload auf GitHub](https://github.com/adobe/aem-core-wcm-components)verfügbar.
+   Core Components 2.9.0 bietet eine Integration in die [Adobe Client Data Layer](https://github.com/adobe/adobe-client-data-layer) und eine neue Fortschrittsleistenkomponente. Die Komponente ist jetzt zusammen mit der [Authoring-Dokumentation](https://docs.adobe.com/content/help/de-DE/experience-manager-core-components/using/introduction.html) und den Details zum [Entwickler sowie dem Projektdownload auf GitHub](https://github.com/adobe/aem-core-wcm-components)verfügbar.
 
 * **Wechseln zu AEM as a Cloud Service**
 
