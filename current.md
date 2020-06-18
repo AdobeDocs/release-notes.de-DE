@@ -5,7 +5,7 @@ doc-type: release notes
 last-update: June 2020
 author: mfrei
 translation-type: tm+mt
-source-git-commit: 0c5c9f6f0c03b68eb4c5695db71fca94afc9141b
+source-git-commit: af0ded4b9a09349d811a998a002b0f1c0f72403f
 workflow-type: tm+mt
 source-wordcount: '6486'
 ht-degree: 37%
@@ -171,7 +171,7 @@ Updated **June 10, 2020**
 | -----------| ---------- |-------|
 | Zuordnung IQ: Algorithmische Zuordnung | 18. Juni 2020 | Das [!UICONTROL algorithmische Zuordnungsmodell] in Analysis Workspace verwendet statistische Verfahren, um die optimale Zuordnung der Gutschrift für die ausgewählte Metrik dynamisch zu bestimmen. [Mehr Infos...](https://docs.adobe.com/content/help/en/analytics/analyze/analysis-workspace/panels/attribution/algorithmic.html) |
 | Zuordnung IQ: Benutzerdefinierte Lookback-Fenster | 18. Juni 2020 | Sie können jetzt jedes Zuordnungsmodell in [!UICONTROL Attribution IQ] so konfigurieren, dass Touchpoints von bis zu 90 Tagen vor dem Zeitraum des Berichte einbezogen werden. Dies erhöht in der Regel die Zuordnungsgenauigkeit für Ereignis, die frühzeitig im Berichte auftreten, indem Interaktionen berücksichtigt werden, die im/den Vormonat/en aufgetreten sind. [Mehr Infos...](https://docs.adobe.com/content/help/en/analytics/analyze/analysis-workspace/panels/attribution/attribution.html#lookback-windows) |
-| Projektrollen für freigegebene Workspace-Projekte | 18. Juni 2020 | Beim Freigeben eines Workspace-Projekts können Sie nun Empfänger je nach Projekterfahrung in eine der drei Rollen setzen: Bearbeiten, Duplikat und Ansicht. [Weitere Informationen...]((https://docs.adobe.com/content/help/en/analytics/analyze/analysis-workspace/curate-share/share-projects.html) |
+| Projektrollen für freigegebene Workspace-Projekte | 18. Juni 2020 | Beim Freigeben eines Workspace-Projekts können Sie nun Empfänger je nach Projekterfahrung in eine der drei Rollen setzen: Bearbeiten, Duplikat und Ansicht. [Mehr Infos...](https://docs.adobe.com/content/help/en/analytics/analyze/analysis-workspace/curate-share/share-projects.html) |
 | Arbeitsbereich-Projekte, die nur für Ansichten gedacht sind | 18. Juni 2020 | Workspace-Projekte können nur als &quot;Kann Ansicht&quot;freigegeben werden. Wenn ein Empfänger der Ansicht das freigegebene Projekt öffnet, erhält er eine restriktivere Projekterfahrung ohne linke Leiste und eingeschränkte Interaktionen. [Mehr Infos...](https://docs.adobe.com/content/help/en/analytics/analyze/analysis-workspace/curate-share/view-only-projects.html) |
 | Möglichkeit zur Kobearbeitung von Workspace-Projekten | 18. Juni 2020 | Empfänger, die der Rolle &quot;Kann bearbeiten&quot;hinzugefügt wurden, können über einem Projekt speichern, das für sie freigegeben wurde. Dies gilt sowohl für Administratoren als auch für Nicht-Administratoren. [Mehr Infos...](https://docs.adobe.com/content/help/en/analytics/analyze/analysis-workspace/curate-share/share-projects.html) |
 | Aktualisiertes leeres Bedienfeld in Workspace | 18. Juni 2020 | Der leere Bereich in Workspace umfasst jetzt Bedienfelder und Visualisierungen, sodass Sie den Arbeitsablauf für die Analyse, der für Sie am besten geeignet ist, nahtloser wählen können. |
