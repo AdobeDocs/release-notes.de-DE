@@ -1,13 +1,13 @@
 ---
 title: Adobe Experience Cloud – Versionshinweise
-description: Vorlage für Experience Cloud-Versionshinweise
+description: Adobe Experience Cloud – Versionshinweise
 doc-type: release notes
 last-update: June 2020
 author: mfrei
 translation-type: tm+mt
-source-git-commit: fc51a317cdceb0cdf2ebf685c0a4480995dd4ef9
+source-git-commit: 05310c3c03c09918aee45015bd6c9bc341dce724
 workflow-type: tm+mt
-source-wordcount: '6510'
+source-wordcount: '6509'
 ht-degree: 37%
 
 ---
@@ -187,7 +187,7 @@ Updated **June 10, 2020**
 | Zuordnung IQ: [!UICONTROL Algorithmische Zuordnung] | 18. Juni 2020 | Das [!UICONTROL algorithmische Zuordnungsmodell] in [!UICONTROL Analysis Workspace] verwendet statistische Verfahren, um die optimale Zuordnung der Gutschrift für die ausgewählte Metrik dynamisch zu bestimmen. [Mehr Infos...](https://docs.adobe.com/content/help/en/analytics/analyze/analysis-workspace/panels/attribution/algorithmic.html) |
 | Zuordnung IQ: Benutzerdefinierte Lookback-Fenster | 18. Juni 2020 | Sie können jetzt jedes Zuordnungsmodell in [!UICONTROL Attribution IQ] so konfigurieren, dass Berührungspunkte von bis zu 90 Tagen vor dem Zeitraum des Berichte einbezogen werden. Dies erhöht in der Regel die Zuordnungsgenauigkeit für Ereignis, die frühzeitig im Berichte auftreten, indem Interaktionen berücksichtigt werden, die im/den Vormonat/en aufgetreten sind. [Mehr Infos...](https://docs.adobe.com/content/help/en/analytics/analyze/analysis-workspace/panels/attribution/attribution.html#lookback-windows) |
 | Unterstützung der [!UICONTROL Anomalieerkennung] | 18. Juni 2020 | [!UICONTROL Die Anomalieerkennung] bietet eine statistische Methode, um zu bestimmen, wie sich eine bestimmte Metrik im Vergleich zu vorherigen Daten verändert hat. [Mehr Infos...](https://docs.adobe.com/content/help/de-DE/analytics/analyze/analysis-workspace/virtual-analyst/anomaly-detection/anomaly-detection.html) |
-| Projektrollen für freigegebene [!UICONTROL Workspace] -Projekte | 18. Juni 2020 | Beim Freigeben eines [!UICONTROL Workspace] -Projekts können Sie Empfänger nun je nach Projekterfahrung in eine der drei Rollen platzieren: Bearbeiten, Duplikat und Ansicht. [Mehr Infos...](https://docs.adobe.com/content/help/en/analytics/analyze/analysis-workspace/curate-share/share-projects.html) |
+| Projektrollen für freigegebene [!UICONTROL Workspace] -Projekte | 18. Juni 2020 | Beim Freigeben eines [!UICONTROL Workspace] -Projekts können Sie nun Empfänger je nach Projekterfahrung in eine der drei Rollen setzen: Bearbeiten, Duplikat und Ansicht. [Mehr Infos...](https://docs.adobe.com/content/help/en/analytics/analyze/analysis-workspace/curate-share/share-projects.html) |
 | Ansicht-only- [!UICONTROL Workspace] -Projekte | 18. Juni 2020 | [!UICONTROL Workspace] -Projekte können für Benutzer freigegeben werden, da nur _[!UICONTROL Kann-Ansicht]_verwendet werden kann. Wenn ein Empfänger der Ansicht das freigegebene Projekt öffnet, erhält er eine restriktivere Projekterfahrung ohne linke Leiste und eingeschränkte Interaktionen.[Mehr Infos...](https://docs.adobe.com/content/help/en/analytics/analyze/analysis-workspace/curate-share/view-only-projects.html) |
 | Möglichkeit zur Kobearbeitung von [!UICONTROL Workspace] -Projekten | 18. Juni 2020 | Empfänger, die der Rolle &quot; _[!UICONTROL Kann bearbeiten]_&quot;hinzugefügt wurden, können über einem Projekt speichern, das für sie freigegeben wurde.[Mehr Infos...](https://docs.adobe.com/content/help/en/analytics/analyze/analysis-workspace/curate-share/share-projects.html) |
 | Bereich „Quick Insights“ in [!UICONTROL Arbeitsbereich] | 25. Juni 2020 | Quick Insights bietet Nicht-Analytikern und neuen Benutzern von [!UICONTROL Analysis Workspace] eine Möglichkeit, betriebliche Fragen schnell und einfach zu beantworten. [Mehr Infos...](https://docs.adobe.com/content/help/de-DE/analytics/analyze/analysis-workspace/panels/quickinsight.html) |
@@ -347,12 +347,10 @@ Neue Funktionen, Fehlerbehebungen und Aktualisierungen in Adobe Experience Manag
       * Dank der verbesserten Unterstützung für die Self-Service-Sandbox in Cloud Manager können berechtigte Benutzer alle Umgebung in einer Sandbox löschen und Gutschriften erhalten.
       * Sandbox-Umgebung mit automatischer Hibernation werden nach einer Inaktivität automatisch &quot;Hibernates&quot;-Sandboxen. Kunden können aktiv eine &quot;Entspannung&quot;auslösen.
    * Werkzeuge zur Transition zur Unterstützung der Cloud-Beschleunigung
-
    Mit dem Ziel, die Kosten für die Transition und die Zeit von Ort zu Cloud Service zu reduzieren, wurden in diesem Monat zwei Transitionen-Tools eingeführt. Diese Tools wurden entwickelt, um einige der wichtigsten Aufgaben während der Transition zu automatisieren und damit den Gesamtaufwand zu reduzieren. .
 
    1. [Mit dem Content Transfer Tool](https://docs.adobe.com/content/help/en/experience-manager-cloud-service/moving/cloud-migration/content-transfer-tool/using-content-transfer-tool.html) (auf SD verfügbar) wird die Aktivität der Inhaltsübertragung optimiert und skalierbar. Mit einer benutzerfreundlichen Benutzeroberfläche ist das Tool eine Selbstbedienung für Bestandskunden und -partner (on-prem/AMS), die als Cloud Service auf AEM umsteigen.
    1. [AMS Dispatcher Converter](https://github.com/adobe/aem-cloud-service-dispatcher-converter) (Open-Source) Tool zur Automatisierung der Konvertierung von AMS Dispatcher-Konfigurationen in Cloud Service Dispatcher-Konfigurationen.
-
    [Versionshinweise für AEM als Cloud Service 2020.6.0](https://docs.adobe.com/content/help/de-DE/experience-manager-cloud-service/release-notes/release-notes/release-notes-current.html)
 
    Werkzeuge für Transitionen:
