@@ -5,9 +5,9 @@ doc-type: release notes
 last-update: June 2020
 author: mfrei
 translation-type: tm+mt
-source-git-commit: a9dfcbc1fdd459212ffb898e2a1c508d9aaf84f7
+source-git-commit: b909c99b4389be6ad67536e49224d33b3fb10af8
 workflow-type: tm+mt
-source-wordcount: '6687'
+source-wordcount: '6688'
 ht-degree: 36%
 
 ---
@@ -151,7 +151,7 @@ Die neuesten Versionshinweise finden Sie unter Versionshinweise zur [Journey Orc
 
 ## ![Symbol](/assets/analytics.png) [!DNL Adobe Analytics] {#analytics}
 
-Updated **June 10, 2020**
+Releasedatum: **18. Juni 2020**
 
 * [Neue Funktionen in Adobe Analytics](#aa-features)
 * [Neue Funktionen in Customer Journey Analytics](#cust-journey)
