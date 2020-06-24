@@ -5,10 +5,10 @@ doc-type: release notes
 last-update: June 2020
 author: mfrei
 translation-type: tm+mt
-source-git-commit: a88748f592df569028641cd53d563e3b6c1d1201
+source-git-commit: 1fe0c0a5b892802837115df53c2f178e6e0ee81c
 workflow-type: tm+mt
-source-wordcount: '6688'
-ht-degree: 36%
+source-wordcount: '7082'
+ht-degree: 34%
 
 ---
 
@@ -184,7 +184,7 @@ Releasedatum: **18. Juni 2020**
 | Zuordnung IQ: [!UICONTROL Algorithmische Zuordnung] | 18. Juni 2020 | Das [!UICONTROL algorithmische Zuordnungsmodell] in [!UICONTROL Analysis Workspace] verwendet statistische Verfahren, um die optimale Zuordnung der Gutschrift für die ausgewählte Metrik dynamisch zu bestimmen. Verfügbar für Kunden von Adobe Analytics Ultimate. [Mehr Infos...](https://docs.adobe.com/content/help/en/analytics-platform/using/cja-workspace/attribution/algorithmic.html) |
 | Zuordnung IQ: Benutzerdefinierte Lookback-Fenster | 18. Juni 2020 | Sie können jetzt jedes Zuordnungsmodell in [!UICONTROL Attribution IQ] so konfigurieren, dass Berührungspunkte von bis zu 90 Tagen vor dem Zeitraum des Berichte einbezogen werden. Dies erhöht in der Regel die Zuordnungsgenauigkeit für Ereignis, die frühzeitig im Berichte auftreten, indem Interaktionen berücksichtigt werden, die im/den Vormonat/en aufgetreten sind. [Mehr Infos...](https://docs.adobe.com/content/help/en/analytics-platform/using/cja-workspace/attribution/models.html) |
 | Unterstützung der [!UICONTROL Anomalieerkennung] | 18. Juni 2020 | [!UICONTROL Die Anomalieerkennung] bietet eine statistische Methode, um zu bestimmen, wie sich eine bestimmte Metrik im Vergleich zu vorherigen Daten verändert hat. [Mehr Infos...](https://docs.adobe.com/content/help/en/analytics-platform/using/cja-workspace/virtual-analyst/anomaly-detection/anomaly-detection.html) |
-| Projektrollen für freigegebene [!UICONTROL Workspace] -Projekte | 18. Juni 2020 | Beim Freigeben eines [!UICONTROL Workspace] -Projekts können Sie nun Empfänger je nach Projekterfahrung in eine der drei Rollen setzen: Bearbeiten, Duplikat und Ansicht. [Mehr Infos...](https://docs.adobe.com/content/help/en/analytics-platform/using/cja-workspace/curate-share/share-projects.html) |
+| Projektrollen für freigegebene [!UICONTROL Workspace] -Projekte | 18. Juni 2020 | Beim Freigeben eines [!UICONTROL Workspace] -Projekts können Sie Empfänger nun je nach Projekterfahrung in eine der drei Rollen platzieren: Bearbeiten, Duplikat und Ansicht. [Mehr Infos...](https://docs.adobe.com/content/help/en/analytics-platform/using/cja-workspace/curate-share/share-projects.html) |
 | Ansicht-only- [!UICONTROL Workspace] -Projekte | 18. Juni 2020 | [!UICONTROL Workspace] -Projekte können für Benutzer freigegeben werden, da nur _[!UICONTROL Kann-Ansicht]_verwendet werden kann. Wenn ein Empfänger der Ansicht das freigegebene Projekt öffnet, erhält er eine restriktivere Projekterfahrung ohne linke Leiste und eingeschränkte Interaktionen.[Mehr Infos...](https://docs.adobe.com/content/help/en/analytics-platform/using/cja-workspace/curate-share/view-only-projects.html) |
 | Möglichkeit zur Kobearbeitung von [!UICONTROL Workspace] -Projekten | 18. Juni 2020 | Empfänger, die der Rolle &quot; _[!UICONTROL Kann bearbeiten]_&quot;hinzugefügt wurden, können über einem Projekt speichern, das für sie freigegeben wurde.[Mehr Infos...](https://docs.adobe.com/content/help/en/analytics-platform/using/cja-workspace/curate-share/share-projects.html) |
 | Bereich „Quick Insights“ in [!UICONTROL Arbeitsbereich] | 25. Juni 2020 | Quick Insights bietet Nicht-Analytikern und neuen Benutzern von [!UICONTROL Analysis Workspace] eine Möglichkeit, betriebliche Fragen schnell und einfach zu beantworten. [Mehr Infos...](https://docs.adobe.com/content/help/en/analytics-platform/using/cja-workspace/panels/quickinsight.html) |
@@ -458,11 +458,23 @@ Updated **June 3, 2020**
 
 ### Neue Funktionen in Advertising Cloud DSP {#adcloud-dsp}
 
+Updated **June 23, 2020**
+
 | Funktion | Beschreibung |
 | -----------| ---------- |
+| Domänenmigration | (Version vom 22. Juni) Das Advertising Cloud-DSP wurde von https://www.tubemogul.com auf [https://advertising.adobe.com](https://advertising.adobe.com)migriert. |
+| Adobe Analytics-Integration | (Version vom 18. Juni) DSP kann jetzt optional die AMO-Kostenmetrik aus den an Analytics gesendeten Daten unterdrücken. Wenden Sie sich zum Unterdrücken der Metrik an Ihren Adobe-Kundenbetreuer. |
+| Mobilgerätediagramm | (Version vom 22. Juni) Self-Service-DSP-Kunden können jetzt ein Gerätediagramm (entweder Adobe Experience Cloud Device Co-op oder LiveRamp) für personalbasiertes Targeting und Frequenzmanagement in allen neuen Kampagnen nutzen. Dadurch wird sichergestellt, dass Sie Ihre Audiencen auf allen eigenen Geräten erreichen und die Anzeigenexposition einschränken können. |
+| CCPA Opt-out-of-Sale | (Version vom 22. Juni) Sie können jetzt CCPA-Ausschluss-Kaufanfragen an Advertising Cloud mit einem neuen CCPA-Ausschluss-Verkaufssegment kommunizieren, das Sie aus [!UICONTROL Audiencen > Segmente]erstellen können. Sie können auch monatliche Berichte zu IDs abrufen, die Kunden für die Abmeldeanforderung für das Konto a) von [!UICONTROL Audiencen > Segmente] oder b) über die Advertising Cloud-Trafficking-API eingereicht haben. Weitere Informationen finden Sie unter [https://docs.adobe.com/content/help/en/advertising-cloud/all/privacy/ad-cloud-ccpa-opt-out-of-sale.html.](https://docs.adobe.com/content/help/en/advertising-cloud/all/privacy/ad-cloud-ccpa-opt-out-of-sale.html) |
+| DoubleVerify Authentic Markensicherheit | (Release vom 22. Juni) Werbetreibende können nun eine DoubleVerify Segment-ID vor dem Angebot mit umfassenden Filtern zur Markensicherheit Zielgruppe haben, um ihre Blockierungsregeln nach dem Angebot mit DoubleVerify nachzuahmen. Sie können dies jetzt im Targeting-Bereich Medienqualität in den Advertiser-Einstellungen unter [!UICONTROL Einstellungen > Advertiser]tun. Weitere Informationen zum Dienst erhalten Sie unter programmaticsales@doubleverify.com. Für diese Funktion fallen zusätzliche Gebühren an. |
+| CPA/ROAS-Optimierung | (Release 20. Mai) Kampagnen-Manager müssen keine neuen Platzierungen mehr in Paketen beschränken, um eine Überzuweisung des Budgets zu verhindern. Praktika erhalten nun eine dynamische Budgetzwischenzuweisung basierend auf ihrer CPM- oder CPA/ROAS-Leistung. |
 | [!UICONTROL Kampagne] - Startseite | (Release 3. Juni) Es stehen neue Pacing-Metriken auf Kampagne-Ebene zur Verfügung, die auf dem bereitgestellten Budget und der bereitgestellten Kampagne basieren. |
+| [!UICONTROL Platzierungen] | (Release vom 22. Juni) Die Filter &quot;Site-Vielfalt&quot;und &quot;Player-Größe&quot;wurden entfernt, um die Platzierung zu vereinfachen. |
 | Platzierungsvorhersage | (Release 3. Juni) Bei CTV- und Videoplatzierungen mit Optimierung auf Platzierungsebene beinhalten die Platzierungseinstellungen jetzt Prognosen für mehrere Anzeigenlängen (15 Sek. und 30 Sek.). Sie umfassen auch Prognosen für VAST- und VPAID-Bestände. |
 | CPA/ROAS-Optimierung | (Release 20. Mai) Kampagnen-Manager müssen keine neuen Platzierungen mehr in Paketen beschränken, um eine Überzuweisung des Budgets zu verhindern. Praktika erhalten nun eine dynamische Budgetzwischenzuweisung basierend auf ihrer CPM- oder CPA/ROAS-Leistung. |
+| [!UICONTROL Bestand] | (Beta-Version vom 22. Juni) Ein neues Deal-ID-Formular ermöglicht es Ihnen, schnell einen privaten Deal einzurichten, den Sie bereits ausgehandelt haben. |
+|  | (Beta-Version vom 22. Juni) Interaktive Pre-Roll ist jetzt für VAST-Bestände verfügbar. Sie können eine einzelne interaktive Pre-Roll-Anzeige und Platzierung einrichten, wodurch sich die Anzahl Ihrer Anzeigen und Platzierungen verringert. |
+| ACTV Audience Lens | (18. Juni) Audience Lenses ermöglicht es Benutzern, sekundäre Audiencen zu erstellen und auf ihre Planung, Bestellung und Berichte Workflows. Dadurch können sie (1) schnelle Einblicke in sekundäre Audiencen gewinnen, (2) flexibel auf bevorzugte Audiencen transagieren und (3) die Ausführung einer Kampagne durch das &quot;Objektiv&quot;mehrerer Audiencen messen. |
 
 ### Neue Funktionen in [!UICONTROL Advertising Cloud Search] {#adcloud-search}
 
