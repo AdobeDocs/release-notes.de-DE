@@ -5,10 +5,10 @@ doc-type: release notes
 last-update: June 2020
 author: mfrei
 translation-type: tm+mt
-source-git-commit: d081c9c185e4709eb758c1562466af2f92af593e
+source-git-commit: efd848cda1046613c889825fff57b868b67e1c80
 workflow-type: tm+mt
-source-wordcount: '6998'
-ht-degree: 100%
+source-wordcount: '7021'
+ht-degree: 99%
 
 ---
 
@@ -251,6 +251,10 @@ Neue Kurse, Tutorial-Videos und Artikel in Analytics und Customer Journey Analyt
 | [Scorecard Builder für Adobe Analytics-Dashboards](https://docs.adobe.com/content/help/en/analytics-learn/tutorials/additional-tools/analytics-dashboards/adobe-analytics-dashboards-scorecard-builder.html) | Videotutorial | In diesem Video erfahren Sie, wie Sie [!UICONTROL Scorecards] in [!UICONTROL Analysis Workspace] erstellen und freigeben, die in Adobe Analytics-Dashboards (mobile Anwendung) angezeigt werden. |
 | [In-App-Erlebnis für Adobe Analytics-Dashboards](https://docs.adobe.com/content/help/en/analytics-learn/tutorials/additional-tools/analytics-dashboards/adobe-analytics-dashboards-in-app-experience.html) | Videotutorial | In diesem Video erfahren Sie, wie Sie mit Adobe Analytics-Dashboards (mobile Anwendung) auf von Ihnen erstellte oder für Sie freigegebene [!UICONTROL Scorecards] zugreifen und diese anzeigen können. |
 
+#### AppMeasurement {#appm}
+
+Die neuesten Aktualisierungen zu AppMeasurement-Versionen finden Sie in den Versionshinweisen zu [AppMeasurement für JavaScript](https://docs.adobe.com/content/help/de-DE/analytics/implementation/appmeasurement-updates.html).
+
 #### Analytics-Hilferessourcen
 
 * [Adobe Analytics-Tutorials](https://docs.adobe.com/content/help/en/analytics-learn/tutorials/overview.html)
@@ -341,10 +345,12 @@ Neue Funktionen, Fehlerbehebungen und Aktualisierungen in Adobe Experience Manag
       * Durch die verbesserte Unterstützung für die Self-Service-Sandbox in Cloud Manager können berechtigte Benutzer alle Umgebung in einer Sandbox löschen und Gutschriften erhalten.
       * Sandbox-Umgebungen mit automatischem Ruhezustand versetzen Sandboxes nach einer Inaktivität automatisch in den Ruhezustand. Kunden können die Aufhebung des Ruhezustands aktiv auslösen.
    * Werkzeuge für die Transition zur Unterstützung der Cloud-Beschleunigung.
+
    Um die Zeit und die Kosten für die Transition von lokalen Diensten auf Cloud-Dienste zu reduzieren, wurden in diesem Monat zwei Werkzeuge für die Transition eingeführt. Diese Werkzeuge wurden entwickelt, um einige der wichtigsten Aufgaben während der Transition zu automatisieren und damit den Gesamtaufwand zu reduzieren.
 
    1. [Mit dem Werkzeug zum Übertragen von Inhalt](https://docs.adobe.com/content/help/de-DE/experience-manager-cloud-service/moving/cloud-migration/content-transfer-tool/using-content-transfer-tool.html) (bei SD verfügbar) wird die Aktivität der Inhaltsübertragung optimiert und skalierbar gemacht. Mit einer benutzerfreundlichen Benutzeroberfläche ist das Werkzeug ein Self-Service für Bestandskunden und Partner (lokal/AMS), die auf AEM as a Cloud Service umsteigen.
    1. [Der AMS Dispatcher Converter](https://github.com/adobe/aem-cloud-service-dispatcher-converter) ist ein Werkzeug (Open-Source) zur Automatisierung der Konvertierung von AMS Dispatcher-Konfigurationen in Cloud Service Dispatcher-Konfigurationen.
+
    [Versionshinweise für AEM as a Cloud Service 2020.6.0](https://docs.adobe.com/content/help/de-DE/experience-manager-cloud-service/release-notes/release-notes/release-notes-current.html)
 
    Transitionswerkzeuge:
@@ -463,7 +469,7 @@ Aktualisiert am **23. Juni 2020**
 | -----------| ---------- |
 | Domain-Migration | (Version vom 22. Juni) Advertising Cloud-DSP wurde von https://www.tubemogul.com auf [https://advertising.adobe.com](https://advertising.adobe.com) migriert. |
 | Adobe Analytics-Integration | (Version vom 18. Juni) DSP kann jetzt optional die AMO-Kostenmetrik in den an Analytics gesendeten Daten unterdrücken. Wenden Sie sich zum Unterdrücken der Metrik an Ihren Adobe-Kundenbetreuer. |
-| Personenbasiertes Gerätediagramm | (Version vom 22. Juni) Self-Service-DSP-Kunden können jetzt ein Gerätediagramm (entweder Adobe Experience Cloud Device Co-op oder LiveRamp) für personenbasiertes Targeting und Frequenzmanagement in allen neuen Kampagnen nutzen. Dadurch wird sichergestellt, dass Sie Ihre Audiences auf deren Geräten erreichen und die Anzeige von Werbung einschränken können. |
+| Diagramm für benutzerspezifische Geräte | (Version vom 22. Juni) Self-Service-DSP-Kunden können jetzt ein Gerätediagramm (entweder Adobe Experience Cloud Device Co-op oder LiveRamp) für personenbasiertes Targeting und Frequenzmanagement in allen neuen Kampagnen nutzen. Dadurch wird sichergestellt, dass Sie Ihre Audiences auf deren Geräten erreichen und die Anzeige von Werbung einschränken können. |
 | CCPA-Abmeldung von Kaufanfragen | (Version vom 22. Juni) Sie können jetzt CCPA-Abmeldungen von Kaufanfragen mit einem neuen CCPA-Kaufabmeldungssegment an Advertising Cloud richten, das Sie in [!UICONTROL Audiences > Segmente] erstellen können. Sie können auch monatliche Berichte zu IDs abrufen, die Kunden für die Abmeldungen von Kaufanfragen für das Konto a) in [!UICONTROL Audiences > Segmente] oder b) über die Advertising Cloud-Trafficking-API gesendet haben. Weitere Informationen finden Sie unter https://docs.adobe.com/content/help/en/advertising-cloud/all/privacy/ad-cloud-ccpa-opt-out-of-sale.html. |
 | Authentische DoubleVerify-Markensicherheit | (Version vom 22. Juni) Advertiser können nun eine einzelne DoubleVerify-Segment-ID vor dem Angebot mit umfassenden Filtern zur Markensicherheit entsprechend ihren Blockierungsregeln nach dem Angebot mit DoubleVerify auswählen. Dies ist jetzt im Targeting-Bereich Medienqualität in den Advertiser-Einstellungen unter [!UICONTROL Einstellungen > Advertiser] möglich. Weitere Informationen zum Dienst erhalten Sie unter programmaticsales@doubleverify.com. Für diese Funktion fallen zusätzliche Gebühren an. |
 | CPA/ROAS-Optimierung | (Version vom 20. Mai) Kampagnen-Manager müssen keine neuen Platzierungen mehr in Paketen beschränken, um eine Überzuweisung des Budgets zu verhindern. Platzierungen erhalten nun eine dynamische Budgetzuweisung basierend auf ihrer CPM- oder CPA/ROAS-Leistung. |
