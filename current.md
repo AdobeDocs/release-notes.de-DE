@@ -345,12 +345,10 @@ Neue Funktionen, Fehlerbehebungen und Aktualisierungen in Adobe Experience Manag
       * Durch die verbesserte Unterstützung für die Self-Service-Sandbox in Cloud Manager können berechtigte Benutzer alle Umgebung in einer Sandbox löschen und Gutschriften erhalten.
       * Sandbox-Umgebungen mit automatischem Ruhezustand versetzen Sandboxes nach einer Inaktivität automatisch in den Ruhezustand. Kunden können die Aufhebung des Ruhezustands aktiv auslösen.
    * Werkzeuge für die Transition zur Unterstützung der Cloud-Beschleunigung.
-
    Um die Zeit und die Kosten für die Transition von lokalen Diensten auf Cloud-Dienste zu reduzieren, wurden in diesem Monat zwei Werkzeuge für die Transition eingeführt. Diese Werkzeuge wurden entwickelt, um einige der wichtigsten Aufgaben während der Transition zu automatisieren und damit den Gesamtaufwand zu reduzieren.
 
    1. [Mit dem Werkzeug zum Übertragen von Inhalt](https://docs.adobe.com/content/help/de-DE/experience-manager-cloud-service/moving/cloud-migration/content-transfer-tool/using-content-transfer-tool.html) (bei SD verfügbar) wird die Aktivität der Inhaltsübertragung optimiert und skalierbar gemacht. Mit einer benutzerfreundlichen Benutzeroberfläche ist das Werkzeug ein Self-Service für Bestandskunden und Partner (lokal/AMS), die auf AEM as a Cloud Service umsteigen.
    1. [Der AMS Dispatcher Converter](https://github.com/adobe/aem-cloud-service-dispatcher-converter) ist ein Werkzeug (Open-Source) zur Automatisierung der Konvertierung von AMS Dispatcher-Konfigurationen in Cloud Service Dispatcher-Konfigurationen.
-
    [Versionshinweise für AEM as a Cloud Service 2020.6.0](https://docs.adobe.com/content/help/de-DE/experience-manager-cloud-service/release-notes/release-notes/release-notes-current.html)
 
    Transitionswerkzeuge:
