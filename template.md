@@ -5,7 +5,7 @@ doc-type: release notes
 last-update: March 2020
 author: mfrei
 translation-type: tm+mt
-source-git-commit: b99aa5d06316964f374b99547215643ad8208bbf
+source-git-commit: bd027ba7bbbfd6c8e510b48e4e0fff9168403da8
 workflow-type: tm+mt
 source-wordcount: '2537'
 ht-degree: 96%
@@ -20,12 +20,12 @@ ht-degree: 96%
 Neue Funktionen und Fehlerbehebungen in Adobe Experience Cloud.
 
 >[!IMPORTANT]
->>Diese Seite enthält Inhalte einer Vorabversion und kann vor der geplanten Veröffentlichung der Version geändert werden.
-
+>
+>Diese Seite enthält Inhalte einer Vorabversion und kann vor der geplanten Veröffentlichung der Version geändert werden.
 
 >[!NOTE]
->>Abonnieren Sie das [Prioritätsprodukt-Update von Adobe](https://www.adobe.com/subscription/priority-product-update.html), um per E-Mail über bevorstehende Versionen benachrichtigt zu werden. Nach dem Release veröffentlichte neue Informationen werden mit dem Veröffentlichungsdatum gekennzeichnet.
-
+>
+>Abonnieren Sie das [Prioritätsprodukt-Update von Adobe](https://www.adobe.com/subscription/priority-product-update.html), um per E-Mail über bevorstehende Versionen benachrichtigt zu werden. Nach dem Release veröffentlichte neue Informationen werden mit dem Veröffentlichungsdatum gekennzeichnet.
 
 **Releasedatum: 2020**
 
@@ -36,7 +36,7 @@ Neue Funktionen und Fehlerbehebungen in Adobe Experience Cloud.
 * [Audience Manager](#aam)
 * [Experience Manager](#aem)
 * [Kampagne](#ac)
-* [Target](https://docs.adobe.com/content/help/de-DE/target/using/release-notes/target-release-notes.html) (Links zur Hilfe zur Lösung)
+* [Zielgruppe](https://docs.adobe.com/content/help/de-DE/target/using/release-notes/target-release-notes.html) (Links zur Hilfe zur Lösung)
 * [Advertising Cloud](#adcloud)
 * [Magento](#magento)
 * [Marketo](#marketo)
@@ -97,7 +97,7 @@ Versionshinweise und die Produktdokumentation finden Sie unter [Experience Platf
 
 Using Adobe [!UICONTROL Experience Platform,] orchestrate individual customer journeys at scale across experience channels by intelligently anticipating every individual&#39;s needs in real time, wherever their journey takes them.
 
-#### Zusätzliche Ressourcen für die [!UICONTROL Journey Orchestration]
+#### Additional resources for [!UICONTROL Journey Orchestration]
 
 [Dokumentation](https://docs.adobe.com/content/help/de-DE/journeys/using/journey-orchestration-home.html) – [Versionshinweise](https://docs.adobe.com/content/help/de-DE/journeys/using/release-notes/release-notes.html) – [Videoanleitungen](https://docs.adobe.com/content/help/en/platform-learn/tutorials/journey-orchestration/introduction.html)
 
