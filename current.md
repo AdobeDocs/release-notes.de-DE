@@ -5,9 +5,9 @@ doc-type: release notes
 last-update: July 2020
 author: mfrei
 translation-type: tm+mt
-source-git-commit: 65fea3351137d311bbda846058bea34284b0054e
+source-git-commit: 19591a3d807cd772df0eb20e457d94cc9f7d5cfb
 workflow-type: tm+mt
-source-wordcount: '4205'
+source-wordcount: '4203'
 ht-degree: 60%
 
 ---
@@ -116,7 +116,7 @@ Die folgenden Anwendungen verwenden die neue Domäne „experience.adobe.com“:
 
 Versionshinweise für [!DNL Experience Platform] und Anwendungsdienste, einschließlich [!DNL Experience Platform Launch,] [!UICONTROL Angeboten], [!UICONTROL Personen], [!UICONTROL Places], [!UICONTROL Mobile Services] und Sicherheitsbulletins.
 
-Nicht aktualisiertNeuestes Veröffentlichungsdatum: **10. Juni 2020**
+Latest release date: **June 10, 2020**
 
 Aktuelle Informationen zur Experience Platform finden Sie in den Versionshinweisen zur [Experience Platform](https://docs.adobe.com/content/help/de-DE/experience-platform/release-notes/latest.html#!end-user/markdown/release-notes/release-notes.md) .
 
