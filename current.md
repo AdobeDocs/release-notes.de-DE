@@ -5,10 +5,10 @@ doc-type: release notes
 last-update: July 2020
 author: mfrei
 translation-type: tm+mt
-source-git-commit: 079138eeaeb4a61ab892abaff66b15d51b751bf4
+source-git-commit: 985ec5f911f0cfa433e12abb5e55724dbecadb2e
 workflow-type: tm+mt
-source-wordcount: '4321'
-ht-degree: 58%
+source-wordcount: '4373'
+ht-degree: 57%
 
 ---
 
@@ -31,13 +31,13 @@ Auf dieser Seite sind neue Funktionen, Fehlerbehebungen und wichtige Hinweise in
 
 Die Veröffentlichungsdaten einzelner Produkte können variieren. Suchen Sie regelmäßig nach Updates.
 
-Neueste Aktualisierung: **13. Juli 2020**
+Neueste Aktualisierung: **14. Juli 2020**
 
 * [Systemstatus von Adobe](#status)
 * [Experience Cloud-Benutzeroberfläche](#ecloud)
 * [Experience Platform](#platform)
 * [Journey-Orchestrierung](#journey-orch)
-* [Analytics](#analytics) und [Customer Journey Analytics](#cust-journey) (Aktualisiert 13. Juli 2020)
+* [Analytics](#analytics) und [Customer Journey Analytics](#cust-journey) (Aktualisiert 14. Juli 2020)
 * [Audience Manager](#aam)
 * [Experience Manager](#aem)
 * [Kampagne](#ac)
@@ -145,7 +145,7 @@ Releasedatum: **16. Juli 2020**
 | Funktion | [Allgemeine Verfügbarkeit](https://docs.adobe.com/content/help/de-DE/analytics/landing/an-releases.html) – geplantes Datum | Beschreibung |
 | -----------| ---------- |-------|
 | Arbeitsbereich: Neue Vorgaben für Datumsbereiche | Es wurden vier neue Datumsbereiche hinzugefügt (_Diese Woche/Monat/Quartal/Jahr_ (außer heute)), sodass Benutzer aus Datumsbereichen wählen können, die keine Daten aus Teiltagen von heute enthalten. |
-| Datenreparatur-API - öffentliche Beta-Version | Die Datenreparatur-API bietet eine Selbstbedienungsoption zum Löschen von Spalten mit Adobe Analytics-Daten. Nach Veröffentlichung der öffentlichen Beta-Version unterstützt die API das Löschen von Activity Map-Daten. Weitere Funktionen werden später bereitgestellt. Wenden Sie sich an den Kundendienst, um Zugriff auf diese API zu erhalten. |
+| Datenreparatur-API - öffentliche Betaversion (Update **Juli, 14. Juli 2020**) | Die Datenreparatur-API bietet Ihnen einen Mechanismus zum Löschen oder Bearbeiten bestimmter bestehender Adobe Analytics-Daten. Datenreparaturanforderungen werden durch Übermitteln einer Auftragsdefinition an die Datenreparatur-API durchgeführt, die die Report Suite, den Datumsbereich, die Variablen und die auf die Daten anzuwendenden Aktionen enthält. Bei Beginn der öffentlichen Betaversion unterstützt die Datenreparatur-API das Löschen von Activity Map-Daten. Weitere Funktionen werden zu einem späteren Zeitpunkt eingeführt. Wenden Sie sich an den Kundendienst, um an der öffentlichen Beta-Version der Datenreparatur-API teilzunehmen. [Mehr Infos...](https://github.com/AdobeDocs/analytics-2.0-apis/blob/master/data-repair.md) |
 
 ### Neue Funktionen in Customer Journey Analytics {#cust-journey}
 
