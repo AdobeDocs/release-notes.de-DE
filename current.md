@@ -5,23 +5,19 @@ doc-type: release notes
 last-update: July 2020
 author: mfrei
 translation-type: tm+mt
-source-git-commit: 64307f885074b216956a8711384b60a4806a13a3
+source-git-commit: 156d25a099ea7bf1a0f8b7fff148dbfdd615f69e
 workflow-type: tm+mt
-source-wordcount: '4373'
+source-wordcount: '4356'
 ht-degree: 94%
 
 ---
 
 
-# Frühzeitiger Zugriff – Versionshinweise zu Adobe Experience Cloud – Juli 2020
+# Adobe Experience Cloud -Versionshinweise, Juli 2020
 
 ![Banner](/assets/experience-cloud-banner-3.png)
 
 Auf dieser Seite sind neue Funktionen, Fehlerbehebungen und wichtige Hinweise in [!DNL Adobe Experience Cloud] beschrieben. Außerdem werden neue Dokumentationen, Schulungen und Videoschulungen vorgestellt, die Ihnen helfen, Experience Cloud optimal zu nutzen.
-
->[!IMPORTANT]
->
->Diese Seite enthält Inhalte einer Vorabversion und kann vor der geplanten Veröffentlichung der Version geändert werden.
 
 >[!NOTE]
 >
