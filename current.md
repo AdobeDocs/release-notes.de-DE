@@ -5,10 +5,10 @@ doc-type: release notes
 last-update: July 2020
 author: mfrei
 translation-type: tm+mt
-source-git-commit: 156d25a099ea7bf1a0f8b7fff148dbfdd615f69e
+source-git-commit: 3947290a3d13ab4cef1d6d9ec639fa70a250c36a
 workflow-type: tm+mt
-source-wordcount: '4356'
-ht-degree: 100%
+source-wordcount: '4377'
+ht-degree: 99%
 
 ---
 
@@ -140,6 +140,7 @@ Versionsdatum: **16. Juli 2020**
 
 | Funktion | [Allgemeine Verfügbarkeit](https://docs.adobe.com/content/help/de-DE/analytics/landing/an-releases.html) – geplantes Datum | Beschreibung |
 | -----------| ---------- |-------|
+| CDA: Feldbasierte Heften | 27. Juli 2020 | Eine neue Methode für geräteübergreifendes Analytics, mit der Sie mithilfe einer benutzerspezifischen Variablen Besucher identifizieren können. |
 | Workspace: Neue Vorgaben für Datumsbereiche | 16. Juli 2020 | Es wurden vier neue Datumsbereiche hinzugefügt: (_Aktuelle Woche/Aktueller Monat/Aktuelles Quartal/Aktuelles Jahr_ (aktueller Tag ausgenommen)). So können Sie jetzt Datumsbereiche auswählen, die keine Daten des aktuellen bereits begonnenen Tages enthalten. |
 | Data Repair API – öffentliche Beta-Version | 14. Juli 2020 | Mit der [!UICONTROL Date Repair API] können Sie bestimmte vorhandene Adobe Analytics-Daten löschen oder bearbeiten. [!UICONTROL Data Repair]-Anfragen werden ausgeführt, indem eine Vorgangsdefinition an die [!UICONTROL Data Repair-API] übermittelt wird. Diese enthält die Report Suite, den Datumsbereich, die Variablen und die Aktionen, die auf die Daten anzuwenden sind. Bei Beginn der öffentlichen Beta-Version unterstützt die [!UICONTROL Data Repair API] das Löschen von [!UICONTROL Activity Map]-Daten. Weitere Funktionen werden zu einem späteren Zeitpunkt eingeführt. Wenden Sie sich an die Kundenunterstützung, um an der öffentlichen Beta-Version der Data Repair-API teilzunehmen. [Mehr Infos...](https://github.com/AdobeDocs/analytics-2.0-apis/blob/master/data-repair.md) |
 
