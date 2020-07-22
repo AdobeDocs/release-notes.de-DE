@@ -33,7 +33,7 @@ Neuestes Update: **14. Juli 2020**
 * [Experience Cloud-Benutzeroberfläche ](#ecloud)
 * [Experience Platform](#platform)
 * [Journey Orchestration](#journey-orch)
-* [Analytics](#analytics) und [Customer Journey Analytics](#cust-journey)  (Aktualisiert am 14. Juli 2020)
+* [Analytics](#analytics) und [Customer Journey Analytics](#cust-journey)   (Aktualisiert am 14. Juli 2020)
 * [Audience Manager](#aam)
 * [Experience Manager](#aem)
 * [Kampagne](#ac)
@@ -132,7 +132,7 @@ Versionsdatum: **16. Juli 2020**
 * [Neue Funktionen in Customer Journey Analytics](#cust-journey)
 * [Neue Funktionen in Media Analytics](#media-aa)
 * [Fehlerbehebungen in Adobe Analytics](#aa-fixes)
-* [Wichtige Hinweise für Analytics-Administratoren](#aa-notices)  (Aktualisiert am 13. Juli 2020)
+* [Wichtige Hinweise für Analytics-Administratoren](#aa-notices)   (Aktualisiert am 13. Juli 2020)
 * [Neue Adobe Analytics-Kurse und -Tutorials](#tutorials-analytics)
 * [AppMeasurement](#appm)
 
@@ -180,7 +180,7 @@ AN-222672, AN-222813, AN-222892, AN-223272, AN-223432, AN-224062, AN-224108, AN-
 
 ### Wichtige Hinweise für [!DNL Analytics]-Administratoren {#aa-notices}
 
-| Hinweis | Hinzugefügt  oder aktualisiert am | Beschreibung |
+| Hinweis | Hinzugefügt   oder aktualisiert am | Beschreibung |
 | -----------| ---------- | ---------- |
 | EOL von Adobe Data Connectoren | 13. Juli 2020 | Adobe Data Connectoren basieren auf einer älteren Technologie, die nicht mehr funktionsfähig ist oder unterstützt wird. Im [Adobe Exchange Partner-Programm](https://partners.adobe.com/exchangeprogram/experiencecloud) gibt es einen neuen Standard, der für alle Integrationen übernommen werden sollte, die weiterhin angeboten und unterstützt werden sollen. Das offizielle Ende des Lebenszyklus wurde noch nicht festgelegt, aber wir gehen davon aus, dass es in den nächsten 12 bis 18 Monaten (Mitte 2021 bis Ende 2021) sein wird. [Weitere Informationen...](https://docs.adobe.com/content/help/de-DE/analytics/import/dataconnectors/data-connectors-eol.html) |
 | Report Suite-Zuordnung zu IMS-Organisation | Juli 2020 | Das Tool für die Zuordnung von Report Suites wird im November 2020 eingestellt. Über diese Funktion werden Integrationen wie die Veröffentlichung von Segmenten aus Advertising Analytics und Experience Cloud in Adobe Analytics ermöglicht. Zur Aktivierung dieser und anderer Services muss eine Report Suite einer IMS-Organisation zugeordnet werden. Neuere Report Suites werden bei ihrer Erstellung automatisch zugeordnet. Ältere Report Suites hingegen müssen einer IMS-Organisation manuell zugeordnet werden. Näheres dazu, wie Sie sicherstellen, dass alle Report Suites derselben IMS-Organisation zugehören, finden Sie im Benutzerhandbuch zu Core Services unter [Report Suites einer Organisation zuweisen](https://docs.adobe.com/content/help/de-DE/core-services/interface/about-core-services/report-suite-mapping.html). |
@@ -342,7 +342,7 @@ Nachfolgend sind die im vergangenen Monat neu veröffentlichten Videos, Tutorial
 
 * Adobe Campaign Standard: [Hilfe-Center](https://docs.adobe.com/content/help/de-DE/campaign-standard/using/campaign-standard-home.html) – [Versionshinweise](https://docs.adobe.com/content/help/de-DE/campaign-standard/using/release-notes/release-notes.html) – [Anleitungsvideos](https://docs.adobe.com/content/help/de-DE/campaign-standard-learn/tutorials/overview.html) – [Versionsplanung](https://docs.adobe.com/content/help/de-DE/campaign-standard/using/release-notes/release-planning.html) – [Neueste Aktualisierungen der Dokumentation](https://docs.adobe.com/content/help/de-DE/campaign-standard/using/documentation-updates.html)
 * Adobe Campaign Classic: [Hilfe-Center](https://docs.adobe.com/content/help/de-DE/campaign-classic/using/campaign-classic-home.html) – [Versionshinweise](https://docs.adobe.com/content/help/de-DE/campaign-classic/using/release-notes/latest-release.html) – [Anleitungsvideos](https://docs.adobe.com/content/help/en/campaign-learn/campaign-classic-tutorials/overview.html) – [Neueste Aktualisierungen der Dokumentation](https://docs.adobe.com/content/help/de-DE/campaign-classic/using/documentation-updates.html)
-* Control Panel von Adobe Campaign: [Dokumentation](https://docs.adobe.com/content/help/de-DE/control-panel/using/control-panel-home.html) – [Versionshinweise](https://docs.adobe.com/content/help/de-DE/control-panel/using/release-notes.html)  – Anleitungsvideos für [Campaign Standard](https://docs.adobe.com/content/help/de-DE/campaign-standard-learn/tutorials/administrating/control-panel/control-panel-overview.html)/[Campaign Classic](https://docs.adobe.com/content/help/en/campaign-classic-learn/tutorials/administrating/control-panel-acc/control-panel-overview.html)
+* Control Panel von Adobe Campaign: [Dokumentation](https://docs.adobe.com/content/help/de-DE/control-panel/using/control-panel-home.html) – [Versionshinweise](https://docs.adobe.com/content/help/de-DE/control-panel/using/release-notes.html)   – Anleitungsvideos für [Campaign Standard](https://docs.adobe.com/content/help/de-DE/campaign-standard-learn/tutorials/administrating/control-panel/control-panel-overview.html)/[Campaign Classic](https://docs.adobe.com/content/help/en/campaign-classic-learn/tutorials/administrating/control-panel-acc/control-panel-overview.html)
 
 ## ![Symbol](/assets/advertising-cloud.png) Advertising Cloud {#adcloud}
 
