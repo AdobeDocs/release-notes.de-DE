@@ -5,10 +5,10 @@ doc-type: release notes
 last-update: July 2020
 author: mfrei
 translation-type: tm+mt
-source-git-commit: 07dd75d1b05e0768cf41934eaf40b5460ca85696
+source-git-commit: 9f46f208d31ffea1d637bcffb02d869eb0f29974
 workflow-type: tm+mt
-source-wordcount: '4388'
-ht-degree: 99%
+source-wordcount: '4563'
+ht-degree: 96%
 
 ---
 
@@ -30,12 +30,12 @@ Die Veröffentlichungsdaten einzelner Produkte können variieren. Suchen Sie reg
 Neuestes Update: **21. Juli 2020**
 
 * [Systemstatus von Adobe](#status)
-* [Experience Cloud-Benutzeroberfläche ](#ecloud)
+* [Experience Cloud-Benutzeroberfläche ](#ecloud) (Aktualisiert am 27. Juli 2020)
 * [Experience Platform](#platform)
 * [Journey Orchestration](#journey-orch)
 * [Analytics](#analytics) und [Customer Journey Analytics](#cust-journey) (Aktualisiert am 21. Juli 2020)
 * [Audience Manager](#aam)
-* [Experience Manager](#aem)
+* [Experience Manager](#aem) (Aktualisiert 27. Juli 2020)
 * [Kampagne](#ac)
 * [Advertising Cloud](#adcloud)
 * [!DNL Target](https://docs.adobe.com/content/help/de-DE/target/using/release-notes/target-release-notes.html)
@@ -66,6 +66,14 @@ Veröffentlicht: **21. Mai 2020**
 ## ![Symbol](/assets/ec_appicon_24.png) Experience Cloud-Benutzeroberfläche {#ecloud}
 
 Allgemeine Aktualisierungen der Experience Cloud-Benutzeroberfläche.
+
+### Neue Dokumentation zu Adobe Summit Lab
+
+Neue Inhalte, die 2020 in Adobe Summit Labs veröffentlicht wurden.
+
+| Veröffentlicht | Name | Typ | Beschreibung |
+| -----------| ---------- | ---------- | ---------- |
+| 27. Juli 2020 | [Entfesseln digitaler Erlebnisse mit Adobe Dokument Cloud](https://docs.adobe.com/content/help/en/document-cloud-learn/lab719/overview.html) | Artikel | In diesem Labor sollten Sie Ihre Produktivität und Kreativität auf die nächste Stufe stellen, indem Sie lernen, wie Sie digitale Dokumente erstellen und mit PDF-Dateien arbeiten können. So können Sie die Erfahrungen von Kunden und Mitarbeitern verändern. |
 
 **Menü in der Benutzeroberfläche aktualisiert**
 
@@ -267,6 +275,8 @@ Nachfolgend sind die im vergangenen Monat neu veröffentlichten Videos, Tutorial
 
 | Veröffentlicht | Name | Typ | Beschreibung |
 | -----------| ---------- | ---------- | ---------- |
+| 27. Juli 2020 | [Mustererkennung](https://docs.adobe.com/content/help/en/experience-manager-pattern-detection/table-of-contents/aso.html) | Referenz | Nur während der `upgrade.log` Aktualisierung des Experience Managers verfügbar. |
+| 27. Juli 2020 | [Softwareverteilung](https://docs.adobe.com/content/help/de-DE/experience-cloud/software-distribution/home.html) | Artikel | As of June 2020, the Experience Cloud solution Software Distribution replaces the download platforms [!UICONTROL PackageShare] for AEM and [!DNL Neolane] for [!DNL Campaign] and provides a more efficient experience to find and download your software. Eine intuitive Benutzeroberfläche, eine vereinfachte Suche und eine deutlich verbesserte Download-Geschwindigkeit vereinfachen das Herunterladen von Softwarepackages für Experience Cloud-Produkte. |
 | 25. Juni 2020 | [Erste Schritte mit adaptiven Formularen](https://docs.adobe.com/content/help/en/experience-manager-learn/forms/creating-your-first-adaptive-form/adaptive-forms-getting-started-tutorial-use.html) | Video | In diesem Tutorial wird die Erstellung von adaptiven Formularen mit mehreren Registerkarten Schritt für Schritt erläutert, darunter die Verwendung von Tabellen und Accordion-Layouts sowie die Einrichtung von Geschäftsregeln mithilfe des Regel-Editors. |
 | 25. Juni 2020 | [Erstellen von Prüfungs-Workflows in AEM Forms](https://video.tv.adobe.com/v/35821/quality=9?captions=ger) | Video | Erfahren Sie, wie Sie einen Workflow für die Überprüfung von mittels aktiver Formularübermittlung gesendeten Daten erstellen. |
 | 23. Juni 2020 | [Verarbeitungsprofile](https://docs.adobe.com/content/help/en/experience-manager-learn/assets/configuring/processing-profiles.html) | Video | Verarbeitungsprofile definieren die in AEM as a Cloud Service für Assets erstellten Ausgabeformate. |
@@ -370,7 +380,9 @@ Magento-Versionshinweise finden Sie unter:
 
 ### Aktualisierungen von Core Marketo Engage
 
-Die aktuellen Versionsinformationen finden Sie in den [!DNL Marketo] [Versionshinweisen](https://docs.marketo.com/display/public/DOCS/Release+Notes%3A+Feb+%2720).
+Die Dokumentation für [!UICONTROL Marketo Sky] ist jetzt unter [Hier](https://docs.adobe.com/content/help/en/marketo/sky/home.html)verfügbar.
+
+Die aktuellen Versionsinformationen finden Sie in den [!DNL Marketo] [Versionshinweisen](https://docs.marketo.com/display/public/DOCS/Release+Notes%3A+July+%2720).
 
 ### Bevorstehende Funktionen
 
