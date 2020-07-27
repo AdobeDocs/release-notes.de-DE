@@ -5,9 +5,9 @@ doc-type: release notes
 last-update: July 2020
 author: mfrei
 translation-type: tm+mt
-source-git-commit: 9f46f208d31ffea1d637bcffb02d869eb0f29974
+source-git-commit: 6f1be637b529833baf987c4727ec2d7e4980b779
 workflow-type: tm+mt
-source-wordcount: '4563'
+source-wordcount: '4561'
 ht-degree: 96%
 
 ---
@@ -73,7 +73,7 @@ Neue Inhalte, die 2020 in Adobe Summit Labs veröffentlicht wurden.
 
 | Veröffentlicht | Name | Typ | Beschreibung |
 | -----------| ---------- | ---------- | ---------- |
-| 27. Juli 2020 | [Entfesseln digitaler Erlebnisse mit Adobe Dokument Cloud](https://docs.adobe.com/content/help/en/document-cloud-learn/lab719/overview.html) | Artikel | In diesem Labor sollten Sie Ihre Produktivität und Kreativität auf die nächste Stufe stellen, indem Sie lernen, wie Sie digitale Dokumente erstellen und mit PDF-Dateien arbeiten können. So können Sie die Erfahrungen von Kunden und Mitarbeitern verändern. |
+| 27. Juli 2020 | [Digitale Erlebnisse mit Adobe Document Cloud freischalten](https://docs.adobe.com/content/help/en/document-cloud-learn/lab719/overview.html) | Artikel | In diesem Labor sollten Sie Ihre Produktivität und Kreativität auf die nächste Stufe stellen, indem Sie lernen, wie Sie digitale Dokumente erstellen und mit PDF-Dateien arbeiten können. So können Sie die Erfahrungen von Kunden und Mitarbeitern verändern. |
 
 **Menü in der Benutzeroberfläche aktualisiert**
 
@@ -380,8 +380,6 @@ Magento-Versionshinweise finden Sie unter:
 
 ### Aktualisierungen von Core Marketo Engage
 
-Die Dokumentation für [!UICONTROL Marketo Sky] ist jetzt unter [Hier](https://docs.adobe.com/content/help/en/marketo/sky/home.html)verfügbar.
-
 Die aktuellen Versionsinformationen finden Sie in den [!DNL Marketo] [Versionshinweisen](https://docs.marketo.com/display/public/DOCS/Release+Notes%3A+July+%2720).
 
 ### Bevorstehende Funktionen
@@ -401,5 +399,9 @@ Die folgenden Funktionen werden im Laufe dieses Quartals veröffentlicht:
 
 * **Asset-API-Parameter „_method“:** Ab September 2020 wird `_method` nicht mehr vom Asset-API-Endpunkten akzeptiert, um Abfrageparameter zu einem POST-Textkörper weiterzuleiten und URI-Längenbeschränkungen zu umgehen.
 * **Einstellung der Unterstützung für Internet Explorer:** Ab der Juli-Version vom 31. Juli 2020 wird die Benutzeroberfläche von Marketo Engage in Internet Explorer nicht mehr unterstützt.
+
+>[!NOTE]
+>
+>Dokumentation für die [!UICONTROL Marketo Sky] Schnittstelle finden Sie [hier](https://docs.adobe.com/content/help/en/marketo/sky/home.html).
 
 Eine Sammlung historischer Versionshinweisen finden Sie unter [Marketo-Versionshinweise](https://docs.marketo.com/x/CgA6Ag).
