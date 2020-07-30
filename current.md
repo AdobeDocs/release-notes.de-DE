@@ -5,9 +5,9 @@ doc-type: release notes
 last-update: July 2020
 author: mfrei
 translation-type: tm+mt
-source-git-commit: b5109b2b7d98da696cbd397ab9358daf843c8e4b
+source-git-commit: 5bbdf099a039991d51b2f0735a3766d2f7525f3d
 workflow-type: tm+mt
-source-wordcount: '4618'
+source-wordcount: '4597'
 ht-degree: 95%
 
 ---
@@ -275,7 +275,6 @@ Nachfolgend sind die im vergangenen Monat neu veröffentlichten Videos, Tutorial
 
 | Veröffentlicht | Name | Typ | Beschreibung |
 | -----------| ---------- | ---------- | ---------- |
-| 27. Juli 2020 | [Mustererkennung](https://docs.adobe.com/content/help/en/experience-manager-pattern-detection/table-of-contents/aso.html) | Referenz | Nur während der `upgrade.log` Aktualisierung des Experience Managers verfügbar. |
 | 27. Juli 2020 | [Softwareverteilung](https://docs.adobe.com/content/help/de-DE/experience-cloud/software-distribution/home.html) | Artikel | As of June 2020, the Experience Cloud solution Software Distribution replaces the download platforms [!UICONTROL PackageShare] for AEM and [!DNL Neolane] for [!DNL Campaign] and provides a more efficient experience to find and download your software. Eine intuitive Benutzeroberfläche, eine vereinfachte Suche und eine deutlich verbesserte Download-Geschwindigkeit vereinfachen das Herunterladen von Softwarepackages für Experience Cloud-Produkte. |
 | 25. Juni 2020 | [Erste Schritte mit adaptiven Formularen](https://docs.adobe.com/content/help/en/experience-manager-learn/forms/creating-your-first-adaptive-form/adaptive-forms-getting-started-tutorial-use.html) | Video | In diesem Tutorial wird die Erstellung von adaptiven Formularen mit mehreren Registerkarten Schritt für Schritt erläutert, darunter die Verwendung von Tabellen und Accordion-Layouts sowie die Einrichtung von Geschäftsregeln mithilfe des Regel-Editors. |
 | 25. Juni 2020 | [Erstellen von Prüfungs-Workflows in AEM Forms](https://video.tv.adobe.com/v/35821/quality=9?captions=ger) | Video | Erfahren Sie, wie Sie einen Workflow für die Überprüfung von mittels aktiver Formularübermittlung gesendeten Daten erstellen. |
