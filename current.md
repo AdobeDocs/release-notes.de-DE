@@ -8,7 +8,7 @@ translation-type: tm+mt
 source-git-commit: 5bbdf099a039991d51b2f0735a3766d2f7525f3d
 workflow-type: tm+mt
 source-wordcount: '4597'
-ht-degree: 95%
+ht-degree: 96%
 
 ---
 
@@ -33,7 +33,7 @@ Neuestes Update: **29. Juli 2020**
 * [Experience Cloud-Benutzeroberfläche ](#ecloud) (Aktualisiert am 27. Juli 2020)
 * [Experience Platform](#platform)
 * [Journey Orchestration](#journey-orch)
-* [Analytics](#analytics) und [Customer Journey Analytics](#cust-journey) (Aktualisiert am 29. Juli 2020)
+* [Analytics](#analytics) und [Customer Journey Analytics](#cust-journey)  (Aktualisiert am 29. Juli 2020)
 * [Audience Manager](#aam)
 * [Experience Manager](#aem) (Aktualisiert 27. Juli 2020)
 * [Kampagne](#ac)
@@ -148,7 +148,7 @@ Versionsdatum: **16. Juli 2020**
 
 | Funktion | [Allgemeine Verfügbarkeit](https://docs.adobe.com/content/help/de-DE/analytics/landing/an-releases.html) – geplantes Datum | Beschreibung |
 | -----------| ---------- |-------|
-| CDA: Feldbasiertes Stiching | 27. Juli 2020 | Eine neue Methode für geräteübergreifende Analysen, mit der Sie mithilfe einer benutzerspezifischen Variablen Besucher identifizieren können. [Weitere Informationen...](https://docs.adobe.com/content/help/en/analytics/components/cda/field-based-stitching.html) |
+| CDA: Feldbasiertes Stiching | 27. Juli 2020 | Eine neue Methode für geräteübergreifende Analysen, mit der Sie mithilfe einer benutzerspezifischen Variablen Besucher identifizieren können. [Weitere Informationen...](https://docs.adobe.com/content/help/de-DE/analytics/components/cda/field-based-stitching.html) |
 | Workspace: Neue Vorgaben für Datumsbereiche | 16. Juli 2020 | Es wurden vier neue Datumsbereiche hinzugefügt: (_Aktuelle Woche/Aktueller Monat/Aktuelles Quartal/Aktuelles Jahr_ (aktueller Tag ausgenommen)). So können Sie jetzt Datumsbereiche auswählen, die keine Daten des aktuellen bereits begonnenen Tages enthalten. |
 | Data Repair API – öffentliche Beta-Version | 14. Juli 2020 | Mit der [!UICONTROL Date Repair API] können Sie bestimmte vorhandene Adobe Analytics-Daten löschen oder bearbeiten. [!UICONTROL Data Repair]-Anfragen werden ausgeführt, indem eine Vorgangsdefinition an die [!UICONTROL Data Repair-API] übermittelt wird. Diese enthält die Report Suite, den Datumsbereich, die Variablen und die Aktionen, die auf die Daten anzuwenden sind. Bei Beginn der öffentlichen Beta-Version unterstützt die [!UICONTROL Data Repair API] das Löschen von [!UICONTROL Activity Map]-Daten. Weitere Funktionen werden zu einem späteren Zeitpunkt eingeführt. Wenden Sie sich an die Kundenunterstützung, um an der öffentlichen Beta-Version der Data Repair-API teilzunehmen. [Mehr Infos...](https://github.com/AdobeDocs/analytics-2.0-apis/blob/master/data-repair.md) |
 
@@ -188,7 +188,7 @@ AN-222672, AN-222813, AN-222892, AN-223272, AN-223432, AN-224062, AN-224108, AN-
 
 ### Wichtige Hinweise für [!DNL Analytics]-Administratoren {#aa-notices}
 
-| Hinweis | Hinzugefügt oder aktualisiert am | Beschreibung |
+| Hinweis | Hinzugefügt  oder aktualisiert am | Beschreibung |
 | -----------| ---------- | ---------- |
 | EOL von Adobe Data Connectoren | 13. Juli 2020 | Adobe Data Connectoren basieren auf einer älteren Technologie, die nicht mehr funktionsfähig ist oder unterstützt wird. Im [Adobe Exchange Partner-Programm](https://partners.adobe.com/exchangeprogram/experiencecloud) gibt es einen neuen Standard, der für alle Integrationen übernommen werden sollte, die weiterhin angeboten und unterstützt werden sollen. Das offizielle Ende des Lebenszyklus wurde noch nicht festgelegt, aber wir gehen davon aus, dass es in den nächsten 12 bis 18 Monaten (Mitte 2021 bis Ende 2021) sein wird. [Weitere Informationen...](https://docs.adobe.com/content/help/de-DE/analytics/import/dataconnectors/data-connectors-eol.html) |
 | Report Suite-Zuordnung zu IMS-Organisation | Juli 2020 | Das Tool für die Zuordnung von Report Suites wird im November 2020 eingestellt. Über diese Funktion werden Integrationen wie die Veröffentlichung von Segmenten aus Advertising Analytics und Experience Cloud in Adobe Analytics ermöglicht. Zur Aktivierung dieser und anderer Services muss eine Report Suite einer IMS-Organisation zugeordnet werden. Neuere Report Suites werden bei ihrer Erstellung automatisch zugeordnet. Ältere Report Suites hingegen müssen einer IMS-Organisation manuell zugeordnet werden. Näheres dazu, wie Sie sicherstellen, dass alle Report Suites derselben IMS-Organisation zugehören, finden Sie im Benutzerhandbuch zu Core Services unter [Report Suites einer Organisation zuweisen](https://docs.adobe.com/content/help/de-DE/core-services/interface/about-core-services/report-suite-mapping.html). |
@@ -351,7 +351,7 @@ Nachfolgend sind die im vergangenen Monat neu veröffentlichten Videos, Tutorial
 
 * Adobe Campaign Standard: [Hilfe-Center](https://docs.adobe.com/content/help/de-DE/campaign-standard/using/campaign-standard-home.html) – [Versionshinweise](https://docs.adobe.com/content/help/de-DE/campaign-standard/using/release-notes/release-notes.html) – [Anleitungsvideos](https://docs.adobe.com/content/help/de-DE/campaign-standard-learn/tutorials/overview.html) – [Versionsplanung](https://docs.adobe.com/content/help/de-DE/campaign-standard/using/release-notes/release-planning.html) – [Neueste Aktualisierungen der Dokumentation](https://docs.adobe.com/content/help/de-DE/campaign-standard/using/documentation-updates.html)
 * Adobe Campaign Classic: [Hilfe-Center](https://docs.adobe.com/content/help/de-DE/campaign-classic/using/campaign-classic-home.html) – [Versionshinweise](https://docs.adobe.com/content/help/de-DE/campaign-classic/using/release-notes/latest-release.html) – [Anleitungsvideos](https://docs.adobe.com/content/help/de-DE/campaign-classic-learn/tutorials/overview.html) – [Neueste Aktualisierungen der Dokumentation](https://docs.adobe.com/content/help/de-DE/campaign-classic/using/documentation-updates.html)
-* Control Panel von Adobe Campaign: [Dokumentation](https://docs.adobe.com/content/help/de-DE/control-panel/using/control-panel-home.html) – [Versionshinweise](https://docs.adobe.com/content/help/de-DE/control-panel/using/release-notes.html) – Anleitungsvideos für [Campaign Standard](https://docs.adobe.com/content/help/de-DE/campaign-standard-learn/tutorials/administrating/control-panel/control-panel-overview.html)/[Campaign Classic](https://docs.adobe.com/content/help/de-DE/campaign-classic-learn/tutorials/administrating/control-panel-acc/control-panel-overview.html)
+* Control Panel von Adobe Campaign: [Dokumentation](https://docs.adobe.com/content/help/de-DE/control-panel/using/control-panel-home.html) – [Versionshinweise](https://docs.adobe.com/content/help/de-DE/control-panel/using/release-notes.html)  – Anleitungsvideos für [Campaign Standard](https://docs.adobe.com/content/help/de-DE/campaign-standard-learn/tutorials/administrating/control-panel/control-panel-overview.html)/[Campaign Classic](https://docs.adobe.com/content/help/de-DE/campaign-classic-learn/tutorials/administrating/control-panel-acc/control-panel-overview.html)
 
 ## ![Symbol](/assets/advertising-cloud.png) Advertising Cloud {#adcloud}
 
