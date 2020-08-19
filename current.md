@@ -5,9 +5,9 @@ doc-type: release notes
 last-update: August 2020
 author: mfrei
 translation-type: tm+mt
-source-git-commit: d88e6054e3a1c93d7c867dd1ee6de0c67bc2eaf5
+source-git-commit: f62e9f844bf396cda7fc711808a0f532de75a52d
 workflow-type: tm+mt
-source-wordcount: '6454'
+source-wordcount: '6522'
 ht-degree: 94%
 
 ---
@@ -27,10 +27,10 @@ Auf dieser Seite sind neue Funktionen, Fehlerbehebungen und wichtige Hinweise in
 
 Die Veröffentlichungsdaten einzelner Produkte können variieren. Suchen Sie regelmäßig nach Updates.
 
-Neueste Aktualisierung: **13. August 2020**
+Neueste Aktualisierung: **19. August 2020**
 
 * [Systemstatus von Adobe](#status)
-* [Experience Cloud-Benutzeroberfläche ](#ecloud)
+* [Experience Cloud-Benutzeroberfläche ](#ecloud) (updated **August 19, 2020**)
 * [Experience Platform](#platform)
 * [Journey-Orchestrierung](#journey-orch)
 * [Analytics](#analytics) (Aktualisiert 13. August 2020) und [Customer Journey Analytics](#cust-journey)
@@ -52,6 +52,12 @@ Benötigen Sie Hilfe? Besuchen Sie [Adobe Experience League](https://experiencel
 Aktuelle Versionsinformationen finden Sie unter [21. Mai 2020](c-legacy-releases/2020/05212020.md#status).
 
 ## ![Symbol ](/assets/ec_appicon_24.png){#ecloud}
+
+Aktualisiert: **19. August 2020**
+
+| Funktion | Beschreibung |
+| -----------| ---------- |
+| Admin Tool - Funktionen und Leistungsverbesserungen | Die Version des [!UICONTROL Admin Tools] vom August 2020 ermöglicht es Systemadministratoren, eine Liste von Produkt-Profilen Ansicht und eine detaillierte Ansicht der einzelnen Produkt-Profil anzuzeigen oder zu exportieren. Leistungsverbesserungen beim Laden der letzten Anmeldedaten wurden hinzugefügt, wodurch Zeitüberschreitungsprobleme behoben wurden. Weitere Informationen finden Sie in der Hilfe zum [Experience Cloud-Admin-Tool](https://docs.adobe.com/content/help/de-DE/core-services/interface/manage-users-and-products/admin-tool-experience-cloud.html). |
 
 Die neuesten Versionsinformationen zur aktualisierten Benutzeroberfläche und zur einheitlichen Produkt-Domain finden Sie in den [vorherigen Versionshinweisen](c-legacy-releases/2020/07162020.md#ecloud) vom Juli.
 
