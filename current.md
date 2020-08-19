@@ -5,10 +5,10 @@ doc-type: release notes
 last-update: August 2020
 author: mfrei
 translation-type: tm+mt
-source-git-commit: 1fc011a1dbdc71052547679e69ac4f853f7fa4c2
+source-git-commit: d88e6054e3a1c93d7c867dd1ee6de0c67bc2eaf5
 workflow-type: tm+mt
-source-wordcount: '6445'
-ht-degree: 95%
+source-wordcount: '6454'
+ht-degree: 94%
 
 ---
 
@@ -38,10 +38,10 @@ Neueste Aktualisierung: **13. August 2020**
 * [Experience Manager](#aem)
 * [Campaign](#ac)
 * [Advertising Cloud](#adcloud)
-* [!DNL Target](https://docs.adobe.com/content/help/de-DE/target/using/release-notes/target-release-notes.html)
-* [!DNL Magento](#magento)
-* [!DNL Marketo Engage](#marketo)
-* [!DNL Primetime](https://docs.adobe.com/content/help/de-DE/primetime/release-notes/home.html)
+* [[!DNL-Zielgruppe]](https://docs.adobe.com/content/help/de-DE/target/using/release-notes/target-release-notes.html)
+* [[!DNL-Magento]](#magento)
+* [[!DNL-Marketo Engage]](#marketo)
+* [[!DNL Primetime]](https://docs.adobe.com/content/help/de-DE/primetime/release-notes/home.html)
 
 Benötigen Sie Hilfe? Besuchen Sie [Adobe Experience League](https://experienceleague.adobe.com/#home), um Produkt- und technische Dokumentation, von Adobe kuratierte Kurse, Videoschulungen, schnelle Antworten, Community-Einblicke und von Schulungsleitern geführte Kurse zu erhalten.
 
@@ -185,7 +185,7 @@ Releasedatum: **13. August 2020**
 
 ### Neue Funktionen und Fehlerbehebungen in Adobe Audience Manager
 
-* Sie können jetzt [Personalisierte Ziele](https://docs.adobe.com/content/help/en/audience-manager/user-guide/features/destinations/people-based/people-based-destinations-prerequisites.html) für die Zielgruppe von Benutzern verwenden [!DNL Google Customer Match]. Bevor Sie mit [!UICONTROL benutzerspezifischen Zielen] Erstanbieter-Audiencen an ein [!DNL Google Customer Match] Ziel senden können, müssen Sie diese zur Zulassungsliste [!DNL Google] hinzufügen. Check the [People-Based Destinations](https://docs.adobe.com/content/help/en/audience-manager/user-guide/features/destinations/people-based/people-based-destinations-prerequisites.html) documentation for details. (PLAT-53962)
+* Sie können jetzt [Personalisierte Ziele](https://docs.adobe.com/content/help/en/audience-manager/user-guide/features/destinations/people-based/people-based-destinations-prerequisites.html) für die Zielgruppe von Benutzern verwenden [!DNL Google Customer Match]. Bevor Sie mit [!UICONTROL benutzerspezifischen Zielen] Erstanbieter-Audiencen an ein [!DNL Google Customer Match] Ziel senden können, müssen Sie diese zur Zulassungsliste [!DNL Google] hinzufügen. Weitere Informationen finden Sie in der Dokumentation zu [benutzerspezifischen Zielen](https://docs.adobe.com/content/help/en/audience-manager/user-guide/features/destinations/people-based/people-based-destinations-prerequisites.html) . (PLAT-53962)
 * [Predictive Audiences](https://docs.adobe.com/content/help/de-DE/audience-manager/user-guide/features/algorithmic-models/predictive-audiences/predictive-audiences.html) unterstützt während der Modellerstellung nun die Auswahl einer [!UICONTROL Profilzusammenführungsregel] pro Modell. (AAM-55178)
 * Start- und Enddaten der Zielzuordnung sind jetzt auf der Seite jedes Segments sichtbar. (AAM-40056)
 * Es wurde ein Fehler behoben, bei dem der [!UICONTROL Gerätetyp] einer Eigenschaft automatisch auf [!UICONTROL Geräteübergreifend] gesetzt wurde, wenn eine neue Eigenschaft erstellt wurde. (AAM-55368)
@@ -227,7 +227,7 @@ Neue Funktionen, Fehlerbehebungen und Aktualisierungen in Adobe Experience Manag
    * AEM Commerce ist jetzt auf Cloud Service verfügbar. Siehe [Erste Schritte mit AEM Commerce als Cloud Service](https://docs.adobe.com/content/help/de-DE/experience-manager-cloud-service/commerce/getting-started.html).
    * Die Erweiterungen für Connectoren für Adobe Target und Adobe Analytics umfassen Verbesserungen der Benutzeroberfläche, den klassischen UI-Austausch und die Integration von Adobe Launch. Siehe [Integration von Adobe Analytics](https://docs.adobe.com/content/help/de-DE/experience-manager-cloud-service/sites/integrations/integrating-adobe-analytics.html) und [Integration von Adobe Target](https://docs.adobe.com/content/help/de-DE/experience-manager-cloud-service/sites/integrations/integrating-adobe-target.html).
    * Asset Compute Service ist ein skalierbarer und erweiterbarer Dienst zur Verarbeitung von Assets. Administratoren können Experience Manager so konfigurieren, dass mit Asset Compute Service erstellte benutzerdefinierte Sekundärdienste aufgerufen werden. Entwickler können den Dienst zum Erstellen spezieller, benutzerdefinierter Sekundärdienste verwenden, die komplexen Anwendungsfällen gerecht werden. Dieser Webdienst kann Miniaturansichten für verschiedene Dateitypen erstellen, hochwertige Bild-Renderings aus Adobe-Dateiformaten erstellen, (zukünftig) Videos kodieren, Metadaten extrahieren, Volltext als Vorläufer für die Indexierung extrahieren und ein Asset über alle verfügbaren Sensei-Dienste ausführen. Siehe [Verwenden von Asset-Mikrodiensten und Verarbeitungsprofilen](https://docs.adobe.com/content/help/de-DE/experience-manager-cloud-service/assets/manage/asset-microservices-configure-and-use.html).
-   * [Asset Compute Service](https://docs.adobe.com/content/help/en/asset-compute/using/home.html) is made available to be extended to create custom application. Es handelt sich um einen skalierbaren und erweiterbaren Dienst [!DNL Adobe Experience Cloud] zur Verarbeitung digitaler Assets. Sie können Bild-, Video-, Dokument- und andere Dateiformate in verschiedene Darstellungen umwandeln, einschließlich Miniaturansichten, extrahiertem Text und Metadaten, Archiven und mehr. Developers can create custom applications (also called custom workers) to address custom use cases. It is built using [Project Firefly](https://www.adobe.io/apis/experienceplatform/project-firefly/docs.html) and works in serverless [Adobe I/O Runtime](https://www.adobe.io/apis/experienceplatform/runtime.html).
+   * [Der Asset Compute-Dienst](https://docs.adobe.com/content/help/en/asset-compute/using/home.html) steht zur Verfügung, um erweitert zu werden und eine benutzerdefinierte Anwendung zu erstellen. Es handelt sich um einen skalierbaren und erweiterbaren Dienst [!DNL Adobe Experience Cloud] zur Verarbeitung digitaler Assets. Sie können Bild-, Video-, Dokument- und andere Dateiformate in verschiedene Darstellungen umwandeln, einschließlich Miniaturansichten, extrahiertem Text und Metadaten, Archiven und mehr. Entwickler können benutzerdefinierte Anwendungen (auch als benutzerdefinierte Mitarbeiter bezeichnet) erstellen, um benutzerdefinierte Anwendungsfälle zu bearbeiten. Es wurde mit [Project Firefly](https://www.adobe.io/apis/experienceplatform/project-firefly/docs.html) gebaut und arbeitet in serverless [Adobe I/O Runtime](https://www.adobe.io/apis/experienceplatform/runtime.html).
    * Mehrere Verbesserungen für Workflow-Modelle und dynamische Medien in AEM als Cloud Service.
    * Version 2.11.0 der [AEM-Kernkomponenten](https://docs.adobe.com/content/help/de-DE/experience-manager-core-components/using/introduction.html) ist jetzt als Teil von AEM Sites verfügbar, einschließlich:
       * Einführung einer neuen [PDF Viewer-Komponente](https://aemcomponents.dev/content/core-components-examples/library/page-authoring/pdf-viewer.html).
@@ -237,14 +237,14 @@ Neue Funktionen, Fehlerbehebungen und Aktualisierungen in Adobe Experience Manag
    * Cloud Manager-Pipelines unterstützen jetzt benutzerspezifische Variablen und Geheimnisse. Siehe [Pipeline-Variablen](https://docs.adobe.com/content/help/de-DE/experience-manager-cloud-service/onboarding/getting-access/creating-aem-application-project.html#pipeline-variables).
    * [Protokolle können an Splunk-Konten weitergeleitet werden](https://docs.adobe.com/content/help/en/experience-manager-cloud-service/implementing/developing/logging.html#splunk-logs), sodass Organisationen Investitionen in [!DNL Splunk] optimal nutzen können.
    * Sie können eine [statische, dedizierte Ausgangs-IP-Adresse](https://docs.adobe.com/content/help/en/experience-manager-cloud-service/implementing/developing/development-guidelines.html#dedicated-egress-ip-address) für ausgehenden Verkehr zuweisen, die in Java-Code programmiert ist, was für einige Integrationen nützlich sein kann.
-   * [!UICONTROL Cloud Readiness Analyzer] Version 1.0.2 wurde veröffentlicht. See detailed [Release Notes](https://docs.adobe.com/content/help/en/experience-manager-cloud-service/release-notes/release-notes/release-notes-2020-7-0.html#cloud-readiness-analyzer) for more information. To get started with [!UICONTROL Cloud Readiness Analyzer], see [Using Cloud Readiness Analyzer](https://docs.adobe.com/content/help/de-DE/experience-manager-cloud-service/moving/cloud-migration/cloud-readiness-analyzer/using-cloud-readiness-analyzer.html).
+   * [!UICONTROL Cloud Readiness Analyzer] Version 1.0.2 wurde veröffentlicht. See detailed [Release Notes](https://docs.adobe.com/content/help/en/experience-manager-cloud-service/release-notes/release-notes/release-notes-2020-7-0.html#cloud-readiness-analyzer) for more information. Informationen zu den ersten Schritten mit [!UICONTROL Cloud Readiness Analyzer]finden Sie unter [Verwenden von Cloud Readiness Analyzer](https://docs.adobe.com/content/help/de-DE/experience-manager-cloud-service/moving/cloud-migration/cloud-readiness-analyzer/using-cloud-readiness-analyzer.html).
    * Siehe [vollständige Versionshinweise für AEM als Cloud Service](https://docs.adobe.com/content/help/en/experience-manager-cloud-service/release-notes/release-notes/release-notes-current.html?mkt_tok=eyJpIjoiWm1SallqTmtOekF6WldZMCIsInQiOiJoTTZ3Qm9LNVRXc1lsbjExdlpNMGdQNFE2UGM5ejZob1EwZXlPZHp2MEZJa1BPTHhybHBYcUxFWTgwVjNFajlzYU1Fb1NoVXRwMTc3U2IrbHZKeTVSOG02MUErbWpIb1pjNU8zYkdTbW5MZHVIRUUyNk9vUU9SckdOeUJmbXlObSJ9).
 
 ### Selbsthilfe
 
 * **AEM Assets**
 
-   * Added more [troubleshooting tips](https://docs.adobe.com/content/help/en/experience-manager-desktop-app/using/troubleshoot.html) for Experience Manager desktop app.
+   * Es wurden weitere Tipps zur [Fehlerbehebung](https://docs.adobe.com/content/help/en/experience-manager-desktop-app/using/troubleshoot.html) für die Desktop-App von Experience Manager hinzugefügt.
 
 * **AEM Forms**
 
@@ -377,7 +377,7 @@ Versionshinweise für Adobe Advertising Cloud.
 
 | Funktion | Beschreibung |
 | -----------| ---------- |
-| Interactive pre-roll extended to include VAST inventory | Each interactive pre-roll placement and ad can now support both VPAID and VAST inventory. **Note:** If your primary KPI is viewability, then continue to create separate VPAID and VAST placements and ads because viewable impressions aren’t available for VAST ads. |
+| Interaktives Pre-Roll erweitert um VAST-Inventar | Jede interaktive Pre-Roll-Platzierung und Anzeige kann jetzt sowohl VPAID- als auch VAST-Inventar unterstützen. **Hinweis:** Wenn Ihr primärer KPI die Sichtbarkeit ist, erstellen Sie weiterhin separate VPAID- und VAST-Platzierungen und Anzeigen, da für VAST-Anzeigen keine sichtbaren Impressionen verfügbar sind. |
 
 ### Neue Funktionen in [!UICONTROL Advertising Cloud Search ]{#adcloud-search}
 
