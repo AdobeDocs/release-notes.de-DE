@@ -5,7 +5,7 @@ doc-type: release notes
 last-update: March 2020
 author: mfrei
 translation-type: tm+mt
-source-git-commit: 949872e465b54e68051c62f61530591117f54a6a
+source-git-commit: d714bd852687c7121f44bc31e35fe1ccc0eef43a
 workflow-type: tm+mt
 source-wordcount: '2526'
 ht-degree: 96%
@@ -35,7 +35,7 @@ Neue Funktionen und Fehlerbehebungen in Adobe Experience Cloud.
 * [Analytics](#analytics)
 * [Audience Manager](#aam)
 * [Experience Manager](#aem)
-* [Kampagne](#ac)
+* [Campaign](#ac)
 * [Zielgruppe](https://docs.adobe.com/content/help/de-DE/target/using/release-notes/target-release-notes.html) (Links zur Hilfe zur Lösung)
 * [Advertising Cloud](#adcloud)
 * [Magento](#magento)
@@ -136,7 +136,7 @@ Die Produktdokumentation finden Sie auf der [Startseite der Adobe Analytics-Hilf
 | Funktion B | Text |
 | Funktion C | Text |
 
-### [!DNL Media Analytics] SDK for [!DNL iOS] &amp; [!DNL Android] (formerly VHL SDK) {#aa-va}
+### [!DNL Media Analytics] SDK für [!DNL iOS] &amp; [!DNL Android] (ehemals VHL SDK) {#aa-va}
 
 | Funktion | Beschreibung |
 | ------- | ------- |
@@ -296,7 +296,7 @@ Magento-Versionshinweise finden Sie unter:
 
 ## Marketo {#marketo}
 
-Marketo Engage is a complete solution for lead management and B2B marketers looking to transform customer experiences by engaging across every stage of complex buying journeys.
+Marketo Engage ist eine Komplettlösung für Interessentenmanagement und B2B-Marketingfachleute, die Kundenerlebnisse verändern möchten, indem sie sich über alle Phasen komplexer Kaufreisen hinweg engagieren.
 
 ### Aktualisierungen von Core Marketo Engage
 
