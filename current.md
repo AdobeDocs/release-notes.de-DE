@@ -5,9 +5,9 @@ doc-type: release notes
 last-update: August 2020
 author: mfrei
 translation-type: tm+mt
-source-git-commit: 97082d9f11c29deee363e000e0bb6db422d6fbe8
+source-git-commit: 7349731bb72163473efc26069df9f1d77f0f7c23
 workflow-type: tm+mt
-source-wordcount: '6639'
+source-wordcount: '6651'
 ht-degree: 98%
 
 ---
@@ -102,7 +102,7 @@ Nachfolgend sind die im vergangenen Monat neu veröffentlichten Videos, Tutorial
 | ----------- | ---------- | ------- |
 | [!UICONTROL Cross-Device Analytics]: Verfügbarkeit in EMEA und APAC | 31. August 2020 | [Cross-Device Analytics](https://docs.adobe.com/content/help/de-DE/analytics/components/cda/overview.html) und private Diagramme stehen Kunden in EMEA und APAC zur Verfügung. |
 | Verbesserung des feldbasierten Stitchings in [!UICONTROL Cross-Device Analytics] (verfügbar in Amerika und EMEA) | 31. August 2020 | Diese vereinfachte Implementierung für neue [!UICONTROL Cross-Device Analytics]-Kunden bietet Ihnen die Möglichkeit, das Stitching auf Grundlage einer Benutzer-ID durchzuführen, die in einem Analytics-Feld (Eigenschaft oder eVar) gespeichert ist, anstatt das Gerätediagramm (gemeinsam oder privat) zu verwenden. Durch die Verbesserung wird die Anforderung der ECID-Implementierung aufgehoben sowie die Anforderung, die ID-Synchronisierung für CDA-Zwecke zu implementieren. (Die ECID- und ID-Synchronisierung sind für bestimmte andere Funktionen weiterhin erforderlich.) |
-| (Ankündigung) Workspace: Download von 50.000 Objekten für eine einzige Dimension | 17. Sept. 2020 | Sie können 50.000 Elemente für eine Dimension in einer Freiformtabelle herunterladen, wobei Segmente und Filter angewendet werden. Auf diese Weise können Sie auf mehr als 400 Datenzeilen außerhalb von Analysis Workspace zugreifen. |
+| (Ankündigung) Workspace: Download von 50.000 Objekten für eine einzige Dimension | 17. Sept. 2020 | Sie können 50.000 Elemente für eine Dimension in einer Freiformtabelle herunterladen, wobei Segmente und Filter angewendet werden. Auf diese Weise können Sie auf mehr als 400 Datenzeilen außerhalb von Analysis Workspace zugreifen. [Mehr Infos...](https://docs.adobe.com/content/help/en/analytics/analyze/analysis-workspace/curate-share/download-send.html) |
 
 ### Neue Funktionen in Customer Journey Analytics {#cust-journey}
 
