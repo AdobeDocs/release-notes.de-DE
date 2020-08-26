@@ -5,10 +5,10 @@ doc-type: release notes
 last-update: August 2020
 author: mfrei
 translation-type: tm+mt
-source-git-commit: 9d5563a21cae0b1db1448f5f99ffbb1436257077
+source-git-commit: 97082d9f11c29deee363e000e0bb6db422d6fbe8
 workflow-type: tm+mt
-source-wordcount: '6627'
-ht-degree: 97%
+source-wordcount: '6639'
+ht-degree: 98%
 
 ---
 
@@ -30,7 +30,7 @@ Die Veröffentlichungsdaten einzelner Produkte können variieren. Suchen Sie reg
 Neueste Aktualisierung: **21. August 2020**
 
 * [Systemstatus von Adobe](#status)
-* [Experience Cloud-Benutzeroberfläche ](#ecloud) (updated **August 19, 2020**)
+* [Experience Cloud-Benutzeroberfläche ](#ecloud)  (Aktualisiert: **19. August 2020**)
 * [Experience Platform](#platform)
 * [Journey Orchestration](#journey-orch)
 * [Analytics](#analytics) (Aktualisiert am 21. August 2020) and [Customer Journey Analytics](#cust-journey)
@@ -38,9 +38,9 @@ Neueste Aktualisierung: **21. August 2020**
 * [Experience Manager](#aem)
 * [Campaign](#ac)
 * [Advertising Cloud](#adcloud)
-* [[!DNL-Zielgruppe]](https://docs.adobe.com/content/help/de-DE/target/using/release-notes/target-release-notes.html)
-* [[!DNL-Magento]](#magento)
-* [[!DNL-Marketo Engage]](#marketo)
+* [[!DNL Target]](https://docs.adobe.com/content/help/de-DE/target/using/release-notes/target-release-notes.html)
+* [[!DNL Magento]](#magento)
+* [[!DNL Marketo Engage]](#marketo)
 * [[!DNL Primetime]](https://docs.adobe.com/content/help/de-DE/primetime/release-notes/home.html)
 
 Benötigen Sie Hilfe? Besuchen Sie [Adobe Experience League](https://experienceleague.adobe.com/#home), um Produkt- und technische Dokumentation, von Adobe kuratierte Kurse, Videoschulungen, schnelle Antworten, Community-Einblicke und von Schulungsleitern geführte Kurse zu erhalten.
@@ -57,7 +57,7 @@ Aktualisiert: **19. August 2020**
 
 | Funktion | Beschreibung |
 | -----------| ---------- |
-| Admin Tool - Funktionen und Leistungsverbesserungen | Die Version des [!UICONTROL Admin Tools] vom August 2020 ermöglicht es Systemadministratoren, eine Liste von Produkt-Profilen Ansicht und eine detaillierte Ansicht der einzelnen Produkt-Profil anzuzeigen oder zu exportieren. Leistungsverbesserungen beim Laden der letzten Anmeldedaten wurden hinzugefügt, wodurch Zeitüberschreitungsprobleme behoben wurden. Weitere Informationen finden Sie in der Hilfe zum [Experience Cloud-Admin-Tool](https://docs.adobe.com/content/help/de-DE/core-services/interface/manage-users-and-products/admin-tool-experience-cloud.html). |
+| Admin Tool - Funktionen und Leistungsverbesserungen | Die Version des [!UICONTROL Admin Tool] vom August 2020 ermöglicht es Systemadministratoren, eine Liste von Produktprofilen anzuzeigen und eine detaillierte Ansicht der einzelnen Produktprofile anzusehen oder zu exportieren. Leistungsverbesserungen beim Laden der letzten Anmeldedaten wurden hinzugefügt, wodurch Zeitüberschreitungsprobleme behoben wurden. Weitere Informationen finden Sie in der Hilfe zum [Experience Cloud-Admin-Tool](https://docs.adobe.com/content/help/de-DE/core-services/interface/manage-users-and-products/admin-tool-experience-cloud.html). |
 
 Die neuesten Versionsinformationen zur aktualisierten Benutzeroberfläche und zur einheitlichen Produkt-Domain finden Sie in den [vorherigen Versionshinweisen](c-legacy-releases/2020/07162020.md#ecloud) vom Juli.
 
@@ -110,7 +110,7 @@ Nachfolgend sind die im vergangenen Monat neu veröffentlichten Videos, Tutorial
 | ----------- | ---------- | ----- |
 | [!UICONTROL Identity Map]-Option für Personen-IDs | 26. Juni 2020 | [!UICONTROL Identity Map] ist eine Map-Datenstruktur, mit der Sie Schlüssel-/Wert-Paare hochladen können, um eine Verbindung in [!UICONTROL Customer Journey Analytics] zu erstellen. Die Schlüssel sind Identity-Namespaces und der Wert ist eine Struktur, die den Identitätswert enthält. [Mehr Infos...](https://docs.adobe.com/content/help/de-DE/analytics-platform/using/cja-connections/create-connection.html#use-identity-map-as-a-person-id) |
 
-### Neue Funktionen in [!UICONTROL Media Analytics ] {#media-aa}
+### Neue Funktionen in [!UICONTROL Media Analytics] {#media-aa}
 
 Versionsdatum: **16. Juli 2020**
 
@@ -140,7 +140,7 @@ AN-219351; AN-220960; AN-223788; AN-224630; AN-224948; AN-225618; AN-226261; AN-
 
 ### Wichtige Hinweise für [!DNL Analytics]-Administratoren {#aa-notices}
 
-| Hinweis | Hinzugefügt   oder aktualisiert am | Beschreibung |
+| Hinweis | Hinzugefügt    oder aktualisiert am | Beschreibung |
 | ----------- | ---------- | ---------- |
 | Migration von `omniture.com` zu `adobe.com` Domäne | 21. August 2020 | Am 13. August 2020 migrierte Adobe Analytics seine Frontend-Architektur von `omniture.com|http://omniture.com/` in die `adobe.com|http://adobe.com/` Domäne. Diese Änderung sollte Drittanbieter-Cookie-Probleme lindern, die nach der ersten Änderung der einheitlichen Produktdomäne am 28. Mai 2020 aufgetreten sind. Aufgrund dieser Aktualisierung wird der Browser die Benutzer möglicherweise auffordern, der neuen `an.adobe.com|http://an.adobe.com/` oder `experience.adobe.com|http://experience.adobe.com/` Domäne zu vertrauen. |
 | Aktualisierung auf Ad Hoc Analysis Java 8-Kompatibilität | 21. August 2020 | Ad Hoc Analysis ist derzeit nicht mit Java 8 Version 1.8.0_261+ kompatibel. Um sicherzustellen, dass Ihr Zugriff auf dieses Tool nicht unterbrochen wird, bevor das [Lebenszyklusdatum](https://spark.adobe.com/page/S9Bhp66VJ2fEn/) erreicht wird, sollten Sie eine Java 8-Version vor dem 1.8.0_261 beibehalten. |
@@ -372,7 +372,7 @@ Nachfolgend sind die im vergangenen Monat neu veröffentlichten Videos, Tutorial
 
 * Adobe Campaign Standard: [Hilfe-Center](https://docs.adobe.com/content/help/de-DE/campaign-standard/using/campaign-standard-home.html) – [Versionshinweise](https://docs.adobe.com/content/help/de-DE/campaign-standard/using/release-notes/release-notes.html) – [Anleitungsvideos](https://docs.adobe.com/content/help/de-DE/campaign-standard-learn/tutorials/overview.html) – [Versionsplanung](https://docs.adobe.com/content/help/de-DE/campaign-standard/using/release-notes/release-planning.html) – [Neueste Aktualisierungen der Dokumentation](https://docs.adobe.com/content/help/de-DE/campaign-standard/using/documentation-updates.html)
 * Adobe Campaign Classic: [Hilfe-Center](https://docs.adobe.com/content/help/de-DE/campaign-classic/using/campaign-classic-home.html) – [Versionshinweise](https://docs.adobe.com/content/help/de-DE/campaign-classic/using/release-notes/latest-release.html) – [Anleitungsvideos](https://docs.adobe.com/content/help/de-DE/campaign-classic-learn/tutorials/overview.html) – [Neueste Aktualisierungen der Dokumentation](https://docs.adobe.com/content/help/de-DE/campaign-classic/using/documentation-updates.html)
-* Control Panel von Adobe Campaign: [Dokumentation](https://docs.adobe.com/content/help/de-DE/control-panel/using/control-panel-home.html) – [Versionshinweise](https://docs.adobe.com/content/help/de-DE/control-panel/using/release-notes.html)   – Anleitungsvideos für [Campaign Standard](https://docs.adobe.com/content/help/de-DE/campaign-standard-learn/tutorials/administrating/control-panel/control-panel-overview.html)/[Campaign Classic](https://docs.adobe.com/content/help/de-DE/campaign-classic-learn/tutorials/administrating/control-panel-acc/control-panel-overview.html)
+* Control Panel von Adobe Campaign: [Dokumentation](https://docs.adobe.com/content/help/de-DE/control-panel/using/control-panel-home.html) – [Versionshinweise](https://docs.adobe.com/content/help/de-DE/control-panel/using/release-notes.html)    – Anleitungsvideos für [Campaign Standard](https://docs.adobe.com/content/help/de-DE/campaign-standard-learn/tutorials/administrating/control-panel/control-panel-overview.html)/[Campaign Classic](https://docs.adobe.com/content/help/de-DE/campaign-classic-learn/tutorials/administrating/control-panel-acc/control-panel-overview.html)
 
 ## ![Symbol](/assets/advertising-cloud.png) Advertising Cloud {#adcloud}
 
@@ -383,8 +383,11 @@ Versionshinweise für Adobe Advertising Cloud.
 
 ### Neue Funktionen in [!UICONTROL Advertising Cloud DSP] {#adcloud-dsp}
 
+**Aktualisiert 20. August**
+
 | Funktion | Beschreibung |
 | -----------| ---------- |
+| Prognose für Roku | Prognosen sind jetzt für Roku-Platzierungen verfügbar. |
 | Interaktive Pre-roll wurde erweitert und enthält jetzt VAST Inventory | Jede interaktive Pre-roll-Platzierung und Anzeige unterstützt jetzt sowohl das VPAID- als auch das VAST Inventory. **Hinweis:** Wenn Ihr primärer KPI die Sichtbarkeit ist, erstellen Sie weiterhin separate VPAID- und VAST-Platzierungen und Anzeigen, da für VAST-Anzeigen keine sichtbaren Impressionen verfügbar sind. |
 
 ### Neue Funktionen in [!UICONTROL Advertising Cloud Search] {#adcloud-search}
