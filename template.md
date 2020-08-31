@@ -5,9 +5,9 @@ doc-type: release notes
 last-update: March 2020
 author: mfrei
 translation-type: tm+mt
-source-git-commit: 2a73b43fedf1c745f89640a11b7aa64244a78bc4
+source-git-commit: 1ec71f66a34b17fb62831973cd46426ecc9f0d10
 workflow-type: tm+mt
-source-wordcount: '2526'
+source-wordcount: '2527'
 ht-degree: 96%
 
 ---
@@ -30,7 +30,7 @@ Neue Funktionen und Fehlerbehebungen in Adobe Experience Cloud.
 **Releasedatum: 2020**
 
 * [Systemstatus von Adobe](#status)
-* [Experience Cloud-Benutzeroberfläche ](#ecloud) 
+* [Experience Cloud-Benutzeroberfläche ](#ecloud)
 * [Experience Platform](#platform)
 * [Analytics](#analytics)
 * [Audience Manager](#aam)
@@ -87,7 +87,7 @@ Versionshinweise für [!DNL Experience Platform,] einschließlich [!DNL Experien
 
 Funktionen und Fehlerbehebungen
 
-Informationen zur Produktdokumentation finden Sie unter [Experience Cloud ID-Dienst](https://marketing.adobe.com/resources/help/de_DE/mcvid/).
+Informationen zur Produktdokumentation finden Sie unter [Experience Cloud ID-Dienst](https://docs.adobe.com/content/help/de-DE/id-service/using/home.html).
 
 ### [!UICONTROL Experience Platform Launch] {#launch}
 
@@ -116,7 +116,7 @@ Beschreibung der neuen Funktionen. Verwendung von Überschriften oder Tabellen.
 
 Informationen zur Produktdokumentation finden Sie unter [Mobile Services](https://docs.adobe.com/content/help/de-DE/mobile-services/using/home.html).
 
-Weitere Informationen zu den Mobile-SDKs finden Sie unter [Android-SDK 4.x für Experience Cloud-Lösungen](https://marketing.adobe.com/resources/help/de_DE/mobile/android/) und [iOS-SDK 4.x für Experience Cloud-Lösungen](https://docs.adobe.com/content/help/de-DE/mobile-services/ios/overview.html).
+Weitere Informationen zu den Mobile-SDKs finden Sie unter [Android-SDK 4.x für Experience Cloud-Lösungen](https://docs.adobe.com/content/help/de-DE/mobile-services/android/overview.html) und [iOS-SDK 4.x für Experience Cloud-Lösungen](https://docs.adobe.com/content/help/de-DE/mobile-services/ios/overview.html).
 
 ## Analytics {#analytics}
 
