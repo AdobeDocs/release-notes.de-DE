@@ -5,9 +5,9 @@ doc-type: release notes
 last-update: August 2020
 author: mfrei
 translation-type: tm+mt
-source-git-commit: b91db168aeb1b9f653061f0cd6e19ec8d36a8155
+source-git-commit: c6a071b2e8946d2b7fcfe20f835354ca6d552575
 workflow-type: tm+mt
-source-wordcount: '6673'
+source-wordcount: '6685'
 ht-degree: 96%
 
 ---
@@ -110,7 +110,7 @@ Nachfolgend sind die im vergangenen Monat neu veröffentlichten Videos, Tutorial
 
 | Funktion | [Allgemeine Verfügbarkeit](https://docs.adobe.com/content/help/de-DE/analytics/landing/an-releases.html) – geplantes Datum | Beschreibung |
 | ----------- | ---------- | ----- |
-| Arbeitsbereich: Verbesserungen bei der Linienvisualisierung | 17. September 2020 | <ul><li>Sie können die X- und Y-Achse einer beliebigen Linienvisualisierung ein- oder ausblenden. Dies kann besonders hilfreich sein, wenn Ihre Linienvisualisierungen kompakter sind.</li><li>Sie können eine Mindest- und Höchstwertebeschriftung bei jeder Linienvisualisierung überlagern, um die Spitzen und Täler in einer Metrik schnell hervorzuheben.</li><li>Sie können verschiedene Regressions-Trendlinien bei jeder Linienvisualisierung überlagern, um den Trend in den Daten leichter zu erkennen. Zu den Optionen gehören Linear, Logarithmisch, Exponentiell, Power und Quadratisch.</li></ul> |
+| Arbeitsbereich: Verbesserungen bei der Linienvisualisierung | 17. September 2020 | <ul><li>Sie können die X- und Y-Achse einer beliebigen Linienvisualisierung ein- oder ausblenden. Dies kann besonders hilfreich sein, wenn Ihre Linienvisualisierungen kompakter sind.</li><li>Sie können eine Mindest- und Höchstwertebeschriftung bei jeder Linienvisualisierung überlagern, um die Spitzen und Täler in einer Metrik schnell hervorzuheben.</li><li>Sie können verschiedene Regressions-Trendlinien bei jeder Linienvisualisierung überlagern, um den Trend in den Daten leichter zu erkennen. Zu den Optionen gehören Linear, Logarithmisch, Exponentiell, Power und Quadratisch.</li></ul>[Mehr Infos...](https://docs.adobe.com/content/help/en/analytics/analyze/analysis-workspace/visualizations/line.html) |
 
 ### Neue Funktionen in [!UICONTROL Media Analytics] {#media-aa}
 
