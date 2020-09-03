@@ -8,7 +8,7 @@ translation-type: tm+mt
 source-git-commit: 9e8ab72d5c5ac0db9cde3ca99013a42e33251aa0
 workflow-type: tm+mt
 source-wordcount: '6688'
-ht-degree: 95%
+ht-degree: 96%
 
 ---
 
@@ -30,7 +30,7 @@ Die Veröffentlichungsdaten einzelner Produkte können variieren. Suchen Sie reg
 Neueste Aktualisierung: **31. August 2020**
 
 * [Systemstatus von Adobe](#status)
-* [Experience Cloud-Benutzeroberfläche ](#ecloud) (Aktualisiert: **19. August 2020**)
+* [Experience Cloud-Benutzeroberfläche ](#ecloud)  (Aktualisiert: **19. August 2020**)
 * [Experience Platform](#platform)
 * [Journey Orchestration](#journey-orch)
 * [Analytics](#analytics) (Aktualisiert am 31. August 2020) and [Customer Journey Analytics](#cust-journey)
@@ -91,7 +91,7 @@ Nachfolgend sind die im vergangenen Monat neu veröffentlichten Videos, Tutorial
 * [Neue Funktionen in Customer Journey Analytics](#cust-journey)
 * [Neue Funktionen in Media Analytics](#media-aa)
 * [Fehlerbehebungen in Adobe Analytics](#aa-fixes)
-* [Wichtige Hinweise für Analytics-Administratoren](#aa-notices) (Aktualisiert am 21. August 2020)
+* [Wichtige Hinweise für Analytics-Administratoren](#aa-notices)  (Aktualisiert am 21. August 2020)
 * [AppMeasurement](#appm)
 
 ### Neue Funktionen in Adobe Analytics {#aa-features}
@@ -102,7 +102,7 @@ Nachfolgend sind die im vergangenen Monat neu veröffentlichten Videos, Tutorial
 | ----------- | ---------- | ------- |
 | [!UICONTROL Cross-Device Analytics]: Verfügbarkeit in EMEA und APAC | 31. August 2020 | [Cross-Device Analytics](https://docs.adobe.com/content/help/de-DE/analytics/components/cda/overview.html) und private Diagramme stehen Kunden in EMEA und APAC zur Verfügung. |
 | Verbesserung des feldbasierten Stitchings in [!UICONTROL Cross-Device Analytics] (verfügbar in Amerika und EMEA) | 31. August 2020 | Diese vereinfachte Implementierung für neue [!UICONTROL Cross-Device Analytics]-Kunden bietet Ihnen die Möglichkeit, das Stitching auf Grundlage einer Benutzer-ID durchzuführen, die in einem Analytics-Feld (Eigenschaft oder eVar) gespeichert ist, anstatt das Gerätediagramm (gemeinsam oder privat) zu verwenden. Durch die Verbesserung wird die Anforderung der ECID-Implementierung aufgehoben sowie die Anforderung, die ID-Synchronisierung für CDA-Zwecke zu implementieren. (Die ECID- und ID-Synchronisierung sind für bestimmte andere Funktionen weiterhin erforderlich.) |
-| Arbeitsbereich: 50.000 Artikel für eine einzelne Dimension herunterladen | 17. Sept. 2020 | Sie können 50.000 Elemente für eine Dimension in einer Freiformtabelle herunterladen, wobei Segmente und Filter angewendet werden. Auf diese Weise können Sie auf mehr als 400 Datenzeilen außerhalb von Analysis Workspace zugreifen. [Weitere Informationen...](https://docs.adobe.com/content/help/en/analytics/analyze/analysis-workspace/curate-share/download-send.html) |
+| Arbeitsbereich: 50.000 Artikel für eine einzelne Dimension herunterladen | 17. Sept. 2020 | Sie können 50.000 Elemente für eine Dimension in einer Freiformtabelle herunterladen, wobei Segmente und Filter angewendet werden. Auf diese Weise können Sie auf mehr als 400 Datenzeilen außerhalb von Analysis Workspace zugreifen. [Weitere Informationen...](https://docs.adobe.com/content/help/de-DE/analytics/analyze/analysis-workspace/curate-share/download-send.html) |
 | Arbeitsbereich: Verbesserungen bei der Linienvisualisierung | 17. September 2020 | <ul><li>Sie können die X- und Y-Achse einer beliebigen Linienvisualisierung ein- oder ausblenden. Dies kann besonders hilfreich sein, wenn Ihre Linienvisualisierungen kompakter sind.</li><li>Sie können eine Mindest- und Höchstwertebeschriftung bei jeder Linienvisualisierung überlagern, um die Spitzen und Täler in einer Metrik schnell hervorzuheben.</li><li>Sie können verschiedene Regressions-Trendlinien bei jeder Linienvisualisierung überlagern, um den Trend in den Daten leichter zu erkennen. Zu den Optionen gehören Linear, Logarithmisch, Exponentiell, Power und Quadratisch.</li></ul> [Mehr Infos...](https://docs.adobe.com/content/help/en/analytics/analyze/analysis-workspace/visualizations/line.html) |
 
 
@@ -141,7 +141,7 @@ AN-219351; AN-220960; AN-223788; AN-224630; AN-224948; AN-225618; AN-226261; AN-
 
 ### Wichtige Hinweise für [!DNL Analytics]-Administratoren {#aa-notices}
 
-| Hinweis | Hinzugefügt oder aktualisiert am | Beschreibung |
+| Hinweis | Hinzugefügt  oder aktualisiert am | Beschreibung |
 | ----------- | ---------- | ---------- |
 | Migration von der Domain `omniture.com` zu `adobe.com` | 21. August 2020 | Am 13. August 2020 migrierte Adobe Analytics seine Frontend-Architektur von der Domain `omniture.com|http://omniture.com/` zu `adobe.com|http://adobe.com/`. Diese Änderung soll Probleme mit Drittanbieter-Cookies beheben, die nach der ersten Änderung der einheitlichen Produkt-Domain am 28. Mai 2020 aufgetreten sind. Aufgrund dieser Aktualisierung wird der Browser die Benutzer möglicherweise auffordern, der neuen Domain `an.adobe.com|http://an.adobe.com/` oder `experience.adobe.com|http://experience.adobe.com/` zu vertrauen. |
 | Aktualisierung der Kompatibilität mit Ad Hoc Analysis Java 8 | 21. August 2020 | Ad Hoc Analysis ist derzeit nicht mit Java 8 Version 1.8.0_261 und höher kompatibel. Um sicherzustellen, dass Ihr Zugriff auf dieses Tool nicht unterbrochen wird, bevor das [Ende des Lebenszyklus](https://spark.adobe.com/page/S9Bhp66VJ2fEn/) erreicht ist, sollten Sie eine Java 8-Version niedriger als 1.8.0_261 beibehalten. |
@@ -373,7 +373,7 @@ Nachfolgend sind die im vergangenen Monat neu veröffentlichten Videos, Tutorial
 
 * Adobe Campaign Standard: [Hilfe-Center](https://docs.adobe.com/content/help/de-DE/campaign-standard/using/campaign-standard-home.html) – [Versionshinweise](https://docs.adobe.com/content/help/de-DE/campaign-standard/using/release-notes/release-notes.html) – [Anleitungsvideos](https://docs.adobe.com/content/help/de-DE/campaign-standard-learn/tutorials/overview.html) – [Versionsplanung](https://docs.adobe.com/content/help/de-DE/campaign-standard/using/release-notes/release-planning.html) – [Neueste Aktualisierungen der Dokumentation](https://docs.adobe.com/content/help/de-DE/campaign-standard/using/documentation-updates.html)
 * Adobe Campaign Classic: [Hilfe-Center](https://docs.adobe.com/content/help/de-DE/campaign-classic/using/campaign-classic-home.html) – [Versionshinweise](https://docs.adobe.com/content/help/de-DE/campaign-classic/using/release-notes/latest-release.html) – [Anleitungsvideos](https://docs.adobe.com/content/help/de-DE/campaign-classic-learn/tutorials/overview.html) – [Neueste Aktualisierungen der Dokumentation](https://docs.adobe.com/content/help/de-DE/campaign-classic/using/documentation-updates.html)
-* Control Panel von Adobe Campaign: [Dokumentation](https://docs.adobe.com/content/help/de-DE/control-panel/using/control-panel-home.html) – [Versionshinweise](https://docs.adobe.com/content/help/de-DE/control-panel/using/release-notes.html) – Anleitungsvideos für [Campaign Standard](https://docs.adobe.com/content/help/de-DE/campaign-standard-learn/tutorials/administrating/control-panel/control-panel-overview.html)/[Campaign Classic](https://docs.adobe.com/content/help/de-DE/campaign-classic-learn/tutorials/administrating/control-panel-acc/control-panel-overview.html)
+* Control Panel von Adobe Campaign: [Dokumentation](https://docs.adobe.com/content/help/de-DE/control-panel/using/control-panel-home.html) – [Versionshinweise](https://docs.adobe.com/content/help/de-DE/control-panel/using/release-notes.html)  – Anleitungsvideos für [Campaign Standard](https://docs.adobe.com/content/help/de-DE/campaign-standard-learn/tutorials/administrating/control-panel/control-panel-overview.html)/[Campaign Classic](https://docs.adobe.com/content/help/de-DE/campaign-classic-learn/tutorials/administrating/control-panel-acc/control-panel-overview.html)
 
 ## ![Symbol](/assets/advertising-cloud.png) Advertising Cloud {#adcloud}
 
@@ -384,7 +384,7 @@ Versionshinweise für Adobe Advertising Cloud.
 
 ### Neue Funktionen in [!UICONTROL Advertising Cloud DSP] {#adcloud-dsp}
 
-**Aktualisiert 20. August**
+**Aktualisiert: 20. August**
 
 | Funktion | Beschreibung |
 | -----------| ---------- |
