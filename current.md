@@ -5,7 +5,7 @@ doc-type: release notes
 last-update: September 2020
 author: mfrei
 translation-type: tm+mt
-source-git-commit: 113528f8e43d06e75d9fbb9db8bc229056e6f0f2
+source-git-commit: 7dd8e1b33661cc751ce8a384ee1ac4fc2f563d9b
 workflow-type: tm+mt
 source-wordcount: '6762'
 ht-degree: 39%
@@ -31,7 +31,7 @@ Auf dieser Seite sind neue Funktionen, Fehlerbehebungen und wichtige Hinweise in
 
 Die Veröffentlichungsdaten einzelner Produkte können variieren. Suchen Sie regelmäßig nach Updates.
 
-Neueste Aktualisierung: **4. September 2020**
+Neueste Aktualisierung: **10. September 2020**
 
 * [Systemstatus von Adobe](#status)
 * [Experience Cloud-Benutzeroberfläche ](#ecloud)  
@@ -63,7 +63,7 @@ Die neuesten Versionsinformationen zur Experience Cloud-Oberfläche (Kundenattri
 
 Versionshinweise für [!DNL Experience Platform] und Anwendungsdienste, einschließlich [!DNL Experience Platform Launch,] [!UICONTROL Angeboten], [!UICONTROL Personen], [!UICONTROL Places], [!UICONTROL Mobile Services] und Sicherheitsbulletins.
 
-Releasedatum: **12. August 2020**
+Releasedatum: **9. September 2020**
 
 Aktualisierungen vorhandener Funktionen in Adobe Experience Platform:
 
