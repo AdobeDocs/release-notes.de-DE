@@ -4,16 +4,16 @@ description: Adobe Experience Cloud – Versionshinweise
 doc-type: release notes
 last-update: September 2020
 author: mfrei
-translation-type: tm+mt
+translation-type: ht
 source-git-commit: 3de788a32337c5917e54eb6c23234c20c2910d98
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '6745'
-ht-degree: 99%
+ht-degree: 100%
 
 ---
 
 
-# Adobe Experience Cloud Versionshinweise - September 2020
+# Adobe Experience Cloud – Versionshinweise – September 2020
 
 ![Banner](/assets/experience-cloud-banner-3.png)
 
@@ -43,7 +43,7 @@ Letzte Aktualisierung: **10. September 2020**
 * [[!DNL Marketo Engage]](#marketo)
 * [[!DNL Primetime]](https://docs.adobe.com/content/help/de-DE/primetime/release-notes/home.html)
 
-Benötigen Sie Hilfe? Besuchen Sie [Adobe Experience League](https://experienceleague.adobe.com/#home), um Produkt- und technische Dokumentation, von Adobe kuratierte Kurse, Videoschulungen, schnelle Antworten, Community-Einblicke und von Schulungsleitern geführte Kurse zu erhalten.
+Benötigen Sie Hilfe? Besuchen Sie [Adobe Experience League](https://experienceleague.adobe.com/#home), um Produkt und technische Dokumentation, von Adobe kuratierte Kurse, Videoschulungen, schnelle Antworten, Community-Einblicke und von Schulungsleitern geführte Kurse zu erhalten.
 
 ## ![Symbol](/assets/adobe.png) Systemstatus von Adobe {#status}
 
@@ -130,7 +130,7 @@ Neue Videos, Tutorials und Kurse, die für [!UICONTROL Journey Orchestration] ve
 
 | Funktion | [Allgemeine Verfügbarkeit](https://docs.adobe.com/content/help/de-DE/analytics/landing/an-releases.html) – geplantes Datum | Beschreibung |
 | ----------- | ---------- | ----- |
-| Änderungen an den Berechtigungen für Customer Journey Analytics | 9. Sept. 2020 | CJA behandelt nicht mehr alle Benutzer als Administratoren. Nur Benutzer, die in der [Adobe Admin Console](https://docs.adobe.com/content/help/de-DE/core-services/interface/manage-users-and-products/admin-getting-started.html) als Produktadministratoren benannt wurden, können folgende Aktionen durchführen:<ul><li>[!UICONTROL Verbindungen] oder [!UICONTROL Datenansichten] erstellen/aktualisieren/löschen</li><li>Projekte, Filter oder Berechnungsmetriken, die von anderen Benutzern erstellt wurden, aktualisieren/löschen</li><li>Ein Workspace-Projekt für alle Benutzer freigeben</li></ul>[Weitere Infos...](https://docs.adobe.com/content/help/en/analytics-platform/using/cja-overview/cja-overview.html#admin-access-permissions) |
+| Änderungen an den Berechtigungen für Customer Journey Analytics | 9. Sept. 2020 | CJA behandelt nicht mehr alle Benutzer als Administratoren. Nur Benutzer, die in der [Adobe Admin Console](https://docs.adobe.com/content/help/de-DE/core-services/interface/manage-users-and-products/admin-getting-started.html) als Produktadministratoren benannt wurden, können folgende Aktionen durchführen:<ul><li>[!UICONTROL Verbindungen] oder [!UICONTROL Datenansichten] erstellen/aktualisieren/löschen</li><li>Projekte, Filter oder Berechnungsmetriken, die von anderen Benutzern erstellt wurden, aktualisieren/löschen</li><li>Ein Workspace-Projekt für alle Benutzer freigeben</li></ul>[Weitere Infos...](https://docs.adobe.com/content/help/de-DE/analytics-platform/using/cja-overview/cja-overview.html#admin-access-permissions) |
 | Unterstützung der [!UICONTROL Anomalieerkennung] | 10. Sept. 2020 | Mit der [!UICONTROL Anomalieerkennung] können Sie ermitteln, welche statistischen Fluktuationen wichtig sind und welche nicht. Diese Funktion wird jetzt in [!UICONTROL Customer Journey Analytics] unterstützt. |
 | Neue Datumsbereiche in Workspace | 10. Sept. 2020 | Es werden fünf neue Datumsbereiche hinzugefügt, sodass Sie aus Datumsbereichen wählen können, die keine partiellen Tagesdaten von heute enthalten: [!UICONTROL Letzte 7 volle Tage], [!UICONTROL Letzte 14 volle Tage], [!UICONTROL Letzte 30 volle Tage], [!UICONTROL Letzte 60 volle Tage], [!UICONTROL Letzte 90 volle Tage] |
 | Workspace: Verbesserungen der [!UICONTROL Linienvisualisierung] | 17. Sept. 2020 | <ul><li>Sie können die X- und Y-Achse jeder [!UICONTROL Linienvisualisierung] ein- oder ausblenden. Dies kann besonders dann hilfreich sein, wenn Ihre [!UICONTROL Linienvisualisierungen] kompakt sind.</li><li>Sie können bei jeder [!UICONTROL Linienvisualisierung] eine Mindest- und Höchstwertebeschriftung darstellen, um rasch die Spitzen und Täler in einer Metrik hervorzuheben.</li><li>Sie können bei jeder [!UICONTROL Linienvisualisierung] verschiedene Regressions-Trend-Linien einblenden, um den Daten-Trend leichter erkennbar zu machen. Zu den Optionen gehören [!UICONTROL Linear], [!UICONTROL Logarithmisch], [!UICONTROL Exponentiell], [!UICONTROL Leistung] und [!UICONTROL Quadratisch].</li></ul> [Weitere Infos...](https://docs.adobe.com/content/help/de-DE/analytics-platform/using/cja-workspace/visualizations/line.html) |
@@ -162,7 +162,7 @@ AN-215683; AN-216894; AN-226370; AN-227138; AN-227154; AN-227328; AN-227486; AN-
 
 ### Wichtige Hinweise für [!DNL Analytics]-Administratoren {#aa-notices}
 
-| Hinweis | Hinzugefügt    oder aktualisiert am | Beschreibung |
+| Hinweis | Hinzugefügt     oder aktualisiert am | Beschreibung |
 | ----------- | ---------- | ---------- |
 | Migration von der Domain `omniture.com` zu `adobe.com` | 21. August 2020 | Am 13. August 2020 migrierte Adobe Analytics seine Frontend-Architektur von der Domain `omniture.com|http://omniture.com/` zu `adobe.com|http://adobe.com/`. Diese Änderung soll Probleme mit Drittanbieter-Cookies beheben, die nach der ersten Änderung der einheitlichen Produkt-Domain am 28. Mai 2020 aufgetreten sind. Aufgrund dieser Aktualisierung wird der Browser die Benutzer möglicherweise auffordern, der neuen Domain `.adobe.com|http://an.adobe.com/` oder `experience.adobe.com|http://experience.adobe.com/` zu vertrauen. |
 | Aktualisierung der Kompatibilität mit Ad Hoc Analysis Java 8 | 21. August 2020 | Ad Hoc Analysis ist derzeit nicht mit Java 8 Version 1.8.0_261 und höher kompatibel. Um sicherzustellen, dass Ihr Zugriff auf dieses Tool nicht unterbrochen wird, bevor das [Ende des Lebenszyklus](https://spark.adobe.com/page/S9Bhp66VJ2fEn/) erreicht ist, sollten Sie eine Java 8-Version niedriger als 1.8.0_261 beibehalten. |
@@ -263,7 +263,7 @@ AEM 6.4, Service Pack 8, Cumulative Fix Pack 2 (Version 6.4.8.2 vom 3. September
    * Die Benutzeroberflächensteuerelemente, die Navigation, das Durchsuchen und das Sucherlebnis in Assets wurden um Unterstützung für Barrierefreiheit erweitert.
    * Version 2.0.3 der AEM Desktop-App ist jetzt verfügbar, was die Kompatibilität mit AEM 6.5, Service Pack 5 (AEM 6.5.5) verbessert und die Liste der Kompatibilität mit Client-Betriebssystemen aktualisiert (Entfernung von Windows 7 und macOS-Versionen vor 10.14).
    * Die Funktion [!UICONTROL Produktkonsole] ist jetzt in AEM [!UICONTROL Commerce as a Cloud Service] verfügbar. Damit können Marketing-Experten und Autoren in AEM Kategorien und Produkten anzeigen und durchsuchen, die im Commerce-Backend gespeichert sind. Unterstützung von Eigenschaften für Kategorien und Produkte in der [!UICONTROL Produktkonsole] wird ebenfalls bereitgestellt.
-   * [!UICONTROL Produkt-] und [!UICONTROL Kategorieauswahlen] wurden verbessert, damit Marketing-Experten Produkte per SKU oder Kategorien anhand der Kategorie-ID auswählen können.
+   * [!UICONTROL Produkt] und [!UICONTROL Kategorieauswahlen] wurden verbessert, damit Marketing-Experten Produkte per SKU oder Kategorien anhand der Kategorie-ID auswählen können.
    * [!UICONTROL Content Audit] (Inhaltsprüfung) ist eine Funktion, die in [!UICONTROL Cloud Manager Sites-Produktions-Pipelines] aktiviert ist. Die Konfiguration der [!UICONTROL Produktions-Pipeline] für Programme mit [!UICONTROL Sites] enthält jetzt eine dritte Registerkarte mit dem Namen **[!UICONTROL Content Audit]** (Inhaltsprüfung). Bei jeder Ausführung einer Produktions-Pipeline wird nach benutzerdefinierten Funktionstests ein neuer [!UICONTROL Content Audit]-Schritt in die Pipeline aufgenommen, sodass die Site anhand einer Reihe von Dimensionen wie Leistung, SEO (Suchmaschinenoptimierung), Barrierefreiheit, Best Practices und PWA (Progressive Web App) bewertet wird.
 Siehe [Inhaltsprüfungstests](https://docs.adobe.com/content/help/de-DE/experience-manager-cloud-service/implementing/using-cloud-manager/test-results/content-audit-testing.html).
    * Neu erstellte Umgebungen in [!UICONTROL Assets]-Programmen werden jetzt automatisch mit [!UICONTROL Smart Content Services] konfiguriert.
@@ -401,7 +401,7 @@ Nachfolgend sind die im vergangenen Monat neu veröffentlichten Videos, Tutorial
 
 * Adobe Campaign Standard: [Hilfe-Center](https://docs.adobe.com/content/help/de-DE/campaign-standard/using/campaign-standard-home.html) – [Versionshinweise](https://docs.adobe.com/content/help/de-DE/campaign-standard/using/release-notes/release-notes.html) – [Anleitungsvideos](https://docs.adobe.com/content/help/de-DE/campaign-standard-learn/tutorials/overview.html) – [Versionsplanung](https://docs.adobe.com/content/help/de-DE/campaign-standard/using/release-notes/release-planning.html) – [Neueste Aktualisierungen der Dokumentation](https://docs.adobe.com/content/help/de-DE/campaign-standard/using/documentation-updates.html)
 * Adobe Campaign Classic: [Hilfe-Center](https://docs.adobe.com/content/help/de-DE/campaign-classic/using/campaign-classic-home.html) – [Versionshinweise](https://docs.adobe.com/content/help/de-DE/campaign-classic/using/release-notes/latest-release.html) – [Anleitungsvideos](https://docs.adobe.com/content/help/de-DE/campaign-classic-learn/tutorials/overview.html) – [Neueste Aktualisierungen der Dokumentation](https://docs.adobe.com/content/help/de-DE/campaign-classic/using/documentation-updates.html)
-* Control Panel von Adobe Campaign: [Dokumentation](https://docs.adobe.com/content/help/de-DE/control-panel/using/control-panel-home.html) – [Versionshinweise](https://docs.adobe.com/content/help/de-DE/control-panel/using/release-notes.html)    – Anleitungsvideos für [Campaign Standard](https://docs.adobe.com/content/help/de-DE/campaign-standard-learn/tutorials/administrating/control-panel/control-panel-overview.html)/[Campaign Classic](https://docs.adobe.com/content/help/de-DE/campaign-classic-learn/tutorials/administrating/control-panel-acc/control-panel-overview.html)
+* Control Panel von Adobe Campaign: [Dokumentation](https://docs.adobe.com/content/help/de-DE/control-panel/using/control-panel-home.html) – [Versionshinweise](https://docs.adobe.com/content/help/de-DE/control-panel/using/release-notes.html)     – Anleitungsvideos für [Campaign Standard](https://docs.adobe.com/content/help/de-DE/campaign-standard-learn/tutorials/administrating/control-panel/control-panel-overview.html)/[Campaign Classic](https://docs.adobe.com/content/help/de-DE/campaign-classic-learn/tutorials/administrating/control-panel-acc/control-panel-overview.html)
 
 ## ![Symbol](/assets/advertising-cloud.png) Advertising Cloud {#adcloud}
 
