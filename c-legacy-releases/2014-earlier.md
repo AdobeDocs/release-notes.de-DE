@@ -2,12 +2,15 @@
 description: Neue Funktionen und Fehlerbehebungen in Adobe Experience Cloud - 2014 und früher
 seo-description: Neue Funktionen und Fehlerbehebungen in Adobe Experience Cloud - 2014 und früher
 title: Versionshinweise für 2014 und früher
-solution: Versionshinweise, Experience Cloud, Analytics, Social, Target, Advertising Cloud
+solution: Experience Cloud,Analytics,Target,Advertising Cloud
 seo-title: Versionshinweise zu Adobe Experience Cloud für 2014 und früher
-topic: Versionshinweise
+topic: Release notes
 uuid: c56a1064-0f2c-4241-93c6-ca4b1f267763
 translation-type: tm+mt
-source-git-commit: 9dcd8e8ea0e020c56906e5e4635d68eeceb070a0
+source-git-commit: 00226294d475d0c8f323692272bedf0d2705fd20
+workflow-type: tm+mt
+source-wordcount: '50'
+ht-degree: 100%
 
 ---
 
