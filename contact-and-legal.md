@@ -1,15 +1,18 @@
 ---
 description: Hier finden Sie Angaben zur Kontaktaufnahme mit Adobe und rechtliche Hinweise zu Ihrer Nutzung des Produkts und der Dokumentation.
-keywords: dynamisches Tag-Management; Versionshinweise
+keywords: dynamic tag management;release notes
 seo-description: Hier finden Sie Angaben zur Kontaktaufnahme mit Adobe und rechtliche Hinweise zu Ihrer Nutzung des Produkts und der Dokumentation.
 seo-title: Kontakt und rechtliche Informationen
-solution: Experience Cloud, Versionshinweise
+solution: Experience Cloud
 title: Kontakt und rechtliche Informationen
 uuid: be6810fd-8a50-4e88-af09-ab00187e4082
 internal: n
 translate: y
-translation-type: ht
-source-git-commit: 147b01562e6c8d579a2bec0e4fa2841d1791a671
+translation-type: tm+mt
+source-git-commit: 00226294d475d0c8f323692272bedf0d2705fd20
+workflow-type: tm+mt
+source-wordcount: '253'
+ht-degree: 97%
 
 ---
 
@@ -41,8 +44,8 @@ Adobe Systems welcome any suggestions or feedback regarding this solution. You c
  <li> Published by Adobe Systems Incorporated. </li> 
 </ul>
 
-[Nutzungsbedingungen](https://www.adobe.com/go/marketingcloud_terms_of_use_de) | [Datenschutz-Center](https://www.adobe.com/privacy/policy.html)
+[Nutzungsbedingungen](https://www.adobe.com/go/marketingcloud_terms_of_use) | [Datenschutzcenter](https://www.adobe.com/de/privacy/policy.html)
 
 Adobe and the Adobe logo are either registered trademarks or trademarks of Adobe Systems Incorporated in the United States and/or other countries. A trademark symbol (®, ™, etc.) denotes an Adobe trademark.
 
-All third-party trademarks are the property of their respective owners. Aktualisierte Informationen/zusätzlicher Code von Drittanbietern verfügbar unter [https://www.adobe.com/go/thirdparty](https://www.adobe.com/products/eula/third_party/).
+All third-party trademarks are the property of their respective owners. Updated Information/Additional Third-Party Code Information available at [https://www.adobe.com/go/thirdparty](https://www.adobe.com/de/products/eula/third_party/).
