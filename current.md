@@ -5,9 +5,9 @@ doc-type: release notes
 last-update: October 2020
 author: mfrei
 translation-type: tm+mt
-source-git-commit: 5790dfcacc451a044bc7d2f8431d759598643a9f
+source-git-commit: 2ed7bd9c020cac5cf282aafd0c3146b8e0661dce
 workflow-type: tm+mt
-source-wordcount: '6533'
+source-wordcount: '6530'
 ht-degree: 45%
 
 ---
@@ -298,13 +298,13 @@ Die Rich Text Editor Dokumentation wird aktualisiert, um alle unterstützten Pro
 
 * Wenn Benutzer [Apache Jackrabbit Oak TokenConfiguration](https://helpx.adobe.com/experience-manager/kb/How-to-set-token-session-expiration-AEM.html) geändert haben, um die Timeout-Konfiguration auf weniger Zeit festzulegen, als für das Hochladen eines Assets erforderlich ist, kann der Benutzer auf eine Sitzungs-Timeout-Situation stoßen. Daher müssen Benutzer die Einstellung ändern `chunkUploadMinFileSize` und `chunksize`, damit jede Chunk-Anforderung die Sitzung aktualisiert. Weitere Informationen hierzu finden Sie unter [Hochladen von Assets](https://docs.adobe.com/content/help/en/experience-manager-65/assets/managing/managing-assets-touch-ui.html#uploading-assets).
 
-* Assets können auch mithilfe des Drag-Vorgangs [in gleichrangige Ordner](https://docs.adobe.com/content/help/en/experience-manager-65/assets/managing/managing-assets-touch-ui.html#moving-or-renaming-assets) verschoben werden, mit Ausnahme des Vorgangs [!UICONTROL Verschieben (m)] , der den Assistenten zum [!UICONTROL Verschieben von Assets] öffnet.
+* Assets können auch mithilfe des Drag-Vorgangs [in gleichrangige Ordner](https://docs.adobe.com/content/help/en/experience-manager-65/assets/managing/managing-assets-touch-ui.html#moving-or-renaming-assets) verschoben werden, mit Ausnahme des Vorgangs [!UICONTROL Verschieben(m)] , der den Assistenten zum [!UICONTROL Verschieben von Assets] öffnet.
 
 * Verwenden Sie für Assets Insights [Adobe Launch](https://docs.adobe.com/content/help/en/experience-manager-learn/assets/advanced/asset-insights-launch-tutorial.html). [Die DTM-Integration](https://docs.adobe.com/content/help/en/experience-manager-65/assets/managing/touch-ui-using-dtm-for-asset-insights.html) wird als veraltete Methode in den Dokumenten aufgerufen.
 
 **[!DNL Adobe Experience Manager]Desktop-App**
 
-* Benutzer, die sich nach dem ersten Anmelden oder Anmelden bei der Desktop-App anmelden, sollten ihre [!DNL Experience Manager] Server-URL im Format https://[aem-server-url]:[port]/ angeben und dann die Option [!UICONTROL Connect] wählen, um den Fehler &quot;Bei der Anwendung ist ein unbekannter Fehler aufgetreten&quot;zu vermeiden. Weitere Informationen finden Sie unter [Verwenden der Adobe Experience Manager-Desktop-App](https://docs.adobe.com/content/help/en/experience-manager-desktop-app/using/using.html).
+* Benutzer, die sich nach dem ersten Abmelden oder Anmelden bei der Desktop-App anmelden, sollten ihre [!DNL Experience Manager] Server-URL im Format angeben `https://[aem-server-url]:[port]/` und dann die Option &quot; [!UICONTROL Verbinden] &quot;wählen, um den Fehler &quot;Bei der Anwendung ist ein unbekannter Fehler aufgetreten&quot;zu vermeiden. Weitere Informationen finden Sie unter [Verwenden der Adobe Experience Manager-Desktop-App](https://docs.adobe.com/content/help/en/experience-manager-desktop-app/using/using.html).
 
 ### Community
 
