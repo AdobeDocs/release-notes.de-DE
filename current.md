@@ -5,10 +5,10 @@ doc-type: release notes
 last-update: October 2020
 author: mfrei
 translation-type: tm+mt
-source-git-commit: e6add243b6c74b59f138543c460d55817bddf761
+source-git-commit: 5790dfcacc451a044bc7d2f8431d759598643a9f
 workflow-type: tm+mt
-source-wordcount: '6448'
-ht-degree: 46%
+source-wordcount: '6533'
+ht-degree: 45%
 
 ---
 
@@ -60,7 +60,7 @@ Aktuelle Versionsinformationen finden Sie unter [Systemstatus von Adobe – 21. 
 
 ## ![Verwaltung von](/assets/ec_appicon_24.png) Symbolen {#ecloud}
 
-Die früher als _Experience Cloud-Core-Services_ bezeichnete Dokumentation zu [Experience Cloud-Services und Administration](https://docs.adobe.com/content/help/de-DE/core-services/interface/experience-cloud.html) umfasst Kundenattribute, Audience Library ([!UICONTROL People] -Dienst)-Aktivierung, Benutzer- und Produktverwaltung sowie Experience Cloud-Cookies.
+Die früher als _Experience Cloud-Hauptdienste_ bezeichnete Dokumentation zu [Experience Cloud- und Verwaltungsdiensten](https://docs.adobe.com/content/help/de-DE/core-services/interface/experience-cloud.html) umfasst Kundenattribute, Audience Library ([!UICONTROL People] -Dienst)-Aktivierung, Benutzer- und Produktverwaltung sowie Experience Cloud-Cookies.
 
 Im September nicht aktualisiert.
 
@@ -282,7 +282,13 @@ Siehe [Versionshinweise für AEM as a Cloud Service](https://docs.adobe.com/cont
 
 ### Selbsthilfe
 
+**[!DNL Experience Manager]Sites**
+
+Die Rich Text Editor Dokumentation wird aktualisiert, um alle unterstützten Protokolle für [die Links in RTE](https://docs.adobe.com/content/help/en/experience-manager-65/administering/operations/configure-rich-text-editor-plug-ins.html#linkstyles)Liste.
+
 **[!DNL Experience Manager]Assets**
+
+* Es stehen neue Hilfeinhalte zur [Barrierefreiheit](https://docs.adobe.com/content/help/en/experience-manager-cloud-service/assets/accessibility.html) von AEM Assets für alle Benutzer zur Verfügung.
 
 * **[Der Parameter](https://docs.adobe.com/content/help/en/experience-manager-65/assets/using/search-assets.html#assetpicker)** Viewmode wird der Asset-Auswahl (Asset-Auswahl) hinzugefügt, um die Asset-Auswahl im Suchmodus zu öffnen. Um die Asset-Auswahl im Suchmodus zu öffnen und mit `assettype` und zu verwenden, muss der Benutzer den `mimetype`Parameter in der URL eingeben `viewmode=search` `https://[aem-server]:[port]/aem/assetpicker.html`. Beispiel: `https://[aem-server]:[port]/aem/assetpicker.html?viewmode=search&assettype=images`.
 
@@ -293,6 +299,8 @@ Siehe [Versionshinweise für AEM as a Cloud Service](https://docs.adobe.com/cont
 * Wenn Benutzer [Apache Jackrabbit Oak TokenConfiguration](https://helpx.adobe.com/experience-manager/kb/How-to-set-token-session-expiration-AEM.html) geändert haben, um die Timeout-Konfiguration auf weniger Zeit festzulegen, als für das Hochladen eines Assets erforderlich ist, kann der Benutzer auf eine Sitzungs-Timeout-Situation stoßen. Daher müssen Benutzer die Einstellung ändern `chunkUploadMinFileSize` und `chunksize`, damit jede Chunk-Anforderung die Sitzung aktualisiert. Weitere Informationen hierzu finden Sie unter [Hochladen von Assets](https://docs.adobe.com/content/help/en/experience-manager-65/assets/managing/managing-assets-touch-ui.html#uploading-assets).
 
 * Assets können auch mithilfe des Drag-Vorgangs [in gleichrangige Ordner](https://docs.adobe.com/content/help/en/experience-manager-65/assets/managing/managing-assets-touch-ui.html#moving-or-renaming-assets) verschoben werden, mit Ausnahme des Vorgangs [!UICONTROL Verschieben (m)] , der den Assistenten zum [!UICONTROL Verschieben von Assets] öffnet.
+
+* Verwenden Sie für Assets Insights [Adobe Launch](https://docs.adobe.com/content/help/en/experience-manager-learn/assets/advanced/asset-insights-launch-tutorial.html). [Die DTM-Integration](https://docs.adobe.com/content/help/en/experience-manager-65/assets/managing/touch-ui-using-dtm-for-asset-insights.html) wird als veraltete Methode in den Dokumenten aufgerufen.
 
 **[!DNL Adobe Experience Manager]Desktop-App**
 
