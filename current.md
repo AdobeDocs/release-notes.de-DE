@@ -5,15 +5,15 @@ doc-type: release notes
 last-update: October 2020
 author: mfrei
 translation-type: tm+mt
-source-git-commit: 2ed7bd9c020cac5cf282aafd0c3146b8e0661dce
+source-git-commit: 554b01dd2fd709420cb046e37cc45f2f1331eb54
 workflow-type: tm+mt
-source-wordcount: '6530'
-ht-degree: 45%
+source-wordcount: '6537'
+ht-degree: 47%
 
 ---
 
 
-# Frühzugriff - Versionshinweise Adobe Experience Cloud - Oktober 2020
+# Frühzugriff - Adobe Experience Cloud-Versionshinweise - Oktober 2020
 
 ![Banner](/assets/experience-cloud-banner-3.png)
 
@@ -64,7 +64,7 @@ Die früher als _Experience Cloud-Hauptdienste_ bezeichnete Dokumentation zu [Ex
 
 Im September nicht aktualisiert.
 
-See [Cumulative release notes](https://docs.adobe.com/content/help/de-DE/core-services/interface/release-notes/release-notes.html) for the latest release information.
+Aktuelle Versionsinformationen finden Sie unter [Gesammelte Versionshinweise zu Experience Cloud-Services](https://docs.adobe.com/content/help/de-DE/core-services/interface/release-notes/release-notes.html) .
 
 ## ![Symbol](/assets/experience_platform_appicon_24.png) Adobe Experience Platform {#platform}
 
@@ -105,6 +105,8 @@ September - Siehe [Versionshinweise zur Journey Orchestration](https://docs.adob
 [Dokumentation](https://docs.adobe.com/content/help/de-DE/journeys/using/journey-orchestration-home.html) – [Versionshinweise](https://docs.adobe.com/content/help/de-DE/journeys/using/release-notes/release-notes.html) – [Videoanleitungen](https://docs.adobe.com/content/help/de-DE/journey-orchestration-learn/tutorials/understanding-journey-orchestration.html)
 
 ## ![Symbol](/assets/analytics.png) [!DNL Adobe Analytics] {#analytics}
+
+Releasedatum: **8. Oktober 2020**
 
 * [Neue Funktionen in Adobe Analytics](#aa-features)
 * [Neue Funktionen in Customer Journey Analytics](#cust-journey)
@@ -397,9 +399,9 @@ Nachfolgend sind die im vergangenen Monat neu veröffentlichten Videos, Tutorial
 
 | Veröffentlicht | Name | Lösung | Beschreibung |
 | ----------- | ----------- | ---------- | ---------- |
-| 22. September 2020 | [Journey AI - Predictive Send Time Optimization - Video](https://docs.adobe.com/content/help/de-DE/campaign-standard-learn/tutorials/communication-channels/email/journey-ai/predictive-send-time-optimization.html) | Campaign Standard | Verstehen Sie, welche Workflows zum Synchronisieren von Daten zwischen Adobe Campaign und dem Journey AI-Modell erforderlich sind. Erfahren Sie, wie Sie Ansichten zum Senden von Zeitwerten auf der Ebene der einzelnen Profil erstellen und wie Sie E-Mail-Versand mit einer Versandzeitformel ausführen. |
-| 22. September 2020 | [Journey AI - Bewertung von prognostiziertem Engagement - Video](https://docs.adobe.com/content/help/de-DE/campaign-standard-learn/tutorials/communication-channels/email/journey-ai/predictive-engagement-scoring.html) | Campaign Standard | Erfahren Sie, wie Sie Interaktionsbewertungen auf der Ebene der einzelnen Profil Ansicht können, wie Sie Bewertungen für eingebundene Benutzer verwenden und erschöpfte Benutzer unterdrücken, und wie Sie Typologieregeln zur Verwaltung der Kundenmüdigkeit erstellen. |
-| 22. September 2020 | [Hinzufügen der Steuerung einer Gruppe zu einem Versand - Video](https://docs.adobe.com/content/help/de-DE/campaign-standard-learn/tutorials/communication-channels/email/control-groups.html) | Campaign Standard | Erfahren Sie, wie Sie eine Kontrollgruppe für Ihren Versand definieren und wie Sie die der Kontrollgruppe zugewiesenen Profil extrahieren, nachdem der Versand gesendet wurde. |
+| 22. September 2020 | [Journey AI - Predictive Send Time Optimization - Video](https://docs.adobe.com/content/help/de-DE/campaign-standard-learn/tutorials/communication-channels/email/journey-ai/predictive-send-time-optimization.html) | Campaign Standard | Hier lernen Sie, welche Workflows zum Synchronisieren von Daten zwischen Adobe Campaign und dem Journey AI-Modell erforderlich sind. Erfahren Sie, wie Sendezeitbewertungen auf der Ebene einzelner Profile angezeigt werden und wie E-Mail-Sendungen mithilfe einer Sendezeitformel ausgeführt werden können. |
+| 22. September 2020 | [Journey AI - Bewertung von prognostiziertem Engagement - Video](https://docs.adobe.com/content/help/de-DE/campaign-standard-learn/tutorials/communication-channels/email/journey-ai/predictive-engagement-scoring.html) | Campaign Standard | Erfahren Sie, wie man Interaktionsbewertungen auf der Ebene der einzelnen Profile anzeigt, Bewertungen verwendet, um interaktive Benutzer anzusprechen und ermüdete Benutzer zu meiden, und Typologieregeln zur Verwaltung von Kundenermüdung erstellt. |
+| 22. September 2020 | [Hinzufügen einer Kontrollgruppe zu einem Versand - Video](https://docs.adobe.com/content/help/de-DE/campaign-standard-learn/tutorials/communication-channels/email/control-groups.html) | Campaign Standard | Erfahren Sie, wie Sie eine Kontrollgruppe für Ihren Versand definieren und wie Sie die der Kontrollgruppe zugewiesenen Profile extrahieren, nachdem der Versand ausgeführt wurde. |
 | 11. September 2020 | [Zuweisen von Subdomains](https://docs.adobe.com/content/help/en/campaign-classic-learn/tutorials/administrating/control-panel-acc/subdomain-delegation.html) | Campaign Classic | Über das Adobe Campaign Control Panel können Sie Adobe Campaign eine Subdomain vollständig zuweisen. |
 | 3. September 2020 | [Hinzufügen von IP-Adressen zu Zulassungslisten](https://docs.adobe.com/content/help/en/campaign-classic-learn/tutorials/administrating/control-panel-acc/ip-allow-listing.html) | Campaign Classic | Im Control Panel können Sie neue Verbindungen zu Ihren Instanzen einrichten, indem Sie IP-Adressbereiche auf die Zulassungsliste setzen. Standardmäßig kann auf eine Adobe Campaign Classic-Instanz nicht über verschiedene IP-Adressen zugegriffen werden. |
 | 3. September 2020 | [Systemsteuerung - Hinzufügen von URL-Berechtigungen](https://docs.adobe.com/content/help/en/campaign-learn/campaign-classic-tutorials/administrating/control-panel-acc/adding-url-permissions.html) | Campaign Classic | Im Control Panel können Sie neue Verbindungen zu Ihren Instanzen einrichten, indem Sie IP-Adressbereiche auf die Zulassungsliste setzen. Standardmäßig kann auf eine Adobe Campaign Classic-Instanz nicht über verschiedene IP-Adressen zugegriffen werden. |
