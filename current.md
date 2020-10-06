@@ -13,7 +13,7 @@ ht-degree: 46%
 ---
 
 
-# Frühzugriff - Versionshinweise Adobe Experience Cloud - Oktober 2020
+# Frühzugriff - Adobe Experience Cloud-Versionshinweise - Oktober 2020
 
 ![Banner](/assets/experience-cloud-banner-3.png)
 
