@@ -5,15 +5,15 @@ doc-type: release notes
 last-update: October 2020
 author: mfrei
 translation-type: tm+mt
-source-git-commit: 554b01dd2fd709420cb046e37cc45f2f1331eb54
+source-git-commit: 4f7fd84dcf6c1edcee352fd1c7592d1a0f36ed36
 workflow-type: tm+mt
-source-wordcount: '6537'
-ht-degree: 47%
+source-wordcount: '6619'
+ht-degree: 46%
 
 ---
 
 
-# Frühzugriff - Adobe Experience Cloud-Versionshinweise - Oktober 2020
+# Frühzugriff - Versionshinweise Adobe Experience Cloud - Oktober 2020
 
 ![Banner](/assets/experience-cloud-banner-3.png)
 
@@ -49,6 +49,10 @@ Letzte Aktualisierung: **2. Oktober 2020**
 * [Document Cloud](#doc-cloud)
 
 Benötigen Sie Hilfe? Besuchen Sie [Adobe Experience League](https://experienceleague.adobe.com/#home), um Produkt und technische Dokumentation, von Adobe kuratierte Kurse, Videoschulungen, schnelle Antworten, Community-Einblicke und von Schulungsleitern geführte Kurse zu erhalten.
+
+>[!NOTE]
+>
+>Die Dokumentation zum Experience Cloud zieht nach Experience League. Im Oktober werden alle Versionshinweise, Artikel, Videos und Tutorials von ihrem aktuellen Standort an verschoben `docs.adobe.com` und als Teil von Experience League verfügbar sein. Dieser Schritt stellt sicher, dass alle Inhalte für Lernzwecke, Selbsthilfe, Aktivierung und Community an einem Ort bereitgestellt werden: Experience League. Wenn diese Änderung eintritt, müssen Sie nichts tun, da alle Links an den neuen Speicherort weitergeleitet werden. Wir werden die Versionshinweise aktualisieren, sobald der Cutover beginnt.
 
 ## ![Symbol](/assets/adobe.png) Systemstatus von Adobe {#status}
 
@@ -312,7 +316,7 @@ Die Rich Text Editor Dokumentation wird aktualisiert, um alle unterstützten Pro
 
 * **Ankündigung eines neuen Prozesses zum Senden von Experience Manager-Funktionsanforderungen**
 
-   Möchten Sie eine neue Funktion zum Experience Manager-Fahrplan hinzufügen? Adobe freut sich, *FeatureBit* - ein Projekt zur Verbesserung der Art und Weise, wie Kunden und Partner Funktionsverbesserungen (RFEs genannt) an das Produktteam von Experience Manager anfordern, ankündigen zu können. Erfahren Sie mehr über die Community [Experience League AEM.](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-manager/announcing-the-new-process-to-submit-experience-manager-feature/td-p/380425)
+   Möchten Sie eine neue Funktion zum Experience Manager-Fahrplan hinzufügen? Adobe freut sich, *FeatureBit* - ein Projekt zur Verbesserung der Art und Weise, wie Kunden und Partner Funktionsverbesserungen (RFEs genannt) an das Produktteam von Experience Manager anfordern, ankündigen zu können. Weitere Informationen finden Sie in der [Experience League AEM Community.](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-manager/announcing-the-new-process-to-submit-experience-manager-feature/td-p/380425)
 
 * **Neuester AEM-Inhalt auf Experience League**
 
