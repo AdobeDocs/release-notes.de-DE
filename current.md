@@ -5,10 +5,10 @@ doc-type: release notes
 last-update: October 2020
 author: mfrei
 translation-type: tm+mt
-source-git-commit: 8d32193d5e42d33f9ca087154da628fa83f607b4
+source-git-commit: 70f1d8589fe94f37a3f9edc375f9efbf2b6d1c26
 workflow-type: tm+mt
-source-wordcount: '6611'
-ht-degree: 46%
+source-wordcount: '6765'
+ht-degree: 45%
 
 ---
 
@@ -124,6 +124,7 @@ Releasedatum: **8. Oktober 2020**
 
 | Funktion | [Allgemeine Verfügbarkeit](https://docs.adobe.com/content/help/de-DE/analytics/landing/an-releases.html) – geplantes Datum | Beschreibung |
 | ----------- | ---------- | ------- |
+| Adobe Analytics-Handbuch | Oktober 2020 | Adobe Analytics-Dokumentation zieht nach Experience League. Im Oktober wechseln alle Artikel, Videos, Versionshinweise und Tutorials von ihrem aktuellen Speicherort `docs.adobe.com` zu `experienceleague.adobe.com`. Dieser Schritt stellt sicher, dass alle Lern-, Selbsthilfe-, Aktivierungs- und Community-Inhalte an einem Ort bereitgestellt werden. Wenn diese Änderung eintritt, müssen Sie nichts tun, da alle Links nach Experience League umgeleitet werden. Wir werden die Versionshinweise aktualisieren, sobald der Cutover beginnt. |
 | [!UICONTROL Arbeitsbereich]: 50.000 Artikel für eine einzelne Dimension herunterladen | 17. Sept. 2020 | Sie können 50.000 Elemente für eine Dimension in einer Freiformtabelle herunterladen, wobei Segmente und Filter angewendet werden. Auf diese Weise können Sie auf mehr als 400 Datenzeilen außerhalb von Analysis Workspace zugreifen. [Weitere Infos...](https://docs.adobe.com/content/help/en/analytics/analyze/analysis-workspace/curate-share/download-send.html#download-items) |
 | Workspace: Verbesserungen der [!UICONTROL Linienvisualisierung] | 17. Sept. 2020 | <ul><li>You can show or hide the X-axis and Y-axis of any [!UICONTROL Line] visualization. Dies kann besonders dann hilfreich sein, wenn Ihre [!UICONTROL Linienvisualisierungen] kompakt sind.</li><li>Sie können bei jeder [!UICONTROL Linienvisualisierung] eine Mindest- und Höchstwertebeschriftung darstellen, um rasch die Spitzen und Täler in einer Metrik hervorzuheben.</li><li>Sie können bei jeder [!UICONTROL Linienvisualisierung] verschiedene Regressions-Trend-Linien einblenden, um den Daten-Trend leichter erkennbar zu machen. Zu den Optionen gehören [!UICONTROL Linear], [!UICONTROL Logarithmisch], [!UICONTROL Exponentiell], [!UICONTROL Leistung] und [!UICONTROL Quadratisch].</li></ul> [Weitere Infos...](https://docs.adobe.com/content/help/de-DE/analytics/analyze/analysis-workspace/visualizations/line.html) |
 | [!UICONTROL Arbeitsbereich]: Seite zur Leistung | 22. Oktober 2020 | Auf der Hilfeseite zur Leistung von Analysis Workspace werden die verschiedenen Faktoren, die die Projektleistung beeinflussen, sowie Links zu Optimierungstipps angezeigt. [Weitere Infos](https://docs.adobe.com/content/help/en/analytics/analyze/analysis-workspace/workspace-faq/optimizing-performance.html) |
@@ -135,6 +136,7 @@ Releasedatum: **8. Oktober 2020**
 
 | Funktion | [Allgemeine Verfügbarkeit](https://docs.adobe.com/content/help/de-DE/analytics/landing/an-releases.html) – geplantes Datum | Beschreibung |
 | ----------- | ---------- | ----- |
+| Customer Journey Analytics Dokumentation | Oktober 2020 | Die Dokumentation des Customer Journey Analytics zieht nach Experience League. Im Oktober wechseln alle Artikel, Videos, Versionshinweise und Tutorials von ihrem aktuellen Speicherort `docs.adobe.com` zu `experienceleague.adobe.com`. Dieser Schritt stellt sicher, dass alle Lern-, Selbsthilfe-, Aktivierungs- und Community-Inhalte an einem Ort bereitgestellt werden. Wenn diese Änderung eintritt, müssen Sie nichts tun, da alle Links nach Experience League umgeleitet werden. Wir werden die Versionshinweise aktualisieren, sobald der Cutover beginnt. |
 | [!UICONTROL Arbeitsbereich]: 50.000 Artikel für eine einzelne Dimension herunterladen | 17. Sept. 2020 | Sie können 50.000 Elemente für eine Dimension in einer Freiformtabelle herunterladen, wobei Segmente und Filter angewendet werden. Auf diese Weise können Sie auf mehr als 400 Datenzeilen außerhalb von Analysis Workspace zugreifen. [Weitere Infos...] |
 | Workspace: Verbesserungen der [!UICONTROL Linienvisualisierung] | 17. Sept. 2020 | <ul><li>You can show or hide the X-axis and Y-axis of any [!UICONTROL Line] visualization. Dies kann besonders dann hilfreich sein, wenn Ihre [!UICONTROL Linienvisualisierungen] kompakt sind.</li><li>Sie können bei jeder [!UICONTROL Linienvisualisierung] eine Mindest- und Höchstwertebeschriftung darstellen, um rasch die Spitzen und Täler in einer Metrik hervorzuheben.</li><li>Sie können bei jeder [!UICONTROL Linienvisualisierung] verschiedene Regressions-Trend-Linien einblenden, um den Daten-Trend leichter erkennbar zu machen. Zu den Optionen gehören [!UICONTROL Linear], [!UICONTROL Logarithmisch], [!UICONTROL Exponentiell], [!UICONTROL Leistung] und [!UICONTROL Quadratisch].</li></ul> [Weitere Infos...](https://docs.adobe.com/content/help/de-DE/analytics-platform/using/cja-workspace/visualizations/line.html) |
 | Analysis Workspace Performance-Hilfeseite | 22. Oktober 2020 | Auf der Hilfeseite zur Leistung von Analysis Workspace werden die verschiedenen Faktoren, die die Projektleistung beeinflussen, sowie Links zu Optimierungstipps angezeigt. [Weitere Infos](https://docs.adobe.com/content/help/en/analytics/analyze/analysis-workspace/workspace-faq/optimizing-performance.html) |
