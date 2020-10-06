@@ -64,7 +64,7 @@ Aktuelle Versionsinformationen finden Sie unter [Systemstatus von Adobe – 21. 
 
 ## ![Verwaltung von](/assets/ec_appicon_24.png) Symbolen {#ecloud}
 
-Die früher als _Experience Cloud-Hauptdienste_ bezeichnete Dokumentation zu [Experience Cloud- und Verwaltungsdiensten](https://docs.adobe.com/content/help/de-DE/core-services/interface/experience-cloud.html) umfasst Kundenattribute, Audience Library ([!UICONTROL People] -Dienst)-Aktivierung, Benutzer- und Produktverwaltung sowie Experience Cloud-Cookies.
+Die früher als _Experience Cloud-Core-Services_ bezeichnete Dokumentation zu [Experience Cloud-Services und Administration](https://docs.adobe.com/content/help/de-DE/core-services/interface/experience-cloud.html) umfasst Kundenattribute, Audience Library ([!UICONTROL People] -Dienst)-Aktivierung, Benutzer- und Produktverwaltung sowie Experience Cloud-Cookies.
 
 Im September nicht aktualisiert.
 
