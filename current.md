@@ -5,9 +5,9 @@ doc-type: release notes
 last-update: October 2020
 author: mfrei
 translation-type: tm+mt
-source-git-commit: 70f1d8589fe94f37a3f9edc375f9efbf2b6d1c26
+source-git-commit: 1e425034bd7ac32833d74b826562f9761b2c05d5
 workflow-type: tm+mt
-source-wordcount: '6765'
+source-wordcount: '6775'
 ht-degree: 45%
 
 ---
@@ -64,7 +64,7 @@ Aktuelle Versionsinformationen finden Sie unter [Systemstatus von Adobe – 21. 
 
 ## ![Verwaltung von](/assets/ec_appicon_24.png) Symbolen {#ecloud}
 
-Die früher als _Experience Cloud-Core-Services_ bezeichnete Dokumentation zu [Experience Cloud-Services und Administration](https://docs.adobe.com/content/help/de-DE/core-services/interface/experience-cloud.html) umfasst Kundenattribute, Audience Library ([!UICONTROL People] -Dienst)-Aktivierung, Benutzer- und Produktverwaltung sowie Experience Cloud-Cookies.
+Die früher als _Experience Cloud-Hauptdienste_ bezeichnete Dokumentation zu [Experience Cloud- und Verwaltungsdiensten](https://docs.adobe.com/content/help/de-DE/core-services/interface/experience-cloud.html) umfasst Kundenattribute, Audience Library ([!UICONTROL People] -Dienst)-Aktivierung, Benutzer- und Produktverwaltung sowie Experience Cloud-Cookies.
 
 Im September nicht aktualisiert.
 
@@ -137,7 +137,7 @@ Releasedatum: **8. Oktober 2020**
 | Funktion | [Allgemeine Verfügbarkeit](https://docs.adobe.com/content/help/de-DE/analytics/landing/an-releases.html) – geplantes Datum | Beschreibung |
 | ----------- | ---------- | ----- |
 | Customer Journey Analytics Dokumentation | Oktober 2020 | Die Dokumentation des Customer Journey Analytics zieht nach Experience League. Im Oktober wechseln alle Artikel, Videos, Versionshinweise und Tutorials von ihrem aktuellen Speicherort `docs.adobe.com` zu `experienceleague.adobe.com`. Dieser Schritt stellt sicher, dass alle Lern-, Selbsthilfe-, Aktivierungs- und Community-Inhalte an einem Ort bereitgestellt werden. Wenn diese Änderung eintritt, müssen Sie nichts tun, da alle Links nach Experience League umgeleitet werden. Wir werden die Versionshinweise aktualisieren, sobald der Cutover beginnt. |
-| [!UICONTROL Arbeitsbereich]: 50.000 Artikel für eine einzelne Dimension herunterladen | 17. Sept. 2020 | Sie können 50.000 Elemente für eine Dimension in einer Freiformtabelle herunterladen, wobei Segmente und Filter angewendet werden. Auf diese Weise können Sie auf mehr als 400 Datenzeilen außerhalb von Analysis Workspace zugreifen. [Weitere Infos...] |
+| [!UICONTROL Arbeitsbereich]: 50.000 Artikel für eine einzelne Dimension herunterladen | 17. Sept. 2020 | Sie können 50.000 Elemente für eine Dimension in einer Freiformtabelle herunterladen, wobei Segmente und Filter angewendet werden. Auf diese Weise können Sie auf mehr als 400 Datenzeilen außerhalb von Analysis Workspace zugreifen. [Weitere Infos...](https://docs.adobe.com/content/help/en/analytics-platform/using/cja-workspace/curate-share/download-send.html) |
 | Workspace: Verbesserungen der [!UICONTROL Linienvisualisierung] | 17. Sept. 2020 | <ul><li>You can show or hide the X-axis and Y-axis of any [!UICONTROL Line] visualization. Dies kann besonders dann hilfreich sein, wenn Ihre [!UICONTROL Linienvisualisierungen] kompakt sind.</li><li>Sie können bei jeder [!UICONTROL Linienvisualisierung] eine Mindest- und Höchstwertebeschriftung darstellen, um rasch die Spitzen und Täler in einer Metrik hervorzuheben.</li><li>Sie können bei jeder [!UICONTROL Linienvisualisierung] verschiedene Regressions-Trend-Linien einblenden, um den Daten-Trend leichter erkennbar zu machen. Zu den Optionen gehören [!UICONTROL Linear], [!UICONTROL Logarithmisch], [!UICONTROL Exponentiell], [!UICONTROL Leistung] und [!UICONTROL Quadratisch].</li></ul> [Weitere Infos...](https://docs.adobe.com/content/help/de-DE/analytics-platform/using/cja-workspace/visualizations/line.html) |
 | Analysis Workspace Performance-Hilfeseite | 22. Oktober 2020 | Auf der Hilfeseite zur Leistung von Analysis Workspace werden die verschiedenen Faktoren, die die Projektleistung beeinflussen, sowie Links zu Optimierungstipps angezeigt. [Weitere Infos](https://docs.adobe.com/content/help/en/analytics/analyze/analysis-workspace/workspace-faq/optimizing-performance.html) |
 | [!UICONTROL Linienvisualisierung] : Option für durchschnittliche Trendlinien verschieben | 8. Oktober 2020 | Die Trendzeileneinstellungen für die Visualisierung von Linien wurden um den Verschiebungsdurchschnitt erweitert. Ein gleitender Durchschnitt berechnet den Mittelwert für einen bestimmten vorherigen Zeitraum und verwendet diesen als Trendlinienddatenpunkt und wechselt dann zum nächsten Zeitraum. [Weitere Infos](https://docs.adobe.com/content/help/de-DE/analytics/analyze/analysis-workspace/visualizations/line.html) |
