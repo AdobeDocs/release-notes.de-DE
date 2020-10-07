@@ -5,15 +5,15 @@ doc-type: release notes
 last-update: October 2020
 author: mfrei
 translation-type: tm+mt
-source-git-commit: 1e425034bd7ac32833d74b826562f9761b2c05d5
+source-git-commit: 0eba5dbf803e9eefd45065b942fe49258c4c1d32
 workflow-type: tm+mt
-source-wordcount: '6775'
+source-wordcount: '6846'
 ht-degree: 45%
 
 ---
 
 
-# Frühzugriff - Versionshinweise Adobe Experience Cloud - Oktober 2020
+# Frühzugriff - Adobe Experience Cloud-Versionshinweise - Oktober 2020
 
 ![Banner](/assets/experience-cloud-banner-3.png)
 
@@ -31,13 +31,13 @@ Auf dieser Seite sind neue Funktionen, Fehlerbehebungen und wichtige Hinweise in
 
 Die Veröffentlichungsdaten einzelner Produkte können variieren. Suchen Sie regelmäßig nach Updates.
 
-Letzte Aktualisierung: **2. Oktober 2020**
+Letzte Aktualisierung: **7. Oktober 2020**
 
 * [Systemstatus von Adobe](#status)
 * [Experience Cloud Services und Administration](#ecloud)
 * [Experience Platform](#platform)
 * [Journey Orchestration](#journey-orch)
-* [Analytics](#analytics) und [Customer Journey Analytics](#cust-journey) (Aktualisiert am 2. Oktober 2020)
+* [Analytics](#analytics) und [Customer Journey Analytics](#cust-journey) (Aktualisiert 7. Oktober 2020)
 * [Audience Manager](#aam)
 * [Experience Manager](#aem)
 * [Campaign](#ac)
@@ -64,7 +64,7 @@ Aktuelle Versionsinformationen finden Sie unter [Systemstatus von Adobe – 21. 
 
 ## ![Verwaltung von](/assets/ec_appicon_24.png) Symbolen {#ecloud}
 
-Die früher als _Experience Cloud-Hauptdienste_ bezeichnete Dokumentation zu [Experience Cloud- und Verwaltungsdiensten](https://docs.adobe.com/content/help/de-DE/core-services/interface/experience-cloud.html) umfasst Kundenattribute, Audience Library ([!UICONTROL People] -Dienst)-Aktivierung, Benutzer- und Produktverwaltung sowie Experience Cloud-Cookies.
+Die früher als _Experience Cloud-Core-Services_ bezeichnete Dokumentation zu [Experience Cloud-Services und Administration](https://docs.adobe.com/content/help/de-DE/core-services/interface/experience-cloud.html) umfasst Kundenattribute, Audience Library ([!UICONTROL People] -Dienst)-Aktivierung, Benutzer- und Produktverwaltung sowie Experience Cloud-Cookies.
 
 Im September nicht aktualisiert.
 
@@ -113,7 +113,7 @@ September - Siehe [Versionshinweise zur Journey Orchestration](https://docs.adob
 Releasedatum: **8. Oktober 2020**
 
 * [Neue Funktionen in Adobe Analytics](#aa-features)
-* [Neue Funktionen in Customer Journey Analytics](#cust-journey)
+* [Neue Funktionen in Customer Journey Analytics](#cust-journey) (Aktualisiert 7. Oktober 2020)
 * [Neue Funktionen in Media Analytics](#media-aa)
 * [Fehlerbehebungen in Adobe Analytics](#aa-fixes)
 * [Wichtige Hinweise für Analytics-Administratoren](#aa-notices)
@@ -142,6 +142,7 @@ Releasedatum: **8. Oktober 2020**
 | Analysis Workspace Performance-Hilfeseite | 22. Oktober 2020 | Auf der Hilfeseite zur Leistung von Analysis Workspace werden die verschiedenen Faktoren, die die Projektleistung beeinflussen, sowie Links zu Optimierungstipps angezeigt. [Weitere Infos](https://docs.adobe.com/content/help/en/analytics/analyze/analysis-workspace/workspace-faq/optimizing-performance.html) |
 | [!UICONTROL Linienvisualisierung] : Option für durchschnittliche Trendlinien verschieben | 8. Oktober 2020 | Die Trendzeileneinstellungen für die Visualisierung von Linien wurden um den Verschiebungsdurchschnitt erweitert. Ein gleitender Durchschnitt berechnet den Mittelwert für einen bestimmten vorherigen Zeitraum und verwendet diesen als Trendlinienddatenpunkt und wechselt dann zum nächsten Zeitraum. [Weitere Infos](https://docs.adobe.com/content/help/de-DE/analytics/analyze/analysis-workspace/visualizations/line.html) |
 | Einschränkungen bei der Aufstockung entfernen | 19.10.2020 | Zuvor konnten Sie beim Erstellen einer Verbindung maximal 2,5 Milliarden Zeilen aufstocken. Wir beseitigen die Begrenzung der Aufstockung und ermöglichen Ihnen die Aufstockung von bis zu 13 Monaten Daten, unabhängig von der Größe. |
+| Feldbasierte CJA-Stiftung | 30. Oktober 2020 | Die feldbasierte CJA-Heftung ermöglicht es Kunden, einen Adobe Analytics-Ereignis-Datensatz (oder einen anderen) im Adobe Experience Platform-Datensee von einem ID-Namensraum zum anderen erneut zu verschlüsseln. Dies bedeutet in der Regel, dass der Ereignis-Datensatz von einer Cookie-basierten ID in eine personenbasierte ID erneut kopiert wird. Auf diese Weise kann der neu zugewiesene Datensatz mit anderen personenbezogenen Daten in einer CJA-Verbindung kombiniert werden, wodurch eine geräteübergreifende/geräteübergreifende Analyse in Analysis Workspace möglich ist. |
 
 ### Neue Funktionen in [!UICONTROL Media Analytics] {#media-aa}
 
