@@ -8,7 +8,7 @@ translation-type: tm+mt
 source-git-commit: 40d088f169d1b0849a65ccfb42f3af8749005684
 workflow-type: tm+mt
 source-wordcount: '6879'
-ht-degree: 81%
+ht-degree: 92%
 
 ---
 
@@ -56,11 +56,11 @@ Benötigen Sie Hilfe? Besuchen Sie [Adobe Experience League](https://experiencel
 
 Im September nicht aktualisiert.
 
-Aktuelle Versionsinformationen finden Sie unter [Systemstatus von Adobe – 21. Mai 2020](https://docs.adobe.com/content/help/de-DE/release-notes/experience-cloud/previous/2020/05212020.translate.html#status).
+Aktuelle Versionshinweise finden Sie unter [Systemstatus von Adobe – 21. Mai 2020](https://docs.adobe.com/content/help/de-DE/release-notes/experience-cloud/previous/2020/05212020.translate.html#status).
 
-## ![Verwaltung von](/assets/ec_appicon_24.png) Symbolen {#ecloud}
+## ![Symbol für](/assets/ec_appicon_24.png) Experience Cloud Services und Administration {#ecloud}
 
-Die früher als _Experience Cloud-Core-Services_ bezeichnete Dokumentation zu [Experience Cloud-Services und Administration](https://docs.adobe.com/content/help/de-DE/core-services/interface/experience-cloud.html) umfasst Kundenattribute, Audience Library ([!UICONTROL People] -Dienst)-Aktivierung, Benutzer- und Produktverwaltung sowie Experience Cloud-Cookies.
+Die früher als _Experience Cloud Core Services_ bezeichnete Dokumentation zu [Experience Cloud Services und Administration](https://docs.adobe.com/content/help/de-DE/core-services/interface/experience-cloud.html) umfasst Kundenattribute, die Aktivierung der Zielgruppenbibliothek ([!UICONTROL People]-Dienst), Benutzer- und Produktverwaltung sowie Experience Cloud-Cookies.
 
 Im September nicht aktualisiert.
 
@@ -68,17 +68,17 @@ Aktuelle Versionsinformationen finden Sie unter [Gesammelte Versionshinweise zu 
 
 ## ![Symbol](/assets/experience_platform_appicon_24.png) Adobe Experience Platform {#platform}
 
-Release notes for the [!DNL Experience Platform].
+Versionshinweise für die [!DNL Experience Platform].
 
 Herausgegeben: **9. September 2020**
 
-Informationen zu Aktualisierungen von [Experience Platformen finden Sie in den Versionshinweisen](https://docs.adobe.com/content/help/de-DE/experience-platform/release-notes/latest.html#!end-user/markdown/release-notes/release-notes.md) zu folgenden Themen:
+Informationen zu Aktualisierungen in folgenden Bereichen finden Sie in den [Experience Platform-Versionshinweisen](https://docs.adobe.com/content/help/de-DE/experience-platform/release-notes/latest.html#!end-user/markdown/release-notes/release-notes.md):
 
 * Data Governance
 * Ziele
 * Observability Insights
 * Privacy Service
-* Echtzeit-Profil von Kunden
+* Echtzeit-Kundenprofil
 * Segmentation Service
 * Quellen
 
@@ -88,9 +88,9 @@ Neue Videos, Tutorials oder Kurse, die für Experience Platform und Services ver
 
 | Veröffentlicht | Name | Typ | Beschreibung |
 | -----------| ---------- | ---------- | ---------- |
-| 14. September 2020 | [Geschäftswert des Attribution AIS](https://docs.adobe.com/content/help/en/platform-learn/tutorials/intelligent-services/business-value-of-attribution-ai.html) | Video | [!UICONTROL Attribution AI]ist ein algorithmischer Zuordnungsdienst für mehrere Kanal, der den Einfluss und die inkrementelle Wirkung von Kundeninteraktionen auf bestimmte Ergebnisse berechnet. Dies ist ein Teil von [!UICONTROL Intelligent Services]. With [!UICONTROL Attribution AI], marketers can measure and optimize marketing and advertising spend by understanding the impact of every individual customer interaction across each phase of the customers’ journeys. |
-| 14. September 2020 | [Geschäftswert der Kunden-API](https://docs.adobe.com/content/help/en/platform-learn/tutorials/intelligent-services/business-value-of-customer-ai.html) | Video | In diesem Video wird gezeigt, wie die [!UICONTROL Kundentraining] -APIs die Profil mit AI-basierten Eigenschaften bereichert und die Segmentierung und das Targeting von Kunden stärkt. |
-| 14. September 2020 | [Geschäftswert der Plattform und des Magentos](https://docs.adobe.com/content/help/en/platform-learn/tutorials/experience-cloud/business-value-of-platform-and-magento.html) | Video | In diesem Video wird gezeigt, wie Adobe Experience Platform mit [!DNL Magento] Commerce genutzt werden kann, um eine einzige Ansicht von Kunden zu erstellen und Erlebnisse auf einem digitalen Schaufenster und über Kanal hinweg intelligent zu personalisieren. |
+| 14. September 2020 | [Geschäftlicher Nutzen von Attribution AI](https://docs.adobe.com/content/help/en/platform-learn/tutorials/intelligent-services/business-value-of-attribution-ai.html) | Video | [!UICONTROL Attribution AI], Teil von [!UICONTROL Intelligent Services], ist ein algorithmischer Attributionsdienst mit mehreren Kanälen, der den Einfluss und die inkrementelle Auswirkung von Kundeninteraktionen auf bestimmte Ergebnisse berechnet. Mit [!UICONTROL Attribution AI] können Marketing-Experten die Ausgaben für Marketing und Werbung messen und optimieren, indem sie die Auswirkungen einzelner Kundeninteraktionen in einzelnen Phasen der Customer Journey untersuchen. |
+| 14. September 2020 | [Geschäftlicher Nutzen von Customer AI](https://docs.adobe.com/content/help/en/platform-learn/tutorials/intelligent-services/business-value-of-customer-ai.html) | Video | In diesem Video wird gezeigt, wie [!UICONTROL Customer AI] Kundenprofile mit KI-basierten Eigenschaften anreichert sowie bei der Kundensegmentierung und Zielgruppenbestimmung hilft. |
+| 14. September 2020 | [Geschäftlicher Nutzen von Platform und Magento](https://docs.adobe.com/content/help/en/platform-learn/tutorials/experience-cloud/business-value-of-platform-and-magento.html) | Video | In diesem Video erfahren Sie, wie Sie mit Adobe Experience Platform und [!DNL Magento] Commerce eine zentrale Ansicht von Kunden erstellen und Erlebnisse in einem digitalen Storefront sowie kanalübergreifend intelligent personalisieren können. |
 
 ## ![Symbol](/assets/experience_platform_appicon_24.png) Journey Orchestration {#journey-orch}
 
@@ -98,7 +98,7 @@ Mithilfe der Adobe Experience Platform können Sie individuelle Customer Journey
 
 ### Neue Produktversionen
 
-September - Siehe [Versionshinweise zur Journey Orchestration](https://docs.adobe.com/content/help/en/journeys/using/release-notes/release-notes.html#september-release).
+September-Version – Siehe [Versionshinweise für Journey Orchestration](https://docs.adobe.com/content/help/de-DE/journeys/using/release-notes/release-notes.html#september-release).
 
 ### Zusätzliche Ressourcen für Journey Orchestration
 
@@ -109,7 +109,7 @@ September - Siehe [Versionshinweise zur Journey Orchestration](https://docs.adob
 Releasedatum: Ende **8. Oktober 2020**
 
 * [Neue Funktionen in Adobe Analytics](#aa-features)
-* [Neue Funktionen in Customer Journey Analytics](#cust-journey) (Aktualisiert 7. Oktober 2020)
+* [Neue Funktionen in Customer Journey Analytics](#cust-journey) (Aktualisiert am 7. Oktober 2020)
 * [Neue Funktionen in Media Analytics](#media-aa)
 * [Fehlerbehebungen in Adobe Analytics](#aa-fixes)
 * [Wichtige Hinweise für Analytics-Administratoren](#aa-notices)
@@ -121,9 +121,9 @@ Releasedatum: Ende **8. Oktober 2020**
 | Funktion | [Allgemeine Verfügbarkeit](https://docs.adobe.com/content/help/de-DE/analytics/landing/an-releases.html) – geplantes Datum | Beschreibung |
 | ----------- | ---------- | ------- |
 | Adobe Analytics-Handbuch | Oktober 2020 | Adobe Analytics-Dokumentation zieht nach Experience League. Im Oktober wechseln alle Artikel, Videos, Versionshinweise und Tutorials von ihrem aktuellen Speicherort `docs.adobe.com` zu `experienceleague.adobe.com`. Dieser Schritt stellt sicher, dass alle Lern-, Selbsthilfe-, Aktivierungs- und Community-Inhalte an einem Ort bereitgestellt werden. Wenn diese Änderung eintritt, müssen Sie nichts tun, da alle Links nach Experience League umgeleitet werden. Wir werden die Versionshinweise aktualisieren, sobald der Cutover beginnt. |
-| [!UICONTROL Workspace]: Download von 50.000 Objekten für eine einzige Dimension | 17. Sept. 2020 | Sie können 50.000 Elemente für eine Dimension in einer Freiformtabelle herunterladen, wobei Segmente und Filter angewendet werden. Auf diese Weise können Sie auf mehr als 400 Datenzeilen außerhalb von Analysis Workspace zugreifen. [Weitere Infos...](https://docs.adobe.com/content/help/en/analytics/analyze/analysis-workspace/curate-share/download-send.html#download-items) |
+| [!UICONTROL Workspace]: Download von 50.000 Objekten für eine einzige Dimension | 17. Sept. 2020 | Sie können 50.000 Elemente für eine Dimension in einer Freiformtabelle herunterladen, wobei Segmente und Filter angewendet werden. Auf diese Weise können Sie auf mehr als 400 Datenzeilen außerhalb von Analysis Workspace zugreifen. [Weitere Infos...](https://docs.adobe.com/content/help/de-DE/analytics/analyze/analysis-workspace/curate-share/download-send.html#download-items) |
 | [!UICONTROL Workspace]: Verbesserungen der [!UICONTROL Linienvisualisierung] | 17. Sept. 2020 | <ul><li>Sie können die X- und Y-Achse jeder [!UICONTROL Linienvisualisierung] ein- oder ausblenden. Dies kann besonders dann hilfreich sein, wenn Ihre [!UICONTROL Linienvisualisierungen] kompakt sind.</li><li>Sie können bei jeder [!UICONTROL Linienvisualisierung] eine Mindest- und Höchstwertebeschriftung darstellen, um rasch die Spitzen und Täler in einer Metrik hervorzuheben.</li><li>Sie können bei jeder [!UICONTROL Linienvisualisierung] verschiedene Regressions-Trend-Linien einblenden, um den Daten-Trend leichter erkennbar zu machen. Zu den Optionen gehören [!UICONTROL Linear], [!UICONTROL Logarithmisch], [!UICONTROL Exponentiell], [!UICONTROL Leistung] und [!UICONTROL Quadratisch].</li></ul> [Weitere Infos...](https://docs.adobe.com/content/help/de-DE/analytics/analyze/analysis-workspace/visualizations/line.html) |
-| [!UICONTROL Workspace]: Hilfeseite zur Leistung | 22. Oktober 2020 | Auf der Hilfeseite zur Leistung von Analysis Workspace werden die verschiedenen Faktoren, die die Projektleistung beeinflussen, sowie Links zu Optimierungs-Tipps angezeigt. [Weitere Infos](https://docs.adobe.com/content/help/en/analytics/analyze/analysis-workspace/workspace-faq/optimizing-performance.html) |
+| [!UICONTROL Workspace]: Hilfeseite zur Leistung | 22. Oktober 2020 | Auf der Hilfeseite zur Leistung von Analysis Workspace werden die verschiedenen Faktoren, die die Projektleistung beeinflussen, sowie Links zu Optimierungs-Tipps angezeigt. [Weitere Infos](https://docs.adobe.com/content/help/de-DE/analytics/analyze/analysis-workspace/workspace-faq/optimizing-performance.html) |
 | [!UICONTROL Workspace] [!UICONTROL Linienvisualisierung]: Option für anpassbare Durchschnittswerte | 8. Oktober 2020 | Die Option für anpassbare Durchschnittswerte wurde den Durchschnittswerteinstellungen der Linienvisualisierung hinzugefügt. Ein anpassbarer Durchschnittswert, der auch als rollierender Durchschnitt bezeichnet wird, nutzt eine bestimmte Anzahl von Datenpunkten (bestimmt durch Auswahl eines [!UICONTROL Zeitraums]), errechnet einen Durchschnittswert und verwendet den Durchschnittswert als Punkt auf der Linie. [Weitere Infos](https://docs.adobe.com/content/help/de-DE/analytics/analyze/analysis-workspace/visualizations/line.html) |
 | [!UICONTROL Datenreparatur]-API | 8. Oktober 2020 | Die [!UICONTROL Datenreparatur]-API ist ein Tool zum Löschen von Daten aus Analytics-Report Suites. Die Oktober-Version bietet die Möglichkeit, bestimmte eVars-, Props- und Activity Map-Variablen für einen bestimmten Datumsbereich zu löschen. Weitere Funktionen werden demnächst verfügbar sein. Bei Verwendung der Datenreparatur-API werden vorhandene Adobe Analytics-Daten endgültig gelöscht. Wir empfehlen eine sorgfältige Ausführung der Reparatur, um das Risiko einer versehentlichen Löschung zu minimieren. Für den Zugriff auf die Datenreparatur-API ist ein Vertrag erforderlich. Wenden Sie sich diesbezüglich an Ihren Kundenbetreuer. [Weitere Infos](https://www.adobe.io/apis/experiencecloud/analytics/docs.html#!AdobeDocs/analytics-2.0-apis/master/data-repair.md) |
 | Verbesserungen bei der Benutzeroberfläche von Analytics-Dashboards | 23. Oktober 2020 | Beim Erstellen einer mobilen Scorecard in Workspace stimmt der Stil der Scorecard jetzt mit der App überein. |
@@ -135,7 +135,7 @@ Releasedatum: Ende **8. Oktober 2020**
 | Customer Journey Analytics Dokumentation | Oktober 2020 | Die Dokumentation des Customer Journey Analytics zieht nach Experience League. Im Oktober wechseln alle Artikel, Videos, Versionshinweise und Tutorials von ihrem aktuellen Speicherort `docs.adobe.com` zu `experienceleague.adobe.com`. Dieser Schritt stellt sicher, dass alle Lern-, Selbsthilfe-, Aktivierungs- und Community-Inhalte an einem Ort bereitgestellt werden. Wenn diese Änderung eintritt, müssen Sie nichts tun, da alle Links nach Experience League umgeleitet werden. Wir werden die Versionshinweise aktualisieren, sobald der Cutover beginnt. |
 | [!UICONTROL Workspace]: Download von 50.000 Objekten für eine einzige Dimension | 17. Sept. 2020 | Sie können 50.000 Elemente für eine Dimension in einer Freiformtabelle herunterladen, wobei Segmente und Filter angewendet werden. Auf diese Weise können Sie auf mehr als 400 Datenzeilen außerhalb von Analysis Workspace zugreifen. [Weitere Infos...](https://docs.adobe.com/content/help/en/analytics-platform/using/cja-workspace/curate-share/download-send.html) |
 | [!UICONTROL Workspace]: Verbesserungen der [!UICONTROL Linienvisualisierung] | 17. Sept. 2020 | <ul><li>Sie können die X- und Y-Achse jeder [!UICONTROL Linienvisualisierung] ein- oder ausblenden. Dies kann besonders dann hilfreich sein, wenn Ihre [!UICONTROL Linienvisualisierungen] kompakt sind.</li><li>Sie können bei jeder [!UICONTROL Linienvisualisierung] eine Mindest- und Höchstwertebeschriftung darstellen, um rasch die Spitzen und Täler in einer Metrik hervorzuheben.</li><li>Sie können bei jeder [!UICONTROL Linienvisualisierung] verschiedene Regressions-Trend-Linien einblenden, um den Daten-Trend leichter erkennbar zu machen. Zu den Optionen gehören [!UICONTROL Linear], [!UICONTROL Logarithmisch], [!UICONTROL Exponentiell], [!UICONTROL Leistung] und [!UICONTROL Quadratisch].</li></ul> [Weitere Infos...](https://docs.adobe.com/content/help/de-DE/analytics-platform/using/cja-workspace/visualizations/line.html) |
-| Hilfeseite zur Leistung von Analysis Workspace | 22. Oktober 2020 | Auf der Hilfeseite zur Leistung von Analysis Workspace werden die verschiedenen Faktoren, die die Projektleistung beeinflussen, sowie Links zu Optimierungs-Tipps angezeigt. [Weitere Infos](https://docs.adobe.com/content/help/en/analytics/analyze/analysis-workspace/workspace-faq/optimizing-performance.html) |
+| Hilfeseite zur Leistung von Analysis Workspace | 22. Oktober 2020 | Auf der Hilfeseite zur Leistung von Analysis Workspace werden die verschiedenen Faktoren, die die Projektleistung beeinflussen, sowie Links zu Optimierungs-Tipps angezeigt. [Weitere Infos](https://docs.adobe.com/content/help/de-DE/analytics/analyze/analysis-workspace/workspace-faq/optimizing-performance.html) |
 | [!UICONTROL Linienvisualisierung]: Option für Trend-Linien mit anpassbaren Durchschnittswerten | 8. Oktober 2020 | Die Option für anpassbare Durchschnittswerte wurde den Durchschnittswerteinstellungen der Linienvisualisierung hinzugefügt. Ein anpassbarer Durchschnittswert berechnet den Mittelwert für einen bestimmten vorherigen Zeitraum und verwendet diesen als Trend-Linien-Datenpunkt. Anschließend erfolgt ein Wechsel zum nächsten Zeitraum. [Weitere Infos](https://docs.adobe.com/content/help/de-DE/analytics/analyze/analysis-workspace/visualizations/line.html) |
 | Einschränkung bei der Aufstockung entfernt | 19. Oktober 2020 | Zuvor konnten Sie beim Erstellen einer Verbindung maximal 2,5 Milliarden Zeilen aufstocken. Wir beseitigen die Einschränkung bei der Aufstockung und erlauben Ihnen eine Aufstockung von bis zu 13 Monaten Daten, unabhängig von der Größe. |
 | Feldbasierte CJA-Stiftung | 30. Oktober 2020 | Die feldbasierte CJA-Heftung ermöglicht es Kunden, einen Adobe Analytics-Ereignis-Datensatz (oder einen anderen) im Adobe Experience Platform-Datensee von einem ID-Namensraum zum anderen erneut zu verschlüsseln. Dies bedeutet in der Regel, dass der Ereignis-Datensatz von einer Cookie-basierten ID in eine personenbasierte ID erneut kopiert wird. Auf diese Weise kann der neu zugewiesene Datensatz mit anderen personenbezogenen Daten in einer CJA-Verbindung kombiniert werden, wodurch eine geräteübergreifende/geräteübergreifende Analyse in Analysis Workspace möglich ist. |
@@ -211,12 +211,12 @@ Releasedatum: Ende **8. Oktober 2020**
 * Es wurde ein Problem mit der Audience Manager-REST-API behoben, bei dem der Eigenschaftsendpunkt beim Filtern von Eigenschaften in der Anfrage keine geräteübergreifenden Metriken zurückgab. (AAM-55878)
 * Es wurde ein Problem in People-basierten Zielen behoben, bei dem für Facebook-Integrationen Erinnerungs-E-Mails zum Ablauf von Zugriffs-Token nicht an die richtigen Empfänger gesendet wurden. (AAM-56215)
 * Es wurde ein Problem mit Google-Zielen behoben, bei dem Kunden beim Zuordnen von Segmenten zu ihren Google-Zielen eine Fehlermeldung vom Typ `RateExceededError: Rate_Exceeded` erhielten. (AAM-55998)
-* Es wurde ein Problem für Datenanbieter behoben, denen keine [Organisations-IDs](https://docs.adobe.com/content/help/en/core-services/interface/manage-users-and-products/organizations.html#concept_384D169B0B724B799D573B8ECB5C39BF) zugewiesen waren; es hatte dazu geführt, dass die Seite mit der Liste der Datenquellen in einem kontinuierlichen Ladezustand blockiert wurde. (AAM-56410)
+* Es wurde ein Problem für Datenanbieter behoben, denen keine [Organisations-IDs](https://docs.adobe.com/content/help/de-DE/core-services/interface/manage-users-and-products/organizations.html#concept_384D169B0B724B799D573B8ECB5C39BF) zugewiesen waren; es hatte dazu geführt, dass die Seite mit der Liste der Datenquellen in einem kontinuierlichen Ladezustand blockiert wurde. (AAM-56410)
 * Mehrere Verbesserungen hinsichtlich der Barrierefreiheit in der gesamten Benutzeroberfläche. (AAM-49077, AAM-49399, AAM-55991, AAM-55992)
 
 ### Aktualisierungen der Audience Manager-Dokumentation {#docs-aam}
 
-Die [Dokumentation zur Barrierefreiheit](https://docs.adobe.com/content/help/en/audience-manager/user-guide/overview/accessibility-in-aam.html) steht jetzt für Audience Manager zur Verfügung.
+Die [Dokumentation zur Barrierefreiheit](https://docs.adobe.com/content/help/de-DE/audience-manager/user-guide/overview/accessibility-in-aam.html) steht jetzt für Audience Manager zur Verfügung.
 
 ### Audience Manager-Kurse und -Tutorials {#tutorials-aam}
 
@@ -242,13 +242,13 @@ Neue Funktionen, Fehlerbehebungen und Aktualisierungen in Adobe Experience Manag
    Neuerungen bei AEM as a Cloud Service
 
    * **Adobe Experience Manager Sites as a Cloud Service**
-      * Das JavaScript-SDK für den Single Page Application (SPA)-Editor ist [jetzt Open Source-basiert](https://docs.adobe.com/content/help/en/experience-manager-cloud-service/implementing/headless/spa/reference-materials.html).
+      * Das JavaScript-SDK für den Single Page Application (SPA)-Editor ist [jetzt Open Source-basiert](https://docs.adobe.com/content/help/de-DE/experience-manager-cloud-service/implementing/headless/spa/reference-materials.html).
    * **Adobe Experience Manager Assets as a Cloud Service**
 
-      * Bilddateien mit Wasserzeichen werden für Ausgabedarstellungen unterstützt, die mit Asset-Microservices generiert wurden. Sie lassen sich als Verarbeitungsprofil konfigurieren und können eine PNG-Datei als Wasserzeichen nutzen. Siehe [Kennzeichnung Ihrer Assets mit Wasserzeichen](https://docs.adobe.com/content/help/en/experience-manager-cloud-service/assets/manage/watermark-assets.html).
+      * Bilddateien mit Wasserzeichen werden für Ausgabedarstellungen unterstützt, die mit Asset-Microservices generiert wurden. Sie lassen sich als Verarbeitungsprofil konfigurieren und können eine PNG-Datei als Wasserzeichen nutzen. Siehe [Kennzeichnung Ihrer Assets mit Wasserzeichen](https://docs.adobe.com/content/help/de-DE/experience-manager-cloud-service/assets/manage/watermark-assets.html).
       * Verbesserungen bei Dynamic Media:
-         * Selektive Veröffentlichung – Marketing-Teams können nun auf [!UICONTROL Dynamic Media]-Bilder mit intelligenter Zuschneidung sowie dynamische Ausgabedarstellungen zugreifen, die mit Dynamic Media synchronisiert werden, um Werbematerialien zu erstellen, ohne die Assets für den weltweiten Versand in Dynamic Media veröffentlichen zu müssen. Veröffentlichungen in Experience Manager und [!UICONTROL Dynamic Media] sind nun voneinander getrennt und können separat erfolgen. Siehe [Selektive Veröffentlichung](https://docs.adobe.com/content/help/en/experience-manager-cloud-service/assets/dynamicmedia/selective-publishing.html).
-         * Passwortzurücksetzung: Administratoren können das [!UICONTROL Dynamic Media] Cloud Service-Passwort nun zurücksetzen, das bei der Bereitstellung empfangen wird. Das Zurücksetzen kann in der Benutzeroberfläche von Experience Manager erfolgen, ohne dass die [!UICONTROL Dynamic Media] Classic Desktop-App verwendet werden muss. Siehe [Ändern des Passworts für Dynamic Media](https://docs.adobe.com/content/help/en/experience-manager-cloud-service/assets/dynamicmedia/config-dm.html#change-dm-password).
+         * Selektive Veröffentlichung – Marketing-Teams können nun auf [!UICONTROL Dynamic Media]-Bilder mit intelligenter Zuschneidung sowie dynamische Ausgabedarstellungen zugreifen, die mit Dynamic Media synchronisiert werden, um Werbematerialien zu erstellen, ohne die Assets für den weltweiten Versand in Dynamic Media veröffentlichen zu müssen. Veröffentlichungen in Experience Manager und [!UICONTROL Dynamic Media] sind nun voneinander getrennt und können separat erfolgen. Siehe [Selektive Veröffentlichung](https://docs.adobe.com/content/help/de-DE/experience-manager-cloud-service/assets/dynamicmedia/selective-publishing.html).
+         * Passwortzurücksetzung: Administratoren können das [!UICONTROL Dynamic Media] Cloud Service-Passwort nun zurücksetzen, das bei der Bereitstellung empfangen wird. Das Zurücksetzen kann in der Benutzeroberfläche von Experience Manager erfolgen, ohne dass die [!UICONTROL Dynamic Media] Classic Desktop-App verwendet werden muss. Siehe [Ändern des Passworts für Dynamic Media](https://docs.adobe.com/content/help/de-DE/experience-manager-cloud-service/assets/dynamicmedia/config-dm.html#change-dm-password).
       * Weiterführende Informationen zu den folgenden Verbesserungen finden Sie unter [Neuerungen im Brand Portal](https://docs.adobe.com/content/help/de-DE/experience-manager-brand-portal/using/introduction/whats-new.html).
          * Verbesserte PDF-Vorschau bei Adobe Document Cloud View SDK-Integration.
          * Funktion für Downloads mit einem Klick.
@@ -299,21 +299,21 @@ Die Rich Text Editor Dokumentation wird aktualisiert, um alle unterstützten Pro
 
 * Es stehen neue Hilfeinhalte zur [Barrierefreiheit](https://docs.adobe.com/content/help/en/experience-manager-cloud-service/assets/accessibility.html) von AEM Assets für alle Benutzer zur Verfügung.
 
-* Der **[Anzeigemodusparameter](https://docs.adobe.com/content/help/en/experience-manager-65/assets/using/search-assets.html#assetpicker)** wurde der Asset-Auswahl hinzugefügt, um die Asset-Auswahl im Suchmodus zu öffnen. Um die Asset-Auswahl im Suchmodus zu öffnen und mit `assettype` und `mimetype`zu verwenden, muss der Benutzer den `viewmode=search`-Parameter an die URL `https://[aem-server]:[port]/aem/assetpicker.html` anhängen. Beispiel: `https://[aem-server]:[port]/aem/assetpicker.html?viewmode=search&assettype=images`.
+* Der **[Anzeigemodusparameter](https://docs.adobe.com/content/help/de-DE/experience-manager-65/assets/using/search-assets.html#assetpicker)** wurde der Asset-Auswahl hinzugefügt, um die Asset-Auswahl im Suchmodus zu öffnen. Um die Asset-Auswahl im Suchmodus zu öffnen und mit `assettype` und `mimetype`zu verwenden, muss der Benutzer den `viewmode=search`-Parameter an die URL `https://[aem-server]:[port]/aem/assetpicker.html` anhängen. Beispiel: `https://[aem-server]:[port]/aem/assetpicker.html?viewmode=search&assettype=images`.
 
-* Die zugehörigen Benutzergruppen des privaten Ordners werden beim [Löschen des privaten Ordners](https://docs.adobe.com/content/help/en/experience-manager-65/assets/managing/private-folder.html#delete-private-folder) entfernt. Vorhandene redundante, nicht verwendete und automatisch generierte Benutzergruppen können mithilfe der sauberen Methode in JMX aus dem Repository bereinigt werden.
+* Die zugehörigen Benutzergruppen des privaten Ordners werden beim [Löschen des privaten Ordners](https://docs.adobe.com/content/help/de-DE/experience-manager-65/assets/managing/private-folder.html#delete-private-folder) entfernt. Vorhandene redundante, nicht verwendete und automatisch generierte Benutzergruppen können mithilfe der sauberen Methode in JMX aus dem Repository bereinigt werden.
 
-* Das Problem mit der Anmeldung bei der Desktop-App in [Service Pack 6.5.5.0](https://docs.adobe.com/content/help/en/experience-manager-65/release-notes/service-pack/previous-hotfixes-featurepacks.html#assets-6550) wurde mit der Desktop-App-Version 2.0.3.2 behoben.
+* Das Problem mit der Anmeldung bei der Desktop-App in [Service Pack 6.5.5.0](https://docs.adobe.com/content/help/de-DE/experience-manager-65/release-notes/service-pack/previous-hotfixes-featurepacks.html#assets-6550) wurde mit der Desktop-App-Version 2.0.3.2 behoben.
 
-* Wenn Benutzer [Apache Jackrabbit Oak TokenConfiguration](https://helpx.adobe.com/experience-manager/kb/How-to-set-token-session-expiration-AEM.html) geändert haben, um die Timeout-Konfiguration auf eine kürzere Zeit festzulegen, als für das Hochladen eines Assets erforderlich ist, kann es beim Benutzer zu einem Sitzungs-Timeout kommen. Daher müssen Benutzer die Einstellungen für `chunkUploadMinFileSize` und `chunksize` ändern, damit die Sitzung von jeder Chunk-Anfrage aktualisiert wird. Weitere Informationen hierzu finden Sie unter [Hochladen von Assets](https://docs.adobe.com/content/help/en/experience-manager-65/assets/managing/managing-assets-touch-ui.html#uploading-assets).
+* Wenn Benutzer [Apache Jackrabbit Oak TokenConfiguration](https://helpx.adobe.com/de/experience-manager/kb/How-to-set-token-session-expiration-AEM.html) geändert haben, um die Timeout-Konfiguration auf eine kürzere Zeit festzulegen, als für das Hochladen eines Assets erforderlich ist, kann es beim Benutzer zu einem Sitzungs-Timeout kommen. Daher müssen Benutzer die Einstellungen für `chunkUploadMinFileSize` und `chunksize` ändern, damit die Sitzung von jeder Chunk-Anfrage aktualisiert wird. Weitere Informationen hierzu finden Sie unter [Hochladen von Assets](https://docs.adobe.com/content/help/de-DE/experience-manager-65/assets/managing/managing-assets-touch-ui.html#uploading-assets).
 
-* Außerdem können Assets mithilfe des Drag-Verfahrens [in gleichrangige Ordner](https://docs.adobe.com/content/help/en/experience-manager-65/assets/managing/managing-assets-touch-ui.html#moving-or-renaming-assets) verschoben werden, mit Ausnahme des Vorgangs [!UICONTROL Verschieben (m)], bei dem der Assistent zum [!UICONTROL Verschieben von Assets] geöffnet wird.
+* Außerdem können Assets mithilfe des Drag-Verfahrens [in gleichrangige Ordner](https://docs.adobe.com/content/help/de-DE/experience-manager-65/assets/managing/managing-assets-touch-ui.html#moving-or-renaming-assets) verschoben werden, mit Ausnahme des Vorgangs [!UICONTROL Verschieben (m)], bei dem der Assistent zum [!UICONTROL Verschieben von Assets] geöffnet wird.
 
 * Verwenden Sie für Assets Insights [Adobe Launch](https://docs.adobe.com/content/help/en/experience-manager-learn/assets/advanced/asset-insights-launch-tutorial.html). [Die DTM-Integration](https://docs.adobe.com/content/help/en/experience-manager-65/assets/managing/touch-ui-using-dtm-for-asset-insights.html) wird als veraltete Methode in den Dokumenten aufgerufen.
 
 **[!DNL Adobe Experience Manager] Desktop-App**
 
-* Users logging in to desktop app after logging out or logging in for the first time should provide their [!DNL Experience Manager] server URL in the format `https://[aem-server-url]:[port]/` and then select [!UICONTROL Connect] option, to avoid the error &quot;The application encountered an unknown error&quot;. Weiterführende Informationen finden Sie unter [Verwenden der Adobe Experience Manager-Desktop-App](https://docs.adobe.com/content/help/en/experience-manager-desktop-app/using/using.html).
+* Users logging in to desktop app after logging out or logging in for the first time should provide their [!DNL Experience Manager] server URL in the format `https://[aem-server-url]:[port]/` and then select [!UICONTROL Connect] option, to avoid the error &quot;The application encountered an unknown error&quot;. Weiterführende Informationen finden Sie unter [Verwenden der Adobe Experience Manager-Desktop-App](https://docs.adobe.com/content/help/de-DE/experience-manager-desktop-app/using/using.html).
 
 ### Community
 
@@ -353,7 +353,7 @@ Nachfolgend sind die im vergangenen Monat neu veröffentlichten Videos, Tutorial
 | 21. September 2020 | [Erweiterbarkeit von Asset Compute-Microservices](https://docs.adobe.com/content/help/en/experience-manager-learn/cloud-service/asset-compute/overview.html) | Video | Tutorial, das durch die Erstellung eines benutzerdefinierten Asset-Microservice-Sekundärs für AEM as a Cloud Service führt. |
 | 21. September 2020 | [Erweiterbarkeit von Asset Compute-Microservices](https://docs.adobe.com/content/help/en/experience-manager-learn/cloud-service/asset-compute/overview.html) | Video | Asset Compute-Microservices von AEM as a Cloud Service unterstützen die Entwicklung und Bereitstellung von benutzerdefinierten Sekundären, die zum Lesen und Bearbeiten von Binärdaten von in AEM gespeicherten Assets verwendet werden, um meist benutzerdefinierte Asset-Ausgabedarstellungen zu erstellen. |
 | 23. September 2020 | [Erfassen von Seitendaten mit Adobe Analytics](https://docs.adobe.com/content/help/en/experience-manager-learn/sites/integrations/analytics/collect-data-analytics.html) | Artikel | Erfahren Sie, wie Sie die integrierten Funktionen der Adobe Client-Datenschicht mit den AEM-Kernkomponenten verwenden können, um Daten zu einer Seite in Adobe Experience Manager Sites zu erfassen. |
-| 8. September 2020 | [Stilbezogene AEM CIF-Kernkomponenten](https://docs.adobe.com/content/help/en/experience-manager-cloud-service/commerce/customize/style-cif-component.html) | Artikel | Das CIF Venia Projekt ist eine Referenz-Code-Basis für die Verwendung von CIF-Kernkomponenten. In diesem Tutorial werden Sie das Venia-Referenzprojekt untersuchen und erfahren, wie von AEM CIF-Kernkomponenten verwendetes CSS und JavaScript strukturiert sind. Außerdem erstellen Sie mit CSS einen neuen Stil, um den Standardstil der Product Teaser-Komponente zu aktualisieren. |
+| 8. September 2020 | [Stilbezogene AEM CIF-Kernkomponenten](https://docs.adobe.com/content/help/de-DE/experience-manager-cloud-service/commerce/customize/style-cif-component.html) | Artikel | Das CIF Venia Projekt ist eine Referenz-Code-Basis für die Verwendung von CIF-Kernkomponenten. In diesem Tutorial werden Sie das Venia-Referenzprojekt untersuchen und erfahren, wie von AEM CIF-Kernkomponenten verwendetes CSS und JavaScript strukturiert sind. Außerdem erstellen Sie mit CSS einen neuen Stil, um den Standardstil der Product Teaser-Komponente zu aktualisieren. |
 | 11. September 2020 | [AEM-Magento-Integration mithilfe des Commerce Integration Framework](https://www.adobe.io/apis/experiencecloud/commerce-integration-framework/getting-started.html) | Video | Dieses Video führt Sie durch die Einrichtung der Integration zwischen AEM und Magento für AEM On-Premise und AEM Managed Services. |
 
 ### Versionsinformationen zu Experience Manager
@@ -399,7 +399,7 @@ Versionsinformationen zu Campaign Classic, Campaign Standard und Control Panel.
 
 #### Campaign Standard
 
-* Version 20.4 – [Mehr lesen](https://docs.adobe.com/content/help/en/campaign-standard/using/release-notes/release-notes.html#release-20-4---october-2020)
+* Version 20.4 – [Mehr lesen](https://docs.adobe.com/content/help/de-DE/campaign-standard/using/release-notes/release-notes.html#release-20-4---october-2020)
 
 ### Neue Campaign-Kurse und -Tutorials
 
@@ -410,9 +410,9 @@ Nachfolgend sind die im vergangenen Monat neu veröffentlichten Videos, Tutorial
 | 22. September 2020 | [Journey AI – Prädiktive Optimierung der Versandzeit – Video](https://docs.adobe.com/content/help/de-DE/campaign-standard-learn/tutorials/communication-channels/email/journey-ai/predictive-send-time-optimization.html) | Campaign Standard | Erfahren Sie, welche Workflows zum Synchronisieren von Daten zwischen Adobe Campaign und dem Journey AI-Modell erforderlich sind. Lernen Sie, wie Sie Werte für Sendezeiten auf der Ebene einzelner Profile erstellen und E-Mail-Sendungen mit einer Versandzeitformel ausführen können. |
 | 22. September 2020 | [Journey AI – Prädiktive Interaktionsbewertung – Video](https://docs.adobe.com/content/help/de-DE/campaign-standard-learn/tutorials/communication-channels/email/journey-ai/predictive-engagement-scoring.html) | Campaign Standard | Erfahren Sie, wie Sie Interaktionsbewertungen auf der Ebene einzelner Profile anzeigen, Bewertungen zum Targeting interagierender Benutzer verwenden und ermüdete Benutzer unterdrücken sowie Typologieregeln zur Verwaltung der Kundenermüdung erstellen. |
 | 22. September 2020 | [Hinzufügen einer Kontrollgruppe zu einem Versand - Video](https://docs.adobe.com/content/help/de-DE/campaign-standard-learn/tutorials/communication-channels/email/control-groups.html) | Campaign Standard | Erfahren Sie, wie Sie für Ihren Versand eine Kontrollgruppe definieren und die der Kontrollgruppe zugewiesenen Profile extrahieren können, nachdem der Versand gesendet wurde. |
-| 11. September 2020 | [Zuweisen von Subdomains](https://docs.adobe.com/content/help/en/campaign-classic-learn/tutorials/administrating/control-panel-acc/subdomain-delegation.html) | Campaign Classic | Über das Adobe Campaign Control Panel können Sie Adobe Campaign eine Subdomain vollständig zuweisen. |
-| 3. September 2020 | [Hinzufügen von IP-Adressen zu Zulassungslisten](https://docs.adobe.com/content/help/en/campaign-classic-learn/tutorials/administrating/control-panel-acc/ip-allow-listing.html) | Campaign Classic | Im Control Panel können Sie neue Verbindungen zu Ihren Instanzen einrichten, indem Sie IP-Adressbereiche auf die Zulassungsliste setzen. Standardmäßig kann auf eine Adobe Campaign Classic-Instanz nicht über verschiedene IP-Adressen zugegriffen werden. |
-| 3. September 2020 | [Control Panel – Hinzufügen von URL-Berechtigungen](https://docs.adobe.com/content/help/en/campaign-learn/campaign-classic-tutorials/administrating/control-panel-acc/adding-url-permissions.html) | Campaign Classic | Im Control Panel können Sie neue Verbindungen zu Ihren Instanzen einrichten, indem Sie IP-Adressbereiche auf die Zulassungsliste setzen. Standardmäßig kann auf eine Adobe Campaign Classic-Instanz nicht über verschiedene IP-Adressen zugegriffen werden. |
+| 11. September 2020 | [Zuweisen von Subdomains](https://docs.adobe.com/content/help/de-DE/campaign-classic-learn/tutorials/administrating/control-panel-acc/subdomain-delegation.html) | Campaign Classic | Über das Adobe Campaign Control Panel können Sie Adobe Campaign eine Subdomain vollständig zuweisen. |
+| 3. September 2020 | [Hinzufügen von IP-Adressen zu Zulassungslisten](https://docs.adobe.com/content/help/de-DE/campaign-classic-learn/tutorials/administrating/control-panel-acc/ip-allow-listing.html) | Campaign Classic | Im Control Panel können Sie neue Verbindungen zu Ihren Instanzen einrichten, indem Sie IP-Adressbereiche auf die Zulassungsliste setzen. Standardmäßig kann auf eine Adobe Campaign Classic-Instanz nicht über verschiedene IP-Adressen zugegriffen werden. |
+| 3. September 2020 | [Control Panel – Hinzufügen von URL-Berechtigungen](https://docs.adobe.com/content/help/de-DE/campaign-classic-learn/tutorials/administrating/control-panel-acc/adding-url-permissions.html) | Campaign Classic | Im Control Panel können Sie neue Verbindungen zu Ihren Instanzen einrichten, indem Sie IP-Adressbereiche auf die Zulassungsliste setzen. Standardmäßig kann auf eine Adobe Campaign Classic-Instanz nicht über verschiedene IP-Adressen zugegriffen werden. |
 
 ### Hilfe-Ressourcen
 
