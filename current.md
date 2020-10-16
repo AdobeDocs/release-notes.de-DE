@@ -8,7 +8,7 @@ translation-type: tm+mt
 source-git-commit: a2db056a8aebdd0db0a9526b667c29b52a806b41
 workflow-type: tm+mt
 source-wordcount: '6870'
-ht-degree: 99%
+ht-degree: 100%
 
 ---
 
@@ -21,7 +21,7 @@ Auf dieser Seite sind neue Funktionen, Fehlerbehebungen und wichtige Hinweise in
 
 >[!IMPORTANT]
 >
->Diese Seite kann Inhalte vor der Veröffentlichung für bestimmte Produkte enthalten und kann vor dem Veröffentlichungsdatum geändert werden. Halten Sie regelmäßig nach Updates Ausschau.
+>Diese Seite kann Inhalte für bestimmte Produkte vor der Veröffentlichung enthalten und kann vor dem Veröffentlichungsdatum geändert werden. Halten Sie regelmäßig nach Updates Ausschau.
 
 >[!NOTE]
 >
