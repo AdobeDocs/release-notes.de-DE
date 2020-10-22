@@ -5,10 +5,10 @@ doc-type: release notes
 last-update: October 2020
 author: mfrei
 translation-type: tm+mt
-source-git-commit: a2db056a8aebdd0db0a9526b667c29b52a806b41
+source-git-commit: e3cd66e2ec665be1583b0a3ee3aaba05462c8407
 workflow-type: tm+mt
-source-wordcount: '6870'
-ht-degree: 100%
+source-wordcount: '6828'
+ht-degree: 97%
 
 ---
 
@@ -427,21 +427,24 @@ Versionshinweise für Adobe Advertising Cloud.
 * [Neue Funktionen in Advertising Cloud DSP](#adcloud-dsp)
 * [Neue Funktionen in Advertising Cloud Search](#adcloud-search)
 
-### Neue Funktionen in [!UICONTROL Advertising Cloud DSP] {#adcloud-dsp}
+### Neue Funktionen in [!DNL Advertising Cloud DSP] {#adcloud-dsp}
+
+Release-Datum: 15. Oktober 2020
 
 | Funktion | Beschreibung |
 | -----------| ---------- |
-| Interaktive Pre-roll wurde erweitert und enthält jetzt VAST Inventory | Jede interaktive Pre-roll-Platzierung und Anzeige unterstützt jetzt sowohl das VPAID- als auch das VAST Inventory. **Hinweis:** Wenn Ihr primärer KPI die Sichtbarkeit ist, erstellen Sie weiterhin separate VPAID- und VAST-Platzierungen und Anzeigen, da für VAST-Anzeigen keine sichtbaren Impressionen verfügbar sind. |
+| Private Bestandsaufnahme | Alle Benutzer können jetzt mit einem neuen Formular für die Kauf-ID IDs einrichten und bearbeiten. Hierbei handelt es sich um eine vereinfachte Version des alten [!UICONTROL Smart Ad Serving] -Formulars. Um neue ID-Details für Deals einzurichten, gehen Sie zu **[!UICONTROL Bestand > Deals]**, klicken Sie auf **[!UICONTROL Erstellen]** und dann auf **[!UICONTROL Deal ID Beta]**. |
+| Platzierungsvorhersage | Für Platzierungen mit Platzierungsebenen-Pacing enthält der Abschnitt [!UICONTROL Prognose] der Platzierungseinstellungen einen neuen Abschnitt mit [!UICONTROL geschätzten Höchstwerten] , der angibt, wie viel mehr Kapazität mit der aktuellen Targeting-Konfiguration verfügbar ist. |
 
-### Neue Funktionen in [!UICONTROL Advertising Cloud Search] {#adcloud-search}
+### Neue Funktionen in [!DNL Advertising Cloud Search] {#adcloud-search}
 
-Release-Datum: **8. August 2020**
+Release-Datum: 17. Oktober 2020
 
 | Funktion | Beschreibung |
-| ----------- | ---------- |
-| [!UICONTROL Portfolios] | Positionslimits auf Portfolioebene sind in den Portfolioeinstellungen nicht mehr verfügbar. Alle zuvor erstellten Positionsbeschränkungen wurden entfernt. |
-| [!UICONTROL Begrenzungen] | Positionsbasierte Begrenzungen und Begrenzungsbedingungen werden nicht mehr unterstützt: <br/> <ul><li>[!UICONTROL Min-Pos]- und [!UICONTROL Max-Pos]-Begrenzungen sind nicht mehr verfügbar und wurden aus allen zuvor erstellten [!UICONTROL Gebots- und Positionsbegrenzungen] sowie [!UICONTROL Impression-Freigabebegrenzungen] entfernt.</li><li>[!UICONTROL Gebots- und Positionsbegrenzungen], die Positionsbegrenzungen, aber keine Gebotsbegrenzungen enthielten, wurden angehalten. Sie stehen weiterhin in der Benutzeroberfläche und in Berichten zur Verfügung.</li><li>[!UICONTROL Gebots- und Positionsbegrenzungen] wurden in [!UICONTROL Gebotsbegrenzungen] umbenannt.</li><li>Alle positionsbasierten Bedingungen (unter Verwendung der Metriken [!UICONTROL Durchschnittliche Position], [!UICONTROL Gewichtete durchschnittliche Position] oder [!UICONTROL Letzte bekannte Position]) wurden bei allen Begrenzungen entfernt.</li></ul> <br/> **Hinweis:** Positionsdaten werden weiterhin ausgefüllt, wenn sie aus Suchmaschinen verfügbar sind. Microsoft Ads wird September 2020 in der Position stillgelegt. |
-| [!UICONTROL Kampagnen] | (Google Ads-Kampagnen) Advertising Cloud Search unterstützt jetzt die Anzeigenanpassung in Responsive Search Ads (RSAs). Zuvor wurden sie in allen Anzeigentypen mit Ausnahme von RSAs unterstützt. |
+| -----------| ---------- |
+| Suchkampagnen | In der Ansicht &quot; [!UICONTROL Konten] &quot;zeigt die Spalte &quot; [!UICONTROL Zugriff] &quot;jetzt an, wann [!DNL Advertising Cloud Search] sich nicht bei einem aktivierten Suchmaschinenkonto anmelden kann. Um die Fehlerursache anzuzeigen, halten Sie den Cursor über das Warnsymbol. |
+| [!UICONTROL Benutzerspezifische Warnungen] | Die frühere Beta- [!UICONTROL Warnhinweise] heißt jetzt [!UICONTROL benutzerdefinierte Warnhinweise]. |
+|  | In benutzerdefinierten Warnhinweisen wurde der Arbeitsablauf zur Identifizierung von Metriken für den angegebenen Datumsbereich von Metriken für den vorherigen Zeitraum vereinfacht und auf die Registerkarte &quot; [!UICONTROL Filter] &quot;verschoben. |
 
 ## ![Symbol](/assets/magento.png) [!DNL Magento] {#magento}
 
