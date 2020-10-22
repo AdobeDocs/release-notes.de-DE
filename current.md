@@ -5,10 +5,10 @@ doc-type: release notes
 last-update: October 2020
 author: mfrei
 translation-type: tm+mt
-source-git-commit: e3cd66e2ec665be1583b0a3ee3aaba05462c8407
+source-git-commit: e2e01fa323e54614f8b5719252e672183dbb006d
 workflow-type: tm+mt
-source-wordcount: '6828'
-ht-degree: 97%
+source-wordcount: '6918'
+ht-degree: 96%
 
 ---
 
@@ -204,9 +204,15 @@ Neue Kurse, Tutorial- und Artikel in [!DNL Analytics] und [!UICONTROL Customer J
 
 Neue Funktionen, Fehlerbehebungen, Dokumentationen und Tutorials in Audience Manager.
 
-Release-Datum: Ende **8. Oktober 2020**
+Aktualisiert am **22. Oktober 2020**
 
-### Neue Funktionen und Fehlerbehebungen in Adobe Audience Manager
+### Neue in Audience Manager verfügbare Funktionen, Verbesserungen und Fehlerbehebungen {#aam-features}
+
+| Funktion | Hinzugefügt oder aktualisiert am | Beschreibung |
+|----|----|----|
+| [Vorausschauende Audiences](https://docs.adobe.com/content/help/de-DE/audience-manager/user-guide/features/algorithmic-models/predictive-audiences/predictive-audiences.html) | 21. Oktober 2020 | <ul><li>**Predictive Audiencen Model Cloning**: Sie können jetzt vorhandene Modelle klonen und ihre Konfiguration je nach Ihren Anforderungen ändern. Weitere Informationen finden Sie unter [Cloning and Editing Predictive Audience Models](https://docs.adobe.com/content/help/en/audience-manager/user-guide/features/algorithmic-models/predictive-audiences/predictive-audiences-start.html#clone-predictive-audiences) .</li><li>**Predictive Audiencen Batch Classification**: Neben der Klassifizierung von Besuchern in verschiedenen Personas in Echtzeit unterstützen Predictive Audiencen jetzt auch die Stapelklassifizierung. So können Sie integrierte Benutzer klassifizieren und in Batch-Zielen aktivieren.</li></ul> |
+
+### Fehlerbehebungen und Verbesserungen {#aam-fixes-and-improvements}
 
 * Es wurde ein Problem mit der Audience Manager-REST-API behoben, bei dem der Eigenschaftsendpunkt beim Filtern von Eigenschaften in der Anfrage keine geräteübergreifenden Metriken zurückgab. (AAM-55878)
 * Es wurde ein Problem in People-basierten Zielen behoben, bei dem für Facebook-Integrationen Erinnerungs-E-Mails zum Ablauf von Zugriffs-Token nicht an die richtigen Empfänger gesendet wurden. (AAM-56215)
