@@ -5,10 +5,10 @@ doc-type: release notes
 last-update: October 2020
 author: mfrei
 translation-type: tm+mt
-source-git-commit: e2e01fa323e54614f8b5719252e672183dbb006d
+source-git-commit: c1750aa7321e0eb6b929119f5c22101772af5a68
 workflow-type: tm+mt
-source-wordcount: '6918'
-ht-degree: 96%
+source-wordcount: '7000'
+ht-degree: 95%
 
 ---
 
@@ -204,13 +204,14 @@ Neue Kurse, Tutorial- und Artikel in [!DNL Analytics] und [!UICONTROL Customer J
 
 Neue Funktionen, Fehlerbehebungen, Dokumentationen und Tutorials in Audience Manager.
 
-Aktualisiert am **22. Oktober 2020**
+Aktualisiert am **23. Oktober 2020**
 
 ### Neue in Audience Manager verfügbare Funktionen, Verbesserungen und Fehlerbehebungen {#aam-features}
 
 | Funktion | Hinzugefügt oder aktualisiert am | Beschreibung |
 |----|----|----|
 | [Vorausschauende Audiences](https://docs.adobe.com/content/help/de-DE/audience-manager/user-guide/features/algorithmic-models/predictive-audiences/predictive-audiences.html) | 21. Oktober 2020 | <ul><li>**Predictive Audiencen Model Cloning**: Sie können jetzt vorhandene Modelle klonen und ihre Konfiguration je nach Ihren Anforderungen ändern. Weitere Informationen finden Sie unter [Cloning and Editing Predictive Audience Models](https://docs.adobe.com/content/help/en/audience-manager/user-guide/features/algorithmic-models/predictive-audiences/predictive-audiences-start.html#clone-predictive-audiences) .</li><li>**Predictive Audiencen Batch Classification**: Neben der Klassifizierung von Besuchern in verschiedenen Personas in Echtzeit unterstützen Predictive Audiencen jetzt auch die Stapelklassifizierung. So können Sie integrierte Benutzer klassifizieren und in Batch-Zielen aktivieren.</li></ul> |
+| [Überlagerungsberichte](https://docs.adobe.com/content/help/en/audience-manager/user-guide/reporting/interactive-and-overlap-reports/dynamic-reports.html) | 23. Oktober 2020 | Wir haben die Methodik zur Berechnung von Überschneidungsberichten aktualisiert ([Eigenschaften zu Eigenschaften](https://docs.adobe.com/content/help/en/audience-manager/user-guide/reporting/interactive-and-overlap-reports/trait-trait-overlap-report.html), [Segment zu Eigenschaften](https://docs.adobe.com/content/help/en/audience-manager/user-guide/reporting/interactive-and-overlap-reports/segment-trait-overlap-report.html), [Segment zu Segment](https://docs.adobe.com/content/help/en/audience-manager/user-guide/reporting/interactive-and-overlap-reports/segment-segment-overlap-report.html)). Die Berechnung der Überschneidungsberichte basiert jetzt auf Berichte-Uniques und MinHash-Signaturen (anstatt [1/54-Datenstichproben](https://docs.adobe.com/content/help/en/audience-manager/user-guide/reporting/report-sampling.html#data-sampling-ratio)). |
 
 ### Fehlerbehebungen und Verbesserungen {#aam-fixes-and-improvements}
 
