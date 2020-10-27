@@ -5,9 +5,9 @@ doc-type: release notes
 last-update: November 2020
 author: mfrei
 translation-type: tm+mt
-source-git-commit: dba5bf9afced03536adb857f879bd1df349ebbbc
+source-git-commit: 3b533d52ae98c930c3e9af7470825d659ec9b0fe
 workflow-type: tm+mt
-source-wordcount: '6960'
+source-wordcount: '7024'
 ht-degree: 68%
 
 ---
@@ -338,6 +338,7 @@ Nachfolgend sind die im vergangenen Monat neu veröffentlichten Videos, Tutorial
 
 | Veröffentlicht | Name | Typ | Beschreibung |
 | -----------| ---------- | ---------- | ---------- |
+| 27. Oktober 2020 | [Einführung in AEM Dokument Security Extension for Microsoft Office](https://docs.adobe.com/content/help/en/experience-manager-document-security/using/document-security-extension-microsoft-office.html) | Artikel | Adobe Experience Manager Dokument Security Extension for Microsoft Office stellt sicher, dass nur von Ihnen autorisierte Benutzer Word-, Excel- und PowerPoint-Dateien verwenden können, die Ihr geistiges Eigentum enthalten. Mit Dokument Security Extension for Microsoft Office können Sie vordefinierte Vertraulichkeitseinstellungen auf Ihre Dateien anwenden. |
 | 7. Oktober 2020 | [Seitenmetriken der Ansicht in Adobe Analytics](https://docs.adobe.com/content/help/en/experience-manager-learn/sites/integrations/analytics/create-analytics-workspace.html) | Artikel | Erfahren Sie, wie Sie von einer Adobe Experience Manager-Site erfasste Daten Metriken und Dimensionen in Adobe Analytics-Report Suites zuordnen. |
 | 8. Oktober 2020 | [Personalisierung vollständiger Webseiten-Erlebnisse](https://docs.adobe.com/content/help/en/experience-manager-learn/sites/integrations/target/personalization-web-page.html) | Video | Erfahren Sie, wie Sie eine Aktivität erstellen, um Ihre Siteseiten, die auf AEM gehostet werden, mit Adobe Target auf eine neue Seite umzuleiten. |
 | 8. Oktober 2020 | [Personalisierung mit Visual Experience Composer](https://docs.adobe.com/content/help/en/experience-manager-learn/sites/integrations/target/personalization-using-vec.html) | Video | Erfahren Sie, wie Sie mit Visual Experience Composer (VEC) eine Aktivität zur A/B-Zielgruppe erstellen. |
@@ -423,7 +424,7 @@ Nachfolgend sind die im vergangenen Monat neu veröffentlichten Videos, Tutorial
 
 | Veröffentlicht | Name | Lösung | Beschreibung |
 | ----------- | ----------- | ---------- | ---------- |
-| 16. Oktober 2020 | [Systemsteuerung - Delegieren von Subdomänen mit CNAME (Beta) - Video zu Funktionen](https://docs.adobe.com/content/help/en/campaign-classic-learn/control-panel/subdomains-and-certificates/delegating-subdomains-using-cname.html) | Campaign Classic | Erfahren Sie, wie Sie eine Subdomäne mithilfe von CNAMEs im Steuerungsbedienfeld einrichten und senden. |
+| 16. Oktober 2020 | [Systemsteuerung - Delegieren von Subdomänen mit CNAME (Beta) - Video zu Funktionen](https://docs.adobe.com/content/help/de-DE/campaign-classic-learn/control-panel/subdomains-and-certificates/delegating-subdomains-using-cname.html) | Campaign Classic | Erfahren Sie, wie Sie eine Subdomäne mithilfe von CNAMEs im Steuerungsbedienfeld einrichten und senden. |
 | 16. Oktober 2020 | [Systemsteuerung - Delegieren von Subdomänen mit CNAME (Beta) - Video zu Funktionen](https://docs.adobe.com/content/help/en/campaign-standard-learn/control-panel/subdomains-and-certificates/delegating-subdomains-using-cname.html) | Campaign Standard | Erfahren Sie, wie Sie eine Subdomäne mithilfe von CNAMEs im Steuerungsbedienfeld einrichten und senden. |
 
 ### Hilfe-Ressourcen
