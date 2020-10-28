@@ -8,7 +8,7 @@ translation-type: tm+mt
 source-git-commit: 08f91c514f5ab3cef7b7a1b862260090892e8144
 workflow-type: tm+mt
 source-wordcount: '7148'
-ht-degree: 67%
+ht-degree: 69%
 
 ---
 
@@ -225,7 +225,7 @@ Neue Funktionen, Fehlerbehebungen und Aktualisierungen in Adobe Experience Manag
       * Das JavaScript-SDK für den Single Page Application (SPA)-Editor ist [jetzt Open Source-basiert](https://docs.adobe.com/content/help/de-DE/experience-manager-cloud-service/implementing/headless/spa/reference-materials.html).
    * **Adobe Experience Manager Assets as a Cloud Service**
 
-      * Bilddateien mit Wasserzeichen werden für Ausgabedarstellungen unterstützt, die mit Asset-Microservices generiert wurden. Sie lassen sich als Verarbeitungsprofil konfigurieren und können eine PNG-Datei als Wasserzeichen nutzen. Siehe [Kennzeichnung Ihrer Assets mit Wasserzeichen](https://docs.adobe.com/content/help/de-DE/experience-manager-cloud-service/assets/manage/watermark-assets.html).
+      * Grafikdateien mit Wasserzeichen werden für Ausgabedarstellungen unterstützt, die mit Asset-Microservices generiert wurden. Sie lassen sich als Verarbeitungsprofil konfigurieren und können eine PNG-Datei als Wasserzeichen nutzen. Siehe [Kennzeichnung Ihrer Assets mit Wasserzeichen](https://docs.adobe.com/content/help/de-DE/experience-manager-cloud-service/assets/manage/watermark-assets.html).
       * Verbesserungen bei Dynamic Media:
          * Selektive Veröffentlichung – Marketing-Teams können nun auf [!UICONTROL Dynamic Media]-Bilder mit intelligenter Zuschneidung sowie dynamische Ausgabedarstellungen zugreifen, die mit Dynamic Media synchronisiert werden, um Werbematerialien zu erstellen, ohne die Assets für den weltweiten Versand in Dynamic Media veröffentlichen zu müssen. Veröffentlichungen in Experience Manager und [!UICONTROL Dynamic Media] sind nun voneinander getrennt und können separat erfolgen. Siehe [Selektive Veröffentlichung](https://docs.adobe.com/content/help/de-DE/experience-manager-cloud-service/assets/dynamicmedia/selective-publishing.html).
          * Passwortzurücksetzung: Administratoren können das [!UICONTROL Dynamic Media] Cloud Service-Passwort nun zurücksetzen, das bei der Bereitstellung empfangen wird. Das Zurücksetzen kann in der Benutzeroberfläche von Experience Manager erfolgen, ohne dass die [!UICONTROL Dynamic Media] Classic Desktop-App verwendet werden muss. Siehe [Ändern des Passworts für Dynamic Media](https://docs.adobe.com/content/help/de-DE/experience-manager-cloud-service/assets/dynamicmedia/config-dm.html#change-dm-password).
@@ -258,7 +258,7 @@ Neue Funktionen, Fehlerbehebungen und Aktualisierungen in Adobe Experience Manag
       * Es wurde für *URL* und *Migrationssatzname* eine beschreibende Validierungsmeldung hinzugefügt.
    * **Code-Refaktorierungs-Tools**
 
-      * Das AIO-CLI-Plugin unterstützt Repository Modernizer und ermöglicht es Benutzern, das Tool mit dem Plugin auszuführen. Weitere Informationen finden Sie in der GitHub-Ressource [aio-cli-plugin-aem-cloud-service-migration](https://github.com/adobe/aio-cli-plugin-aem-cloud-service-migration).
+      * Das AIO-CLI-Plugin unterstützt Repository Modernizer und ermöglicht es Benutzern, das Tool mit dem Plugin auszuführen. Weitere Informationen finden Sie in der [GitHub-Ressource aio-cli-plugin-aem-cloud-service-migration](https://github.com/adobe/aio-cli-plugin-aem-cloud-service-migration).
       * Das Dienstprogramm „Repository Modernizer“ kann verwendet werden, um bestehende Projektpakete in Pakete umzustrukturieren, die mit der für AEM as a Cloud Service definierten Projektstruktur kompatibel sind. Siehe [Git-Ressource: Repository Moderner](https://github.com/adobe/aem-cloud-service-source-migration/tree/master/packages/repository-modernizer), um weitere Details zu erhalten.
 
 
@@ -285,11 +285,11 @@ Die Rich-Text-Editor-Dokumentation wird aktualisiert, um alle [unterstützten Pr
 
 * Das Problem mit der Anmeldung bei der Desktop-App in [Service Pack 6.5.5.0](https://docs.adobe.com/content/help/de-DE/experience-manager-65/release-notes/service-pack/previous-hotfixes-featurepacks.html#assets-6550) wurde mit der Desktop-App-Version 2.0.3.2 behoben.
 
-* Wenn Benutzer [Apache Jackrabbit Oak TokenConfiguration](https://helpx.adobe.com/de/experience-manager/kb/How-to-set-token-session-expiration-AEM.html) geändert haben, um die Timeout-Konfiguration auf eine kürzere Zeit festzulegen, als für das Hochladen eines Assets erforderlich ist, kann es beim Benutzer zu einem Sitzungs-Timeout kommen. Daher müssen Benutzer die Einstellungen für `chunkUploadMinFileSize` und `chunksize` ändern, damit die Sitzung von jeder Chunk-Anfrage aktualisiert wird. Weitere Informationen hierzu finden Sie unter [Hochladen von Assets](https://docs.adobe.com/content/help/de-DE/experience-manager-65/assets/managing/managing-assets-touch-ui.html#uploading-assets).
+* Wenn Benutzer [Apache Jackrabbit Oak TokenConfiguration](https://helpx.adobe.com/de/experience-manager/kb/How-to-set-token-session-expiration-AEM.html) geändert haben, um die Timeout-Konfiguration auf eine kürzere Zeit festzulegen, als für das Hochladen eines Assets erforderlich ist, kann es beim Benutzer zu einem Sitzungs-Timeout kommen. Daher müssen Benutzer die Einstellungen für `chunkUploadMinFileSize` und `chunksize` ändern, damit die Sitzung von jeder Chunk-Anfrage aktualisiert wird. Weitere Informationen hierzu finden Sie unter [Hochladen von Assets](https://docs.adobe.com/content/help/en/experience-manager-65/assets/managing/managing-assets-touch-ui.html#uploading-assets).
 
-* Außerdem können Assets mithilfe des Drag-Verfahrens [in gleichrangige Ordner](https://docs.adobe.com/content/help/de-DE/experience-manager-65/assets/managing/managing-assets-touch-ui.html#moving-or-renaming-assets) verschoben werden, mit Ausnahme des Vorgangs [!UICONTROL Verschieben (m)], bei dem der Assistent zum [!UICONTROL Verschieben von Assets] geöffnet wird.
+* Außerdem können Assets mithilfe des Drag-Verfahrens [in gleichrangige Ordner](https://docs.adobe.com/content/help/en/experience-manager-65/assets/managing/managing-assets-touch-ui.html#moving-or-renaming-assets) verschoben werden, mit Ausnahme des Vorgangs [!UICONTROL Verschieben (m)], bei dem der Assistent zum [!UICONTROL Verschieben von Assets] geöffnet wird.
 
-* Verwenden Sie für Assets Insights [Adobe Launch](https://docs.adobe.com/content/help/en/experience-manager-learn/assets/advanced/asset-insights-launch-tutorial.html). [Die DTM-Integration](https://docs.adobe.com/content/help/de-DE/experience-manager-65/assets/managing/touch-ui-using-dtm-for-asset-insights.html) wird in der Dokumentation als veraltete Methode bezeichnet.
+* Verwenden Sie für Assets Insights [Adobe Launch](https://docs.adobe.com/content/help/en/experience-manager-learn/assets/advanced/asset-insights-launch-tutorial.html). [Die DTM-Integration](https://docs.adobe.com/content/help/en/experience-manager-65/assets/managing/touch-ui-using-dtm-for-asset-insights.html) wird in der Dokumentation als veraltete Methode bezeichnet.
 
 Updated: **10/28/2020**
 
@@ -455,8 +455,8 @@ Release-Datum: 15. Oktober 2020
 
 | Funktion | Beschreibung |
 | -----------| ---------- |
-| Private Bestandsaufnahme | Alle Benutzer können jetzt mit einem neuen Formular für die Kauf-ID IDs einrichten und bearbeiten. Hierbei handelt es sich um eine vereinfachte Version des alten [!UICONTROL Smart Ad Serving] -Formulars. Um neue ID-Details für Deals einzurichten, gehen Sie zu **[!UICONTROL Bestand > Deals]**, klicken Sie auf **[!UICONTROL Erstellen]** und dann auf **[!UICONTROL Deal ID Beta]**. |
-| Platzierungsvorhersage | Für Platzierungen mit Platzierungsebenen-Pacing enthält der Abschnitt [!UICONTROL Prognose] der Platzierungseinstellungen einen neuen Abschnitt mit [!UICONTROL geschätzten Höchstwerten] , der angibt, wie viel mehr Kapazität mit der aktuellen Targeting-Konfiguration verfügbar ist. |
+| Privates Inventar | Alle Benutzer können jetzt mit einem neuen Deal-ID-Formular Details zu Deal-IDs einrichten und bearbeiten. Hierbei handelt es sich um eine vereinfachte Version des alten [!UICONTROL Smart Ad Serving]-Formulars. Um neue Details für Deal-IDs einzurichten, gehen Sie zu **[!UICONTROL Inventar > Deals]**, klicken Sie auf **[!UICONTROL Erstellen]** und dann auf **[!UICONTROL Deal ID Beta]**. |
+| Platzierungsvorhersage | Für Platzierungen mit Platzierungsebenen-Geschwindigkeit enthält der Abschnitt [!UICONTROL Prognose] der Platzierungseinstellungen einen neuen Abschnitt mit [!UICONTROL geschätzten Höchstwerten], der angibt, wie viel mehr Kapazität mit der aktuellen Targeting-Konfiguration verfügbar ist. |
 
 ### Neue Funktionen in [!DNL Advertising Cloud Search] {#adcloud-search}
 
@@ -464,9 +464,9 @@ Release-Datum: 17. Oktober 2020
 
 | Funktion | Beschreibung |
 | -----------| ---------- |
-| Suchkampagnen | In der Ansicht &quot; [!UICONTROL Konten] &quot;zeigt die Spalte &quot; [!UICONTROL Zugriff] &quot;jetzt an, wann [!DNL Advertising Cloud Search] sich nicht bei einem aktivierten Suchmaschinenkonto anmelden kann. Um die Fehlerursache anzuzeigen, halten Sie den Cursor über das Warnsymbol. |
-| [!UICONTROL Benutzerspezifische Warnungen] | Die frühere Beta- [!UICONTROL Warnhinweise] heißt jetzt [!UICONTROL benutzerdefinierte Warnhinweise]. |
-|  | In benutzerdefinierten Warnhinweisen wurde der Arbeitsablauf zur Identifizierung von Metriken für den angegebenen Datumsbereich von Metriken für den vorherigen Zeitraum vereinfacht und auf die Registerkarte &quot; [!UICONTROL Filter] &quot;verschoben. |
+| Suchkampagnen | In der Ansicht [!UICONTROL Konten] zeigt die Spalte [!UICONTROL Zugriff] jetzt an, wann sich [!DNL Advertising Cloud Search] nicht bei einem aktivierten Suchmaschinenkonto anmelden kann. Um die Fehlerursache anzuzeigen, halten Sie den Cursor über das Warnsymbol. |
+| [!UICONTROL Benutzerspezifische Warnhinweise] | Die früheren Beta-[!UICONTROL Warnhinweise] heißen jetzt [!UICONTROL benutzerdefinierte Warnhinweise]. |
+|  | Bei benutzerdefinierten Warnhinweisen wurde der Arbeitsablauf vereinfacht, der identifiziert, wann die Metriken für den angegebenen Datumsbereich gegenüber den Metriken für den vorherigen Zeitraum zu- oder abgenommen haben. Außerdem wurde er auf die Registerkarte [!UICONTROL Filter] verschoben. |
 
 ## ![Symbol](/assets/magento.png) [!DNL Magento] {#magento}
 
