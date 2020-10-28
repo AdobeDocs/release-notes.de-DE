@@ -5,10 +5,10 @@ doc-type: release notes
 last-update: November 2020
 author: mfrei
 translation-type: tm+mt
-source-git-commit: 08f91c514f5ab3cef7b7a1b862260090892e8144
+source-git-commit: f16817c423635f6996dd729fe9e07e7d7e63fd06
 workflow-type: tm+mt
-source-wordcount: '7148'
-ht-degree: 69%
+source-wordcount: '7324'
+ht-degree: 67%
 
 ---
 
@@ -203,6 +203,10 @@ Neue Videos, Tutorials oder Kurse, die für Audience Manager veröffentlicht wur
 
 | Veröffentlicht | Name | Typ | Beschreibung |
 | -----------| ---------- | ---------- | ---------- |
+| 28. Oktober 2020 | [Zahlen im Eigenschaftendiagramm](https://experienceleague.adobe.com/docs/audience-manager-learn/tutorials/build-and-manage-audiences/traits-and-segments/understanding-numbers-in-the-trait-graph.html?lang=en#build-and-manage-audiences) | Video | Hier erhalten Sie einige Tipps zum Verständnis der gemeldeten Zahlen für Eigenschaften im Anzeigebereich &quot;Eigenschaften&quot;. |
+| 23. Oktober 2020 | [Planen der Erstellung von Eigenschaften aus Analytics-Daten](https://experienceleague.adobe.com/docs/audience-manager-learn/tutorials/build-and-manage-audiences/traits-and-segments/planning-trait-creation-from-analytics-data.html?lang=en#build-and-manage-audiences) | Video | Erfahren Sie mehr über Tipps und Tricks, die Ihnen helfen, wenn Sie planen, Adobe Analytics-Daten in Ihren Eigenschaften in Audience Manager zu verwenden. |
+| 23. Oktober 2020 | [Auswählen einer Datenquelle beim Erstellen von Eigenschaften](https://experienceleague.adobe.com/docs/audience-manager-learn/tutorials/build-and-manage-audiences/traits-and-segments/choosing-a-data-source-when-creating-traits.html?lang=en#build-and-manage-audiences) | Video | Eines der wichtigen Felder, die beim Erstellen von Eigenschaften ausgefüllt werden müssen, ist das Feld Datenquelle. Hier erhalten Sie Tipps zur Auswahl der richtigen Datenquelle für regelbasierte und integrierte Eigenschaften. |
+| 14. September 2020 | [Verwenden der Code-Ansicht zum Erstellen und Bearbeiten von Eigenschaften](https://experienceleague.adobe.com/docs/audience-manager-learn/tutorials/build-and-manage-audiences/traits-and-segments/using-code-view-to-create-and-edit-traits.html?lang=en#build-and-manage-audiences) | Video | Erfahren Sie, wie Sie die Code-Ansicht beim Erstellen neuer Eigenschaften oder Bearbeiten vorhandener Eigenschaften verwenden. Die Code-Ansicht ist eine Alternative zum Ausdruck Builder beim Festlegen des Eigenschaften-Ausdrucks. |
 | 10. Oktober 2020 | [Prognostische Audiencen](https://docs.adobe.com/content/help/en/audience-manager-learn/tutorials/build-and-manage-audiences/algorithmic-models/understanding-predictive-audiences.html) | Video | In diesem Video besprechen wir, was die prädiktiven Audiencen des Audience Managers sind, erläutern Sie ausführlich, wie sie funktionieren und verweisen auf Anwendungsfälle. |
 
 ## ![Symbol](/assets/aem.png) Adobe Experience Manager {#aem}
