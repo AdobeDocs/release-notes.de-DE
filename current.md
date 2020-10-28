@@ -5,10 +5,10 @@ doc-type: release notes
 last-update: November 2020
 author: mfrei
 translation-type: tm+mt
-source-git-commit: 114222b4df9fd72691065a9a1cdf7bc1e7f95a5d
+source-git-commit: 57c246240dfafcb30b791a4bbc0ba3b05774dd0c
 workflow-type: tm+mt
-source-wordcount: '7353'
-ht-degree: 67%
+source-wordcount: '7479'
+ht-degree: 66%
 
 ---
 
@@ -83,6 +83,7 @@ Neue Videos, Tutorials oder Kurse, die für Experience Platform und Services ver
 
 | Veröffentlicht | Name | Typ | Beschreibung |
 | -----------| ---------- | ---------- | ---------- |
+| 26. Oktober 2020 | [Einführung in Offer Decisioning](https://experienceleague.adobe.com/docs/offer-decisioning-learn/tutorials/introduction-to-offer-decisioning.html) | Video | Dieses Video gibt einen Überblick über Offer Decisioning, einen auf Adobe Experience Platform aufbauenden Anwendungsdienst. In diesem Video werden die geschäftlichen Herausforderungen behandelt, denen Offer Decisioning sich stellt, seine wichtigsten Funktionen, die grundlegende Architektur und seine wichtigsten Anwendungsfälle. |
 | 14. September 2020 | [Geschäftlicher Nutzen von Attribution AI](https://docs.adobe.com/content/help/en/platform-learn/tutorials/intelligent-services/business-value-of-attribution-ai.html) | Video | [!UICONTROL Attribution AI], Teil von [!UICONTROL Intelligent Services], ist ein algorithmischer Attributionsdienst mit mehreren Kanälen, der den Einfluss und die inkrementelle Auswirkung von Kundeninteraktionen auf bestimmte Ergebnisse berechnet. Mit [!UICONTROL Attribution AI] können Marketing-Experten die Ausgaben für Marketing und Werbung messen und optimieren, indem sie die Auswirkungen einzelner Kundeninteraktionen in einzelnen Phasen der Customer Journey untersuchen. |
 | 14. September 2020 | [Geschäftlicher Nutzen von Customer AI](https://docs.adobe.com/content/help/en/platform-learn/tutorials/intelligent-services/business-value-of-customer-ai.html) | Video | In diesem Video wird gezeigt, wie [!UICONTROL Customer AI] Kundenprofile mit KI-basierten Eigenschaften anreichert sowie bei der Kundensegmentierung und Zielgruppenbestimmung hilft. |
 | 14. September 2020 | [Geschäftlicher Nutzen von Platform und Magento](https://docs.adobe.com/content/help/en/platform-learn/tutorials/experience-cloud/business-value-of-platform-and-magento.html) | Video | In diesem Video erfahren Sie, wie Sie mit Adobe Experience Platform und [!DNL Magento] Commerce eine zentrale Ansicht von Kunden erstellen und Erlebnisse in einem digitalen Storefront sowie kanalübergreifend intelligent personalisieren können. |
@@ -437,6 +438,8 @@ Nachfolgend sind die im vergangenen Monat neu veröffentlichten Videos, Tutorial
 
 | Veröffentlicht | Name | Lösung | Beschreibung |
 | ----------- | ----------- | ---------- | ---------- |
+| 19. Oktober 2020 | [Systemsteuerung - Hinzufügen eines IP-Bereichs zur Zulassungsliste](https://docs.adobe.com/content/help/en/campaign-classic-learn/control-panel/sftp-management/adding-ip-range-to-allow-list.html) | Campaign Classic | Erfahren Sie, wie Sie der Zulassungsliste in der Systemsteuerung einen IP-Adressbereich hinzufügen. |
+| 19. Oktober 2020 | [Systemsteuerung - Hinzufügen eines IP-Bereichs zur Zulassungsliste](https://docs.adobe.com/content/help/en/campaign-standard-learn/control-panel/sftp-management/adding-ip-range-to-allow-list.html) | Campaign Standard | Erfahren Sie, wie Sie der Zulassungsliste in der Systemsteuerung einen IP-Adressbereich hinzufügen. |
 | 16. Oktober 2020 | [Systemsteuerung - Delegieren von Subdomänen mit CNAME (Beta) - Video zu Funktionen](https://docs.adobe.com/content/help/de-DE/campaign-classic-learn/control-panel/subdomains-and-certificates/delegating-subdomains-using-cname.html) | Campaign Classic | Erfahren Sie, wie Sie eine Subdomäne mithilfe von CNAMEs im Steuerungsbedienfeld einrichten und senden. |
 | 16. Oktober 2020 | [Systemsteuerung - Delegieren von Subdomänen mit CNAME (Beta) - Video zu Funktionen](https://docs.adobe.com/content/help/en/campaign-standard-learn/control-panel/subdomains-and-certificates/delegating-subdomains-using-cname.html) | Campaign Standard | Erfahren Sie, wie Sie eine Subdomäne mithilfe von CNAMEs im Steuerungsbedienfeld einrichten und senden. |
 
