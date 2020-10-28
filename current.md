@@ -5,7 +5,7 @@ doc-type: release notes
 last-update: November 2020
 author: mfrei
 translation-type: tm+mt
-source-git-commit: 2fc4753b488ce356018ad91b8933f49d101700fd
+source-git-commit: 244301cf84111e61d3566fff5e515ee0960904c0
 workflow-type: tm+mt
 source-wordcount: '7549'
 ht-degree: 64%
@@ -469,7 +469,7 @@ Aktualisiert: 28. Oktober 2020
 
 ### Neue Funktionen in [!DNL Advertising Cloud Search] {#adcloud-search}
 
-Release-Datum: 17. Oktober 2020
+Release-Datum: **17. Oktober 2020**
 
 | Funktion | Beschreibung |
 | -----------| ---------- |
