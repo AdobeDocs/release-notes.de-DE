@@ -5,10 +5,10 @@ doc-type: release notes
 last-update: November 2020
 author: mfrei
 translation-type: tm+mt
-source-git-commit: 57c246240dfafcb30b791a4bbc0ba3b05774dd0c
+source-git-commit: 2fc4753b488ce356018ad91b8933f49d101700fd
 workflow-type: tm+mt
-source-wordcount: '7479'
-ht-degree: 66%
+source-wordcount: '7549'
+ht-degree: 64%
 
 ---
 
@@ -37,7 +37,7 @@ Letzte Aktualisierung: **28. Oktober 2020**
 * [Audience Manager](#aam)
 * [Experience Manager](#aem) (Aktualisiert: **28.10.2020**)
 * [Campaign](#ac)
-* [Advertising Cloud](#adcloud)
+* [Advertising Cloud](#adcloud) (Updated: **10/28/2020**)
 * [[!DNL Target]](https://docs.adobe.com/content/help/de-DE/target/using/release-notes/target-release-notes.html)
 * [[!DNL Magento]](#magento)
 * [[!DNL Marketo Engage]](#marketo)
@@ -458,12 +458,14 @@ Versionshinweise für Adobe Advertising Cloud.
 
 ### Neue Funktionen in [!DNL Advertising Cloud DSP] {#adcloud-dsp}
 
-Release-Datum: 15. Oktober 2020
+Aktualisiert: 28. Oktober 2020
 
 | Funktion | Beschreibung |
 | -----------| ---------- |
-| Privates Inventar | Alle Benutzer können jetzt mit einem neuen Deal-ID-Formular Details zu Deal-IDs einrichten und bearbeiten. Hierbei handelt es sich um eine vereinfachte Version des alten [!UICONTROL Smart Ad Serving]-Formulars. Um neue Details für Deal-IDs einzurichten, gehen Sie zu **[!UICONTROL Inventar > Deals]**, klicken Sie auf **[!UICONTROL Erstellen]** und dann auf **[!UICONTROL Deal ID Beta]**. |
-| Platzierungsvorhersage | Für Platzierungen mit Platzierungsebenen-Geschwindigkeit enthält der Abschnitt [!UICONTROL Prognose] der Platzierungseinstellungen einen neuen Abschnitt mit [!UICONTROL geschätzten Höchstwerten], der angibt, wie viel mehr Kapazität mit der aktuellen Targeting-Konfiguration verfügbar ist. |
+| Neu Hilfe | (Version vom 28. Oktober) Die alte Hilfe wurde durch aktualisierte Seiten ersetzt, die über den Link Hilfe im DSP Hauptmenü verfügbar sind und jederzeit unter [https://experienceleague.adobe.com/docs/advertising-cloud/dsp/home.html verfügbar sind](https://experienceleague.adobe.com/docs/advertising-cloud/dsp/home.html) |
+| Kampagnen | (Release vom 28. Oktober) Die Beta-Ansichten der vorherigen Kampagnen sind jetzt die standardmäßigen Kampagnen für schnellere Einblicke, vereinfachte Workflows und benutzerspezifische Ansichten. |
+| Privates Inventar | (October 15 release) All users can now set up and edit deal ID details using a new deal ID form, which is a simplified version of the legacy [!UICONTROL Smart Ad Serving] form. Um neue Details für Deal-IDs einzurichten, gehen Sie zu **[!UICONTROL Inventar > Deals]**, klicken Sie auf **[!UICONTROL Erstellen]** und dann auf **[!UICONTROL Deal ID Beta]**. |
+| Platzierungsvorhersage | (October 15 release) For placements with placement-level pacing, the [!UICONTROL Forecast] section of the placement settings includes a new [!UICONTROL Estimated Maximums] section, which indicates how much more capacity is available with the current targeting configuration. |
 
 ### Neue Funktionen in [!DNL Advertising Cloud Search] {#adcloud-search}
 
