@@ -5,9 +5,9 @@ doc-type: release notes
 last-update: March 2020
 author: mfrei
 translation-type: tm+mt
-source-git-commit: 8ac62e2402e3d41cbcea6670b8e482bc295b9a14
+source-git-commit: 2626d0f793d4d7d59dc08527443bca66a3dbdd03
 workflow-type: tm+mt
-source-wordcount: '1352'
+source-wordcount: '1350'
 ht-degree: 91%
 
 ---
@@ -70,8 +70,6 @@ Funktionen und Fehlerbehebungen
 
 Die Produktdokumentation finden Sie im Abschnitt zur [Verwaltung von Benutzern und Produkten](https://docs.adobe.com/content/help/de-DE/core-services/interface/manage-users-and-products/admin-getting-started.html).
 
-## [!UICONTROL Experience Platform] {#platform}
-
 ## ![Symbol](/assets/experience_platform_appicon_24.png) Experience Platform {#platform}
 
 Versionshinweise für [!DNL Experience Platform,] einschließlich [!DNL Experience Platform Launch,] [!UICONTROL Journey Orchestration], [!UICONTROL Angebote], [!UICONTROL Personen], [!UICONTROL Places], [!UICONTROL Mobile Services] und Sicherheitsbulletins.
@@ -99,7 +97,7 @@ Using Adobe [!UICONTROL Experience Platform,] orchestrate individual customer jo
 
 #### Additional resources for [!UICONTROL Journey Orchestration]
 
-[Dokumentation](https://docs.adobe.com/content/help/de-DE/journeys/using/journey-orchestration-home.html) – [Versionshinweise](https://docs.adobe.com/content/help/de-DE/journeys/using/release-notes/release-notes.html) – [Videoanleitungen](https://docs.adobe.com/content/help/de-DE/journey-orchestration-learn/tutorials/understanding-journey-orchestration.html)
+[Dokumentation](https://docs.adobe.com/content/help/de-DE/journeys/using/journey-orchestration-home.html) – [Versionshinweise](https://docs.adobe.com/content/help/de-DE/journeys/using/release-notes/release-notes.html) – [Videoanleitungen](https://docs.adobe.com/content/help/de-DE/platform-learn/tutorials/journey-orchestration/introduction.html)
 
 ### [!UICONTROL Mobile Services und Mobile SDK] {#mobile}
 
@@ -334,14 +332,14 @@ Eine Sammlung historischer Versionshinweisen finden Sie unter [Marketo-Versionsh
 
 ### Kurse und Tutorials zu Lösungsnamen
 
-Nachfolgend sind die im vergangenen Monat neu veröffentlichten Videos, Tutorials und Kurse aufgeführt.
+Nachfolgend sind die im vergangenen Monat neu veröffentlichten Videos, Tutorials oder Kurse aufgeführt.
 
 | Veröffentlicht | Name | Typ | Beschreibung |
 | -----------| ---------- | ---------- | ---------- |
 | Datum 2020 | [Linktext](https://docs.adobe.com/content/help/en/experience-manager-learn/forms/creating-your-first-adaptive-form/adaptive-forms-getting-started-tutorial-use.html) | Video | Beschreibung |
 | Datum 2020 | [Linktext](https://docs.adobe.com/content/help/en/experience-manager-learn/forms/creating-your-first-adaptive-form/adaptive-forms-getting-started-tutorial-use.html) | Video | Beschreibung |
 | Datum 2020 | [Linktext](https://docs.adobe.com/content/help/en/experience-manager-learn/forms/creating-your-first-adaptive-form/adaptive-forms-getting-started-tutorial-use.html) | Video | Beschreibung |
-| Date, 2020 | [Linktext](https://docs.adobe.com/content/help/en/experience-manager-learn/forms/creating-your-first-adaptive-form/adaptive-forms-getting-started-tutorial-use.html) | Video | Beschreibung |
+| Datum 2020 | [Linktext](https://docs.adobe.com/content/help/en/experience-manager-learn/forms/creating-your-first-adaptive-form/adaptive-forms-getting-started-tutorial-use.html) | Video | Beschreibung |
 | Datum 2020 | [Linktext](https://docs.adobe.com/content/help/en/experience-manager-learn/forms/creating-your-first-adaptive-form/adaptive-forms-getting-started-tutorial-use.html) | Video | Beschreibung |
 | Datum 2020 | [Linktext](https://docs.adobe.com/content/help/en/experience-manager-learn/forms/creating-your-first-adaptive-form/adaptive-forms-getting-started-tutorial-use.html) | Video | Beschreibung |
 | Datum 2020 | [Linktext](https://docs.adobe.com/content/help/en/experience-manager-learn/forms/creating-your-first-adaptive-form/adaptive-forms-getting-started-tutorial-use.html) | Video | Beschreibung |
