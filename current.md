@@ -5,10 +5,10 @@ doc-type: release notes
 last-update: November 2020
 author: mfrei
 translation-type: tm+mt
-source-git-commit: b21c2213d13cf58dded026bce77abd58ee038f1f
+source-git-commit: 48d79544adc9225c086b7574d522622df084623b
 workflow-type: tm+mt
-source-wordcount: '7670'
-ht-degree: 63%
+source-wordcount: '7634'
+ht-degree: 64%
 
 ---
 
@@ -127,7 +127,6 @@ Release-Datum: **29. Oktober 2020**
 | [!UICONTROL Linienvisualisierung]: Option für Trend-Linien mit anpassbaren Durchschnittswerten | 8. Oktober 2020 | Die Option für anpassbare Durchschnittswerte wurde den Durchschnittswerteinstellungen der Linienvisualisierung hinzugefügt. Ein anpassbarer Durchschnittswert berechnet den Mittelwert für einen bestimmten vorherigen Zeitraum und verwendet diesen als Trend-Linien-Datenpunkt. Anschließend erfolgt ein Wechsel zum nächsten Zeitraum. [Weitere Infos](https://docs.adobe.com/content/help/de-DE/analytics/analyze/analysis-workspace/visualizations/line.html) |
 | Einschränkung bei der Aufstockung entfernt | 19. Oktober 2020 | Um ein verbessertes CJA-Erlebnis zu bieten, haben wir die Beschränkung für die Aufstockung (Import historischer Daten) entfernt. Bisher konnten Sie maximal 2,5 Milliarden Zeilen auf eigene Faust aufstocken und aus anderen Gründen war eine Ingenieurbeteiligung erforderlich. Jetzt können Sie Daten ohne Einschränkung selbst aufstocken. [Weitere Infos](https://docs.adobe.com/content/help/en/analytics-platform/using/cja-connections/create-connection.html#enable-connection) |
 | Hilfeseite zur Leistung von Analysis Workspace | 22. Oktober 2020 | Auf der Hilfeseite zur Leistung von Analysis Workspace werden die verschiedenen Faktoren, die die Projektleistung beeinflussen, sowie Links zu Optimierungs-Tipps angezeigt. [Weitere Infos](https://docs.adobe.com/content/help/de-DE/analytics/analyze/analysis-workspace/workspace-faq/optimizing-performance.html) |
-| Komponenten > Benutzereinstellungen, die CJA Workspace hinzugefügt werden | 29. Oktober 2020 | Auf der Seite &quot;Komponenten&quot;> &quot;Benutzereinstellungen&quot;können Sie die Analysis Workspace-Einstellungen (und die zugehörigen Komponenten) für Ihren Benutzer verwalten. Derzeit enthält dies das Tausender-Trennzeichen und das CSV-Trennzeichen. |
 | IQ: Kanal-übergreifende Analyse | 30. Oktober 2020 | IQ: Mit Kanal-übergreifender Analytics können Kunden einen Adobe Analytics-Ereignis-Datensatz (oder einen anderen) im Adobe Experience Platform-Datensee von einem ID-Namensraum zum anderen erneut zuordnen. Dies bedeutet in der Regel, dass der Ereignis-Datensatz von einer Cookie-basierten ID in eine personenbasierte ID erneut verschlüsselt wird. Auf diese Weise kann der neu verschlüsselte Datensatz mit anderen personenbasierten Daten in einer CJA-Verbindung kombiniert werden, wodurch eine geräteübergreifende/kanalübergreifende Analyse in Analysis Workspace möglich ist. |
 
 ### Neue Funktionen in [!UICONTROL Media Analytics] {#media-aa}
