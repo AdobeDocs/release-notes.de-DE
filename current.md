@@ -5,9 +5,9 @@ doc-type: release notes
 last-update: November 2020
 author: mfrei
 translation-type: tm+mt
-source-git-commit: 7e679c9acd5002ab3b6dd232b678f44661ad935a
+source-git-commit: 5050a05473619e75107b0874d592322ee5a70d44
 workflow-type: tm+mt
-source-wordcount: '7894'
+source-wordcount: '7947'
 ht-degree: 63%
 
 ---
@@ -27,7 +27,7 @@ Auf dieser Seite sind neue Funktionen, Fehlerbehebungen und wichtige Hinweise in
 >
 >Abonnieren Sie das [Prioritätsprodukt-Update von Adobe](https://www.adobe.com/subscription/priority-product-update.html), um per E-Mail über bevorstehende Versionen benachrichtigt zu werden.
 
-Letzte Aktualisierung: **28. Oktober 2020**
+Neueste Aktualisierung: **2. November 2020**
 
 * [Systemstatus von Adobe](#status)
 * [Experience Cloud Services und Administration](#ecloud)
@@ -35,10 +35,10 @@ Letzte Aktualisierung: **28. Oktober 2020**
 * [Journey Orchestration](#journey-orch)
 * [Analytics](#analytics) und [Customer Journey Analytics](#cust-journey) (Aktualisiert am 28. Oktober 2020)
 * [Audience Manager](#aam)
-* [Experience Manager](#aem) (Aktualisiert: **28.10.2020**)
+* [Experience Manager](#aem) (Aktualisiert: **28. Oktober 2020**)
 * [Campaign](#ac)
-* [Advertising Cloud](#adcloud) (Updated: **10/28/2020**)
-* [[!DNL Target]](#target)
+* [Advertising Cloud](#adcloud) (Updated: **October 28, 2020**)
+* [[!DNL Target]](#target) (Aktualisiert: **2. November 2020**)
 * [[!DNL Magento]](#magento)
 * [[!DNL Marketo Engage]](#marketo)
 * [[!DNL Primetime]](https://docs.adobe.com/content/help/de-DE/primetime/release-notes/home.html)
@@ -358,6 +358,7 @@ Nachfolgend sind die im vergangenen Monat neu veröffentlichten Videos, Tutorial
 
 | Veröffentlicht | Name | Typ | Beschreibung |
 | -----------| ---------- | ---------- | ---------- |
+| 2. November 2020 | [Laden und Auslösen eines Zielgruppe-Aufrufs](https://docs.adobe.com/content/help/en/experience-manager-learn/sites/integrations/target/load-and-fire-target.html) | Video | Erfahren Sie, wie Sie mithilfe einer Startregel Zielgruppen laden, Parameter an Seitenanfragen übergeben und einen Seitenaufruf von Ihrer Site auslösen können. Seiteninformationen werden mithilfe der Adobe Client Data Layer abgerufen und als Parameter übergeben, mit denen Sie Daten über das Erlebnis der Besucher auf einer Webseite erfassen und speichern können, um so den Zugriff auf diese Daten zu erleichtern. |
 | 28. Oktober 2020 | [Smart-Tags für Videos](https://docs.adobe.com/content/help/en/experience-manager-learn/assets/metadata/video-smart-tags.html) | Video | Experience Manager Assets nutzt Adobe Sensei, um Video-Assets mit Schlüsselwörtern zu versehen, die wichtige Videoelemente beschreiben, sodass sie mithilfe der Suchbegriffsuche von AEM leicht zu entdecken sind. |
 | 27. Oktober 2020 | [Einführung in AEM Dokument Security Extension for Microsoft Office](https://docs.adobe.com/content/help/en/experience-manager-document-security/using/document-security-extension-microsoft-office.html) | Artikel | Adobe Experience Manager Dokument Security Extension for Microsoft Office stellt sicher, dass nur von Ihnen autorisierte Benutzer Word-, Excel- und PowerPoint-Dateien verwenden können, die Ihr geistiges Eigentum enthalten. Mit Dokument Security Extension for Microsoft Office können Sie vordefinierte Vertraulichkeitseinstellungen auf Ihre Dateien anwenden. |
 | 7. Oktober 2020 | [Seitenmetriken der Ansicht in Adobe Analytics](https://docs.adobe.com/content/help/en/experience-manager-learn/sites/integrations/analytics/create-analytics-workspace.html) | Artikel | Erfahren Sie, wie Sie von einer Adobe Experience Manager-Site erfasste Daten Metriken und Dimensionen in Adobe Analytics-Report Suites zuordnen. |
@@ -385,7 +386,6 @@ Nachfolgend sind die im vergangenen Monat neu veröffentlichten Videos, Tutorial
 | 30. September 2020 | [Adobe Client-Datenschicht](https://docs.adobe.com/content/help/en/experience-manager-learn/sites/integrations/adobe-client-data-layer/data-layer-overview.html) | Artikel | Erfahren Sie mehr über die Funktionen und Funktionen der Client-Datenschicht für Ereignis-basierte Adobe und deren Integration mit AEM Sites-Kernkomponenten. Erfahren Sie, wie Sie auf Ereignis hören, den aktuellen Status abrufen und die Datenschicht ändern können. |
 | 30. September 2020 | [Einführung in die Adobe Client-Datenschicht](https://docs.adobe.com/content/help/en/experience-manager-learn/sites/integrations/adobe-client-data-layer/data-layer-overview.html) | Video | Erfahren Sie, wie die ereignisgesteuerte Adobe Client-Datenschicht Daten aus AEM Sites-Kernkomponenten bereitstellt. Mithilfe der Adobe Client-Datenschicht können Tag-Management-Lösungen wie Experience Platform Launch Website-Daten an Anwendungen wie Analytics und Target übertragen. |
 | 8. Oktober 2020 | [hinzufügen Erweiterung des Zieldatensatzes zum Starten der Eigenschaft](https://docs.adobe.com/content/help/en/experience-manager-learn/sites/integrations/target/add-target-launch-extension.html) | Video | Erfahren Sie, wie Sie mithilfe einer Startregel Zielgruppen laden, Parameter an Seitenanfragen übergeben und einen Seitenaufruf von Ihrer Site auslösen können. Seiteninformationen werden mithilfe der Adobe Client Data Layer abgerufen und als Parameter übergeben, mit denen Sie Daten über das Erlebnis der Besucher auf einer Webseite erfassen und speichern können, um so den Zugriff auf diese Daten zu erleichtern. |
-| 8. Oktober 2020 | [hinzufügen Erweiterung des Zieldatensatzes zum Starten der Eigenschaft](https://docs.adobe.com/content/help/en/experience-manager-learn/sites/integrations/target/add-target-launch-extension.html) | Video | Erfahren Sie, wie Sie Ihrer Starteigenschaft eine Adobe Target-Erweiterung hinzufügen |
 | 7. Oktober 2020 | [Adobe Target Cloud Service-Konto erstellen](https://docs.adobe.com/content/help/en/experience-manager-learn/sites/integrations/target/setup-aem-target-cloud-service.html) | Video | Erfahren Sie, wie Sie Adobe Experience Manager als Cloud Service mit Adobe Target integrieren, indem Sie die IMS-Authentifizierung für Cloud Service und Adobe verwenden. |
 | 2. Oktober 2020 | [Überblick über AEM und Adobe Target](https://docs.adobe.com/content/help/en/experience-manager-learn/sites/integrations/target/overview.html) | Video | Sowohl AEM als auch Zielgruppe sind leistungsstarke Lösungen mit scheinbar überlappenden Fähigkeiten. Kunden haben manchmal Schwierigkeiten damit, zu verstehen, wie und wann diese Produkte verwendet werden, um personalisierte Erlebnisse bereitzustellen. Um eine optimale Benutzererfahrung zu gewährleisten, sollten verschiedene Teams in Ihrem Unternehmen eng zusammenarbeiten und definieren, wer was tut. |
 | 2. Oktober 2020 | [Integration von AEM Forms und Adobe Sign](https://experienceleague.adobe.com/?recommended=ExperienceManager-D-1-2020.2.forms) | Kurs | Durch die Zusammenarbeit mit Adobe Sign und AEM Forms können Sie komplexe Transaktionen automatisieren und sichere, rechtliche e-Signaturen als Teil einer nahtlosen digitalen Erfahrung einschließen. |
@@ -445,8 +445,8 @@ Nachfolgend sind die im vergangenen Monat neu veröffentlichten Videos, Tutorial
 
 | Veröffentlicht | Name | Lösung | Beschreibung |
 | ----------- | ----------- | ---------- | ---------- |
-| 20. Oktober 2020 | [Systemsteuerung - Erstellen eines SSH-Schlüssels - Funktionsvideo](https://docs.adobe.com/content/help/en/campaign-classic-learn/control-panel/sftp-management/generate-ssh-key.html) | Campaign Classic | Erfahren Sie, wie Sie einen SSH-Schlüssel mit einem Terminal generieren und wie Sie die öffentliche Version des Schlüssels im Control Panel speichern. |
-| 20. Oktober 2020 | [Systemsteuerung - Verbindung mit einem SFTP-Server - Funktionsvideo](https://docs.adobe.com/content/help/en/campaign-classic-learn/control-panel/sftp-management/connect-to-sftp-server.html) | Campaign Classic | Erfahren Sie, wie Sie mithilfe einer Client-SFTP-Anwendung eine Verbindung zu Ihrem SFTP-Server herstellen und dabei die im Control Panel gespeicherten Schlüssel verwenden. |
+| 2. November 2020 | [Systemsteuerung - Erstellen eines SSH-Schlüssels - Funktionsvideo](https://docs.adobe.com/content/help/en/campaign-classic-learn/control-panel/sftp-management/generate-ssh-key.html) | Campaign Classic | Erfahren Sie, wie Sie einen SSH-Schlüssel mit einem Terminal generieren und wie Sie die öffentliche Version des Schlüssels im Control Panel speichern. |
+| 2. November 2020 | [Systemsteuerung - Verbindung mit einem SFTP-Server - Funktionsvideo](https://docs.adobe.com/content/help/en/campaign-classic-learn/control-panel/sftp-management/connect-to-sftp-server.html) | Campaign Classic | Erfahren Sie, wie Sie mithilfe einer Client-SFTP-Anwendung eine Verbindung zu Ihrem SFTP-Server herstellen und dabei die im Control Panel gespeicherten Schlüssel verwenden. |
 | 20. Oktober 2020 | [Systemsteuerung - Erste Schritte mit der Systemsteuerung - Artikel](https://docs.adobe.com/content/help/en/campaign-classic-learn/control-panel/getting-started-with-the-control-panel.html) | Campaign Classic | In diesem Artikel wird beschrieben, wie Sie auf das Control Panel zugreifen und welche Voraussetzungen erfüllt sein müssen, um mit dem Control Panel arbeiten zu können. |
 | 20. Oktober 2020 | [Systemsteuerung - Erste Schritte mit der Systemsteuerung - Artikel](https://docs.adobe.com/content/help/en/campaign-standard-learn/control-panel/getting-started-with-the-control-panel.html) | Campaign Standard | In diesem Artikel wird beschrieben, wie Sie auf das Control Panel zugreifen und welche Voraussetzungen erfüllt sein müssen, um mit dem Control Panel arbeiten zu können. |
 | 19. Oktober 2020 | [Systemsteuerung - Hinzufügen eines IP-Bereichs zur Zulassungsliste](https://docs.adobe.com/content/help/en/campaign-classic-learn/control-panel/sftp-management/adding-ip-range-to-allow-list.html) | Campaign Classic | Erfahren Sie, wie Sie der Zulassungsliste in der Systemsteuerung einen IP-Adressbereich hinzufügen. |
@@ -500,6 +500,8 @@ Magento-Versionshinweise finden Sie unter:
 Die aktuellen Versionsinformationen finden Sie in den [[!DNL Target]  Versionshinweisen](https://docs.adobe.com/content/help/de-DE/target/using/release-notes/target-release-notes.html).
 
 ### Neue Adobe Target-Kurse und -Tutorials
+
+Aktualisiert: **2. November 2020**
 
 | Veröffentlicht | Name | Typ | Beschreibung |
 | -----------| ---------- | ---------- | ---------- |
