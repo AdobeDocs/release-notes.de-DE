@@ -5,10 +5,10 @@ doc-type: release notes
 last-update: November 2020
 author: mfrei
 translation-type: tm+mt
-source-git-commit: a30288a93dd262f9f9d770242a2bf4fda7812265
+source-git-commit: 7e679c9acd5002ab3b6dd232b678f44661ad935a
 workflow-type: tm+mt
-source-wordcount: '7669'
-ht-degree: 64%
+source-wordcount: '7894'
+ht-degree: 63%
 
 ---
 
@@ -38,7 +38,7 @@ Letzte Aktualisierung: **28. Oktober 2020**
 * [Experience Manager](#aem) (Aktualisiert: **28.10.2020**)
 * [Campaign](#ac)
 * [Advertising Cloud](#adcloud) (Updated: **10/28/2020**)
-* [[!DNL Target]](https://docs.adobe.com/content/help/de-DE/target/using/release-notes/target-release-notes.html)
+* [[!DNL Target]](#target)
 * [[!DNL Magento]](#magento)
 * [[!DNL Marketo Engage]](#marketo)
 * [[!DNL Primetime]](https://docs.adobe.com/content/help/de-DE/primetime/release-notes/home.html)
@@ -210,7 +210,6 @@ Neue Videos, Tutorials oder Kurse, die für Audience Manager veröffentlicht wur
 
 | Veröffentlicht | Name | Typ | Beschreibung |
 | -----------| ---------- | ---------- | ---------- |
-| 29. Oktober 2020 | [Zahlen im Eigenschaftendiagramm](https://experienceleague.adobe.com/docs/audience-manager-learn/tutorials/build-and-manage-audiences/traits-and-segments/understanding-numbers-in-the-trait-graph.html?lang=en#build-and-manage-audiences) | Video | Hier erhalten Sie einige Tipps zum Verständnis der gemeldeten Zahlen für Eigenschaften im Anzeigebereich &quot;Eigenschaften&quot;. |
 | 28. Oktober 2020 | [Zahlen im Eigenschaftendiagramm](https://experienceleague.adobe.com/docs/audience-manager-learn/tutorials/build-and-manage-audiences/traits-and-segments/understanding-numbers-in-the-trait-graph.html?lang=en#build-and-manage-audiences) | Video | Hier erhalten Sie einige Tipps zum Verständnis der gemeldeten Zahlen für Eigenschaften im Anzeigebereich &quot;Eigenschaften&quot;. |
 | 23. Oktober 2020 | [Planen der Erstellung von Eigenschaften aus Analytics-Daten](https://experienceleague.adobe.com/docs/audience-manager-learn/tutorials/build-and-manage-audiences/traits-and-segments/planning-trait-creation-from-analytics-data.html?lang=en#build-and-manage-audiences) | Video | Erfahren Sie mehr über Tipps und Tricks, die Ihnen helfen, wenn Sie planen, Adobe Analytics-Daten in Ihren Eigenschaften in Audience Manager zu verwenden. |
 | 23. Oktober 2020 | [Auswählen einer Datenquelle beim Erstellen von Eigenschaften](https://experienceleague.adobe.com/docs/audience-manager-learn/tutorials/build-and-manage-audiences/traits-and-segments/choosing-a-data-source-when-creating-traits.html?lang=en#build-and-manage-audiences) | Video | Eines der wichtigen Felder, die beim Erstellen von Eigenschaften ausgefüllt werden müssen, ist das Feld Datenquelle. Hier erhalten Sie Tipps zur Auswahl der richtigen Datenquelle für regelbasierte und integrierte Eigenschaften. |
@@ -446,6 +445,10 @@ Nachfolgend sind die im vergangenen Monat neu veröffentlichten Videos, Tutorial
 
 | Veröffentlicht | Name | Lösung | Beschreibung |
 | ----------- | ----------- | ---------- | ---------- |
+| 20. Oktober 2020 | [Systemsteuerung - Erstellen eines SSH-Schlüssels - Funktionsvideo](https://docs.adobe.com/content/help/en/campaign-classic-learn/control-panel/sftp-management/generate-ssh-key.html) | Campaign Classic | Erfahren Sie, wie Sie einen SSH-Schlüssel mit einem Terminal generieren und wie Sie die öffentliche Version des Schlüssels im Control Panel speichern. |
+| 20. Oktober 2020 | [Systemsteuerung - Verbindung mit einem SFTP-Server - Funktionsvideo](https://docs.adobe.com/content/help/en/campaign-classic-learn/control-panel/sftp-management/connect-to-sftp-server.html) | Campaign Classic | Erfahren Sie, wie Sie mithilfe einer Client-SFTP-Anwendung eine Verbindung zu Ihrem SFTP-Server herstellen und dabei die im Control Panel gespeicherten Schlüssel verwenden. |
+| 20. Oktober 2020 | [Systemsteuerung - Erste Schritte mit der Systemsteuerung - Artikel](https://docs.adobe.com/content/help/en/campaign-classic-learn/control-panel/getting-started-with-the-control-panel.html) | Campaign Classic | In diesem Artikel wird beschrieben, wie Sie auf das Control Panel zugreifen und welche Voraussetzungen erfüllt sein müssen, um mit dem Control Panel arbeiten zu können. |
+| 20. Oktober 2020 | [Systemsteuerung - Erste Schritte mit der Systemsteuerung - Artikel](https://docs.adobe.com/content/help/en/campaign-standard-learn/control-panel/getting-started-with-the-control-panel.html) | Campaign Standard | In diesem Artikel wird beschrieben, wie Sie auf das Control Panel zugreifen und welche Voraussetzungen erfüllt sein müssen, um mit dem Control Panel arbeiten zu können. |
 | 19. Oktober 2020 | [Systemsteuerung - Hinzufügen eines IP-Bereichs zur Zulassungsliste](https://docs.adobe.com/content/help/en/campaign-classic-learn/control-panel/sftp-management/adding-ip-range-to-allow-list.html) | Campaign Classic | Erfahren Sie, wie Sie der Zulassungsliste in der Systemsteuerung einen IP-Adressbereich hinzufügen. |
 | 19. Oktober 2020 | [Systemsteuerung - Hinzufügen eines IP-Bereichs zur Zulassungsliste](https://docs.adobe.com/content/help/en/campaign-standard-learn/control-panel/sftp-management/adding-ip-range-to-allow-list.html) | Campaign Standard | Erfahren Sie, wie Sie der Zulassungsliste in der Systemsteuerung einen IP-Adressbereich hinzufügen. |
 | 16. Oktober 2020 | [Systemsteuerung - Delegieren von Subdomänen mit CNAME (Beta) - Video zu Funktionen](https://docs.adobe.com/content/help/de-DE/campaign-classic-learn/control-panel/subdomains-and-certificates/delegating-subdomains-using-cname.html) | Campaign Classic | Erfahren Sie, wie Sie eine Subdomäne mithilfe von CNAMEs im Steuerungsbedienfeld einrichten und senden. |
@@ -491,6 +494,16 @@ Magento-Versionshinweise finden Sie unter:
 
 * [Magento Commerce 2.3.5](https://devdocs.magento.com/guides/v2.3/release-notes/release-notes-2-3-5-open-source.html)
 * [Magento Open Source 2.3.5](https://devdocs.magento.com/guides/v2.3/release-notes/release-notes-2-3-5-open-source.html)
+
+## ![Symbol](/assets/target.png)[!DNL Target] {#target}
+
+Die aktuellen Versionsinformationen finden Sie in den [[!DNL Target]  Versionshinweisen](https://docs.adobe.com/content/help/de-DE/target/using/release-notes/target-release-notes.html).
+
+### Neue Adobe Target-Kurse und -Tutorials
+
+| Veröffentlicht | Name | Typ | Beschreibung |
+| -----------| ---------- | ---------- | ---------- |
+| 11. Oktober 2020 | [Bereitstellungsmodell für Hybrid-Personalisierung](https://docs.adobe.com/content/help/en/target-learn/tutorials/implementation/hybrid-deployment.html) | Video | Adobe Target Angebots ist ein einzigartiges Hybrid-Bereitstellungsmodell für die Personalisierung - die Kombination clientseitiger und serverseitiger Implementierungen. Mit diesem Hybridmodell können nicht-technische Benutzer mithilfe des WYSIWYG Visual Experience Composer eine Experiment- oder Personalisierungs-Aktivität erstellen und das Erlebnis auf Serverseite für einen leistungsstarken Versand ausführen, ausliefern und wiedergeben. |
 
 ## ![Symbol](/assets/marketo.png) [!DNL Marketo Engage] {#marketo}
 
