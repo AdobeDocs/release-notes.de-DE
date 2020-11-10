@@ -5,7 +5,7 @@ doc-type: release notes
 last-update: November 2020
 author: mfrei
 translation-type: tm+mt
-source-git-commit: 27e6ef1fb123fd8a5d136f86c5df492ea6e79733
+source-git-commit: 46d20e153aaa57df2387c2d084b6c20b914bc8e1
 workflow-type: tm+mt
 source-wordcount: '8040'
 ht-degree: 100%
@@ -27,13 +27,13 @@ Auf dieser Seite sind neue Funktionen, Fehlerbehebungen und wichtige Hinweise in
 >
 >Abonnieren Sie das [Prioritätsprodukt-Update von Adobe](https://www.adobe.com/subscription/priority-product-update.html), um per E-Mail über bevorstehende Versionen benachrichtigt zu werden.
 
-Neueste Aktualisierung: **2. November 2020**
+Neueste Aktualisierung: **10. November 2020**
 
 * [Systemstatus von Adobe](#status)
 * [Experience Cloud Services und Administration](#ecloud)
 * [Experience Platform](#platform)
 * [Journey Orchestration](#journey-orch)
-* [Analytics](#analytics) und [Customer Journey Analytics](#cust-journey)   (Aktualisiert: **2. November 2020**)
+* [Analytics](#analytics) und [Customer Journey Analytics](#cust-journey)   (Aktualisiert: **10. November 2020**)
 * [Audience Manager](#aam)
 * [Experience Manager](#aem) (Aktualisiert: **Mittwoch, 28. Oktober 2020**)
 * [Campaign](#ac)
@@ -108,7 +108,7 @@ Mithilfe der Adobe Experience Platform können Sie individuelle Customer Journey
 Release-Datum: **29. Oktober 2020**
 
 * [Neue Funktionen in Adobe Analytics](#aa-features)
-* [Neue Funktionen in Customer Journey Analytics](#cust-journey)  (Aktualisiert: 2. November 2020)
+* [Neue Funktionen in Customer Journey Analytics](#cust-journey)  (Aktualisiert: 10. November 2020)
 * [Neue Funktionen in Media Analytics](#media-aa)
 * [Fehlerbehebungen in Adobe Analytics](#aa-fixes)
 * [Wichtige Hinweise für Analytics-Administratoren](#aa-notices)
@@ -133,9 +133,9 @@ Release-Datum: **29. Oktober 2020**
 | [!UICONTROL Linienvisualisierung]: Option für Trend-Linien mit anpassbaren Durchschnittswerten | 8. Oktober 2020 | Die Option für anpassbare Durchschnittswerte wurde den Durchschnittswerteinstellungen der Linienvisualisierung hinzugefügt. Ein anpassbarer Durchschnittswert berechnet den Mittelwert für einen bestimmten vorherigen Zeitraum und verwendet diesen als Trend-Linien-Datenpunkt. Anschließend erfolgt ein Wechsel zum nächsten Zeitraum. [Weitere Infos](https://docs.adobe.com/content/help/de-DE/analytics/analyze/analysis-workspace/visualizations/line.html) |
 | Einschränkung bei der Aufstockung entfernt | 19. Oktober 2020 | Um ein verbessertes CJA-Erlebnis zu bieten, haben wir die Beschränkung für die Aufstockung (Import historischer Daten) entfernt. Bisher konnten Sie maximal 2,5 Milliarden Zeilen selbst aufstocken und benötigten ansonsten die Hilfe eines Ingenieurs. Jetzt können Sie Daten ohne Einschränkung selbst aufstocken. [Weitere Infos](https://docs.adobe.com/content/help/de-DE/analytics-platform/using/cja-connections/create-connection.html#enable-connection) |
 | Hilfeseite zur Leistung von Analysis Workspace | 22. Oktober 2020 | Auf der Hilfeseite zur Leistung von Analysis Workspace werden die verschiedenen Faktoren, die die Projektleistung beeinflussen, sowie Links zu Optimierungs-Tipps angezeigt. [Weitere Infos](https://docs.adobe.com/content/help/de-DE/analytics/analyze/analysis-workspace/workspace-faq/optimizing-performance.html) |
-| Journey IQ: Kanalübergreifende Analyse | 30. Oktober 2020 | Journey IQ: Die kanalübergreifende Analyse ermöglicht es Kunden, einen Adobe Analytics-Ereignis-Datensatz (oder einen anderen) im Adobe Experience Platform Data Lake von einem ID-Namespace zum anderen erneut zu verschlüsseln. Dies bedeutet in der Regel, dass der Ereignis-Datensatz von einer Cookie-basierten ID in eine personenbasierte ID erneut verschlüsselt wird. Auf diese Weise kann der neu verschlüsselte Datensatz mit anderen personenbasierten Daten in einer CJA-Verbindung kombiniert werden, wodurch eine geräteübergreifende/kanalübergreifende Analyse in Analysis Workspace möglich ist. |
 | Metriken und Dimensionen der [!UICONTROL Besuchszeit] | 30. Oktober 2020 | Metriken und Dimensionen der [!UICONTROL Besuchszeit] ermöglichen es Ihnen, die Zeit zu bestimmen, die die Kunden in verschiedenen Abschnitten der Customer Journey verbringen. So erhalten Sie eine umfassendere Ansicht der Interaktionen und Engpässe aller Kanäle. |
 | [!UICONTROL Geräte]- und [!UICONTROL Geografie]-Dimensionen | 30. Oktober 2020 | [!UICONTROL Geräte]- und [!UICONTROL Geografie]-Dimensionen sind jetzt standardmäßig als Teil des Projekts „Globale Suche“ im [Adobe Analytics-Quell-Connector](https://docs.adobe.com/content/help/de-DE/platform-learn/tutorials/data-ingestion/ingest-data-from-adobe-analytics.html) verfügbar. Dieser dringend benötigte Zusatz erhöht die [Parität zwischen Adobe Analytics und CJA](https://docs.adobe.com/content/help/de-DE/analytics-platform/using/cja-overview/cja-aa.html). |
+| Journey IQ: Kanalübergreifende Analyse | 22. November 2020 | Journey IQ: Die kanalübergreifende Analyse ermöglicht es Kunden, einen Adobe Analytics-Ereignis-Datensatz (oder einen anderen) im Adobe Experience Platform Data Lake von einem ID-Namespace zum anderen erneut zu verschlüsseln. Dies bedeutet in der Regel, dass der Ereignis-Datensatz von einer Cookie-basierten ID in eine personenbasierte ID erneut verschlüsselt wird. Auf diese Weise kann der neu verschlüsselte Datensatz mit anderen personenbasierten Daten in einer CJA-Verbindung kombiniert werden, wodurch eine geräteübergreifende/kanalübergreifende Analyse in Analysis Workspace möglich ist. |
 
 ### Neue Funktionen in [!UICONTROL Media Analytics] {#media-aa}
 
