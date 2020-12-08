@@ -5,7 +5,7 @@ doc-type: release notes
 last-update: November 2020
 author: mfrei
 translation-type: tm+mt
-source-git-commit: d52b26253abaf781eade05e8925943c6b605ae60
+source-git-commit: 3f1afc6a9c158b461be3ded3bac935bcfac11066
 workflow-type: tm+mt
 source-wordcount: '9838'
 ht-degree: 85%
@@ -27,13 +27,13 @@ Auf dieser Seite sind neue Funktionen, Fehlerbehebungen und wichtige Hinweise in
 >
 >Abonnieren Sie das [Prioritätsprodukt-Update von Adobe](https://www.adobe.com/subscription/priority-product-update.html), um per E-Mail über bevorstehende Versionen benachrichtigt zu werden.
 
-Letzte Aktualisierung: **2. Dezember 2020**
+Letzte Aktualisierung: **8. Dezember 2020**
 
 * [Systemstatus von Adobe](#status)
 * [Experience Cloud Services und Administration](#ecloud)
 * [Experience Platform](#platform)
 * [Journey Orchestration](#journey-orch)
-* [Analytics](#analytics) und [Customer Journey Analytics](#cust-journey) (Aktualisiert am **2. Dezember 2020**)
+* [Analytics](#analytics) und [Customer Journey Analytics](#cust-journey) (Aktualisiert am **8. Dezember 2020**)
 * [Audience Manager](#aam)
 * [Experience Manager](#aem) (Aktualisiert: **28. Oktober 2020**)
 * [Campaign](#ac)
@@ -122,7 +122,7 @@ Mithilfe der Adobe Experience Platform können Sie individuelle Customer Journey
 Release-Datum: **29. Oktober 2020**
 
 * [Neue Funktionen in Adobe Analytics](#aa-features)
-* [Neue Funktionen in Customer Journey Analytics](#cust-journey) (Aktualisiert am 2. Dezember 2020)
+* [Neue Funktionen in Customer Journey Analytics](#cust-journey) (Aktualisiert am 8. Dezember 2020)
 * [Neue Funktionen in Media Analytics](#media-aa)
 * [Fehlerbehebungen in Adobe Analytics](#aa-fixes)
 * [Wichtige Hinweise für Analytics-Administratoren](#aa-notices)
@@ -149,7 +149,7 @@ Release-Datum: **29. Oktober 2020**
 | Hilfeseite zur Leistung von Analysis Workspace | 22. Oktober 2020 | Auf der Hilfeseite zur Leistung von Analysis Workspace werden die verschiedenen Faktoren, die die Projektleistung beeinflussen, sowie Links zu Optimierungs-Tipps angezeigt. [Weitere Infos](https://docs.adobe.com/content/help/de-DE/analytics/analyze/analysis-workspace/workspace-faq/optimizing-performance.html) |
 | Metriken und Dimensionen der [!UICONTROL Besuchszeit] | 30. Oktober 2020 | Metriken und Dimensionen der [!UICONTROL Besuchszeit] ermöglichen es Ihnen, die Zeit zu bestimmen, die die Kunden in verschiedenen Abschnitten der Customer Journey verbringen. So erhalten Sie eine umfassendere Ansicht der Interaktionen und Engpässe aller Kanäle. |
 | [!UICONTROL Geräte]- und [!UICONTROL Geografie]-Dimensionen | 30. Oktober 2020 | [!UICONTROL Geräte]- und [!UICONTROL Geografie]-Dimensionen sind jetzt standardmäßig als Teil des Projekts „Globale Suche“ im [Adobe Analytics-Quell-Connector](https://docs.adobe.com/content/help/de-DE/platform-learn/tutorials/data-ingestion/ingest-data-from-adobe-analytics.html) verfügbar. Dieser dringend benötigte Zusatz erhöht die [Parität zwischen Adobe Analytics und CJA](https://docs.adobe.com/content/help/de-DE/analytics-platform/using/cja-overview/cja-aa.html). |
-| Journey IQ: Kanalübergreifende Analyse | 11. Dezember 2020 | Journey IQ: Die kanalübergreifende Analyse ermöglicht es Kunden, einen Adobe Analytics-Ereignis-Datensatz (oder einen anderen) im Adobe Experience Platform Data Lake von einem ID-Namespace zum anderen erneut zu verschlüsseln. Dies bedeutet in der Regel, dass der Ereignis-Datensatz von einer Cookie-basierten ID in eine personenbasierte ID erneut verschlüsselt wird. Auf diese Weise kann der neu verschlüsselte Datensatz mit anderen personenbasierten Daten in einer CJA-Verbindung kombiniert werden, wodurch eine geräteübergreifende/kanalübergreifende Analyse in Analysis Workspace möglich ist. [Weitere Infos](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-connections/cca/overview.html?lang=de-DE#cja-connections) |
+| Journey IQ: Kanalübergreifende Analyse | 11. Januar 2021 | Journey IQ: Die kanalübergreifende Analyse ermöglicht es Kunden, einen Adobe Analytics-Ereignis-Datensatz (oder einen anderen) im Adobe Experience Platform Data Lake von einem ID-Namespace zum anderen erneut zu verschlüsseln. Dies bedeutet in der Regel, dass der Ereignis-Datensatz von einer Cookie-basierten ID in eine personenbasierte ID erneut verschlüsselt wird. Auf diese Weise kann der neu verschlüsselte Datensatz mit anderen personenbasierten Daten in einer CJA-Verbindung kombiniert werden, wodurch eine geräteübergreifende/kanalübergreifende Analyse in Analysis Workspace möglich ist. [Weitere Infos](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-connections/cca/overview.html?lang=de-DE#cja-connections) |
 
 ### Neue Funktionen in [!UICONTROL Media Analytics] {#media-aa}
 
