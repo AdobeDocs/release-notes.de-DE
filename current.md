@@ -5,10 +5,10 @@ doc-type: release notes
 last-update: November 2020
 author: mfrei
 translation-type: tm+mt
-source-git-commit: 2f04d1dd4487a4e169360c0b23cdbef257121794
+source-git-commit: ec98405c2e3d4a712d42487917029dae7aa454f3
 workflow-type: tm+mt
-source-wordcount: '9815'
-ht-degree: 100%
+source-wordcount: '9816'
+ht-degree: 99%
 
 ---
 
@@ -144,7 +144,7 @@ Release-Datum: **29. Oktober 2020**
 | Einschränkung bei der Aufstockung entfernt | 19. Oktober 2020 | Um ein verbessertes CJA-Erlebnis zu bieten, haben wir die Beschränkung für die Aufstockung (Import historischer Daten) entfernt. Bisher konnten Sie maximal 2,5 Milliarden Zeilen selbst aufstocken und benötigten ansonsten die Hilfe eines Ingenieurs. Jetzt können Sie Daten ohne Einschränkung selbst aufstocken. [Weitere Infos](https://docs.adobe.com/content/help/de-DE/analytics-platform/using/cja-connections/create-connection.html#enable-connection) |
 | Hilfeseite zur Leistung von Analysis Workspace | 22. Oktober 2020 | Auf der Hilfeseite zur Leistung von Analysis Workspace werden die verschiedenen Faktoren, die die Projektleistung beeinflussen, sowie Links zu Optimierungs-Tipps angezeigt. [Weitere Infos](https://docs.adobe.com/content/help/en/analytics/analyze/analysis-workspace/workspace-faq/optimizing-performance.html) |
 | Metriken und Dimensionen der [!UICONTROL Besuchszeit] | 30. Oktober 2020 | Metriken und Dimensionen der [!UICONTROL Besuchszeit] ermöglichen es Ihnen, die Zeit zu bestimmen, die die Kunden in verschiedenen Abschnitten der Customer Journey verbringen. So erhalten Sie eine umfassendere Ansicht der Interaktionen und Engpässe aller Kanäle. |
-| [!UICONTROL Geräte]- und [!UICONTROL Geografie]-Dimensionen | 30. Oktober 2020 | [!UICONTROL Geräte]- und [!UICONTROL Geografie]-Dimensionen sind jetzt standardmäßig als Teil des Projekts „Globale Suche“ im [Adobe Analytics-Quell-Connector](https://docs.adobe.com/content/help/de-DE/platform-learn/tutorials/data-ingestion/ingest-data-from-adobe-analytics.html) verfügbar. Dieser dringend benötigte Zusatz erhöht die [Parität zwischen Adobe Analytics und CJA](https://docs.adobe.com/content/help/de-DE/analytics-platform/using/cja-overview/cja-aa.html). |
+| [!UICONTROL Geräte]- und [!UICONTROL Geografie]-Dimensionen | 30. Oktober 2020 | [!UICONTROL Die ] Dimensionen &quot;Geräte&quot;und &quot;  Geografie&quot;stehen jetzt standardmäßig im Rahmen des  [Global ](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-usecases/global-lookups.html?lang=en#cja-usecases) Lookupsupport-Projekts im Adobe Analytics Source Connector zur Verfügung. Dieser dringend benötigte Zusatz erhöht die [Parität zwischen Adobe Analytics und CJA](https://docs.adobe.com/content/help/de-DE/analytics-platform/using/cja-overview/cja-aa.html). |
 | Journey IQ: Kanalübergreifende Analyse | 11. Januar 2021 | Journey IQ: Die kanalübergreifende Analyse ermöglicht es Kunden, einen Adobe Analytics-Ereignis-Datensatz (oder einen anderen) im Adobe Experience Platform Data Lake von einem ID-Namespace zum anderen erneut zu verschlüsseln. Dies bedeutet in der Regel, dass der Ereignis-Datensatz von einer Cookie-basierten ID in eine personenbasierte ID erneut verschlüsselt wird. Auf diese Weise kann der neu verschlüsselte Datensatz mit anderen personenbasierten Daten in einer CJA-Verbindung kombiniert werden, wodurch eine geräteübergreifende/kanalübergreifende Analyse in Analysis Workspace möglich ist. [Weitere Infos](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-connections/cca/overview.html?lang=de-DE#cja-connections) |
 
 ### Neue Funktionen in [!UICONTROL Media Analytics] {#media-aa}
