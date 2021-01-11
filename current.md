@@ -5,10 +5,10 @@ doc-type: release notes
 last-update: January 2021
 author: mfrei
 translation-type: tm+mt
-source-git-commit: 3d0946fe6fc0bf74ec45a19931c106afb8a8208d
+source-git-commit: 5175e3e92bd445254532c614bda3f7a048f31a86
 workflow-type: tm+mt
-source-wordcount: '6185'
-ht-degree: 44%
+source-wordcount: '6419'
+ht-degree: 43%
 
 ---
 
@@ -135,6 +135,7 @@ Releasedatum: **14. Januar 2021**
 * [Fehlerbehebungen in Adobe Analytics](#aa-fixes)
 * [Wichtige Hinweise für Analytics-Administratoren](#aa-notices)
 * [AppMeasurement](#appm)
+* [Report Builder ](#arb)
 
 ### Neue Funktionen in Adobe Analytics {#aa-features}
 
@@ -181,6 +182,7 @@ AN-204659; AN-221726; AN-230949; AN-231984; AN-232835;  AN-233989; AN-235593; AN
 
 | Hinweis | Hinzugefügt oder aktualisiert am | Beschreibung |
 | ----------- | ---------- | ---------- |
+| Erforderliches [!UICONTROL Report Builder]-Update | 8. Januar 2021 | Bis zum 30. April 2021 müssen alle [!UICONTROL Report Builder]-Benutzer das [!UICONTROL Report Builder]-Add-In auf Version 5.6.47 oder höher aktualisieren. Diese Version enthält eine wichtige Aktualisierung des Anmeldeprozesses. Benutzer, die nicht auf Version 5.6.47 oder höher aktualisieren, können sich nach dem 30. April 2021 nicht mehr anmelden. [!UICONTROL Report ] Builder Version 5.6.47 und höher unterstützt nur die Experience Cloud-Anmeldung und unterstützt keine Legacy-Anmeldungen wie SiteCatalyst Single Sign-On oder die Standard-Anmeldung. Weitere Informationen finden Sie unter [Report Builder-Anmeldung](https://experienceleague.adobe.com/docs/analytics/analyze/report-builder/report-builder-setup/login.html?lang=en#section_6D54B8ADAE7F416BB83F5082B3771CFA). |
 | Ende der Laufzeit für drei Analytics-API-Dienste | 6. Januar 2021 | Am 30. April 2021 werden die folgenden Analytics Legacy-API-Dienste auf das Enddatum eingestellt und geschlossen. Alle aktuellen Integrationen, die mit diesen Diensten erstellt wurden, funktionieren an diesem Tag nicht mehr.<ul><li>1.3 Analytics-APIs</li><li>1.4 SOAP Analytics-APIs</li><li>Legacy-OAuth-Authentifizierung (OAuth und JWT)</li></ul>Wir haben eine [Ältere API EOL FAQ](https://github.com/AdobeDocs/analytics-1.4-apis/blob/master/docs/APIEOL.md?mv=email) bereitgestellt, die Ihnen bei der Beantwortung Ihrer Fragen hilft und Anleitungen zum Fortfahren gibt. API-Integrationen, die diese Dienste verwenden, können zu den Analytics REST-APIs [1.4 und/oder den Analytics-APIs [2.0 migrieren. ](https://github.com/AdobeDocs/analytics-1.4-apis?mv=email)](https://github.com/AdobeDocs/analytics-2.0-apis?mv=email) Ältere OAuth-Konten können zu einem [Adobe IO](https://console.adobe.io/home?mv=email#) Analytics-Integrationskonto migrieren, das für den Zugriff auf sowohl Analytics-APIs 1.4 als auch Analytics-APIs 2.0 verwendet werden kann. |
 | Hinzufügen der HSTS-Kopfzeile zu allen eingehenden HTTPS-Anfragen | 29. Sept. 2020 | Am 29. September 2020 haben wir begonnen, allen eingehenden Anfragen, die HTTPS verwenden, die HSTS-Kopfzeile hinzuzufügen. Dadurch wird der Browser/Client angewiesen, alle zukünftigen Anfragen in HTTPS durchzuführen, was als Best Practice für die Sicherheit gilt. Aktuell werden wir dies nicht für eingehende Anfragen unter Verwendung von HTTP durchführen. |
 | Ändern Sie die Cookie-Einstellung in [!UICONTROL Experience Cloud-ID-Dienst] | 22. Sept. 2020 | Eine Aktualisierung der Datenschutzeinstellungen für Chrome Version 80 führte zur Beeinträchtigung der Fähigkeit von Adobe Analytics, manche Benutzer zu tracken, die Google AMP-Seiten betrachten. Insbesondere verhindert sie das domänenübergreifende Tracking von Benutzern, die Google-gehostete AMP-Seiten anzeigen. Dies könnte zu einer erhöhten Anzahl von Unique Visitors führen. Mit dieser Korrektur können Benutzer dieses Problem lösen, indem sie die Einstellungen für ihre ECID-Cookies ändern.<br>Derzeit setzt Analytics Experience Cloud ID Service (ECID)-Cookies mit der Einstellung `SameSite = Lax`, was vor Version 80 von Chrome ein domänenübergreifendes Tracking ermöglichte. Das ist nicht mehr der Fall. Diese Änderung ermöglicht es jetzt Benutzern, die SameSite-Einstellung für ECID-Cookies auf `None` zu aktualisieren.<br>Beachten Sie, dass dadurch Analytics-Cookies in zusätzlichen Situationen geteilt werden können, sie jedoch keine vertraulichen Daten enthalten. Darüber hinaus müssen bei der Auswahl dieser Einstellung Cookies auf `Secure` gesetzt werden, damit Daten nur über HTTPS-Verbindungen weitergeleitet werden können. Wenn Sie diese Änderung vornehmen möchten, bitten Sie einen unterstützten Benutzer, ein Ticket beim Kundendienst zu öffnen. |
@@ -191,7 +193,13 @@ AN-204659; AN-221726; AN-230949; AN-231984; AN-232835;  AN-233989; AN-235593; AN
 
 ### AppMeasurement {#appm}
 
-Die neuesten Aktualisierungen zu AppMeasurement-Versionen finden Sie in den Versionshinweisen zu [AppMeasurement für JavaScript](https://docs.adobe.com/content/help/de-DE/analytics/implementation/appmeasurement-updates.html).
+Die neuesten Aktualisierungen zu AppMeasurement-Versionen finden Sie in den [Versionshinweisen zu AppMeasurement für JavaScript](https://docs.adobe.com/content/help/de-DE/analytics/implementation/appmeasurement-updates.html).
+
+### Report Builder {#arb}
+
+| Funktion | [Allgemeine Verfügbarkeit](https://docs.adobe.com/content/help/en/analytics/landing/an-releases.html) – geplantes Datum | Beschreibung |
+| ----------- | ---------- | ----- |
+| Anmelde-Update für Analytics [!UICONTROL Report Builder] | 14. Januar 2021 | Die Verbesserungen am Anmeldeprozess [!UICONTROL Report Builder] entfernen Abhängigkeiten von älteren Technologien und richten den Anmeldeprozess an Adobe Experience Cloud aus. Mit dem Experience Cloud-Anmelden können Sie sich mit Ihrem Adobe ID oder Ihrer Enterprise ID (Single Sign-On) beim Adobe Experience Cloud anmelden. Bis zum 30. April 2021 müssen alle [!UICONTROL Report Builder]-Benutzer das [!UICONTROL Report Builder]-Add-In auf Version 5.6.47 oder höher aktualisieren. [!UICONTROL Report ] Builder Version 5.6.47 und höher unterstützt nur die Experience Cloud-Anmeldung und unterstützt keine alten Anmeldungen, wie z. B. SiteCatalyst Single Sign-On oder die standardmäßige Anmeldung. Weitere Informationen finden Sie unter [Report Builder-Anmeldung](https://experienceleague.adobe.com/docs/analytics/analyze/report-builder/report-builder-setup/login.html?lang=en#section_6D54B8ADAE7F416BB83F5082B3771CFA). |
 
 ### Analytics-Hilferessourcen
 
