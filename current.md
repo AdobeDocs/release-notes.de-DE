@@ -5,9 +5,9 @@ doc-type: release notes
 last-update: January 2021
 author: mfrei
 translation-type: tm+mt
-source-git-commit: 4f4eac5843bd39369950c543749455580b1cb964
+source-git-commit: 23d521bb24f13ed6ad843b605f72f362262790c2
 workflow-type: tm+mt
-source-wordcount: '6184'
+source-wordcount: '6183'
 ht-degree: 44%
 
 ---
@@ -453,7 +453,7 @@ Die aktuellen Versionsinformationen finden Sie in den [[!DNL Target] Versionshin
 
 ### Aktualisierungen von Core Marketo Engage
 
-Die aktuellen Versionsinformationen finden Sie in den [!DNL Marketo] [Versionshinweisen](https://docs.marketo.com/display/public/DOCS/Release+Notes%3A+July+%2720).
+Die aktuellen Versionsinformationen finden Sie in den [!DNL Marketo] [Versionshinweisen](https://docs.marketo.com/display/public/DOCS/Jan+%2721).
 
 ### Bevorstehende Funktionen
 
@@ -469,7 +469,7 @@ Die folgenden Funktionen werden im Laufe dieses Quartals veröffentlicht:
 * **Asset-API-Parameter „_method“:** Ab September 2020 wird `_method` nicht mehr vom Asset-API-Endpunkten akzeptiert, um Abfrageparameter zu einem POST-Textkörper weiterzuleiten und URI-Längenbeschränkungen zu umgehen.
 * **Einstellung der Unterstützung für Internet Explorer:** Ab der Juli-Version vom 31. Juli 2020 wird die Benutzeroberfläche von Marketo Engage in Internet Explorer nicht mehr unterstützt.
 
-Eine Sammlung historischer Versionshinweisen finden Sie unter [Marketo-Versionshinweise](https://docs.marketo.com/x/CgA6Ag).
+Eine Sammlung historischer Versionshinweisen finden Sie unter [Marketo-Versionshinweise](https://docs.marketo.com/display/public/DOCS/Release+Notes).
 
 ## ![Symbol](/assets/document-cloud-24.png) Document Cloud {#doc-cloud}
 
