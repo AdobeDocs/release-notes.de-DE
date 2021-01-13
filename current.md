@@ -5,10 +5,10 @@ doc-type: release notes
 last-update: January 2021
 author: mfrei
 translation-type: tm+mt
-source-git-commit: 40f7861366595738d6ba7b7ebcbbba514b2c98c7
+source-git-commit: 173c6f89606fb3a5fde4db91f66900476293f6b5
 workflow-type: tm+mt
-source-wordcount: '6518'
-ht-degree: 42%
+source-wordcount: '6601'
+ht-degree: 41%
 
 ---
 
@@ -23,11 +23,11 @@ Auf dieser Seite sind neue Funktionen, Fehlerbehebungen und wichtige Hinweise in
 >
 >Abonnieren Sie die monatliche Produktaktualisierung [Adobe Priority Product Update](https://www.adobe.com/subscription/priority-product-update.html), um E-Mail-Benachrichtigungen über Updates auf dieser Seite zu erhalten. Diese Seite wird den ganzen Monat lang gepflegt. Informieren Sie sich daher regelmäßig über die neuesten Adoben zu Unternehmensprodukten und der Experience League-Dokumentation.
 
-Neueste Aktualisierung: **12. Januar 2021**
+Neueste Aktualisierung: **13. Januar 2021**
 
 * [Systemstatus](#status)  der Adobe (nicht aktualisiert)
 * [Experience Cloud Services und Administration](#ecloud)
-* [Experience Platform](#platform)
+* [Experience Platform](#platform)  (Aktualisiert  **am 13. Januar 2021**)
 * [Journey Orchestration](#journey-orch)
 * [Analytics](#analytics) und [Customer Journey Analytics](#cust-journey) (Aktualisiert: **12. Januar 2021**)
 * [Audience Manager](#aam)
@@ -55,7 +55,10 @@ Aktuelle Versionshinweise finden Sie unter [Systemstatus von Adobe – 21. Mai 2
 
 Kein Update in diesem Monat.
 
-Aktuelle Versionsinformationen finden Sie unter [den gesammelten Versionshinweisen zu Experience Cloud-Services](https://docs.adobe.com/content/help/de-DE/core-services/interface/release-notes/release-notes.html).
+**Siehe auch**
+
+* [Gesammelte Versionshinweise zu Experience Cloud-](https://docs.adobe.com/content/help/de-DE/core-services/interface/release-notes/release-notes.html) Services für die neuesten Versionsinformationen.
+* [Experience Cloud-ID-](https://experienceleague.adobe.com/docs/id-service/using/release-notes/release-notes.html) Servicerelease-Hinweise
 
 ## ![Symbol](/assets/experience_platform_appicon_24.png) Adobe Experience Platform {#platform}
 
@@ -75,7 +78,14 @@ Die neuesten Aktualisierungen für:[](https://experienceleague.adobe.com/docs/ex
 
 ### Experience Platform Launch
 
-Informationen zu Platform Launch finden Sie in den [Versionshinweisen zu Experience Platform Launch](https://experienceleague.adobe.com/docs/launch/using/release-notes/current.html).
+Releasedatum: **13. Januar 2021**
+
+**[!UICONTROL Serverseite] starten: Daten auf Ereignis-Ebene an das AEP Edge Network** senden. Verwenden Sie dann die Seite &quot;Launch&quot;, um die Daten zu transformieren, zu erweitern und an einen Endpunkt ohne Adobe zu senden, indem Sie die Server der Adobe und nicht den Client mit niedriger Latenz verwenden. [Mehr...](https://experienceleague.adobe.com/docs/launch/using/server-side-info/server-side-overview.html?lang=en#server-side-info)
+
+**Siehe auch**
+
+* [Versionshinweise ](https://experienceleague.adobe.com/docs/launch/using/release-notes/current.html) zu Experience Platform Launchs.
+* [Versionshinweise zum Experience Cloud-ID-Dienst ](https://experienceleague.adobe.com/docs/launch/using/extensions-ref/adobe-extension/id-service-extension/experience-cloud-id-release-notes.html) für Erweiterung
 
 ### Adobe Mobile
 
