@@ -23,7 +23,7 @@ Auf dieser Seite sind neue Funktionen, Fehlerbehebungen und wichtige Hinweise in
 >
 >Abonnieren Sie die monatliche Produktaktualisierung [Adobe Priority Product Update](https://www.adobe.com/subscription/priority-product-update.html), um E-Mail-Benachrichtigungen über Updates auf dieser Seite zu erhalten. Diese Seite wird den ganzen Monat lang gepflegt. Informieren Sie sich daher regelmäßig über die neuesten Adoben zu Unternehmensprodukten und der Experience League-Dokumentation.
 
-Neueste Aktualisierung: **13. Januar 2021**
+Neueste Aktualisierung: **12. Januar 2021**
 
 * [Systemstatus](#status)  der Adobe (nicht aktualisiert)
 * [Experience Cloud Services und Administration](#ecloud)
