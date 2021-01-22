@@ -5,9 +5,9 @@ doc-type: release notes
 last-update: January 2021
 author: mfrei
 translation-type: tm+mt
-source-git-commit: 05cf9f34a835a5d51013789909508c353827315e
+source-git-commit: b974424e1aa557063f54a12aed537a62c283779b
 workflow-type: tm+mt
-source-wordcount: '6770'
+source-wordcount: '6772'
 ht-degree: 97%
 
 ---
@@ -23,20 +23,20 @@ Auf dieser Seite sind neue Funktionen, Fehlerbehebungen und wichtige Hinweise in
 >
 >Abonnieren Sie das monatliche [Adobe Priority Product Update](https://www.adobe.com/subscription/priority-product-update.html), um E-Mail-Benachrichtigungen über Aktualisierungen dieser Seite zu erhalten. Diese Seite wird den ganzen Monat über gepflegt. Informieren Sie sich daher regelmäßig über die neuesten Updates zu Adobe Unternehmensprodukten und der Experience League-Dokumentation.
 
-Letzte Aktualisierung: **14. Januar 2021**
+Letzte Aktualisierung: **22. Januar 2021**
 
 * [Adobe Systemstatus](#status) (nicht aktualisiert)
 * [Experience Cloud Services und Administration](#ecloud)
-* [Experience Platform](#platform) (Aktualisiert **am 14. Januar 2021**)
+* [Experience Platform](#platform) (Aktualisiert am 14. Januar 2021)
 * [Journey Orchestration](#journey-orch)
 * [Analytics](#analytics) und [Customer Journey Analytics](#cust-journey) (Aktualisiert: **20. Januar 2021**)
 * [Audience Manager](#aam)
 * [Experience Manager](#aem)
-* [Campaign](#ac) (Aktualisiert **am 14. Januar 2021**)
-* [Advertising Cloud](#adcloud)
+* [Campaign](#ac) (Aktualisiert am 14. Januar 2021)
+* [Advertising Cloud](#adcloud)  (Aktualisiert  **am 22. Januar 2021**)
 * [[!DNL Target]](#target)
 * [[!DNL Magento]](#magento)
-* [[!DNL Marketo Engage]](#marketo) (Aktualisiert: **11. Januar 2021**)
+* [[!DNL Marketo Engage]](#marketo) (Aktualisiert: 11. Januar 2021)
 * [Document Cloud](#doc-cloud)
 
 Benötigen Sie Hilfe? Besuchen Sie [Adobe Experience League](https://experienceleague.adobe.com/?lang=de-DE#home), um Produkt und technische Dokumentation, von Adobe kuratierte Kurse, Videoschulungen, schnelle Antworten, Community-Einblicke und von Schulungsleitern geführte Kurse zu erhalten. Der Inhalt wurde von `docs.adobe.com` an diesen Speicherort verschoben. Bitte aktualisieren Sie Ihre Lesezeichen entsprechend.
