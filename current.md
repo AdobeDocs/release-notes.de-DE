@@ -5,10 +5,10 @@ doc-type: release notes
 last-update: January 2021
 author: mfrei
 translation-type: tm+mt
-source-git-commit: 6d3d54f4926936ced5c9025e563cdfeec59f4a1f
+source-git-commit: 05cf9f34a835a5d51013789909508c353827315e
 workflow-type: tm+mt
-source-wordcount: '6796'
-ht-degree: 99%
+source-wordcount: '6770'
+ht-degree: 97%
 
 ---
 
@@ -438,22 +438,20 @@ Zuletzt aktualisiert: **28. Oktober 2020**
 
 | Funktion | Beschreibung |
 | -----------| ---------- |
-| Neu Hilfe | (Version vom 28. Oktober) Die alte Hilfe wurde durch aktualisierte Seiten ersetzt, die über den Hilfe-Link im DSP Hauptmenü abrufbar und jederzeit unter [https://experienceleague.adobe.com/docs/advertising-cloud/dsp/home.html?lang=de-DE](https://experienceleague.adobe.com/docs/advertising-cloud/dsp/home.html?lang=de-DE) verfügbar sind. |
-| Kampagnen | (Version vom 28. Oktober) Die früheren Beta-Ansichten von Campaign sind jetzt die standardmäßigen Ansichten von Campaign und bieten schnellere Einblicke, vereinfachte Workflows und benutzerspezifische Ansichten. |
+| Neu Hilfe | (Version vom 28. Oktober) Die alte Hilfe wurde durch aktualisierte Seiten ersetzt, die über den Link Hilfe im DSP Hauptmenü verfügbar sind und jederzeit unter [https://experienceleague.adobe.com/docs/advertising-cloud/dsp/home.html](https://experienceleague.adobe.com/docs/advertising-cloud/dsp/home.html?lang=de-DE) verfügbar sind |
+| Kampagnen | (28. Oktober) Die vorherigen Kampagnen Beta-Ansichten sind jetzt die standardmäßigen Kampagnen-Ansichten, um schneller Einblicke zu erhalten, vereinfachte Workflows und benutzerspezifische Ansichten zu erhalten. |
 | Privates Inventar | (Version vom 15. Oktober) Alle Benutzer können jetzt mit einem neuen Deal-ID-Formular Details zu Deal-IDs einrichten und bearbeiten. Hierbei handelt es sich um eine vereinfachte Version des alten [!UICONTROL Smart Ad Serving]-Formulars. Um neue Details für Deal-IDs einzurichten, gehen Sie zu **[!UICONTROL Inventar > Deals]**, klicken Sie auf **[!UICONTROL Erstellen]** und dann auf **[!UICONTROL Deal ID Beta]**. |
 | Platzierungsvorhersage | (Version vom 15. Oktober) Für Platzierungen mit Platzierungsebenen-Geschwindigkeit enthält der Abschnitt [!UICONTROL Prognose] der Platzierungseinstellungen einen neuen Abschnitt mit [!UICONTROL geschätzten Höchstwerten], der angibt, wie viel mehr Kapazität mit der aktuellen Targeting-Konfiguration verfügbar ist. |
 
 ### Neue Funktionen in [!DNL Advertising Cloud Search] {#adcloud-search}
 
-Zuletzt aktualisiert: **17. Oktober 2020**
+Zuletzt aktualisiert: **22. Januar 2021, für Version 23. Januar**
 
 | Funktion | Beschreibung |
 | -----------| ---------- |
-| [!UICONTROL Search-Kampagnen] | In der Ansicht [!UICONTROL Konten] zeigt die Spalte [!UICONTROL Zugriff] jetzt an, wann sich [!DNL Advertising Cloud Search] nicht bei einem aktivierten Suchmaschinenkonto anmelden kann. Um die Fehlerursache anzuzeigen, halten Sie den Cursor über das Warnsymbol. |
-| [!UICONTROL Benutzerspezifische Warnhinweise] | Die früheren Beta-[!UICONTROL Warnhinweise] heißen jetzt [!UICONTROL benutzerdefinierte Warnhinweise]. |
-| [!UICONTROL Benutzerspezifische Warnhinweise] | Bei benutzerdefinierten Warnhinweisen wurde der Arbeitsablauf vereinfacht, der identifiziert, wann die Metriken für den angegebenen Datumsbereich gegenüber den Metriken für den vorherigen Zeitraum zu- oder abgenommen haben. Außerdem wurde er auf die Registerkarte [!UICONTROL Filter] verschoben. |
+| [!UICONTROL Search-Kampagnen]<br> Berichte | Advertising Cloud Search meldet keine neuen durchschnittlichen Positionsdaten mehr für Microsoft Advertising-Kampagnen. Die Spalte &quot;Durchschnittliche Position&quot;zeigt Werte von null (0) für Datumsangaben an, die am 23. Januar beginnen. Dies ist in Vorbereitung auf den Abbau der durchschnittlichen Positionsdaten durch Microsoft im Januar 2021.<br>Durchschnittliche Positionsdaten, die bis zum 22. Januar gesammelt wurden, stehen in Berichten weiterhin zur Verfügung. |
 
-### Ad Cloud-Tutorials und -Kurse
+### Advertising Cloud-Übungen und -Kurse
 
 Aktualisiert: **2. Dezember 2020**
 
