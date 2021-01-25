@@ -5,9 +5,9 @@ doc-type: release notes
 last-update: January 2021
 author: mfrei
 translation-type: tm+mt
-source-git-commit: 9f09b05b1764f65ec18f108b1e45942e58ce89fb
+source-git-commit: 0c154b63cee0bd27b900101f535fc0224b82438c
 workflow-type: tm+mt
-source-wordcount: '6772'
+source-wordcount: '6776'
 ht-degree: 97%
 
 ---
@@ -146,10 +146,10 @@ Verwenden Sie Adobe Experience Platform, um die Customer Journey in großem Maß
 
 Releasedatum: **14. Januar 2021**
 
-* [Neue Funktionen in Adobe Analytics](#aa-features)
-* [Neue Funktionen in Customer Journey Analytics](#cust-journey)
+* [Neue Funktionen in Adobe Analytics](#aa-features)  (aktualisiert am 25. Januar 2021)
+* [Neue Funktionen in Customer Journey Analytics](#cust-journey)  (am 25. Januar 2021 aktualisiert)
 * [Fehlerbehebungen in Adobe Analytics](#aa-fixes)
-* [Wichtige Hinweise für Analytics-Administratoren](#aa-notices)(Aktualisiert am 20. Januar 2021)
+* [Wichtige Hinweise für Analytics-Administratoren](#aa-notices) (Aktualisiert am 20. Januar 2021)
 * [AppMeasurement](#appm)
 * [Report Builder ](#arb)
 
