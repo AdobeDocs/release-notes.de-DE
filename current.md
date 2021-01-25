@@ -5,7 +5,7 @@ doc-type: release notes
 last-update: January 2021
 author: mfrei
 translation-type: tm+mt
-source-git-commit: b974424e1aa557063f54a12aed537a62c283779b
+source-git-commit: 9f09b05b1764f65ec18f108b1e45942e58ce89fb
 workflow-type: tm+mt
 source-wordcount: '6772'
 ht-degree: 97%
@@ -29,7 +29,7 @@ Letzte Aktualisierung: **22. Januar 2021**
 * [Experience Cloud Services und Administration](#ecloud)
 * [Experience Platform](#platform) (Aktualisiert am 14. Januar 2021)
 * [Journey Orchestration](#journey-orch)
-* [Analytics](#analytics) und [Customer Journey Analytics](#cust-journey) (Aktualisiert: **20. Januar 2021**)
+* [Analytics](#analytics) und [Customer Journey Analytics](#cust-journey) (Aktualisiert: **25. Januar 2021**)
 * [Audience Manager](#aam)
 * [Experience Manager](#aem)
 * [Campaign](#ac) (Aktualisiert am 14. Januar 2021)
@@ -159,7 +159,7 @@ Releasedatum: **14. Januar 2021**
 | ----------- | ---------- | ------- |
 | Analysis Workspace – Bild-URLs | 14. Januar 2021 | Sie können [!UICONTROL Workspace]-Projekten Bilder hinzufügen, indem Sie auf eine öffentliche Bild-URL verweisen. [Weitere Infos](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/text.html?lang=de-DE#analysis-workspace) |
 | Analysis Workspace – kombinierter Quellen- und Einstellungs-Manager | 14. Januar 2021 | Der Datenquellen-Manager (Punkt) und der Einstellungs-Manager (Zahnrad) für Visualisierungen wurden in einem einzigen Dialog zusammengefasst, sodass Sie Ihre Quelle und Ihre Einstellungen auf einfache Weise vom selben Ort aus verwalten können. |
-| Analysis Workspace – Komponentenauswahl | 4. Februar 2021 | Die Dropdown-/Dropzone-Komponente aus [!UICONTROL Quick Insights] wurde allen Ablagebereichen in [!UICONTROL Workspace] hinzugefügt. Diese Verbesserung ermöglicht es Ihnen, Optionen in einer Dropdown-Liste kompatibler Komponenten zu wählen oder den Raum weiterhin als Ablagebereich zu verwenden. |
+| Analysis Workspace – Komponentenauswahl | 16. Februar 2021 | Die Dropdown-/Dropzone-Komponente aus [!UICONTROL Quick Insights] wurde allen Ablagebereichen in [!UICONTROL Workspace] hinzugefügt. Diese Verbesserung ermöglicht es Ihnen, Optionen in einer Dropdown-Liste kompatibler Komponenten zu wählen oder den Raum weiterhin als Ablagebereich zu verwenden. |
 
 ### Neue Funktionen in Customer Journey Analytics {#cust-journey}
 
@@ -169,7 +169,7 @@ Releasedatum: **14. Januar 2021**
 | Journey IQ: [!UICONTROL Kanalübergreifende Analyse] | 11. Januar 2021 | Journey IQ: Die [!UICONTROL kanalübergreifende Analyse] ermöglicht es Kunden, einen Adobe Analytics-Ereignis-Datensatz (oder einen anderen) in Adobe Experience Platform Data Lake von einem ID-Namespace zum anderen erneut zu verschlüsseln. Dies bedeutet in der Regel, dass der Ereignis-Datensatz von einer Cookie-basierten ID in eine personenbasierte ID erneut verschlüsselt wird. Auf diese Weise kann der neu verschlüsselte Datensatz mit anderen personenbasierten Daten in einer CJA-Verbindung kombiniert werden, wodurch eine geräteübergreifende/kanalübergreifende Analyse in Analysis Workspace möglich ist. [Weitere Infos](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-connections/cca/overview.html?lang=de-DE#cja-connections) |
 | Analysis Workspace – Bild-URLs | 14. Januar 2021 | Sie können Workspace-Projekten Bilder hinzufügen, indem Sie auf eine öffentliche Bild-URL verweisen. |
 | Analysis Workspace – kombinierter Quellen- und Einstellungs-Manager | 14. Januar 2021 | Der Datenquellen-Manager (Punkt) und der Einstellungs-Manager (Zahnrad) für Visualisierungen wurden in einem einzigen Dialog zusammengefasst, sodass Sie Ihre Quelle und Ihre Einstellungen auf einfache Weise vom selben Ort aus verwalten können. |
-| Analysis Workspace – Komponentenauswahl | 4. Februar 2021 | Die Dropdown-/Dropzone-Komponente aus [!UICONTROL Quick Insights] wurde allen Ablagebereichen in [!UICONTROL Workspace] hinzugefügt. Diese Verbesserung ermöglicht es Ihnen, Optionen in einer Dropdown-Liste kompatibler Komponenten zu wählen oder den Raum weiterhin als Ablagebereich zu verwenden. |
+| Analysis Workspace – Komponentenauswahl | 16. Februar 2021 | Die Dropdown-/Dropzone-Komponente aus [!UICONTROL Quick Insights] wurde allen Ablagebereichen in [!UICONTROL Workspace] hinzugefügt. Diese Verbesserung ermöglicht es Ihnen, Optionen in einer Dropdown-Liste kompatibler Komponenten zu wählen oder den Raum weiterhin als Ablagebereich zu verwenden. |
 
 ### Fehlerbehebungen in Adobe Analytics {#aa-fixes}
 
