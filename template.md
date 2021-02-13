@@ -5,10 +5,10 @@ doc-type: release notes
 last-update: March 2020
 author: mfrei
 translation-type: tm+mt
-source-git-commit: 2626d0f793d4d7d59dc08527443bca66a3dbdd03
+source-git-commit: 336fa0b2b5b27060bcdb6590ba8e5795c2dbbf8f
 workflow-type: tm+mt
-source-wordcount: '1350'
-ht-degree: 91%
+source-wordcount: '1349'
+ht-degree: 90%
 
 ---
 
@@ -21,7 +21,7 @@ Neue Funktionen und Fehlerbehebungen in Adobe Experience Cloud.
 
 >[!IMPORTANT]
 >
->Diese Seite enthält Inhalte einer Vorabversion und kann vor der geplanten Veröffentlichung der Version geändert werden.
+>Diese Seite enthält Inhalte vor der Veröffentlichung und kann vor dem Veröffentlichungsdatum geändert werden.
 
 >[!NOTE]
 >
@@ -36,7 +36,7 @@ Neue Funktionen und Fehlerbehebungen in Adobe Experience Cloud.
 * [Audience Manager](#aam)
 * [Experience Manager](#aem)
 * [Campaign](#ac)
-* [Zielgruppe](https://docs.adobe.com/content/help/de-DE/target/using/release-notes/target-release-notes.html) (Links zur Hilfe zur Lösung)
+* [Zielgruppe](https://docs.adobe.com/content/help/de-DE/target/using/release-notes/target-release-notes.html)  (Links zur Hilfe zur Lösung)
 * [Advertising Cloud](#adcloud)
 * [Magento](#magento)
 * [Marketo](#marketo)
@@ -62,7 +62,7 @@ Neue Funktionen und Fehlerkorrekturen in der Benutzeroberfläche von Experience 
 
 Funktionen und Fehlerbehebungen
 
-For product documentation, see [Experience Cloud interface](https://docs.adobe.com/content/help/de-DE/core-services/interface/experience-cloud.html)
+Eine Produktdokumentation finden Sie unter [Experience Cloud-Schnittstelle](https://docs.adobe.com/content/help/de-DE/core-services/interface/experience-cloud.html)
 
 ### Administration und Entwickler {#admin}
 
@@ -93,9 +93,9 @@ Versionshinweise und die Produktdokumentation finden Sie unter [Experience Platf
 
 ### [!UICONTROL Journey Orchestration] {#journey}
 
-Using Adobe [!UICONTROL Experience Platform,] orchestrate individual customer journeys at scale across experience channels by intelligently anticipating every individual&#39;s needs in real time, wherever their journey takes them.
+Mit der Adobe [!UICONTROL Experience Platform orchestrieren] individuelle Journey im Maßstab über Erlebnis-Kanal hinweg, indem sie die Bedürfnisse jedes Einzelnen in Echtzeit vorhersehen, unabhängig davon, wohin die Journey sie bringt.
 
-#### Additional resources for [!UICONTROL Journey Orchestration]
+#### Zusätzliche Ressourcen für [!UICONTROL Journey Orchestration]
 
 [Dokumentation](https://docs.adobe.com/content/help/de-DE/journeys/using/journey-orchestration-home.html) – [Versionshinweise](https://docs.adobe.com/content/help/de-DE/journeys/using/release-notes/release-notes.html) – [Videoanleitungen](https://docs.adobe.com/content/help/de-DE/platform-learn/tutorials/journey-orchestration/introduction.html)
 
@@ -134,7 +134,7 @@ Die Produktdokumentation finden Sie auf der [Startseite der Adobe Analytics-Hilf
 | Funktion B | Text |
 | Funktion C | Text |
 
-### [!DNL Media Analytics] SDK für [!DNL iOS] &amp; [!DNL Android] (ehemals VHL SDK) {#aa-va}
+### [!DNL Media Analytics] SDK für  [!DNL iOS] &amp;  [!DNL Android] (ehemals VHL SDK)  {#aa-va}
 
 | Funktion | Beschreibung |
 | ------- | ------- |
@@ -294,7 +294,7 @@ Magento-Versionshinweise finden Sie unter:
 
 ## Marketo {#marketo}
 
-Marketo Engage ist eine Komplettlösung für Interessentenmanagement und B2B-Marketingfachleute, die Kundenerlebnisse verändern möchten, indem sie sich über alle Phasen komplexer Kaufreisen hinweg engagieren.
+Marketo Engage ist eine Komplettlösung für Interessentenmanagement und B2B-Marketingexperten, die Kundenerlebnisse verändern möchten, indem sie in alle Phasen komplexer Journey eingebunden werden.
 
 ### Aktualisierungen von Core Marketo Engage
 
@@ -307,7 +307,7 @@ Versionsdatum: 21. Februar 2020
    * APIs für Umleitungsregeln auf der Landingpage
 * **Caching des Formular-Deskriptors:** Verbesserungen für Landingpages und Formulare.
 
-See Marketo release notes for [February 2020](https://docs.marketo.com/display/public/DOCS/Release+Notes%3A+Feb+%2720) for more information.
+Weitere Informationen finden Sie unter Marketo-Versionshinweise für [Februar 2020](https://docs.marketo.com/display/public/DOCS/Release+Notes%3A+Feb+%2720).
 
 ### Bevorstehende Funktionen
 
