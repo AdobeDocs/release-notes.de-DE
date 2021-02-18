@@ -5,7 +5,7 @@ doc-type: release notes
 last-update: February 2021
 author: mfrei
 translation-type: tm+mt
-source-git-commit: d24a0044604b068dd1a8b4a19084d982ed9f22ac
+source-git-commit: 6c462c5b447ac45ff9507a6242fec2aef478344a
 workflow-type: tm+mt
 source-wordcount: '6309'
 ht-degree: 33%
@@ -182,7 +182,7 @@ Neue Funktionen, Fehlerbehebungen, Dokumentation und Lernprogramme in Audience M
 
 | Funktion | Hinzugefügt oder aktualisiert am | Beschreibung |
 |----|----|----|
-| [Benutzermigration in Audience Manager zur Admin Console](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/administration/admin-console-migration.html) | 1. Februar 2020 | Audience Manager-Benutzerkontoverwaltung wechselt zur Adobe Admin Console, um Ihre Adobe-Lösungen zu optimieren. <br>Führen Sie die in diesem Artikel beschriebenen Schritte aus, um die Benutzermigration zu erleichtern. Alle Audience Manager-Administratoren sollten Beginn haben, ihre Benutzerkonten so bald wie möglich nach Adobe Admin Console zu migrieren. |
+| [Benutzermigration in Audience Manager zur Admin Console](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/administration/admin-console-migration.html) | 1. Februar 2021 | Audience Manager-Benutzerkontoverwaltung wechselt zur Adobe Admin Console, um Ihre Adobe-Lösungen zu optimieren. <br>Führen Sie die in diesem Artikel beschriebenen Schritte aus, um die Benutzermigration zu erleichtern. Alle Audience Manager-Administratoren sollten Beginn haben, ihre Benutzerkonten so bald wie möglich nach Adobe Admin Console zu migrieren. |
 
 ### Fehlerbehebungen und Verbesserungen {#aam-fixes-and-improvements}
 
@@ -327,7 +327,7 @@ Nachfolgend sind die im vergangenen Monat neu veröffentlichten Videos, Tutorial
 | 2. Februar 2021 | [Kontinuierliche Integration und Cloud Manager](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/cloud-manager/devops/continuous-integration.html) | Video | Machen Sie sich mit Best Practices und kontinuierlicher Integration mithilfe von Adobe Cloud Manager vertraut. |
 | 2. Februar 2021 | [Zusammenführen AEM Projekte zur Bereitstellung mit Cloud Manager](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/cloud-manager/devops/merge-projects.html) | Video | Erfahren Sie, wie mehrere Projekte zu einem einzigen Projekt zusammengeführt werden können, um sie als Cloud Service mit Cloud Manager bereitzustellen. |
 | 2. Februar 2021 | [Bereitstellen von Cloud Manager-Projekten](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/cloud-manager/devops/deploy-code.html) | Video | Integrieren Sie das Git-Repository für den Cloud Manager mit einem externen Git-Repository und stellen Sie ein Projekt als Cloud Service für den Experience Manager bereit. |
-| 2. Februar 2021 | [Veröffentlichung von Inhalten](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/developing/basics/content-publishing.html) | Video | Erfahren Sie, wie die Veröffentlichung von Inhalten in Experience Manager als Cloud Service funktioniert, einschließlich Konzepten der Inhaltsverteilung und der Adobe-Pipeline. |
+| 2. Februar 2021 | [Veröffentlichung von Inhalten](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/developing/basics/content-publishing.html) | Video | Erfahren Sie, wie die Veröffentlichung von Inhalten in Experience Manager als Cloud Service funktioniert, einschließlich der Konzepte der Inhaltsverteilung und der Adobe-Pipeline. |
 | 2. Februar 2021 | [Token-basierte Authentifizierung - Dienstanmeldeinformationen](https://experienceleague.adobe.com/docs/experience-manager-learn/getting-started-with-aem-headless/authentication/service-credentials.html?lang=en#authentication) | Video | Erfahren Sie mehr über Token-basierte Authentifizierung für Integrationen mit Experience Manager als Cloud Service. |
 | 2. Februar 2021 | [Mehrere Forms signieren](https://experienceleague.adobe.com/docs/experience-manager-learn/forms/sign-multiple-documents/introduction.html?lang=en#sign-multiple-documents) | Übung | Unabhängig davon, ob Sie eine Hypothek beantragen oder ein neues Bankkonto eröffnen, müssen Sie mehrere Formulare ausfüllen und unterzeichnen. Die Integration zwischen Experience Manager Forms und Adobe Sign erleichtert das Ausfüllen und Signieren mehrerer Formulare. |
 | 28. Januar 2021 | [Token-basierte Authentifizierung - Zugriffstoken für lokale Entwicklung](https://experienceleague.adobe.com/docs/experience-manager-learn/getting-started-with-aem-headless/authentication/local-development-access-token.html?lang=en#authentication) | Video | Erfahren Sie, wie Entwickler mit der Developer Console von Experience Manager selbst temporäre Zugriffstoken generieren können, die für den programmgesteuerten Zugriff auf Experience Manager verwendet werden können. |
