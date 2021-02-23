@@ -5,9 +5,9 @@ doc-type: release notes
 last-update: February 2021
 author: mfrei
 translation-type: tm+mt
-source-git-commit: b785653a7f35f188c17f2ed05ec7a8b143c192b4
+source-git-commit: 803595c63ab6db90fb17c9998c623c03e834aaa0
 workflow-type: tm+mt
-source-wordcount: '6381'
+source-wordcount: '6384'
 ht-degree: 33%
 
 ---
@@ -81,7 +81,7 @@ Neue Videos, Tutorials oder Kurse, die für Experience Platform und Services ver
 | 3. Februar 2021 | [Überblick über die Stapeldatenerfassung](https://experienceleague.adobe.com/docs/platform-learn/tutorials/data-ingestion/batch-ingestion-overview.html) | Video | Eine Übersicht über die Erfassung von Stapeldaten in Adobe Experience Platform. Erfahren Sie, wie Sie Stapeldaten mit der API erfassen. |
 | 3. Februar 2021 | [Aktivieren von Daten in Nicht-Adobe-Anwendungen](https://experienceleague.adobe.com/docs/platform-learn/tutorials/destinations/activate-data-to-non-adobe-applications.html) | Video | Erfahren Sie, wie Sie mit der Echtzeit-CDP von Adobe wahre Personalisierungsstrategien für Ihre Audiencen erstellen können. Erfahren Sie außerdem, wie es in Ihre bestehenden Ökosysteme- und Nicht-Adobe-Anwendungen von Microsoft, Google und Facebook eingebunden wird. |
 | 21. Januar 2021 | [Einführung in die ersten Schritte mit Intelligent Services für Marketingexperten](https://video.tv.adobe.com/v/330805?quality=12&learn=on) | Video | Eine Einführung in den Kurs Erste Schritte mit Intelligente Dienste für Marketingexperten. |
-| 13. Januar 2021 | [Einführung in die ersten Schritte mit Offer Decisioning für Marketingexperten](https://video.tv.adobe.com/v/330520?quality=12&learn=on) | Video | Und Einführung in den Erste Schritte mit Offer Decisioning für Marketingexperten Kurs. |
+| 13. Januar 2021 | [Einführung in das Offer Decisioning &quot;Erste Schritte mit Marketingexperten&quot;](https://video.tv.adobe.com/v/330520?quality=12&learn=on) | Video | Und Einführung in den Erste Schritte mit Offer Decisioning für Marketingexperten Kurs. |
 | 31. Januar 2021 | [Modelle mit der Rezept-Builder-Vorlage ausbilden, bewerten und produzieren](https://experienceleague.adobe.com/docs/platform-learn/tutorials/data-science-workspace/train-score-and-productize-models.html) | Video | Erfahren Sie, wie Sie mit der aktualisierten Rezeptur-Builder-Vorlage ein Rezept mit dem Schema und den Datensätzen für den Einzelhandel erstellen. |
 | 31. Januar 2021 | [Daten in JupyterLab-Notebooks laden](https://experienceleague.adobe.com/docs/platform-learn/tutorials/data-science-workspace/load-data-in-jupyterlab-notebooks.html) | Video | Erfahren Sie mehr über JupyterLab im Data Science Workspace. |
 | 12. Januar 2021 | [Richtlinien zum Zusammenführen erstellen](https://experienceleague.adobe.com/docs/platform-learn/tutorials/profiles/create-merge-policies.html) | Video | Erfahren Sie, wie Sie in Adobe Experience Platform Zusammenführungsrichtlinien erstellen. |
@@ -122,7 +122,7 @@ Versionsdatum: **18. Februar 2021**
 | Funktion | [Allgemeine Verfügbarkeit](https://docs.adobe.com/content/help/de-DE/analytics/landing/an-releases.html) – geplantes Datum | Beschreibung |
 | ----------- | ---------- | ------- |
 | Analysis Workspace – Komponentenauswahl | 4. Februar 2021 | Die Dropdown-/Dropzone-Komponente aus [!UICONTROL Quick Insights] wurde allen Ablagebereichen in [!UICONTROL Workspace] hinzugefügt. Diese Verbesserung ermöglicht es Ihnen, Optionen in einer Dropdown-Liste kompatibler Komponenten zu wählen oder den Raum weiterhin als Ablagebereich zu verwenden. |
-| Sprachauswahl für Analytics-Dashboard | 14. Januar 2021 | Sie können jetzt eine Sprache im Analytics-Dashboard auswählen. |
+| Sprachauswahl für Analytics-Dashboard | 14. Januar 2021 | Navigieren Sie zu **[!UICONTROL Settings]** > **[!UICONTROL Preferences]** > **[!UICONTROL Language]**, um eine Sprache im Analytics-Dashboard auszuwählen. |
 
 ### Neue Funktionen in Customer Journey Analytics {#cust-journey}
 
