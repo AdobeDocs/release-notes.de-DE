@@ -1,14 +1,14 @@
 ---
 title: Versionshinweise zu Experience Cloud und Experience Platform
-description: Erfahren Sie mehr über die neuesten Versionshinweise, neue Funktionen und die neue Dokumentation zu Experience Cloud und Experience Platform. Finden Sie neue Hilfe und Schulungen zu Creative Cloud für Unternehmen und Document Cloud.
+description: Erfahren Sie mehr über die neuesten Versionshinweise, neue Funktionen und neue Dokumentationen zu Experience Cloud und Experience Platform. Neue Hilfe und Tutorials zu Creative Cloud für Unternehmen und Document Cloud.
 doc-type: release notes
 last-update: February 2021
 author: mfrei
 translation-type: tm+mt
-source-git-commit: 803595c63ab6db90fb17c9998c623c03e834aaa0
+source-git-commit: c7220fd5298c74ac555ba9d1799194d794b81271
 workflow-type: tm+mt
-source-wordcount: '6384'
-ht-degree: 33%
+source-wordcount: '6403'
+ht-degree: 32%
 
 ---
 
@@ -81,7 +81,7 @@ Neue Videos, Tutorials oder Kurse, die für Experience Platform und Services ver
 | 3. Februar 2021 | [Überblick über die Stapeldatenerfassung](https://experienceleague.adobe.com/docs/platform-learn/tutorials/data-ingestion/batch-ingestion-overview.html) | Video | Eine Übersicht über die Erfassung von Stapeldaten in Adobe Experience Platform. Erfahren Sie, wie Sie Stapeldaten mit der API erfassen. |
 | 3. Februar 2021 | [Aktivieren von Daten in Nicht-Adobe-Anwendungen](https://experienceleague.adobe.com/docs/platform-learn/tutorials/destinations/activate-data-to-non-adobe-applications.html) | Video | Erfahren Sie, wie Sie mit der Echtzeit-CDP von Adobe wahre Personalisierungsstrategien für Ihre Audiencen erstellen können. Erfahren Sie außerdem, wie es in Ihre bestehenden Ökosysteme- und Nicht-Adobe-Anwendungen von Microsoft, Google und Facebook eingebunden wird. |
 | 21. Januar 2021 | [Einführung in die ersten Schritte mit Intelligent Services für Marketingexperten](https://video.tv.adobe.com/v/330805?quality=12&learn=on) | Video | Eine Einführung in den Kurs Erste Schritte mit Intelligente Dienste für Marketingexperten. |
-| 13. Januar 2021 | [Einführung in das Offer Decisioning &quot;Erste Schritte mit Marketingexperten&quot;](https://video.tv.adobe.com/v/330520?quality=12&learn=on) | Video | Und Einführung in den Erste Schritte mit Offer Decisioning für Marketingexperten Kurs. |
+| 13. Januar 2021 | [Einführung in die Erste Schritte mit Offer decisioning für Marketingexperten](https://video.tv.adobe.com/v/330520?quality=12&learn=on) | Video | Und Einführung in die Erste Schritte mit Offer decisioning für Marketingexperten Kurs. |
 | 31. Januar 2021 | [Modelle mit der Rezept-Builder-Vorlage ausbilden, bewerten und produzieren](https://experienceleague.adobe.com/docs/platform-learn/tutorials/data-science-workspace/train-score-and-productize-models.html) | Video | Erfahren Sie, wie Sie mit der aktualisierten Rezeptur-Builder-Vorlage ein Rezept mit dem Schema und den Datensätzen für den Einzelhandel erstellen. |
 | 31. Januar 2021 | [Daten in JupyterLab-Notebooks laden](https://experienceleague.adobe.com/docs/platform-learn/tutorials/data-science-workspace/load-data-in-jupyterlab-notebooks.html) | Video | Erfahren Sie mehr über JupyterLab im Data Science Workspace. |
 | 12. Januar 2021 | [Richtlinien zum Zusammenführen erstellen](https://experienceleague.adobe.com/docs/platform-learn/tutorials/profiles/create-merge-policies.html) | Video | Erfahren Sie, wie Sie in Adobe Experience Platform Zusammenführungsrichtlinien erstellen. |
@@ -171,7 +171,7 @@ Neue Kurse, Tutorial- und Artikel in [!DNL Analytics] und [!UICONTROL Customer J
 | Veröffentlicht | Name | Typ | Beschreibung |
 | -----------| ---------- | ---------- | ---------- |
 | 8. Februar 2021 | [Hinzufügen von Trendlinien zu Linienvisualisierungen](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/visualizations/adding-trendlines-to-line-visualizations.html?lang=en) | Video | Unter &quot;Visualisierungseinstellungen&quot;können Sie eine Regression oder eine Verschiebung der durchschnittlichen Trendlinie zu Ihrer Linienserie hinzufügen. Diese Funktion hilft, ein klareres Muster in den Daten darzustellen. |
-| 8. Februar 2021 | [Hinzufügen von Implementierungs-Plug-ins in Platform Launch](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/implementation/via-adobe-launch/adding-implementation-plug-ins-in-launch.html?lang=en#implementation) | Video | Implementierungs-Plug-Ins sind Teile von JavaScript-Code, die Sie Ihrer Analytics-Implementierung hinzufügen können, um zusätzliche benutzerdefinierte Daten zu verfolgen. In diesem Video erfahren Sie, wie und wo Sie den Code in Platform Launch hinzufügen können. |
+| 8. Februar 2021 | [Hinzufügen von Implementierungs-Plug-ins in Platform launch](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/implementation/via-adobe-launch/adding-implementation-plug-ins-in-launch.html?lang=en#implementation) | Video | Implementierungs-Plug-Ins sind Teile von JavaScript-Code, die Sie Ihrer Analytics-Implementierung hinzufügen können, um zusätzliche benutzerdefinierte Daten zu verfolgen. In diesem Video erfahren Sie, wie und wo Sie den Code in Platform launch einfügen. |
 | 6. Januar 2021 | [Bedienfeld für gleichzeitige Medienbetrachter in Analysis Workspace](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/using-panels/media-concurrent-viewers-panel-in-analysis-workspace.html?lang=en#analysis-workspace) | Video | Erkennen Sie, wo Spitzenzeitzeitäquivalenz auftrat oder wo es zu Abbrüchen kam. Erhalten Sie wertvolle Einblicke in die Qualität von Inhalten und die Interaktion mit Viewern und helfen Sie bei der Fehlerbehebung oder Planung für Volumen und Größe. |
 
 ### Analytics-Hilferessourcen
@@ -409,15 +409,20 @@ Zuletzt aktualisiert: **28. Oktober 2020**
 
 ### Neue Funktionen in [!DNL Advertising Cloud Search] {#adcloud-search}
 
-Zuletzt aktualisiert: **22. Januar 2021 für die Version 23. Januar**
+Zuletzt aktualisiert: **23. Februar 2021, für 20. Februar Release**
 
 | Funktion | Beschreibung |
 | -----------| ---------- |
-| [!UICONTROL Search-Kampagnen]<br> Berichte | Advertising Cloud Search meldet für Microsoft Advertising-Kampagnen keine neuen Daten mehr zur durchschnittlichen Position. Die Spalte „Durchschnittliche Position“ zeigt Werte von null (0) für Datumsangaben ab dem 23. Januar an. Dies gilt in Vorbereitung auf die Ausmusterung der durchschnittlichen Positionsdaten durch Microsoft im Januar 2021.<br>Durchschnittliche Positionsdaten, die bis zum 22. Januar gesammelt wurden, stehen in Berichten weiterhin zur Verfügung. |
+| Alle | &quot;Tools&quot;> &quot;Adwords Conversion Tags&quot; heißt jetzt &quot;Google Ads Conversion Tags&quot;.&quot; |
+| Alle | Im April werden die folgenden Funktionen und Ansichten eingestellt:<br><ul><li>Optimierung > Portfolio-Karten</li><li>Optimierung > Angebotsregeln</li><li>Einblicke und Berichte > Dashboard</li><li>Kampagnen:  Ausstehende und geplante Unterstützung für Massenbearbeitungen</li></ul> |
 
-### Ad Cloud-Tutorials und -Kurse
+### Tutorials und Kurse zu Advertising Cloud
 
-Aktualisiert: **2. Dezember 2020**
+Aktualisiert: **23. Februar 2021**
+
+| Übung | Beschreibung |
+| -----------| ---------- |
+| [Einführung in Workspace und Berichte](https://experienceleague.adobe.com/docs/advertising-cloud-learn/tutorials/analytics/analytics-analysis-workspace-a4adc.html) | Erfahren Sie, wie Sie mit Ihren Advertising Cloud-Daten visuelle Berichte in Adobe Analytics Analysis Workspace erstellen können. |
 
 ## ![Symbol](/assets/magento.png) [!DNL Magento] {#magento}
 
