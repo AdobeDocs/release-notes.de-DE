@@ -9,7 +9,7 @@ translation-type: tm+mt
 source-git-commit: a501b2f3cba2797c8ad4e8be8e862bef62075b9d
 workflow-type: tm+mt
 source-wordcount: '64'
-ht-degree: 70%
+ht-degree: 100%
 
 ---
 
@@ -44,6 +44,6 @@ ht-degree: 70%
       + [März 2019](c-legacy-releases/2019/03072019.md)
       + [Februar 2019](c-legacy-releases/2019/02072019.md)
       + [Januar 2019](c-legacy-releases/2019/01172019.md)
-   + 2018 und früher{#legacy-rns}
-      + 2018 und früher{#2018-earlier}
+   + 2018 und früher {#legacy-rns}
+      + 2018 und früher {#2018-earlier}
          + [2014 und früher](c-legacy-releases/2018-earlier.md)
