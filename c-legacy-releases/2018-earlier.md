@@ -1,16 +1,15 @@
 ---
-description: Neue Funktionen und Fehlerbehebungen in Adobe Experience Cloud - 2018 und früher
+description: Frühere Versionshinweise für Experience Cloud-Produkte und -Dienste. Finden Sie neue Hilfe und Lernprogramme zum Creative Cloud für Unternehmen und Document Cloud.
 seo-description: Neue Funktionen und Fehlerbehebungen in Adobe Experience Cloud - 2018 und früher
 title: Versionshinweise für 2018 und früher
 solution: Experience Cloud,Analytics,Target,Advertising Cloud
 seo-title: Versionshinweise zu Adobe Experience Cloud für 2018 und früher
-topic: Release notes
 uuid: c56a1064-0f2c-4241-93c6-ca4b1f267763
 translation-type: tm+mt
-source-git-commit: b8a7c0da3f98d1f7d37713c85ba31dade69c08b7
+source-git-commit: 97674547368321244be16e95f20f195c545d945a
 workflow-type: tm+mt
-source-wordcount: '62'
-ht-degree: 100%
+source-wordcount: '73'
+ht-degree: 69%
 
 ---
 
