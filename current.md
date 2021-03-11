@@ -5,9 +5,9 @@ doc-type: release notes
 last-update: February 2021
 author: mfrei
 translation-type: tm+mt
-source-git-commit: 2f83677d5507bd917603ec8cfcbd08559a510a0f
+source-git-commit: fad566f4a78d7963f450b9998c009a50d081a212
 workflow-type: tm+mt
-source-wordcount: '6425'
+source-wordcount: '6479'
 ht-degree: 98%
 
 ---
@@ -29,7 +29,7 @@ Letzte Aktualisierung: **21. Februar 2021**
 * [Experience Cloud Services und Administration](#ecloud)
 * [Experience ](#platform) **PlatformAktualisiert 21. Februar 2021**
 * [Journey Orchestration](#journey-orch)
-* [Analytics](#analytics) **Aktualisiert am 19. Februar 2021**
+* [](#analytics) **AnalyticsAktualisiert 10. März 2021**
 * [Customer Journey Analytics](#cust-journey)`
 * [Audience Manager](#aam)
 * [Experience Manager](#aem)
@@ -110,7 +110,7 @@ Versionsdatum: **18. Februar 2021**
 * [Neue Funktionen in Adobe Analytics](#aa-features)
 * [Neue Funktionen in Customer Journey Analytics](#cust-journey)
 * [Fehlerbehebungen in Adobe Analytics](#aa-fixes)
-* [Wichtige Hinweise für Analytics-Administratoren](#aa-notices) **Aktualisiert am 19. Februar 2021**
+* [Wichtige Hinweise für Analytics-Administratoren](#aa-notices)  **Aktualisiert 10. März 2021**
 * [Analytics-Kurse und -Tutorials](#tutorials-analytics)
 * [AppMeasurement](#appm)
 
@@ -150,6 +150,7 @@ AN-224987; AN-229009; AN-239750; AN-239765; AN-241620; AN-242996; AN-243577; AN-
 
 | Hinweis | Hinzugefügt oder aktualisiert am | Beschreibung |
 | ----------- | ---------- | ---------- |
+| EOL der vollständigen Datenquellen-Verarbeitung | 10. März 2021 | Die Adobe plant, Datenquellen mit vollständiger Verarbeitung in Zukunft zu veraltet. Ab dem 25. März 2021 können keine neuen Einfuhren dieser Art mehr entstehen. Verwenden Sie zum Importieren dieses Datentyps die API[Massendateneinfügung](https://www.adobe.io/apis/experiencecloud/analytics/docs.html#!AdobeDocs/analytics-2.0-apis/master/bdia.md). |
 | Optionen zur Landingpage von Reports &amp; Analytics | 19. Februar 2021 | Am 25. März 2021 werden Optionen zum Festlegen neuer Reports &amp; Analytics-Dashboards sowie anderer Inhalte, wie Ihrer Adobe Analytics-Landingpage, entfernt. Wenn Sie zuvor eine Reports &amp; Analytics-Seite als benutzerdefinierte Landingpage festgelegt haben, funktioniert sie so lange weiter, bis Ihre Landingpage unter [!UICONTROL Benutzereinstellungen] geändert wird. Ab dem 25. März 2021 können Sie keine neuen benutzerdefinierten Landingpages mehr für Reports &amp; Analytics definieren. |
 | Ende von Ad Hoc Analysis | Januar 2021 | [!UICONTROL Ad Hoc Analysis] wurde am 1. März 2021 eingestellt. Weiterführende Informationen finden Sie unter [Discover Workspace](https://spark.adobe.com/page/S9Bhp66VJ2fEn/). |
 | Ende der Nutzungsdauer von drei Analytics-API-Services | 6. Januar 2021 | Am 30. April 2021 haben die folgenden Analytics Legacy-API-Services das Ende ihrer Nutzungsdauer erreicht und werden eingestellt. Alle aktuellen Integrationen, die mit diesen Services erstellt wurden, funktionieren ab diesem Tag nicht mehr.<ul><li>1.3 Analytics-APIs</li><li>1.4 SOAP Analytics-APIs</li><li>Legacy-OAuth-Authentifizierung (OAuth und JWT)</li></ul>Wir haben ein Dokument mit [Häufig gestellten Fragen (FAQ) zum Ende der Nutzungsdauer (EOL) der Legacy-API](https://github.com/AdobeDocs/analytics-1.4-apis/blob/master/docs/APIEOL.md?mv=email) bereitgestellt, das Ihre Fragen beantworten und Anleitungen zum weiteren Vorgehen geben soll. API-Integrationen, die diese Dienste nutzen, können zu den [Analytics-REST-APIs 1.4](https://github.com/AdobeDocs/analytics-1.4-apis?mv=email) oder den [Analytics-APIs 2.0](https://github.com/AdobeDocs/analytics-2.0-apis?mv=email) migrieren. Ältere OAuth-Konten können zu einem [Adobe IO](https://console.adobe.io/home?mv=email#) Analytics-Integrationskonto migrieren, das für den Zugriff auf sowohl Analytics-APIs 1.4 als auch Analytics-APIs 2.0 verwendet werden kann. |
