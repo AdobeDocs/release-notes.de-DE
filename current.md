@@ -5,9 +5,9 @@ doc-type: release notes
 last-update: March 2021
 author: mfrei
 translation-type: tm+mt
-source-git-commit: 35b3735f74ec51bcdb850bbb5b03df823c9e0f38
+source-git-commit: cbad4628dc16c773db0d9985b9ab5b5ac2cdd360
 workflow-type: tm+mt
-source-wordcount: '5843'
+source-wordcount: '5857'
 ht-degree: 38%
 
 ---
@@ -224,7 +224,7 @@ AEM 6.4, Service Pack 8, Cumulative Fix Pack 4 (6.4.8.4 veröffentlicht am 25. F
       * [Bearbeiten eines externen SPA in Experience Manager](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/implementing/developing/hybrid/editing-external-spa.html?lang=en): Es wurde die Möglichkeit hinzugefügt, eine eigenständige Einzelseitenanwendung in eine Experience Manager-Instanz hochzuladen, bearbeitbare Inhaltsabschnitte hinzuzufügen und das Authoring zu aktivieren.
    * **Experience Manager Assets as a Cloud Service**
 
-      * Experience Manager Assets als Cloud Service ist berechtigt, über eine vorkonfigurierte Brand Portal-Instanz zu verfügen. Der Cloud Manager-Benutzer kann das Markenportal auf Experience Manager-Assets als Cloud Service aktivieren.
+      * Experience Manager Assets als Cloud Service ist berechtigt, über eine vorkonfigurierte Brand Portal-Instanz zu verfügen. Der Cloud Manager-Benutzer kann das Markenportal auf Experience Manager-Assets als Cloud Service aktivieren. Siehe [Aktivieren des Markenportals mithilfe von Markenportal](https://experienceleague.corp.adobe.com/docs/experience-manager-cloud-service/assets/brand-portal/configure-aem-assets-with-brand-portal.html).
       * Unternehmen können jetzt Assets über das Markenportal beziehen. Die Asset-Sourcing-Funktion nutzt Brand Portal, um Kunden bei der Interaktion mit Agenturbenutzern zu unterstützen, um Assets für neue Marketing-Kampagnen, Fotoaufnahmen und Projekte zu beziehen. Siehe [Übersicht über die Asset-Beschaffung](https://experienceleague.adobe.com/docs/experience-manager-brand-portal/using/asset-sourcing-in-brand-portal/brand-portal-asset-sourcing.html?lang=en) im Markenportal-Handbuch.
       * Der Bericht &quot;Nutzung des Markenportals&quot;zeigt jetzt nur die aktiven Benutzer an. Die inaktiven Benutzer werden jetzt nicht angezeigt. Aktive Benutzer sind Benutzer, deren Konto einem Profil in der Admin Console zugewiesen ist. Siehe [Arbeiten mit Berichten](https://experienceleague.adobe.com/docs/experience-manager-brand-portal/using/admin-tools/brand-portal-reports.html?lang=en) im Markenportal-Handbuch.
       * Im Markenportal wird eine neue Downloadeinstellung eingeführt, mit der Sie separate Ordner für jedes Asset erstellen können, wenn Sie Ordner, Sammlungen usw. herunterladen. Siehe [Asset-Download](https://experienceleague.adobe.com/docs/experience-manager-brand-portal/using/download/brand-portal-download-assets.html?lang=en) in **Herunterladen von Assets aus dem Markenportal** im Markenportal-Handbuch.
