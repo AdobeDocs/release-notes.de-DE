@@ -5,10 +5,10 @@ doc-type: release notes
 last-update: March 2021
 author: mfrei
 translation-type: tm+mt
-source-git-commit: cbad4628dc16c773db0d9985b9ab5b5ac2cdd360
+source-git-commit: 9bf1dccf7e049c290e762410eb56a3f2c040c036
 workflow-type: tm+mt
-source-wordcount: '5857'
-ht-degree: 38%
+source-wordcount: '5917'
+ht-degree: 37%
 
 ---
 
@@ -117,26 +117,27 @@ Veröffentlichungsdatum: **25. März 2021**
 | ----------- | ---------- | ------- |
 | Aktualisierung der Datenreparatur-API | 25. März 2021 | Die Datenreparatur-API unterstützt jetzt Standardvariablen wie [!UICONTROL Seite] und [!UICONTROL IP-Adresse], Mobil- und Videovariablen sowie benutzerdefinierte Props und eVars.  Werte innerhalb von Variablen können gelöscht oder neue Werte festgelegt werden. Die API filtert jetzt auch Angebote nach URLs, Abfragen-Zeichenfolgen, at-Signaturen und mehr. |
 | Analysis Workspace: [!UICONTROL Komponenten] > [!UICONTROL Benutzereinstellungen] | 25. März 2021 | Auf der Seite [!UICONTROL Komponenten] > [!UICONTROL Benutzervoreinstellungen] können Sie [!UICONTROL Analysis Workspace]-Einstellungen und zugehörige Komponenten für Ihren Benutzer verwalten. [!UICONTROL Die Benutzereinstellungen ] gelten für alle neuen Projekte und Bereiche. **Hinweis:** Die folgenden Einstellungen wurden auf die Seite  [!UICONTROL Benutzereinstellungen ] verschoben:<ul><li>Berichtseinstellungen: Tausender-Trennzeichen (jetzt als &quot;Zahlenformat&quot;bezeichnet)</li><li>Berichtseinstellungen: CSV-Trennzeichen</li><li>Workspace-Projekte: Hilfe > Tipps aktivieren</li><li>Workspace-Projekte: Leeres Bedienfeld &quot;Beginn neuer Projekte mit diesem Bedienfeld&quot;, Option</li></ul> |
-| Analysis Workspace: Histogramm-Smart-Bucket-Prognose | 25. März 2021 | Die Histogramm-Smart-Behälter-Prognose hilft bei Histogrammen mit hoher Kardinalität, indem sie automatisch die richtige Breite und Anzahl der Behälter für Ihren Datenbogen identifiziert. Bei Metriken mit niedriger Kardinalität verhält sich die Visualisierung genauso wie zuvor. |
+| Analysis Workspace: [!UICONTROL Histogramm] - Smart-Bucket-Prognose | 25. März 2021 | [!UICONTROL Die ] HistogrammSmart-Bucket-Prognose hilft bei Histogrammen mit hoher Kardinalität, indem sie automatisch die richtige Breite und Anzahl der Behälter für Ihren Datenbogen identifiziert. Bei Metriken mit niedriger Kardinalität verhält sich die Visualisierung genauso wie zuvor. |
+| [!UICONTROL Nutzungs-] LogAPI | 25. März 2021 | Dies ist eine neue Analytics-API der Version 2.0, die den programmatischen Zugriff auf dieselben Protokolldaten ermöglicht, die unter [!UICONTROL Admin] > [!UICONTROL Protokoll] > [!UICONTROL Nutzungs- und Zugriffsprotokoll] verfügbar sind. Weitere Details zu Authentifizierung, Schema und Beispielantwort sind [hier](https://www.adobe.io/apis/experiencecloud/analytics/docs.html#!AdobeDocs/analytics-2.0-apis/master/usage-logs.md) verfügbar. |
 
 ### Neue Funktionen in Customer Journey Analytics {#cust-journey}
 
 | Funktion | [Allgemeine Verfügbarkeit](https://docs.adobe.com/content/help/en/analytics/landing/an-releases.html) – geplantes Datum | Beschreibung |
 | ----------- | ---------- | ----- |
-| Unterstützung für Analytics-Dashboard | 25. März 2021 | CJA unterstützt jetzt den Mobile Scorecard Builder und die Mobile App. Auf diese Weise können Führungskräfte und Geschäftsbenutzer ihre Kanal-KPIs aus CJA-Daten abrufen und dabei dieselbe App verwenden, die sie möglicherweise bereits für Adobe Analytics verwenden. |
+| Unterstützung für [!UICONTROL Adobe Analytics-Dashboard] | 25. März 2021 | [!UICONTROL Customer Journey Analytics] (CJA) unterstützt jetzt den  [!UICONTROL Adobe Analytics Dashboards Scorecard ] Builder und die Mobile App. Auf diese Weise können Führungskräfte und Geschäftsbenutzer ihre Kanal-KPIs auf Basis von CJA-Daten anzeigen, indem sie dieselbe App verwenden, die sie möglicherweise bereits für Adobe Analytics verwenden. |
 | Analysis Workspace: [!UICONTROL Komponenten] > [!UICONTROL Benutzereinstellungen] | 25. März 2021 | Auf der Seite [!UICONTROL Komponenten] > [!UICONTROL Benutzervoreinstellungen] können Sie [!UICONTROL Analysis Workspace]-Einstellungen und zugehörige Komponenten für Ihren Benutzer verwalten. [!UICONTROL Die Benutzereinstellungen ] gelten für alle neuen Projekte und Bereiche. **Hinweis:** Die folgenden Einstellungen wurden auf die Seite  [!UICONTROL Benutzereinstellungen ] verschoben:<ul><li>Workspace-Projekte: Hilfe > Tipps aktivieren</li><li>Workspace-Projekte: Leeres Bedienfeld &quot;Beginn neuer Projekte mit diesem Bedienfeld&quot;, Option</li></ul> |
-| Analysis Workspace: Histogramm-Smart-Bucket-Prognose | 25. März 2021 | Die Histogramm-Smart-Behälter-Prognose hilft bei Histogrammen mit hoher Kardinalität, indem sie automatisch die richtige Breite und Anzahl der Behälter für Ihren Datenbogen identifiziert. Bei Metriken mit niedriger Kardinalität verhält sich die Visualisierung genauso wie zuvor. |
+| Analysis Workspace: [!UICONTROL Histogramm] - Smart-Bucket-Prognose | 25. März 2021 | [!UICONTROL Die ] HistogrammSmart-Bucket-Prognose hilft bei Histogrammen mit hoher Kardinalität, indem sie automatisch die richtige Breite und Anzahl der Behälter für Ihren Datenbogen identifiziert. Bei Metriken mit niedriger Kardinalität verhält sich die Visualisierung genauso wie zuvor. |
 
 ### Fehlerbehebungen in Adobe Analytics {#aa-fixes}
 
 * Es wurde ein Problem behoben, bei dem dieser neue Inhaber nach dem Bearbeiten und Speichern des neuen Segments nicht in der Segment-Benutzeroberfläche angezeigt wurde. (AN-234502) AN-250970; AN-250286)
 * Es wurde ein Fehler behoben, der dazu führte, dass eine App-Report Suite sowohl primäre Server-Aufrufe als auch primäre mobile Server-Aufrufe nutzte. (AN-244029)
-* Es wurde ein Problem behoben, bei dem die Reaktionszeit der Benutzeroberfläche beim Öffnen von Workspace-Projekten verlangsamt wurde. (AN-242553)
-* Es wurde ein Fehler behoben, der dazu führte, dass sich nach der Aktualisierung auf die neueste Version nicht bei Report Builder anmelden konnte. (AN-248825)
-* Problem mit Benutzerberechtigungen für Benutzer ohne Administratorrechte behoben: Ein Benutzer sollte über eine Berechtigung verfügen, solange diese mindestens einem seiner Profil in der Admin Console hinzugefügt wird. Beim Hinzufügen von Benutzern zu Profilen sollten nur die Berechtigungen, über die sie verfügen, erhöht werden, und es sollten keine bereits über andere Profil erworbenen Berechtigungen entfernt werden. (AN-242723)
-* Es wurde ein Sprachenkodierungsfehler mit Data Feeds behoben. (AN-249862)
-* Es wurde ein Problem behoben, bei dem Benutzer nicht auf freigegebene Workspace-Projekte zugreifen konnten. (AN-247814)
-* Es wurde ein Problem behoben, durch das Warnhinweise nicht mit der Anzahl der ausgelösten Vorschauen übereinstimmten. (AN-249392) AN-250804)
+* Es wurde ein Problem mit der langsamen Reaktionszeit der Benutzeroberfläche beim Öffnen von Projekten behoben.  (AN-242553)
+* Es wurde ein Fehler behoben, der dazu führte, dass sich nach einem Upgrade auf die neueste Version nicht mehr bei [!UICONTROL Report Builder] anmelden konnte. (AN-248825)
+* Problem mit Benutzerberechtigungen für Benutzer ohne Administratorrechte behoben: Ein Benutzer sollte über eine Berechtigung verfügen, solange diese mindestens einem seiner Profil in [!UICONTROL Admin Console] hinzugefügt wird. Beim Hinzufügen von Benutzern zu Profilen sollten nur die Berechtigungen, über die sie verfügen, erhöht werden, und es sollten keine bereits über andere Profil erworbenen Berechtigungen entfernt werden. (AN-242723)
+* Es wurde ein Sprachenkodierungsfehler mit [!UICONTROL Datenfeeds] behoben. (AN-249862)
+* Es wurde ein Problem behoben, durch das Benutzer nicht auf freigegebene [!UICONTROL Workspace]-Projekte zugreifen können. (AN-247814)
+* Es wurde ein Problem behoben, bei dem [!UICONTROL Warnungsmeldungen] nicht mit der Anzahl der ausgelösten [!UICONTROL Vorschauen] übereinstimmten. (AN-249392) AN-250804)
 
 #### Weitere Fehlerbehebungen in Adobe Analytics
 
@@ -146,8 +147,8 @@ AN-206099; AN-237460; AN-241803; AN-243735; AN-244081; AN-244615; AN-244687; AN-
 
 | Hinweis | Hinzugefügt oder aktualisiert am | Beschreibung |
 | ----------- | ---------- | ---------- |
-| Gleich wie SiteCatalyst VISTA-Verarbeitung EIN | 17. März 2021 | Am 17. Juni 2021 werden alle Report Suites aktualisiert, sodass [!UICONTROL Wie-SiteCatalyst VISTA-Verarbeitung] auf &quot;ON&quot;eingestellt ist.  Diese Änderung wirkt sich auf den Berichte der Data Warehouse aus, indem die Daten entsprechend den Verarbeitungsregeln verarbeitet werden.  Wenden Sie sich bei Fragen oder Fragen an den Kundendienst. |
-| Ende der vollständigen Data Sources-Verarbeitung | 10. März 2021 | Adobe plant, Datenquellen mit vollständiger Verarbeitung in Zukunft auslaufen zu lassen. Ab dem 25. März 2021 können keine neuen Importe dieser Art mehr erstellt werden. Verwenden Sie zum Importieren dieses Datentyps die [API zum Massendateneinfügen](https://www.adobe.io/apis/experiencecloud/analytics/docs.html#!AdobeDocs/analytics-2.0-apis/master/bdia.md). |
+| [!UICONTROL Gleich wie SiteCatalyst VISTA Processing] = ON | 17. März 2021 | Am 17. Juni 2021 werden alle Report Suites aktualisiert, sodass [!UICONTROL Wie-SiteCatalyst VISTA-Verarbeitung] auf &quot;ON&quot;eingestellt ist.  Diese Änderung wirkt sich auf den Berichte [!UICONTROL Data Warehouse] aus, indem die Daten entsprechend den Verarbeitungsregeln verarbeitet werden.  Wenden Sie sich bei Fragen oder Klarstellungen an die Adobe Kundenunterstützung. |
+| EOL of [!UICONTROL Full Processing] [!UICONTROL Data Sources] | 10. März 2021 | Die Adobe plant, [!UICONTROL Volle Verarbeitung] [!UICONTROL Data Sources] in Zukunft zu deaktivieren. Ab dem 25. März 2021 können keine neuen Importe dieser Art mehr erstellt werden. Verwenden Sie zum Importieren dieses Datentyps die [API zum Massendateneinfügen](https://www.adobe.io/apis/experiencecloud/analytics/docs.html#!AdobeDocs/analytics-2.0-apis/master/bdia.md). |
 | Optionen zur Landingpage von Reports &amp; Analytics | 19. Februar 2021 | Am 25. März 2021 werden Optionen zum Festlegen neuer Reports &amp; Analytics-Dashboards sowie anderer Inhalte, wie Ihrer Adobe Analytics-Landingpage, entfernt. Wenn Sie zuvor eine Reports &amp; Analytics-Seite als benutzerdefinierte Landingpage festgelegt haben, funktioniert sie so lange weiter, bis Ihre Landingpage unter [!UICONTROL Benutzereinstellungen] geändert wird. |
 | Ende von Ad Hoc Analysis | Januar 2021 | [!UICONTROL Ad Hoc Analysis] wurde am 1. März 2021 eingestellt. Weiterführende Informationen finden Sie unter [Discover Workspace](https://spark.adobe.com/page/S9Bhp66VJ2fEn/). |
 | Ende der Nutzungsdauer von drei Analytics-API-Services | 6. Januar 2021 | Am 30. April 2021 haben die folgenden Analytics Legacy-API-Services das Ende ihrer Nutzungsdauer erreicht und werden eingestellt. Alle aktuellen Integrationen, die mit diesen Services erstellt wurden, funktionieren ab diesem Tag nicht mehr.<ul><li>1.3 Analytics-APIs</li><li>1.4 SOAP Analytics-APIs</li><li>Legacy-OAuth-Authentifizierung (OAuth und JWT)</li></ul>Wir haben ein Dokument mit [Häufig gestellten Fragen (FAQ) zum Ende der Nutzungsdauer (EOL) der Legacy-API](https://github.com/AdobeDocs/analytics-1.4-apis/blob/master/docs/APIEOL.md?mv=email) bereitgestellt, das Ihre Fragen beantworten und Anleitungen zum weiteren Vorgehen geben soll. API-Integrationen, die diese Dienste nutzen, können zu den [Analytics-REST-APIs 1.4](https://github.com/AdobeDocs/analytics-1.4-apis?mv=email) oder den [Analytics-APIs 2.0](https://github.com/AdobeDocs/analytics-2.0-apis?mv=email) migrieren. Ältere OAuth-Konten können zu einem [Adobe IO](https://console.adobe.io/home?mv=email#) Analytics-Integrationskonto migrieren, das für den Zugriff auf sowohl Analytics-APIs 1.4 als auch Analytics-APIs 2.0 verwendet werden kann. |
