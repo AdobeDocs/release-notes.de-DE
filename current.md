@@ -1,13 +1,13 @@
 ---
 title: Neueste Versionshinweise
-description: Informieren Sie sich über die neuesten Versionshinweise, neue Funktionen und die neue Dokumentation für Experience Cloud-Produkte und -Services. Finden Sie neue Hilfe und Schulungen zu Experience Cloud, Creative Cloud für Unternehmen und Document Cloud.
+description: Hier finden Sie Informationen über die aktuellen Versionshinweise, neue Funktionen und neue Dokumentation für Experience Cloud-Produkte und -Services. Hier finden Sie neues Material rund um Hilfen und Tutorials zu Experience Cloud, Creative Cloud für Unternehmen und Document Cloud.
 doc-type: release notes
 last-update: March 2021
 author: mfrei
 translation-type: tm+mt
-source-git-commit: bce06efc7248df1f1929838681e3fcf5adb8ebbd
+source-git-commit: 66a8238a7fc0a9b397bfab74b1b36d90be7ad842
 workflow-type: tm+mt
-source-wordcount: '6109'
+source-wordcount: '6141'
 ht-degree: 36%
 
 ---
@@ -55,7 +55,7 @@ Die neuesten Updates zum Systemstatus der Adobe finden Sie unter [Systemstatus d
 
 ## ![](/assets/ec_appicon_24.png) IconExperience Cloud - Komponenten, Dienste und Administration  {#ecloud}
 
-Nicht aktualisiert.
+**Einheitliche Suche: Die** einheitliche Suche, die derzeit für die Experience Platform verfügbar ist, unterstützt jetzt die Suche nach Quellen und Zielen für Experience Platformen. Mit dieser Funktion können Sie Segmente, Datensätze, Schema, Quellen und Ziele suchen.
 
 ## ![Symbol](/assets/experience_platform_appicon_24.png) Adobe Experience Platform {#platform}
 
