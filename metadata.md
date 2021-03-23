@@ -1,7 +1,7 @@
 ---
 cloud: experience-cloud
 solution-title: Lernen und Support
-description: Versionshinweise zu Experience Cloud-Lösungen
+description: Versionshinweise für Experience Cloud-Lösungen
 solution-hub-url: https://helpx.adobe.com/de/support/experience-cloud.html
 solution-icon: assets/assets/experience-cloud-logo-24.png
 getting-started-title: Erste Schritte
@@ -11,11 +11,11 @@ tutorials-url: https://helpx.adobe.com/de/experience-cloud/tutorials.html
 mini-toc-levels: 3
 git-repo: https://git.corp.adobe.com/AdobeDocs/release-notes.de-DE
 index: true
-translation-type: tm+mt
+translation-type: ht
 source-git-commit: 644ea51d605f87693109d6b0e96afbdf365aaa2b
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '175'
-ht-degree: 96%
+ht-degree: 100%
 
 ---
 
