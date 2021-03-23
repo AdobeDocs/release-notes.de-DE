@@ -5,9 +5,9 @@ doc-type: release notes
 last-update: March 2021
 author: mfrei
 translation-type: tm+mt
-source-git-commit: c26e0c1775dfdeb00ca99ff2492f58519f55fc43
+source-git-commit: bb6a42b34458a8f1959d4206f546992f4c8e5747
 workflow-type: tm+mt
-source-wordcount: '7052'
+source-wordcount: '7120'
 ht-degree: 32%
 
 ---
@@ -165,7 +165,7 @@ AN-206099; AN-237460; AN-241803; AN-243735; AN-244081; AN-244615; AN-244687; AN-
 | [!UICONTROL Gleich wie SiteCatalyst VISTA Processing] = ON | 17. März 2021 | Am 17. Juni 2021 werden alle Report Suites aktualisiert, sodass [!UICONTROL Wie-SiteCatalyst VISTA-Verarbeitung] auf &quot;ON&quot;eingestellt ist. Diese Änderung wirkt sich auf den Berichte [!UICONTROL Data Warehouse] aus, indem die Daten entsprechend den Verarbeitungsregeln verarbeitet werden. Wenden Sie sich bei Fragen oder Klarstellungen an die Adobe Kundenunterstützung. |
 | EOL of [!UICONTROL Full Processing] [!UICONTROL Data Sources] | 10. März 2021 | Die Adobe plant, [!UICONTROL Volle Verarbeitung] [!UICONTROL Data Sources] in Zukunft zu deaktivieren. Ab dem 25. März 2021 können keine neuen Importe dieser Art mehr erstellt werden. Verwenden Sie [Bulk Data Insertion API](https://www.adobe.io/apis/experiencecloud/analytics/docs.html#!AdobeDocs/analytics-2.0-apis/master/bdia.md), um diesen Datentyp zu importieren. [Weitere Infos](https://experienceleague.adobe.com/docs/analytics/import/data-sources/data-types-and-categories/datasrc-fullproc-eol.html) |
 | Optionen zur Landingpage von Reports &amp; Analytics | 19. Februar 2021 | Am 25. März 2021 werden Optionen zum Festlegen neuer Reports &amp; Analytics-Dashboards sowie anderer Inhalte, wie Ihrer Adobe Analytics-Landingpage, entfernt. Wenn Sie zuvor eine Reports &amp; Analytics-Seite als benutzerdefinierte Landingpage festgelegt haben, funktioniert sie so lange weiter, bis Ihre Landingpage unter [!UICONTROL Benutzereinstellungen] geändert wird. |
-| Ende von Ad Hoc Analysis | Januar 2021 | [!UICONTROL Ad Hoc Analysis] wurde am 1. März 2021 eingestellt. Weiterführende Informationen finden Sie unter [Discover Workspace](https://spark.adobe.com/page/S9Bhp66VJ2fEn/). |
+| Ende von Ad Hoc Analysis | 2021. Januar | [!UICONTROL Ad Hoc Analysis] wurde am 1. März 2021 eingestellt. Weiterführende Informationen finden Sie unter [Discover Workspace](https://spark.adobe.com/page/S9Bhp66VJ2fEn/). |
 | Ende der Nutzungsdauer von drei Analytics-API-Services | 6. Januar 2021 | Am 30. April 2021 haben die folgenden Analytics Legacy-API-Services das Ende ihrer Nutzungsdauer erreicht und werden eingestellt. Alle aktuellen Integrationen, die mit diesen Services erstellt wurden, funktionieren ab diesem Tag nicht mehr.<ul><li>1.3 Analytics-APIs</li><li>1.4 SOAP Analytics-APIs</li><li>Legacy-OAuth-Authentifizierung (OAuth und JWT)</li></ul>Wir haben ein Dokument mit [Häufig gestellten Fragen (FAQ) zum Ende der Nutzungsdauer (EOL) der Legacy-API](https://github.com/AdobeDocs/analytics-1.4-apis/blob/master/docs/APIEOL.md?mv=email) bereitgestellt, das Ihre Fragen beantworten und Anleitungen zum weiteren Vorgehen geben soll. API-Integrationen, die diese Dienste nutzen, können zu den [Analytics-REST-APIs 1.4](https://github.com/AdobeDocs/analytics-1.4-apis?mv=email) oder den [Analytics-APIs 2.0](https://github.com/AdobeDocs/analytics-2.0-apis?mv=email) migrieren. Ältere OAuth-Konten können zu einem [Adobe IO](https://console.adobe.io/home?mv=email#) Analytics-Integrationskonto migrieren, das für den Zugriff auf sowohl Analytics-APIs 1.4 als auch Analytics-APIs 2.0 verwendet werden kann. |
 | Ende von Adobe Data Connectors | 13. Juli 2020 | Adobe [!UICONTROL Data Connectors] basieren auf einer älteren Technologie, die nicht mehr funktionsfähig ist oder unterstützt wird. Ein neuer Standard ist im [Adobe Exchange-Partner-Programm](https://partners.adobe.com/exchangeprogram/experiencecloud) verfügbar. Sie können diesen Standard für jede Integration verwenden, sodass dies weiterhin angeboten und unterstützt werden kann. Das offizielle Enddatum ist der 1. August 2021. [Weitere Infos...](https://docs.adobe.com/content/help/de-DE/analytics/import/dataconnectors/data-connectors-eol.html) |
 
@@ -179,7 +179,7 @@ Die neuesten Aktualisierungen zu AppMeasurement-Versionen finden Sie in den Vers
 
 ## ![Symbol](/assets/audience-manager.png) Adobe Audience Manager {#aam}
 
-AAM neue Funktionen.
+Fehlerbehebungen und Verbesserungen beim Audience Manager.
 
 ### Fehlerbehebungen und Verbesserungen {#aam-fixes-and-improvements}
 
@@ -225,7 +225,7 @@ AEM 6.5, Service Pack 8 (6.5.8.0, veröffentlicht am 11. März 2021) ist das wic
    * [Versionshinweise](https://experienceleague.adobe.com/docs/experience-manager-65/release-notes/service-pack/sp-release-notes.html?lang=de#service-pack)
    * [Versionsfreigaben von AEM Forms](https://experienceleague.adobe.com/docs/experience-manager-release-information/aem-release-updates/forms-updates/aem-forms-releases.html?lang=de#forms-updates)
 
-   * **AEM 6.4.8.4**
+* **AEM 6.4.8.4**
 AEM 6.4, Service Pack 8, Cumulative Fix Pack 4 (6.4.8.4 veröffentlicht am 25. Februar 2021) ist ein wichtiges Update, das einige interne und kundenspezifische Fehlerbehebungen seit der allgemeinen Verfügbarkeit von AEM 6.4, Service Pack 8 (6.4.8.0), März 2020 enthält.
    * [Versionshinweise](https://experienceleague.adobe.com/docs/experience-manager-64/release-notes/cfp-release-notes.html?lang=de)
    * [Versionsfreigaben von AEM Forms](https://experienceleague.adobe.com/docs/experience-manager-release-information/aem-release-updates/forms-updates/aem-forms-releases.html#forms-updates)
@@ -453,6 +453,11 @@ Die folgenden Funktionen werden im Laufe dieses Quartals veröffentlicht:
 ## ![Symbol](/assets/document-cloud-24.png) Document Cloud {#doc-cloud}
 
 Neue Videos, Tutorials oder Kurse, die für Adobe Document Cloud veröffentlicht wurden.
+
+| Veröffentlicht | Name | Lösung | Beschreibung |
+| -----------| ---------- | ---------- | ---------- |
+| 25. Februar 2021 | [Erste Impressionen - Begrüßungs-E-Mail](https://experienceleague.adobe.com/docs/deliverability-learn/deliverability-best-practice-guide/first-impressions/welcome-emails.html) | Video | Erfahren Sie, was die Schlüsselelemente Ihrer Begrüßungsstrategie sein sollten. |
+| 25. Februar 2021 | [Erste Impressionen - Anstieg der Adresserfassung und Liste](https://experienceleague.adobe.com/docs/deliverability-learn/deliverability-best-practice-guide/first-impressions/address-collection-and-list-growth.html) | Video | Erfahren Sie, welche Quellen für neue E-Mail-Adressen am besten geeignet sind, wie Sie eine hohe Datenqualität sicherstellen und wie Sie sich an die rechtlichen Richtlinien anpassen können. |
 
 Hilfe zu Document Cloud erhalten Sie über:
 
