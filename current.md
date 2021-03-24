@@ -5,10 +5,10 @@ doc-type: release notes
 last-update: March 2021
 author: mfrei
 translation-type: tm+mt
-source-git-commit: 3763705cd932a91c26d5c0e6166758241969126d
+source-git-commit: 8c48b768b004298dd4b80da04db7c6b5e536a0e0
 workflow-type: tm+mt
-source-wordcount: '7139'
-ht-degree: 32%
+source-wordcount: '7549'
+ht-degree: 31%
 
 ---
 
@@ -23,9 +23,10 @@ Experience Cloud-Lösungen und -Services werden monatlich aktualisiert. Diese Se
 >
 >Abonnieren Sie das monatliche [Adobe Priority Product Update](https://www.adobe.com/subscription/priority-product-update.html), um E-Mail-Benachrichtigungen über Aktualisierungen dieser Seite zu erhalten. Diese Seite wird den ganzen Monat lang gepflegt und enthält möglicherweise Inhalte, die vor dem Veröffentlichungsdatum geändert werden können. Aktuelle Informationen zu Adobe Enterprise-Produkten und Experience League-Dokumentation finden Sie regelmäßig.
 
-Letzte Aktualisierung: **22. März 2021**
+Letzte Aktualisierung: **24. März 2021**
 
-* [Adobe Systemstatus](#status) (nicht aktualisiert)
+* [Digital Experience Blueprints](#blueprints)  (neue Implementierungsdokumentation)
+* [Systemstatus von Adobe](#status)
 * [Komponenten, Dienste und Administration der Benutzeroberfläche von Experience Cloud](#ecloud)
 * [Experience Platform](#platform)
 * [Journey Orchestration](#journey-orch)
@@ -43,6 +44,23 @@ Letzte Aktualisierung: **22. März 2021**
 
 Benötigen Sie Hilfe? Besuchen Sie [Adobe Experience League](https://experienceleague.adobe.com/?lang=de#home), um Produkt und technische Dokumentation, von Adobe kuratierte Kurse, Videoschulungen, schnelle Antworten, Community-Einblicke und von Schulungsleitern geführte Kurse zu erhalten.
 
+## ![](/assets/adobe.png) IconDigital Experience Blueprints  {#blueprints}
+
+Digital Experience Blueprints sind wiederholbare Implementierungen, um Strategien zu entwickeln und bestehende Geschäftsprobleme zu lösen. Blueprints beschleunigen die Time-to-Value und bieten einen schnellen Weg zum Erfolg.
+
+| Veröffentlicht | Beschreibung |
+| -----------| ---------- |
+| [Digital Experience Blueprints](https://experienceleague.adobe.com/docs/blueprints-learn/architecture/overview.html) | Übersicht über [!UICONTROL Digitale Blueprints]. Jedes Blueprint-Angebot enthält eine Reihe von Artefakten, die das hochwertige Geschäftsproblem, Architekturen, Implementierungsschritte, technische Überlegungen und Links zur entsprechenden Dokumentation erklären. |
+| [Audience Activation-Blueprint](https://experienceleague.adobe.com/docs/blueprints-learn/architecture/audience-activation/overview.html) | Diese Audience-first-Aktivierung ermöglicht es Marken, Kundeninteraktionen über mehrere Kanal hinweg zu verbinden, um eine zentralisierte Audience bereitzustellen, die für alle Kanal aktiviert werden kann. |
+| [Hub-Blueprint zur Aktivität von Kunden](https://experienceleague.adobe.com/docs/blueprints-learn/architecture//customer-activity-hub/overview.html) | Erfahren Sie, wie externe Anwendungen auf das Adobe Experience Platform [!UICONTROL Echtzeit-Profil des Kunden] zugreifen können. |
+| [Customer Journey Analytics-Blueprint](https://experienceleague.adobe.com/docs/blueprints-learn/architecture/customer-journey-analytics/overview.html) | Erfahren Sie, wie Marken Kundendaten und Kundenverhalten aus verschiedenen Interaktionsquellen und Kanälen vereinheitlichen können, um eine Journey-basierte Ansicht aller Kundeninteraktionen zu erstellen. |
+| [Custom Data Science for Profil Anreicherung Blueprint](https://experienceleague.adobe.com/docs/blueprints-learn/architecture/data-science/overview.html) | Erfahren Sie, wie die Daten in Adobe Experience Platform von [!UICONTROL Data Science Workspace] verwendet werden, um Modelle für maschinelles Lernen zu schulen, bereitzustellen und zu bewerten. |
+| [Datenaufbereitung und Ingestion - Blueprint](https://experienceleague.adobe.com/docs/blueprints-learn/architecture/data-ingestion/overview.html) | Erfahren Sie, wie Sie Quelldaten dem Schema [!UICONTROL Erlebnisdatenmodell] (XDM) zuordnen. Dieser Entwurf umfasst auch die Durchführung von Datentransformationen, einschließlich Datumsformatierung, Feldteilungs-, Verkettungs- und Konvertierungen, sowie das Verbinden, Zusammenführen und erneute Keying von Datensätzen. |
+| [Enterprise Data Exploration &amp; Berichte-Blueprint](https://experienceleague.adobe.com/docs/blueprints-learn/architecture/data-exploration/overview.html) | Der [!UICONTROL Abfrage-Dienst] der Experience Platform ermöglicht die Ausführung von SQL-Abfragen an den Daten. Erfahren Sie, wie mithilfe von [!UICONTROL Data Science Workspace] Datenerforschung, Datenwissenschaft und maschinelles Lernen mit den Daten ausgeführt werden kann. |
+| [Blueprint für Nachrichtenorchestrierung für mehrere Kanal](https://experienceleague.adobe.com/docs/blueprints-learn/architecture/multi-channel-message-orchestration/overview.html) | Erfahren Sie, wie Marken proaktiv mit ihren Kunden kommunizieren können, z. B. per E-Mail, SMS oder Mobil-Warnhinweise. |
+| [Blueprint zur serverseitigen Datenerfassung](https://experienceleague.adobe.com/docs/blueprints-learn/architecture/server-side-enterprise-data-collection/overview.html) | Erfahren Sie, wie mit Adobe Experience Platform Web- und Mobile-SDKs erfasste Daten von der Experience Platform [!UICONTROL Edge Network] an das gewünschte Ziel weitergeleitet werden können. |
+| [Web- und Mobile-Personalisierungskonzept](https://experienceleague.adobe.com/docs/blueprints-learn/architecture/web-personalization/overview.html) | Erfahren Sie, wie Sie die Segmentierung von Audiencen in mehreren Anwendungen verwenden, um Kundenerlebnisse zu personalisieren und zu optimieren. Sie können Kundenverhalten, Demografie, Treuestufe und vorherige Transaktionen verwenden, um Layouts, Aktionsaufrufe und Inhalte zu personalisieren. |
+
 ## ![Symbol](/assets/adobe.png) Systemstatus von Adobe {#status}
 
 [!UICONTROL Der Adobe-Systemstatus] liefert detaillierte Informationen, Statusaktualisierungen und E-Mail-Benachrichtigungen zu Ausfällen, Störungen und Wartungsarbeiten von Adobe Cloud-Produkten und -Diensten. Weitere Informationen dazu erhalten Sie unter [status.adobe.com](https://status.adobe.com/).
@@ -51,7 +69,9 @@ Die neuesten Updates für den Systemstatus der Adobe finden Sie unter [Systemsta
 
 ## ![](/assets/ec_appicon_24.png) IconExperience Cloud - Komponenten, Dienste und Administration  {#ecloud}
 
-**Einheitliche Suche: Die** einheitliche Suche, die derzeit für die Experience Platform verfügbar ist, unterstützt jetzt die Suche nach Quellen und Zielen für Experience Platformen. Mit dieser Funktion können Sie Segmente, Datensätze, Schema, Quellen und Ziele suchen.
+| Funktion | Beschreibung |
+| -----------| ---------- |
+| Einheitliche Suche | Die einheitliche Suche, die derzeit für die Experience Platform verfügbar ist, unterstützt jetzt die Suche nach Quellen und Zielen für Benutzer der Experience Platform. Mit dieser Funktion können Sie Segmente, Datensätze, Schema, Quellen und Ziele suchen. |
 
 ## ![Symbol](/assets/experience_platform_appicon_24.png) Adobe Experience Platform {#platform}
 
