@@ -5,9 +5,9 @@ doc-type: release notes
 last-update: March 2021
 author: mfrei
 translation-type: tm+mt
-source-git-commit: 17179b1ec08435b065a940850b52bb36183276f7
+source-git-commit: 99f32ddc69aa869be32186b9b0746aae27a79113
 workflow-type: tm+mt
-source-wordcount: '7534'
+source-wordcount: '7556'
 ht-degree: 31%
 
 ---
@@ -151,7 +151,7 @@ Veröffentlichungsdatum: **25. März 2021**
 | Analysis Workspace: [!UICONTROL Komponenten] > [!UICONTROL Benutzereinstellungen] | 25. März 2021 | Auf der Seite [!UICONTROL Komponenten] > [!UICONTROL Benutzervoreinstellungen] können Sie [!UICONTROL Analysis Workspace]-Einstellungen und zugehörige Komponenten für Ihren Benutzer verwalten. [!UICONTROL Die Benutzereinstellungen ] gelten für alle neuen Projekte und Bereiche. <br>**Hinweis:** Die folgenden Einstellungen wurden auf die Seite  [!UICONTROL Benutzereinstellungen ] verschoben:<ul><li>Berichtseinstellungen: Tausender-Trennzeichen (jetzt als _Zahlenformat_ bezeichnet)</li><li>Berichtseinstellungen: CSV-Trennzeichen</li><li>Workspace-Projekte: Hilfe > Tipps aktivieren</li><li>Workspace-Projekte: Leeres Bedienfeld _Beginn neuer Projekte mit dieser Option_</li></ul> |
 | Analysis Workspace: [!UICONTROL Histogramm-Smart-Bucket-Prognose] | 25. März 2021 | [!UICONTROL Histogramm Smart Bucket ] Predictionhilft bei Histogrammen mit hoher Kardinalität, indem automatisch die richtige Breite und Anzahl der Behälter für Ihren Datenbogen identifiziert wird. Bei Metriken mit niedriger Kardinalität verhält sich die Visualisierung genauso wie zuvor. |
 | [!UICONTROL Nutzungs-] LogAPI | 25. März 2021 | Dies ist eine neue Analytics-API der Version 2.0, die den programmatischen Zugriff auf dieselben Protokolldaten ermöglicht, die unter **[!UICONTROL Admin]** > **[!UICONTROL Protokoll]** > **[!UICONTROL Nutzungs- und Zugriffsprotokoll]** verfügbar sind. Weitere Details zu Authentifizierung, Schema und Beispielantwort sind [hier](https://www.adobe.io/apis/experiencecloud/analytics/docs.html#!AdobeDocs/analytics-2.0-apis/master/usage-logs.md) verfügbar. |
-| Unterstützung von Analytics-Dashboards für benutzerdefinierte Datumsbereiche | 25. März 2021 | Scorecard-Ersteller können benutzerdefinierte Datumsbereiche erstellen und auf mobile Scorecard-Projekte anwenden. Ersteller können aus vertrauten Arbeitsbereichen und Datumsbereich-Vorgaben für Mobilgeräte wählen oder einen benutzerdefinierten Datumsbereich erstellen. |
+| Unterstützung von Analytics-Dashboards für benutzerdefinierte Datumsbereiche | 22. April 2021 | Scorecard-Ersteller können benutzerdefinierte Datumsbereiche erstellen und auf mobile Scorecard-Projekte anwenden. Ersteller können aus vertrauten Arbeitsbereichen und Datumsbereich-Vorgaben für Mobilgeräte wählen oder einen benutzerdefinierten Datumsbereich erstellen. [Weitere Infos](https://experienceleague.adobe.com/docs/analytics/analyze/mobapp/curator.html#mobapp). |
 
 ### Neue Funktionen in Customer Journey Analytics {#cust-journey}
 
@@ -160,7 +160,7 @@ Veröffentlichungsdatum: **25. März 2021**
 | Unterstützung für [!UICONTROL Adobe Analytics-Dashboard] | 25. März 2021 | [!UICONTROL Customer Journey Analytics] (CJA) unterstützt jetzt den  [!UICONTROL Adobe Analytics Dashboards Scorecard ] Builder und die Mobile App. Auf diese Weise können Führungskräfte und Geschäftsbenutzer ihre Kanal-KPIs auf Basis von CJA-Daten anzeigen, indem sie dieselbe App verwenden, die sie möglicherweise bereits für Adobe Analytics verwenden. |
 | Analysis Workspace: **[!UICONTROL Komponenten]** > **[!UICONTROL Benutzereinstellungen]** | 25. März 2021 | Auf der Seite [!UICONTROL Komponenten] > [!UICONTROL Benutzervoreinstellungen] können Sie [!UICONTROL Analysis Workspace]-Einstellungen und zugehörige Komponenten für Ihren Benutzer verwalten. [!UICONTROL Die Benutzereinstellungen ] gelten für alle neuen Projekte und Bereiche. <br>**Hinweis:** Die folgenden Einstellungen wurden auf die Seite  [!UICONTROL Benutzereinstellungen ] verschoben:<ul><li>Workspace-Projekte: Hilfe > Tipps aktivieren</li><li>Workspace-Projekte: Leeres Bedienfeld _Beginn neuer Projekte mit dieser Option_</li></ul> |
 | Analysis Workspace: [!UICONTROL Histogramm-Smart-Bucket-Prognose] | 25. März 2021 | [!UICONTROL Histogramm Smart Bucket ] Predictionhilft bei Histogrammen mit hoher Kardinalität, indem automatisch die richtige Breite und Anzahl der Behälter für Ihren Datenbogen identifiziert wird. Bei Metriken mit niedriger Kardinalität verhält sich die Visualisierung genauso wie zuvor. |
-| Unterstützung von Analytics-Dashboards für Customer Journey Analytics | 25. März 2021 | Die Analytics-Dashboard-App unterstützt jetzt Customer Journey Analytics. Benutzer mit Customer Journey Analytics können KPIs aus allen Daten, die in der Analytics-Dashboard-App in Adobe Experience Platform erfasst werden, überlagern. Mit Customer Journey Analytics können Sie mehrere Datenquellen für eine echte Ansicht des Kundenerlebnisses mit mehreren Kanälen kombinieren. Mit der Analytics-Dashboard-App erhalten Sie jederzeit und überall eine aktuelle, ganzheitliche Ansicht Ihres Unternehmens. |
+| Unterstützung von Analytics-Dashboards für Customer Journey Analytics | 25. März 2021 | Die Analytics-Dashboard-App unterstützt jetzt Customer Journey Analytics. Benutzer mit Customer Journey Analytics können KPIs aus allen Daten, die in der Analytics-Dashboard-App in Adobe Experience Platform erfasst werden, überlagern. Mit Customer Journey Analytics können Sie mehrere Datenquellen für eine echte Ansicht des Kundenerlebnisses mit mehreren Kanälen kombinieren. Mit der Analytics-Dashboard-App erhalten Sie jederzeit und überall eine aktuelle, ganzheitliche Ansicht Ihres Unternehmens. [Weitere Infos](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-dashboards/curator.html?lang=en#cja-dashboards). |
 
 ### Fehlerbehebungen in Adobe Analytics {#aa-fixes}
 
