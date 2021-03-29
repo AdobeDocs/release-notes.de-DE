@@ -5,10 +5,10 @@ doc-type: release notes
 last-update: March 2021
 author: mfrei
 translation-type: tm+mt
-source-git-commit: 99f32ddc69aa869be32186b9b0746aae27a79113
+source-git-commit: 153ab33f4f0e709d606efd5121b7e65bb1b9caf2
 workflow-type: tm+mt
-source-wordcount: '7556'
-ht-degree: 31%
+source-wordcount: '7773'
+ht-degree: 30%
 
 ---
 
@@ -77,7 +77,7 @@ Die neuesten Updates für den Systemstatus der Adobe finden Sie unter [Systemsta
 
 Enthält Versions-Updates für Experience Platform und Experience Platform Launch.
 
-* [Experience Platform – Versionshinweise](https://experienceleague.adobe.com/docs/experience-platform/release-notes/latest.html). (Aktualisiert am 24. Februar 2021)
+* [Versionshinweise zu Experience Platform](https://experienceleague.adobe.com/docs/experience-platform/release-notes/latest.html). (Aktualisiert am 24. Februar 2021)
 * [Experience Platform Launch – Versionshinweise](https://experienceleague.adobe.com/docs/launch/using/release-notes/current.html?lang=de). (Aktualisiert am 18. Februar 2021)
 
 ### Experience Platform-Tutorials und -Kurse
@@ -429,15 +429,21 @@ Zuletzt aktualisiert: **28. Oktober 2020**
 
 ### Neue Funktionen in [!DNL Advertising Cloud Search] {#adcloud-search}
 
-Zuletzt aktualisiert: **22. Januar 2021 für die Version 23. Januar**
+Zuletzt aktualisiert: **29. März 2022, für Version 27. März**
 
 | Funktion | Beschreibung |
 | -----------| ---------- |
-| [!UICONTROL Search-Kampagnen]<br> Berichte | Advertising Cloud Search meldet keine neuen durchschnittlichen Positionsdaten mehr für Microsoft® Advertising-Kampagnen. Die Spalte „Durchschnittliche Position“ zeigt Werte von null (0) für Datumsangaben ab dem 23. Januar an. Dies gilt in Vorbereitung auf die Ausmusterung der durchschnittlichen Positionsdaten durch Microsoft im Januar 2021.<br>Durchschnittliche Positionsdaten, die bis zum 22. Januar gesammelt wurden, stehen in Berichten weiterhin zur Verfügung. |
+| [!UICONTROL Search-Kampagnen]<br> Berichte | (Microsoft Ads-Kampagnen) Die Angebotsunterstützung ist jetzt für die Microsoft-Angebotsstrategie mit erweiterten Kosten-pro-Klick (eCPC) verfügbar, die die Standardangebotsstrategie für Microsoft Advertising-Kampagnen darstellt. Sie können nun eine Angebotsstrategie[!UICONTROL auf Kampagne] für Ihre Kampagnen angeben. Zu den Optionen gehören [!UICONTROL Manuelle CPC] und [!UICONTROL Erweiterte CPC]. Sie können [!UICONTROL Verbesserte CPC] mit Suchfunktionen, vorhandenen dynamischen Suchfunktionen und vorhandenen Kampagnen verwenden.<br>Wenn Sie eine Kampagne mit eCPC zu einem optimierten Advertising Cloud-Portfolio hinzufügen, optimiert Advertising Cloud die Basisangebote und — wenn die Option &quot;Budgetgrenzen für automatische Anpassung der Kampagne&quot;aktiviert ist — den Haushaltsplan der Kampagne. Microsoft wendet alle Angebotsanpassungen an und kann die von Advertising Cloud generierten Angebote zum Zeitpunkt der Abfrage des Benutzers auf der Grundlage von proprietären Daten und Erkenntnissen ändern.<br>Die Spalte  [!UICONTROL Angebotsstrategie ] benutzerdefiniert ist in der   Kampagnenansicht und in Berichten verfügbar. |
+| [!UICONTROL Search-Kampagnen]<br> [!UICONTROL Bulksheets] | (Microsoft Advertising Kampagnen) Für erweiterte Textanzeigen steht jetzt eine optionale dritte Überschrift ([!UICONTROL Anzeigentitel 3]) und eine optionale zweite Beschreibung ([!UICONTROL Beschreibung 2]) zur Verfügung. Die Unterstützung ist in der Ansicht [!UICONTROL Anzeigen] und in [!UICONTROL Bulksheets] verfügbar. |
+| [!UICONTROL Werbeeinblicke] | Zwei neue [!UICONTROL Advertising Insights] sind verfügbar:<ul><li>[!UICONTROL Verzögerter Umsatz]: Misst die Konvertierungsverzögerung (die Zeit zwischen einem SEM-Klick und einer anschließenden Konvertierung) eines Portfolios und zeigt etwaige Unterschiede in den gewichteten Einnahmen, dem ROI und der Modellgenauigkeit aufgrund der Verzögerung an.</li><li>[!UICONTROL Abfrage Cross Match]: Findet Instanzen von Suchvorgängen, die Google mit mehr als einem Suchbegriff abgeglichen hat, und gibt Vorschläge, wo der Traffic geleitet werden soll.</li></ul> |
 
-### Ad Cloud-Tutorials und -Kurse
+### Tutorials und Kurse zu Advertising Cloud
 
-Aktualisiert: **2. Dezember 2020**
+Aktualisiert am **23. Februar 2021**
+
+| Übung | Beschreibung |
+| -----------| ---------- |
+| [Einführung in Workspace und Reporting](https://experienceleague.adobe.com/docs/advertising-cloud-learn/tutorials/analytics/analytics-analysis-workspace-a4adc.html?lang=de) | Hier erfahren Sie, wie Sie mit Ihren Advertising Cloud-Daten visuelle Berichte in Adobe Analytics Analysis Workspace erstellen können. |
 
 ## ![Symbol](/assets/magento.png) [!DNL Magento] {#magento}
 
