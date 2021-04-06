@@ -4,14 +4,14 @@ description: Hier finden Sie Informationen über die aktuellen Versionshinweise,
 doc-type: release notes
 last-update: March 2021
 author: mfrei
+exl-id: bcbdba6a-9e24-4f84-97ca-65c24ef45707
 translation-type: tm+mt
-source-git-commit: 153ab33f4f0e709d606efd5121b7e65bb1b9caf2
+source-git-commit: 6146981c558499f22dbdc56bc12e2ebce2d00439
 workflow-type: tm+mt
-source-wordcount: '7773'
-ht-degree: 30%
+source-wordcount: '7872'
+ht-degree: 29%
 
 ---
-
 
 # Adobe Experience Cloud – Versionshinweise, März 2021
 
@@ -23,7 +23,7 @@ Experience Cloud-Lösungen und -Services werden monatlich aktualisiert. Diese Se
 >
 >Abonnieren Sie das monatliche [Adobe Priority Product Update](https://www.adobe.com/subscription/priority-product-update.html), um E-Mail-Benachrichtigungen über Aktualisierungen dieser Seite zu erhalten. Diese Seite wird den ganzen Monat lang gepflegt und enthält möglicherweise Inhalte, die vor dem Veröffentlichungsdatum geändert werden können. Aktuelle Informationen zu Adobe Enterprise-Produkten und Experience League-Dokumentation finden Sie regelmäßig.
 
-Letzte Aktualisierung: **24. März 2021**
+Neueste Aktualisierung: **6. April 2021**
 
 * [Digital Experience Blueprints](#blueprints)  (neue Implementierungsdokumentation)
 * [Systemstatus von Adobe](#status)
@@ -31,7 +31,7 @@ Letzte Aktualisierung: **24. März 2021**
 * [Experience Platform](#platform)
 * [Journey Orchestration](#journey-orch)
 * [Offer Decisioning](#offer-decisioning)
-* [Analytics](#analytics) und [Customer Journey Analytics](#cust-journey)
+* [Analytics](#analytics) **(aktualisiert am 6. April 2021)**  und  [Customer Journey Analytics](#cust-journey)
 * [Audience Manager](#aam)
 * [Experience Manager](#aem)
 * [Campaign](#ac)
@@ -140,7 +140,7 @@ Veröffentlichungsdatum: **25. März 2021**
 * [Neue Funktionen in Adobe Analytics](#aa-features)
 * [Neue Funktionen in Customer Journey Analytics](#cust-journey)
 * [Fehlerbehebungen in Adobe Analytics](#aa-fixes)
-* [Wichtige Hinweise für Analytics-Administratoren](#aa-notices)
+* [Wichtige Hinweise für Analytics-Administratoren](#aa-notices)  **(aktualisiert am 6. April 2021)**
 * [AppMeasurement](#appm)
 
 ### Neue Funktionen in Adobe Analytics {#aa-features}
@@ -181,11 +181,12 @@ AN-206099; AN-237460; AN-241803; AN-243735; AN-244081; AN-244615; AN-244687; AN-
 
 | Hinweis | Hinzugefügt oder aktualisiert am | Beschreibung |
 | ----------- | ---------- | ---------- |
+| Änderungen am Datenfeed und an der IP-Adresse der Data Warehouse | 6. April 2021 | Ab dem 17. Juni wird das Datenfeed- und Data Warehouse-Versand-System in unseren Rechenzentren neu positioniert und kann daher zu einer Änderung der für Sie sichtbaren externen IP-Adressen führen.  Sie sollten bestätigen, dass alle IP-CIDR-Blöcke für das Rechenzentrum, in dem Ihre Berichte und Feeds bezogen werden, in Firewalls und für alle von Ihnen verwalteten Zielsysteme vorhanden sind. [Hier finden Sie eine vollständige Liste der IP-Adressbereiche, die in die Zulassungslisten](https://https://experienceleague.adobe.com/docs/analytics/technotes/ip-addresses.html#data-collection-and-ftp-ip-address-blocks) Ihrer Firewall gesetzt werden. |
 | Hinweis auf bevorstehende Änderungen im Analytics-Menü | 24. März 2021 | Am 22. April 2021 werden wir die Dropdown-Menüs **[!UICONTROL Komponenten]**, **[!UICONTROL Tools]** und **[!UICONTROL Admin]** aktualisieren, um Leistungsgewinne zu erzielen. Alle diese Seiten stehen weiterhin unter den Links **[!UICONTROL Alle Komponenten]**, **[!UICONTROL Alle Tools]** und **[!UICONTROL Alle Admin]** zur Verfügung. Sie werden einfach aus dem Dropdown-Menü entfernt. Hier sind die Menüelemente, die aus dem Dropdown-Menü entfernt und auf ihre jeweilige Link-Seite platziert werden:<br><br> [!UICONTROL Komponenten]<ul><li>[!UICONTROL Lesezeichen]</li><li>[!UICONTROL Dashboards]</li><li>[!UICONTROL Zielgruppen]</li><li>[!UICONTROL Ereignisse des Kalenders]</li><li>[!UICONTROL Geplante Berichte]</li><li>[!UICONTROL Berichtseinstellungen]</li></ul>[!UICONTROL -Tools]<ul><li>[!UICONTROL Recommendations Classic]</li><li>[!UICONTROL Search&amp;Promote]</li></ul>[!UICONTROL Admin]<ul><li>[!UICONTROL Benutzerverwaltung]</li><li>[!UICONTROL Classification Importer]</li><li>[!UICONTROL Classification Rule Builder]</li><li>[!UICONTROL Data Sources]</li><li>[!UICONTROL Data Connectors]</li><li>[!UICONTROL Unternehmenseinstellungen]</li><li>[!UICONTROL Protokolle]</li><li>[!UICONTROL Dynamic Tag Management]</li><li>[!UICONTROL Code-Manager]</li><li>[!UICONTROL Nach IP ausschließen]</li><li>[!UICONTROL Traffic-Management]</li></ul> |
 | [!UICONTROL Gleich wie SiteCatalyst VISTA Processing] = ON | 17. März 2021 | Am 17. Juni 2021 werden alle Report Suites aktualisiert, sodass [!UICONTROL Wie-SiteCatalyst VISTA-Verarbeitung] auf &quot;ON&quot;eingestellt ist. Diese Änderung wirkt sich auf den Berichte [!UICONTROL Data Warehouse] aus, indem die Daten entsprechend den Verarbeitungsregeln verarbeitet werden. Wenden Sie sich bei Fragen oder Klarstellungen an die Adobe Kundenunterstützung. |
 | EOL of [!UICONTROL Full Processing] [!UICONTROL Data Sources] | 10. März 2021 | Die Adobe plant, [!UICONTROL Volle Verarbeitung] [!UICONTROL Data Sources] in Zukunft zu deaktivieren. Ab dem 25. März 2021 können keine neuen Importe dieser Art mehr erstellt werden. Verwenden Sie [Bulk Data Insertion API](https://www.adobe.io/apis/experiencecloud/analytics/docs.html#!AdobeDocs/analytics-2.0-apis/master/bdia.md), um diesen Datentyp zu importieren. [Weitere Infos](https://experienceleague.adobe.com/docs/analytics/import/data-sources/data-types-and-categories/datasrc-fullproc-eol.html) |
 | Optionen zur Landingpage von Reports &amp; Analytics | 19. Februar 2021 | Am 25. März 2021 werden Optionen zum Festlegen neuer Reports &amp; Analytics-Dashboards sowie anderer Inhalte, wie Ihrer Adobe Analytics-Landingpage, entfernt. Wenn Sie zuvor eine Reports &amp; Analytics-Seite als benutzerdefinierte Landingpage festgelegt haben, funktioniert sie so lange weiter, bis Ihre Landingpage unter [!UICONTROL Benutzereinstellungen] geändert wird. |
-| Ende von Ad Hoc Analysis | 2021. Januar | [!UICONTROL Ad Hoc Analysis] wurde am 1. März 2021 eingestellt. Weiterführende Informationen finden Sie unter [Discover Workspace](https://spark.adobe.com/page/S9Bhp66VJ2fEn/). |
+| Ende von Ad Hoc Analysis | Januar 2021 | [!UICONTROL Ad Hoc Analysis] wurde am 1. März 2021 eingestellt. Weiterführende Informationen finden Sie unter [Discover Workspace](https://spark.adobe.com/page/S9Bhp66VJ2fEn/). |
 | Ende der Nutzungsdauer von drei Analytics-API-Services | 6. Januar 2021 | Am 30. April 2021 haben die folgenden Analytics Legacy-API-Services das Ende ihrer Nutzungsdauer erreicht und werden eingestellt. Alle aktuellen Integrationen, die mit diesen Services erstellt wurden, funktionieren ab diesem Tag nicht mehr.<ul><li>1.3 Analytics-APIs</li><li>1.4 SOAP Analytics-APIs</li><li>Legacy-OAuth-Authentifizierung (OAuth und JWT)</li></ul>Wir haben ein Dokument mit [Häufig gestellten Fragen (FAQ) zum Ende der Nutzungsdauer (EOL) der Legacy-API](https://github.com/AdobeDocs/analytics-1.4-apis/blob/master/docs/APIEOL.md?mv=email) bereitgestellt, das Ihre Fragen beantworten und Anleitungen zum weiteren Vorgehen geben soll. API-Integrationen, die diese Dienste nutzen, können zu den [Analytics-REST-APIs 1.4](https://github.com/AdobeDocs/analytics-1.4-apis?mv=email) oder den [Analytics-APIs 2.0](https://github.com/AdobeDocs/analytics-2.0-apis?mv=email) migrieren. Ältere OAuth-Konten können zu einem [Adobe IO](https://console.adobe.io/home?mv=email#) Analytics-Integrationskonto migrieren, das für den Zugriff auf sowohl Analytics-APIs 1.4 als auch Analytics-APIs 2.0 verwendet werden kann. |
 | Ende von Adobe Data Connectors | 13. Juli 2020 | Adobe [!UICONTROL Data Connectors] basieren auf einer älteren Technologie, die nicht mehr funktionsfähig ist oder unterstützt wird. Ein neuer Standard ist im [Adobe Exchange-Partner-Programm](https://partners.adobe.com/exchangeprogram/experiencecloud) verfügbar. Sie können diesen Standard für jede Integration verwenden, sodass dies weiterhin angeboten und unterstützt werden kann. Das offizielle Enddatum ist der 1. August 2021. [Weitere Infos...](https://docs.adobe.com/content/help/de-DE/analytics/import/dataconnectors/data-connectors-eol.html) |
 
