@@ -9,7 +9,7 @@ translation-type: tm+mt
 source-git-commit: b742d2cf0f14d2b25ed540245c0f1f571fd2319b
 workflow-type: tm+mt
 source-wordcount: '65'
-ht-degree: 90%
+ht-degree: 100%
 
 ---
 
@@ -20,7 +20,7 @@ ht-degree: 90%
 + Frühere Versionshinweise {#previous}
    + 2021 {#2021}
       + [Februar 2021](c-legacy-releases/2021/02182021.md)
-      + [2021. Januar](c-legacy-releases/2021/01142021.md)
+      + [Januar 2021](c-legacy-releases/2021/01142021.md)
    + 2020 {#2020}
       + [November 2020](c-legacy-releases/2020/10292020.md)
       + [Oktober 2020](c-legacy-releases/2020/10082020.md)
