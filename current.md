@@ -5,9 +5,9 @@ doc-type: release notes
 last-update: April 2021
 author: mfrei
 translation-type: tm+mt
-source-git-commit: e5c34b37703cc4aaf0c6711dc5da7857321375ae
+source-git-commit: 21fdbc0a354a87723097e294db15d88e9877061c
 workflow-type: tm+mt
-source-wordcount: '5431'
+source-wordcount: '5430'
 ht-degree: 42%
 
 ---
@@ -343,7 +343,7 @@ Zuletzt aktualisiert: **28. Oktober 2020**
 | -----------| ---------- |
 | Neu Hilfe | (Version vom 28. Oktober) Die alten Hilfeseiten wurden durch aktualisierte Seiten ersetzt, die über den Hilfe-Link im DSP-Hauptmenü abrufbar und auch jederzeit unter [https://experienceleague.adobe.com/docs/advertising-cloud/dsp/home.html?lang=de](https://experienceleague.adobe.com/docs/advertising-cloud/dsp/home.html?lang=de) verfügbar sind. |
 | Kampagnen | (Version vom 28. Oktober) Die früheren Beta-Ansichten von Campaign sind jetzt die standardmäßigen Ansichten von Campaign und bieten schnellere Einblicke, vereinfachte Workflows und benutzerspezifische Ansichten. |
-| Privates Inventar | (Version vom 15. Oktober) Alle Benutzer können jetzt mit einem neuen Deal-ID-Formular Details zu Deal-IDs einrichten und bearbeiten. Hierbei handelt es sich um eine vereinfachte Version des alten [!UICONTROL Smart Ad Serving]-Formulars. Um neue ID-Details einzurichten, gehen Sie zu **[!UICONTROL Lagerbestand]** > **!UICONTROL Angebote]**, klicken Sie auf **[!UICONTROL Erstellen]** und dann auf **[!UICONTROL Kauf-ID Beta]**. |
+| Privates Inventar | (Version vom 15. Oktober) Alle Benutzer können jetzt mit einem neuen Deal-ID-Formular Details zu Deal-IDs einrichten und bearbeiten. Hierbei handelt es sich um eine vereinfachte Version des alten Smart Ad Serving-Formulars. Um neue ID-Details einzurichten, gehen Sie zu **[!UICONTROL Lagerbestand]** > **[!UICONTROL Angebote]** > **[!UICONTROL Erstellen]** und klicken Sie dann auf **[!UICONTROL Deal ID Beta]**. |
 | Platzierungsvorhersage | (Version vom 15. Oktober) Für Platzierungen mit Platzierungsebenen-Geschwindigkeit enthält der Abschnitt [!UICONTROL Prognose] der Platzierungseinstellungen einen neuen Abschnitt mit [!UICONTROL geschätzten Höchstwerten], der angibt, wie viel mehr Kapazität mit der aktuellen Targeting-Konfiguration verfügbar ist. |
 
 ### Neue Funktionen in [!DNL Advertising Cloud Search] {#adcloud-search}
