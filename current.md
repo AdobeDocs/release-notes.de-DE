@@ -4,14 +4,14 @@ description: Hier finden Sie Informationen über die aktuellen Versionshinweise,
 doc-type: release notes
 last-update: April 2021
 author: mfrei
+exl-id: bcbdba6a-9e24-4f84-97ca-65c24ef45707
 translation-type: tm+mt
-source-git-commit: a030b00ce834306ccf5da00e0c8757e3a2b4fa02
+source-git-commit: 75fc19a753d94ad35337ad43f98aaa0aff52bdc1
 workflow-type: tm+mt
-source-wordcount: '5426'
-ht-degree: 42%
+source-wordcount: '5384'
+ht-degree: 43%
 
 ---
-
 
 # Adobe Experience Cloud – Versionshinweise, April 2021
 
@@ -186,13 +186,12 @@ Neue Videos, Tutorials oder Kurse, die für Audience Manager veröffentlicht wur
 
 | Veröffentlicht | Name | Typ | Beschreibung |
 | -----------| ---------- | ---------- | ---------- |
-| April 2021 | [Einführung in Audience Manager - Grundlagen der CDP in Echtzeit](https://video.tv.adobe.com/v/332230) | Video | Die Umstellung von Audience Manager auf [!UICONTROL Echtzeit-Kundendatenplattform] (Echtzeit-CDP) nimmt in bestimmten Bereichen einen Paradigmenwechsel an. In diesem Video wird der Kurs vorgestellt, der Ihnen beim Umstieg hilft. |
+| April 2021 | [Grundlegendes zur Echtzeit-CDP für Audience Manager](https://experienceleague.adobe.com/?recommended=AudienceManager-U-1-2020.1.rtcdp) | Kurs | Kunden von Audience Managern überdenken ihr Content-Management neu, indem sie zur Echtzeit-Kundendatenplattform (Echtzeit-CDP) der Adobe wechseln. Dieser Kurs basiert auf einem Konzept-für-Konzept-Ansatz, der Audience Manager dabei hilft, zu verstehen, wie diese Konzepte in Echtzeit-CDP gehandhabt werden. |
 | April 2021 | [Ziele in Echtzeit-CDP für Audience Manager](https://experienceleague.adobe.com/docs/audience-manager-learn/tutorials/other-integrations/integrating-with-rtcdp/rtcdp-destinations-for-aam-users.html?lang=en) | Video | Wenn Sie von Audience Manager zu [!UICONTROL Echtzeit-Kundendatenplattform] (Echtzeit-CDP) wechseln, müssen Sie unbedingt Informationen zu Zielen erhalten, damit Sie wissen, wie Sie Ihre Audiencen-Segmente bis zu den Zielpartnern aktivieren können. In diesem Video werden die verschiedenen Zieltypen und deren Positionen als Echtzeit-CDP behandelt. |
 | April 2021 | [Grundlegendes zur Datenverwaltung in Echtzeit-CDP für Benutzer von Audience Manager](https://experienceleague.adobe.com/docs/audience-manager-learn/tutorials/other-integrations/integrating-with-rtcdp/rtcdp-data-gov-for-aam-users.html?lang=en#other-integrations) | Video | Dieses Video führt Audience Manager durch die Datenverwaltungs-Funktion in [!UICONTROL Echtzeit-Kundendatenplattform] und vergleicht sie mit den verfügbaren Daten in Audience Manager. Es wird das [!UICONTROL Datenverwendung und Beschriftung Enforcement] (DULE) Framework diskutiert und wo es in Plattform angewendet werden kann. |
 | April 2021 | [Eine Geschichte von zwei Wahrnehmungen - Marken vs Konsumenten - Ereignis](https://experienceleague.adobe.com/docs/audience-manager-learn/tutorials/industry/brands-vs-consumers.html?lang=en#industry) | Artikel | Marketingfachleute werden heute in der Unübersichtlichkeit der Informationen über Identitätspraktiken begraben. Und nur 37% der Marketing-Fachleute gaben an, sie seien auf eine Zukunft ohne Cookies vorbereitet, laut neueren Forschungsergebnissen von Adobe und Advanis. In diesem Webinar beleuchtet Adobe die Ansätze und den Bereitschaftsgrad von Werbetreibenden und Publishern für eine Zukunft ohne Cookies, die Auswirkungen auf ihre Anwendungsfälle und ihre Wahrnehmung des weiteren Ökosystems. |
 | April 2021 | [10 Überlegungen zum verantwortungsvollen Data Management des Kunden - Ereignis](https://experienceleague.adobe.com/docs/audience-manager-learn/tutorials/industry/ten-considerations-for-responsible-customer-data-management.html?lang=en#industry) | Artikel | Volle Marktkräfte und unterschiedliche Datenschutzanforderungen für Verbraucher können beängstigende Szenarien für den digitalen Vermarkter darstellen. Um Kampagnen auf der richtigen Seite zu halten, benötigen Marketingteams ihre IT-Kollegen, um einen optimierten Prozess für die künftige Überprüfung des Datenverwaltungsprozesses zu entwickeln. Dazu gehört auch eine, die es idealerweise jedem ermöglicht, Regeln für eine verantwortungsvolle Nutzung von Verbraucherdaten zu befolgen und durchzusetzen. Lesen Sie sich von Adobe und [!DNL Scotiabank] [!DNL Digital] zu wichtigen Überlegungen zum verantwortungsvollen Data Management. |
 | April 2021 | [Die Zukunft des Data Managements und die sich verändernde Umgebung - Ereignis](https://experienceleague.adobe.com/docs/audience-manager-learn/tutorials/industry/the-future-of-data-management-and-the-changing-environment.html?lang=en#industry) | Artikel | Da die Marktkräfte unsere digitale Landschaft verändern, müssen sich Unternehmen an eine neue Realität anpassen, was die Datenverwaltung, die Identitätsauflösung und die Interaktion mit Potenzieller Kunden und pseudonymen Besuchern mit aussagekräftigen Inhalten betrifft. |
-| April 2021 | [Grundlegendes zur Echtzeit-CDP für Audience Manager](https://experienceleague.adobe.com/?recommended=AudienceManager-U-1-2020.1.rtcdp) | Kurs | Kunden von Audience Managern überdenken ihr Content-Management neu, indem sie zur Echtzeit-Kundendatenplattform (Echtzeit-CDP) der Adobe wechseln. Dieser Kurs basiert auf einem Konzept-für-Konzept-Ansatz, der Audience Manager dabei hilft, zu verstehen, wie diese Konzepte in Echtzeit-CDP gehandhabt werden. |
 
 ## ![Symbol](/assets/aem.png) Adobe Experience Manager {#aem}
 
