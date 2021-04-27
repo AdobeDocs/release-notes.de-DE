@@ -6,10 +6,10 @@ last-update: April 2021
 author: mfrei
 exl-id: bcbdba6a-9e24-4f84-97ca-65c24ef45707
 translation-type: tm+mt
-source-git-commit: 1f88b532306f86768a9981d6bba06a21050affe7
+source-git-commit: 070e4ff0a9c3ab6f1d16680edc6a2aa787be8f69
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '5499'
+ht-degree: 36%
 
 ---
 
@@ -41,7 +41,7 @@ Neueste Aktualisierung: **22. April 2021**
 * [Document Cloud](#doc-cloud)
 * [Creative Cloud Enterprise](#creative-cloud)
 
-Benötigen Sie Hilfe? Besuchen Sie [Adobe Experience League](https://experienceleague.adobe.com/?lang=de#home), um Produkt und technische Dokumentation, von Adobe kuratierte Kurse, Videoschulungen, schnelle Antworten, Community-Einblicke und von Schulungsleitern geführte Kurse zu erhalten.
+Benötigen Sie Hilfe? Besuchen Sie [Adobe Experience League](https://experienceleague.adobe.com/?lang=de#home), um Produkt- und technische Dokumentation, von Adobe kuratierte Kurse, Video-Tutorials, schnelle Antworten, Community-Einblicke und von Schulungsleitern geführte Kurse zu erhalten.
 
 ## ![Symbol](/assets/adobe.png) Systemstatus von Adobe {#status}
 
@@ -274,6 +274,10 @@ Nachfolgend sind die im vergangenen Monat neu veröffentlichten Videos, Tutorial
 
 | Veröffentlicht | Name | Typ | Beschreibung |
 | -----------| ---------- | ---------- | ---------- |
+| April 2021 | [SPA Editor und Remote SPA - Übersicht - Tutorial](https://experienceleague.adobe.com/docs/experience-manager-learn/getting-started-with-aem-headless/spa-editor/remote-spa/overview.html) | Tutorial | Erfahren Sie, wie eine Remote-SPA oder eine SPA, die außerhalb des Kontexts AEM ausgeführt wird, aktualisiert werden kann, um in AEM erstellte Inhalte zu nutzen und bereitzustellen. Dieses Lernprogramm baut auf der WKND GraphQL-App auf, einer React-App, die AEM Inhaltsfragment-Inhalt über AEM GraphQL-APIs verbraucht. |
+| April 2021 | [Grundlagen zur GraphQL-Modellierung](https://experienceleague.adobe.com/docs/experience-manager-learn/getting-started-with-aem-headless/graphql/video-series/modeling-basics.html) | Video | Erfahren Sie, wie Sie Inhaltsfragmente in Adobe Experience Manager (AEM) für die Verwendung mit GraphQL definieren und verwenden. |
+| April 2021 | [Erweiterte Modellierung für GraphQL](https://experienceleague.adobe.com/docs/experience-manager-learn/getting-started-with-aem-headless/graphql/video-series/advanced-modeling.html) | Video | Erfahren Sie, wie Sie Beziehungen zwischen Inhaltsfragmentmodellen in Adobe Experience Manager (AEM) erstellen und wie Sie diese Beziehungen in GraphQL-Abfragen nutzen können. |
+| April 2021 | [Erstellen von GraphQL-Abfragen](https://experienceleague.adobe.com/docs/experience-manager-learn/getting-started-with-aem-headless/graphql/video-series/creating-graphql-queries.html) | Video | Erfahren Sie, wie Sie GraphQL-Abfragen erstellen, um Inhalte von Adobe Experience Manager (AEM) zurückzugeben, und wie Sie mit dem GraphiQL-Tool Abfragen schnell testen, verfeinern und debuggen können. |
 | April 2021 | [Erstes  [!UICONTROL adaptives Formular erstellen]](https://video.tv.adobe.com/v/332571) | Video | Erfahren Sie, wie Sie ein erstes adaptives Formular erstellen. |
 | April 2021 | [Testen der Erstellung eines Interessenten in Salesforce beim Klicken auf ein Ereignis einer Schaltfläche](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/forms/integrate-with-salesforce/create-lead-click-event.html?lang=en#forms) | Video | Erstellen Sie ein Lead-Objekt, indem Sie den Vorgang &quot;POST&quot;des Formulardatenmodells im click-Ereignis einer Schaltfläche aufrufen. |
 | April 2021 | [Integrieren  [!UICONTROL AEM ] Formulare mit [!DNL Salesforce]](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/forms/integrate-with-salesforce/introduction.html?lang=en#forms) | Video | Intro-Video für den Forms + Salesforce Integrationskurs. |
@@ -354,7 +358,7 @@ Zuletzt aktualisiert: **14. April 2021, für die Version 17. April**
 
 Aktualisiert am **23. Februar 2021**
 
-| Tutorial | Beschreibung |
+| Übung | Beschreibung |
 | -----------| ---------- |
 | [Einführung in Workspace und Reporting](https://experienceleague.adobe.com/docs/advertising-cloud-learn/tutorials/analytics/analytics-analysis-workspace-a4adc.html?lang=de) | Hier erfahren Sie, wie Sie mit Ihren Advertising Cloud-Daten visuelle Berichte in Adobe Analytics Analysis Workspace erstellen können. |
 
