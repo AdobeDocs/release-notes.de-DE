@@ -6,10 +6,10 @@ last-update: April 2021
 author: mfrei
 exl-id: bcbdba6a-9e24-4f84-97ca-65c24ef45707
 translation-type: tm+mt
-source-git-commit: 0bea009a45c2c507b900bb8aea93a02d59c11c98
+source-git-commit: c4023721667178357047047573997bbdd67944ab
 workflow-type: tm+mt
-source-wordcount: '5498'
-ht-degree: 36%
+source-wordcount: '5690'
+ht-degree: 35%
 
 ---
 
@@ -23,7 +23,7 @@ Experience Cloud-Lösungen und -Services werden monatlich aktualisiert. Auf dies
 >
 >Abonnieren Sie das monatliche [Adobe Priority Product Update](https://www.adobe.com/subscription/priority-product-update.html), um E-Mail-Benachrichtigungen über Aktualisierungen dieser Seite zu erhalten. Diese Seite wird den ganzen Monat über gepflegt. Informieren Sie sich daher regelmäßig über die neuesten Updates zu Adobe Unternehmensprodukten und der Experience League-Dokumentation.
 
-Neueste Aktualisierung: **22. April 2021**
+Neueste Aktualisierung: **29. April 2021**
 
 * [Systemstatus von Adobe](#status)
 * [Komponenten, Services und Administration der Benutzeroberfläche von Experience Cloud](#ecloud)
@@ -157,6 +157,7 @@ Neue Kurse, Tutorial- und Artikel in [!DNL Analytics] und [!UICONTROL Customer J
 
 | Veröffentlicht | Name | Typ | Beschreibung |
 | -----------| ---------- | ---------- | ---------- |
+| April 2021 | [Grundkonfiguration für Data Ansichten in Customer Journey Analytics](https://experienceleague.adobe.com/docs/customer-journey-analytics-learn/tutorials/basic-configuration-for-data-views.html) | Video | Nachdem Sie im Customer Journey Analytics zu den Datensätzen in Adobe Experience Platform eine [!UICONTROL Verbindung] erstellt haben, müssen Sie eine [!UICONTROL Datenverbindung] für diese [!UICONTROL Ansicht ] erstellen, damit Sie die Daten in Analysis Workspace auf Plattform verwenden können. Dieses Video führt Sie durch die Grundkonfiguration einer [!UICONTROL Data-Ansicht]. |
 | April 2021 | [Benutzereinstellungen in Adobe Analytics](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/intro-to-analytics/customizing-the-ui/user-preferences.html) | Video | Auf der Seite &quot;Komponenten - Benutzereinstellungen&quot;können Sie Einstellungen für Analysis Workspace und die zugehörigen Komponenten auf Benutzerebene verwalten. Sie können beispielsweise eine Standard-Report Suite und eine Farbpalette auswählen. Die Benutzervoreinstellungen gelten für alle neuen Projekte und Bereiche. |
 | April 2021 | [Verwenden von Dropdown-Listen für Komponenten in Workspace](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/visualizations/using-component-dropdowns-in-workspace.html) | Video | Mithilfe von Dropdown-Listen für Komponenten können Sie aus einer Liste kompatibler Komponenten auswählen, um Ihre Analyse zu erstellen. Sie können Komponenten auch direkt aus der Dropdownliste erstellen, wenn Sie nicht genau das finden, was Sie benötigen. Diese Leerzeichen funktionieren auch weiterhin als Dropzonen, wenn Sie einen erweiterten Anwendungsfall haben. |
 | April 2021 | [Daten in Visualisierungen einbringen](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/visualizations/getting-data-into-visualizations.html?lang=en#analysis-workspace) | Video | Beim Hinzufügen von Visualisierungen in Analysis Workspace gibt es je nach Visualisierungstyp verschiedene Möglichkeiten, Daten hinzuzufügen. In diesem Video werden diese Methoden veranschaulicht.Options |
@@ -274,6 +275,8 @@ Nachfolgend sind die im vergangenen Monat neu veröffentlichten Videos, Tutorial
 
 | Veröffentlicht | Name | Typ | Beschreibung |
 | -----------| ---------- | ---------- | ---------- |
+| April 2021 | [Installieren von 32, jedoch Bibliotheken für die AEM Forms Linux-Installation](https://experienceleague.adobe.com/docs/experience-manager-learn/forms/adaptive-forms/installing-aem-form-on-linux.html) | Artikel | Erfahren Sie, wie Sie 32-Bit-Bibliotheken installieren, damit AEM Forms unter Linux funktioniert. |
+| April 2021 | [Adobe Sign Cloud Services-Konfiguration erstellen](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/forms/forms-and-sign/create-adobe-sign-cloud-configuration.html) | Artikel | Erstellen Sie eine Adobe Sign Cloud Services-Konfiguration, die mit der Adobe Sign API-Anwendung in Adobe Sign integriert werden kann. |
 | April 2021 | [SPA Editor und Remote SPA - Übersicht - Tutorial](https://experienceleague.adobe.com/docs/experience-manager-learn/getting-started-with-aem-headless/spa-editor/remote-spa/overview.html) | Tutorial | Erfahren Sie, wie eine Remote-SPA oder eine SPA, die außerhalb des Kontexts AEM ausgeführt wird, aktualisiert werden kann, um in AEM erstellte Inhalte zu nutzen und bereitzustellen. Dieses Lernprogramm baut auf der WKND GraphQL-App auf, einer React-App, die AEM Inhaltsfragment-Inhalt über AEM GraphQL-APIs verbraucht. |
 | April 2021 | [Grundlagen zur GraphQL-Modellierung](https://experienceleague.adobe.com/docs/experience-manager-learn/getting-started-with-aem-headless/graphql/video-series/modeling-basics.html) | Video | Erfahren Sie, wie Sie Inhaltsfragmente in Adobe Experience Manager (AEM) für die Verwendung mit GraphQL definieren und verwenden. |
 | April 2021 | [Erweiterte Modellierung für GraphQL](https://experienceleague.adobe.com/docs/experience-manager-learn/getting-started-with-aem-headless/graphql/video-series/advanced-modeling.html) | Video | Erfahren Sie, wie Sie Beziehungen zwischen Inhaltsfragmentmodellen in Adobe Experience Manager (AEM) erstellen und wie Sie diese Beziehungen in GraphQL-Abfragen nutzen können. |
@@ -406,6 +409,7 @@ Neue Videos, Tutorials oder Kurse, die für Adobe Document Cloud veröffentlicht
 
 | Veröffentlicht | Name | Lösung | Beschreibung |
 | -----------| ---------- | ---------- | ---------- |
+| April 2021 | [Verwalten von Workflows mit Adobe Dokument Services APIs in Java](https://experienceleague.adobe.com/docs/document-services/tutorials/usecases/FinanceWorkflowsJava.html) | Übung | Erfahren Sie, wie Sie Adobe Dokument Services APIs für [!DNL Java Spring Boot]-Anwendungen verwenden und eine Modell-Ansicht-Controller-App (MVC) erstellen können, die Inhalte aus PDF-Dokumenten extrahiert, in andere Datenformate wie Excel konvertiert, mehrere PDFs kombiniert und mit Kennwort die Ressourcen schützt. |
 | April 2021 | [Online-Erlebnis für PDF steuern und Analysen sammeln](https://experienceleague.adobe.com/docs/document-services/tutorials/pdfembed/controlpdfexperience.html) | Artikel | Versendet Ihr Unternehmen PDFs auf Ihrer Website? Erfahren Sie, wie Sie mit der Adobe PDF Embed API das Erscheinungsbild steuern, die Zusammenarbeit aktivieren und Analysen zur Interaktion des Benutzers mit PDFs sammeln können, einschließlich der auf einer Seite verbrachten Zeit und Suchvorgänge. |
 | April 2021 | [Verwalten von Workflows mit Adobe Dokument Services APIs in Java™](https://experienceleague.adobe.com/docs/document-services/tutorials/usecases/FinanceWorkflowsJava.html) | Artikel | Erfahren Sie, wie Sie Adobe Dokument Services APIs für Java™ Spring Boot-Anwendungen verwenden können. Erstellen Sie eine Modell-Ansicht-Controller-App (MVC), mit der Inhalte aus PDF-Dokumenten extrahiert, in andere Datenformate wie Excel konvertiert, mehrere PDFs kombiniert und mit einem Kennwort die Ressourcen geschützt werden. |
 | April 2021 | [HR-Dokument-Workflows mit Adobe Dokument Services APIs in Java™](https://experienceleague.adobe.com/docs/document-services/tutorials/usecases/HRAgreementWorkflowsJava.html) | Übung | Viele Unternehmen benötigen Dokumentation rund um eine neue Anstellung, z. B. Arbeitsverträge für Angestellte, die von zu Hause aus arbeiten. Traditionell haben Unternehmen diese Dokumente physisch in Formen verwaltet, die schwer zu verwalten und zu speichern waren. Beim Wechsel zu elektronischen Dokumenten sind PDF-Dateien eine ideale Wahl, da sie sicherer und weniger anpassbar sind als andere Dateitypen. Außerdem unterstützen sie auch digitale Signaturen. |
