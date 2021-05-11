@@ -5,11 +5,11 @@ doc-type: release notes
 last-update: April 2021
 author: mfrei
 exl-id: bcbdba6a-9e24-4f84-97ca-65c24ef45707
-translation-type: ht
-source-git-commit: fe66c16cb5f021c1c3039c04a8498beef2eaeb9b
-workflow-type: ht
+translation-type: tm+mt
+source-git-commit: 4cad20ae0aa6d4a6e9776aa7861e2ba3b39f9e6b
+workflow-type: tm+mt
 source-wordcount: '5689'
-ht-degree: 100%
+ht-degree: 99%
 
 ---
 
@@ -81,7 +81,7 @@ Erfahren Sie mehr über die neuesten Funktionen, Verbesserungen und Fehlerbehebu
 
 ### Weitere Ressourcen für Journey Orchestration
 
-[Dokumentation](https://experienceleague.adobe.com/docs/journeys/using/journey-orchestration-home.html?lang=de) – [Versionshinweise](https://experienceleague.adobe.com/docs/journeys/using/release-notes/release-notes.html?lang=de) – [Videoanleitungen](https://experienceleague.adobe.com/docs/platform-learn/tutorials/journey-orchestration/introduction.html?lang=de)
+[Dokumentation](https://experienceleague.adobe.com/docs/journeys/using/journey-orchestration-home.html?lang=de) – [Versionshinweise](https://experienceleague.adobe.com/docs/journeys/using/release-notes/release-notes.html?lang=en) – [Videoanleitungen](https://experienceleague.adobe.com/docs/platform-learn/tutorials/journey-orchestration/introduction.html?lang=de)
 
 ## ![Symbol für](/assets/experience_platform_appicon_24.png) Offer Decisioning {#offer-decisioning}
 
@@ -115,7 +115,7 @@ Releasedatum: **22. April 2021**
 
 ### Neue Funktionen in Customer Journey Analytics {#cust-journey}
 
-| Funktion | [Allgemeine Verfügbarkeit](https://experienceleague.adobe.com/docs/analytics/landing/an-releases.html?lang=de) – geplantes Datum | Beschreibung |
+| Funktion | [Allgemeine Verfügbarkeit](https://experienceleague.adobe.com/docs/analytics/landing/an-releases.html?lang=en) – geplantes Datum | Beschreibung |
 | ----------- | ---------- | ----- |
 | Verbesserte Ansichten von Customer Journey Analytics-Daten | 22. April 2021 | Verbesserte Datenansichten erweitern Ihre Flexibilität bei der Erstellung von Metriken und Dimensionen aus XDM-Schema-Feldern. Sie können ein Zeichenfolgenfeld als Metrik verwenden. Sie können ein numerisches Feld als Dimension verwenden und mehrere Metriken aus demselben Feld mit verschiedenen Attributionsmodellen und Lookback-Fenstern erstellen. Darüber hinaus können Sie Metriken und Dimensionen über verschiedene Ansichten hinweg kompatibel machen, Komponenten aus dem Reporting ausblenden und Werte ein-/ausschließen, Bucketing verwenden und vieles mehr. [Weitere Infos](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-dataviews/data-views.html?lang=de) |
 | Workspace: Unterstützung für terminierte Berichte | 7. April 2021 | Terminierte Berichte werden jetzt in CJA unterstützt. |
@@ -166,7 +166,7 @@ Neue Kurse, Tutorial- und Artikel in [!DNL Analytics] und [!UICONTROL Customer J
 
 ### Analytics-Hilferessourcen
 
-* [Adobe Analytics-Produktdokumentation und Tutorials](https://experienceleague.adobe.com/docs/analytics.html?lang=de)
+* [Adobe Analytics-Produktdokumentation und Tutorials](https://experienceleague.adobe.com/docs/analytics.html)
 
 ## ![Symbol](/assets/audience-manager.png) Adobe Audience Manager {#aam}
 
@@ -296,7 +296,7 @@ Nachfolgend sind die im vergangenen Monat neu veröffentlichten Videos, Tutorial
 * [Experience Manager 6.4 – Training und Support, Startseite](https://experienceleague.adobe.com/docs/experience-manager-64.html?lang=de)
 * [Experience Manager 6.3 – Training und Support, Startseite](https://helpx.adobe.com/de/support/experience-manager/6-3.html)
 * [Experience Manager 6.2 – Training und Support, Startseite](https://experienceleague.adobe.com/docs/experience-manager-release-information/aem-release-updates/previous-updates/aem-previous-versions.html?lang=de#previous-updates)
-* [Ältere Versionen der Dokumentation zu Experience Manager](https://experienceleague.adobe.com/docs/experience-manager-release-information/aem-release-updates/previous-updates/aem-previous-versions.html?lang=de#previous-updates)
+* [Ältere Versionen der Dokumentation zu Experience Manager](https://experienceleague.adobe.com/docs/experience-manager-release-information/aem-release-updates/previous-updates/aem-previous-versions.html?lang=en#previous-updates)
 * [Cloud Manager-Benutzerhandbuch](https://experienceleague.adobe.com/docs/experience-manager-cloud-manager/using/introduction-to-cloud-manager.html?lang=de)
 * [Startseite der Hilfe zu Dynamic Media Classic](https://experienceleague.adobe.com/docs/dynamic-media-classic/using/home.html?lang=de)
 * [Experience Manager-Dokumentation: Neueste Aktualisierungen](https://experienceleague.adobe.com/docs/experience-manager-release-information/aem-release-updates/doc-updates/documentation-updates.html?lang=de#aem-as-a-cloud-service)
@@ -326,8 +326,8 @@ Nachfolgend sind die im vergangenen Monat neu veröffentlichten Videos, Tutorial
 
 ### Hilfe-Ressourcen
 
-* Adobe Campaign Standard: [Hilfe-Center](https://experienceleague.adobe.com/docs/campaign-standard/using/campaign-standard-home.html?lang=de) – [Versionshinweise](https://experienceleague.adobe.com/docs/campaign-standard/using/release-notes/release-notes.html?lang=de) – [Anleitungsvideos](https://experienceleague.adobe.com/docs/campaign-learn/campaign-standard-tutorials/overview.html?lang=de) – [Versionsplanung](https://experienceleague.adobe.com/docs/campaign-standard/using/release-notes/release-planning.html?lang=de) – [Neueste Aktualisierungen der Dokumentation](https://experienceleague.adobe.com/docs/campaign-standard/using/documentation-updates.html?lang=de)
-* Adobe Campaign Classic: [Hilfe-Center](https://experienceleague.adobe.com/docs/campaign-classic/using/campaign-classic-home.html?lang=de) – [Versionshinweise](https://experienceleague.adobe.com/docs/campaign-classic/using/release-notes/latest-release.html?lang=de) – [Anleitungsvideos](https://experienceleague.adobe.com/docs/campaign-learn/campaign-classic-tutorials/overview.html?lang=de) – [Neueste Aktualisierungen der Dokumentation](https://experienceleague.adobe.com/docs/campaign-classic/using/documentation-updates.html?lang=de)
+* Adobe Campaign Standard: [Hilfe-Center](https://experienceleague.adobe.com/docs/campaign-standard/using/campaign-standard-home.html?lang=de) – [Versionshinweise](https://experienceleague.adobe.com/docs/campaign-standard/using/release-notes/release-notes.html?lang=en) – [Anleitungsvideos](https://experienceleague.adobe.com/docs/campaign-learn/campaign-standard-tutorials/overview.html?lang=de) – [Versionsplanung](https://experienceleague.adobe.com/docs/campaign-standard/using/release-notes/release-planning.html?lang=de) – [Neueste Aktualisierungen der Dokumentation](https://experienceleague.adobe.com/docs/campaign-standard/using/documentation-updates.html?lang=de)
+* Adobe Campaign Classic: [Hilfe-Center](https://experienceleague.adobe.com/docs/campaign-classic/using/campaign-classic-home.html?lang=de) – [Versionshinweise](https://experienceleague.adobe.com/docs/campaign-classic/using/release-notes/latest-release.html?lang=en) – [Anleitungsvideos](https://experienceleague.adobe.com/docs/campaign-learn/campaign-classic-tutorials/overview.html?lang=de) – [Neueste Aktualisierungen der Dokumentation](https://experienceleague.adobe.com/docs/campaign-classic/using/documentation-updates.html?lang=de)
 * Control Panel von Adobe Campaign: [Dokumentation](https://experienceleague.adobe.com/docs/control-panel/using/control-panel-home.html?lang=de) – [Versionshinweise](https://experienceleague.adobe.com/docs/control-panel/using/release-notes.html?lang=de) – Anleitungsvideos für [Campaign Standard](https://experienceleague.adobe.com/docs/campaign-standard-learn/tutorials/administrating/control-panel/control-panel-overview.html?lang=de)/[Campaign Classic](https://experienceleague.adobe.com/docs/campaign-classic-learn/tutorials/administrating/control-panel-acc/control-panel-overview.html?lang=de)
 
 ## ![Symbol](/assets/advertising-cloud.png) Advertising Cloud {#adcloud}
@@ -361,7 +361,7 @@ Zuletzt aktualisiert: **14. April 2021, für die Version 17. April**
 
 Aktualisiert am **23. Februar 2021**
 
-| Tutorial | Beschreibung |
+| Übung | Beschreibung |
 | -----------| ---------- |
 | [Einführung in Workspace und Reporting](https://experienceleague.adobe.com/docs/advertising-cloud-learn/tutorials/analytics/analytics-analysis-workspace-a4adc.html?lang=de) | Hier erfahren Sie, wie Sie mit Ihren Advertising Cloud-Daten visuelle Berichte in Adobe Analytics Analysis Workspace erstellen können. |
 
@@ -409,11 +409,11 @@ Neue Videos, Tutorials oder Kurse, die für Adobe Document Cloud veröffentlicht
 
 | Veröffentlicht | Name | Lösung | Beschreibung |
 | -----------| ---------- | ---------- | ---------- |
-| April 2021 | [Verwalten von Workflows für Finanzdokumente mit der Adobe Document Services-APIs in Java](https://experienceleague.adobe.com/docs/document-services/tutorials/usecases/FinanceWorkflowsJava.html?lang=de) | Tutorial | Erfahren Sie, wie Sie die Adobe Document Services-APIs für [!DNL Java Spring Boot]-Programme verwenden und ein MVC-Programm (Model View Controller, Modell-Präsentation-Steuerung) erstellen können, das Inhalte aus PDF-Dokumenten extrahiert, in andere Datenformate wie Excel konvertiert, mehrere PDFs kombiniert und die Ressourcen mit einem Passwort schützt. |
+| April 2021 | [Verwalten von Workflows für Finanzdokumente mit der Adobe Document Services-APIs in Java](https://experienceleague.adobe.com/docs/document-services/tutorials/usecases/FinanceWorkflowsJava.html?lang=de) | Übung | Erfahren Sie, wie Sie die Adobe Document Services-APIs für [!DNL Java Spring Boot]-Programme verwenden und ein MVC-Programm (Model View Controller, Modell-Präsentation-Steuerung) erstellen können, das Inhalte aus PDF-Dokumenten extrahiert, in andere Datenformate wie Excel konvertiert, mehrere PDFs kombiniert und die Ressourcen mit einem Passwort schützt. |
 | April 2021 | [Steuern Ihrer Online-Erfahrung mit PDFs und Sammeln von Analysen](https://experienceleague.adobe.com/docs/document-services/tutorials/pdfembed/controlpdfexperience.html?lang=de) | Artikel | Stellt Ihr Unternehmen PDFs auf seine Website? Erfahren Sie, wie Sie mit der Adobe PDF Embed-API das Erscheinungsbild steuern, die Zusammenarbeit aktivieren und Analysen zur Interaktion des Benutzers mit PDFs sammeln können, einschließlich der auf einer Seite verbrachten Zeit und Suchvorgänge. |
-| April 2021 | [Verwalten von Workflows für Finanzdokumente mit Adobe Document Services-APIs in Java™](https://experienceleague.adobe.com/docs/document-services/tutorials/usecases/FinanceWorkflowsJava.html?lang=de) | Artikel | Erfahren Sie, wie Sie die Adobe Document Services-APIs für Java™ Spring Boot-Programme verwenden und ein MVC-Programm (Model View Controller, Modell-Präsentation-Steuerung) erstellen können, das Inhalte aus PDF-Dokumenten extrahiert, in andere Datenformate wie Excel konvertiert, mehrere PDFs kombiniert und die Ressourcen mit einem Passwort schützt. |
-| April 2021 | [HR-Document-Workflows mit Adobe Document Services-APIs in Java™](https://experienceleague.adobe.com/docs/document-services/tutorials/usecases/HRAgreementWorkflowsJava.html?lang=de) | Tutorial | Viele Unternehmen benötigen Dokumentation rund um eine neue Anstellung, z. B. Arbeitsverträge für Angestellte, die von zu Hause aus arbeiten. Traditionell haben Unternehmen diese Dokumente physisch als Formulare verwaltet, die schwer zu verwalten und zu speichern waren. Beim Wechsel zu elektronischen Dokumenten sind PDF-Dateien eine ideale Wahl, da sie sicherer und weniger leicht zu verändern sind als andere Dateitypen. Außerdem unterstützen sie auch digitale Signaturen. |
-| April 2021 | [Vertrags-Workflows mit Adobe Document Services-APIs in Node.js](https://experienceleague.adobe.com/docs/document-services/tutorials/usecases/AgreementWorkflowsNodejs.html?lang=de) | Tutorial | Viele Geschäftsanwendungen und -prozesse erfordern Dokumentationsmaterial wie Angebote und Verträge. PDF-Dokumente stellen sicher, dass Dateien sicherer und weniger leicht änderbar sind. Sie bieten außerdem Unterstützung für digitale Signaturen, damit Ihre Kunden ihre Dokumente schnell und einfach vervollständigen können. Adobe Document Services-APIs können PDF-Funktionen problemlos in Ihr Web-Programm integrieren. |
+| April 2021 | [Verwalten von Workflows für Finanzdokumente mit Adobe Document Services-APIs in Java™](https://experienceleague.adobe.com/docs/document-services/tutorials/usecases/FinanceWorkflowsJava.html) | Artikel | Erfahren Sie, wie Sie die Adobe Document Services-APIs für Java™ Spring Boot-Programme verwenden und ein MVC-Programm (Model View Controller, Modell-Präsentation-Steuerung) erstellen können, das Inhalte aus PDF-Dokumenten extrahiert, in andere Datenformate wie Excel konvertiert, mehrere PDFs kombiniert und die Ressourcen mit einem Passwort schützt. |
+| April 2021 | [HR-Document-Workflows mit Adobe Document Services-APIs in Java™](https://experienceleague.adobe.com/docs/document-services/tutorials/usecases/HRAgreementWorkflowsJava.html?lang=de) | Übung | Viele Unternehmen benötigen Dokumentation rund um eine neue Anstellung, z. B. Arbeitsverträge für Angestellte, die von zu Hause aus arbeiten. Traditionell haben Unternehmen diese Dokumente physisch als Formulare verwaltet, die schwer zu verwalten und zu speichern waren. Beim Wechsel zu elektronischen Dokumenten sind PDF-Dateien eine ideale Wahl, da sie sicherer und weniger leicht zu verändern sind als andere Dateitypen. Außerdem unterstützen sie auch digitale Signaturen. |
+| April 2021 | [Vertrags-Workflows mit Adobe Document Services-APIs in Node.js](https://experienceleague.adobe.com/docs/document-services/tutorials/usecases/AgreementWorkflowsNodejs.html?lang=de) | Übung | Viele Geschäftsanwendungen und -prozesse erfordern Dokumentationsmaterial wie Angebote und Verträge. PDF-Dokumente stellen sicher, dass Dateien sicherer und weniger leicht änderbar sind. Sie bieten außerdem Unterstützung für digitale Signaturen, damit Ihre Kunden ihre Dokumente schnell und einfach vervollständigen können. Adobe Document Services-APIs können PDF-Funktionen problemlos in Ihr Web-Programm integrieren. |
 | April 2021 | [Bedingte Inhalte festlegen](https://experienceleague.adobe.com/docs/document-services/tutorials/docgen/docgentemplates/taggerconditional.html?lang=de) | Video | In diesem Video erfahren Sie, wie Sie mit Adobe Document Generation Tagger mühelos Abschnitte in Microsoft® Word-Vorlagen festlegen können, um Bereiche eines Dokuments mithilfe der Adobe Document Generation-API dynamisch einzubeziehen oder auszuschließen. |
 | April 2021 | [[Doc Services] Festlegen von Tags für numerische Berechnungen – Funktionsvideo](https://experienceleague.adobe.com/docs/document-services/tutorials/docgen/docgentemplates/taggercalculations.html?lang=de) | Video | Erfahren Sie, wie Sie mithilfe von Adobe Document Generation Tagger einfach numerische Berechnungs-Tags in Microsoft® Word-Vorlagen festlegen können, um Aggregationen oder Arithmetik von Datenwerten mithilfe der Adobe Document Generation-API zu berechnen. |
 | April 2021 | [Hinzufügen von Tabellen- und Listen-Tags](https://experienceleague.adobe.com/docs/document-services/tutorials/docgen/docgentemplates/taggertables.html?lang=de) | Video | Erfahren Sie, wie Sie mithilfe von Adobe Document Generation Tagger Tabellen- und Listen-Tags zu Microsoft® Word-Vorlagen hinzufügen können, um mithilfe der Adobe Document Generation-API dynamisch Zeilen zu Tabellen oder Listen hinzuzufügen. |
