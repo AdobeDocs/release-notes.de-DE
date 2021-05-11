@@ -5,7 +5,7 @@ doc-type: release notes
 last-update: March 2020
 author: mfrei
 translation-type: tm+mt
-source-git-commit: f981d08b9a7200776706028b0408bd94a1e5e246
+source-git-commit: 4cad20ae0aa6d4a6e9776aa7861e2ba3b39f9e6b
 workflow-type: tm+mt
 source-wordcount: '1346'
 ht-degree: 99%
@@ -25,7 +25,7 @@ Neue Funktionen und Fehlerbehebungen in Adobe Experience Cloud.
 
 >[!NOTE]
 >
->Abonnieren Sie das [Prioritätsprodukt-Update von Adobe](https://www.adobe.com/subscription/priority-product-update.html), um per E-Mail über bevorstehende Versionen benachrichtigt zu werden. Nach dem Release veröffentlichte neue Informationen werden mit dem Veröffentlichungsdatum gekennzeichnet.
+>Abonnieren Sie das [Adobe Priority Product Update](https://www.adobe.com/subscription/priority-product-update.html), um per E-Mail über bevorstehende Versionen benachrichtigt zu werden. Nach dem Release veröffentlichte neue Informationen werden mit dem Veröffentlichungsdatum gekennzeichnet.
 
 **Releasedatum: 2020**
 
@@ -75,7 +75,7 @@ Die Produktdokumentation finden Sie im Abschnitt zur [Verwaltung von Benutzern u
 Versionshinweise für [!DNL Experience Platform,] einschließlich [!DNL Experience Platform Launch,] [!UICONTROL Journey Orchestration], [!UICONTROL Angebote], [!UICONTROL Personen], [!UICONTROL Places], [!UICONTROL Mobile Services] und Sicherheitsbulletins.
 
 * [Experience Cloud ID-Dienst](#ecid)
-* [Experience Platform – Versionshinweise](https://docs.adobe.com/content/help/de-DE/experience-platform/release-notes/latest.html#!end-user/markdown/release-notes/release-notes.md)
+* [Versionshinweise zu Experience Platform](https://docs.adobe.com/content/help/de-DE/experience-platform/release-notes/latest.html#!end-user/markdown/release-notes/release-notes.md)
 * [Experience Platform Launch](#launch)
 * [Journey-Orchestrierung](#journey)
 * [Mobile Services und Mobile SDKs](#mobile)
@@ -161,7 +161,7 @@ Die neuesten Versionsinformationen finden Sie in den [Data Workbench-Versionshin
 * Fehlerbehebung
 * Fehlerbehebung
 
-In der [Versionshistorie zu AppMeasurement](https://experienceleague.corp.adobe.com/docs/analytics/implementation/appmeasurement-updates.html) finden Sie Informationen zu den verschiedenen Versionen von AppMeasurement auf den folgenden Plattformen:
+In der [Versionshistorie zu AppMeasurement](https://experienceleague.adobe.com/docs/analytics/implementation/appmeasurement-updates.html) finden Sie Informationen zu den verschiedenen Versionen von AppMeasurement auf den folgenden Plattformen:
 
 * [!DNL JavaScript]
 * [!DNL iOS]
