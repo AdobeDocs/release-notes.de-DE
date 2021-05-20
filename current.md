@@ -5,10 +5,10 @@ doc-type: release notes
 last-update: May 2021
 author: mfrei
 exl-id: bcbdba6a-9e24-4f84-97ca-65c24ef45707
-source-git-commit: 008fc1b3d5d5b0558075bdb767f2c280c8e3ae79
+source-git-commit: b77d72d109886a82aaebfb5f8d4cf7d6c529ae5e
 workflow-type: tm+mt
-source-wordcount: '5388'
-ht-degree: 44%
+source-wordcount: '5384'
+ht-degree: 45%
 
 ---
 
@@ -93,8 +93,8 @@ Version März 2021 - Weitere Informationen zu den neuesten Funktionen finden Sie
 
 Veröffentlichungsdatum: **20. Mai 2021**
 
-* [Neue Funktionen in Adobe Analytics](#aa-features)  (aktualisiert am 11. Mai 2021)
-* [Neue Funktionen in Customer Journey Analytics](#cust-journey)  (aktualisiert am 11. Mai 2021)
+* [Neue Funktionen in Adobe Analytics](#aa-features)
+* [Neue Funktionen in Customer Journey Analytics](#cust-journey)
 * [Fehlerbehebungen in Adobe Analytics](#aa-fixes)
 * [Wichtige Hinweise für Analytics-Administratoren](#aa-notices)
 * [Analytics-Kurse und -Tutorials](#tutorials-analytics)
