@@ -4,10 +4,9 @@ description: Experience Cloud – Versionshinweise
 doc-type: release notes
 last-update: March 2020
 author: mfrei
-translation-type: tm+mt
-source-git-commit: 4cad20ae0aa6d4a6e9776aa7861e2ba3b39f9e6b
+source-git-commit: 48000898226fa1d926948dedc64610cee0bc7f65
 workflow-type: tm+mt
-source-wordcount: '1346'
+source-wordcount: '1344'
 ht-degree: 99%
 
 ---
@@ -30,14 +29,14 @@ Neue Funktionen und Fehlerbehebungen in Adobe Experience Cloud.
 **Releasedatum: 2020**
 
 * [Systemstatus von Adobe](#status)
-* [Experience Cloud-Benutzeroberfläche ](#ecloud)
+* [Experience Cloud-Benutzeroberfläche ](#ecloud)
 * [Experience Platform](#platform)
 * [Analytics](#analytics)
 * [Audience Manager](#aam)
 * [Experience Manager](#aem)
 * [Campaign](#ac)
 * [Target](https://docs.adobe.com/content/help/de-DE/target/using/release-notes/target-release-notes.html) (Links zur Lösungshilfe)
-* [Advertising Cloud](#adcloud)
+* [Werbung](#adcloud)
 * [Magento](#magento)
 * [Marketo](#marketo)
 * [Primetime](https://helpx.adobe.com/de/primetime/user-guide.html) (Links zur Lösungshilfe)
@@ -77,7 +76,7 @@ Versionshinweise für [!DNL Experience Platform,] einschließlich [!DNL Experien
 * [Experience Cloud ID-Dienst](#ecid)
 * [Versionshinweise zu Experience Platform](https://docs.adobe.com/content/help/de-DE/experience-platform/release-notes/latest.html#!end-user/markdown/release-notes/release-notes.md)
 * [Experience Platform Launch](#launch)
-* [Journey-Orchestrierung](#journey)
+* [Journey Orchestration](#journey)
 * [Mobile Services und Mobile SDKs](#mobile)
 * [Sicherheitsbulletins und -hinweise](https://helpx.adobe.com/de/security.html) (alle Adobe-Produkte)
 
@@ -144,7 +143,7 @@ Die Produktdokumentation finden Sie auf der [Startseite der Adobe Analytics-Hilf
 
 ### Data Workbench {#aa-dwb}
 
-Die neuesten Versionsinformationen finden Sie in den [Data Workbench-Versionshinweisen](https://docs.adobe.com/content/help/de-DE/data-workbench/using/release-notes/release-notes.html).
+Die neuesten Versionsinformationen finden Sie in den [Datenbasis-Versionshinweisen](https://docs.adobe.com/content/help/de-DE/data-workbench/using/release-notes/release-notes.html).
 
 ### AppMeasurement {#appm}
 
@@ -174,7 +173,7 @@ In der [Versionshistorie zu AppMeasurement](https://experienceleague.adobe.com/d
 * PHP
 * Symbian
 
-## Audience Manager {#aam}
+## Audience Manager {#aam}
 
 | Funktion | Beschreibung |
 | ------- | ------- |
@@ -270,7 +269,7 @@ Adobe Campaign bietet die Möglichkeit, direkte Nachrichten über Online- und O
 * Adobe Campaign Classic: [Dokumentation](https://helpx.adobe.com/de/support/campaign/classic.html) – [Versionshinweise](https://docs.adobe.com/content/help/de-DE/campaign-classic/using/release-notes/latest-release.html) – [Videoanleitungen](https://docs.adobe.com/content/help/de-DE/campaign-learn/campaign-classic-tutorials/overview.html)
 * Control Panel von Adobe Campaign: [Dokumentation](https://docs.adobe.com/content/help/de-DE/control-panel/using/control-panel-home.html) – [Versionshinweise](https://docs.adobe.com/content/help/de-DE/control-panel/using/release-notes.html)
 
-## Advertising Cloud {#adcloud}
+## Werbung {#adcloud}
 
 | Funktion | Beschreibung |
 | ------- | ------- |
