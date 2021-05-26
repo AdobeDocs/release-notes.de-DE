@@ -5,9 +5,9 @@ user-guide-title: Adobe Experience Cloud – Versionshinweise
 breadcrumb-title: Versionshinweise
 user-guide-description: Erfahren Sie mehr über neue Funktionen, Fehlerbehebungen und wichtige Hinweise in Adobe Experience Cloud und Experience Platform.
 user-guide-url: https://www.adobe.com
-source-git-commit: 49fd5b10ffc4798ddd4b14b89440a4d6b7daf530
+source-git-commit: ec65b571a62c7bc87f40ddf5d79d35e98587c0db
 workflow-type: tm+mt
-source-wordcount: '67'
+source-wordcount: '55'
 ht-degree: 100%
 
 ---
@@ -34,17 +34,5 @@ ht-degree: 100%
       + [März 2020](c-legacy-releases/2020/03122020.md)
       + [Februar 2020](c-legacy-releases/2020/02202020.md)
       + [Januar 2020](c-legacy-releases/2020/01162020.md)
-   + 2019 {#2019}
-      + [November 2019](c-legacy-releases/2019/10312019.md)
-      + [Oktober 2019](c-legacy-releases/2019/10102019.md)
-      + [September 2019](c-legacy-releases/2019/09122019.md)
-      + [August 2019](c-legacy-releases/2019/08082019.md)
-      + [Juli 2019](c-legacy-releases/2019/07182019.md)
-      + [Juni 2019](c-legacy-releases/2019/06132019.md)
-      + [Mai 2019](c-legacy-releases/2019/05092019.md)
-      + [April 2019](c-legacy-releases/2019/04112019.md)
-      + [März 2019](c-legacy-releases/2019/03072019.md)
-      + [Februar 2019](c-legacy-releases/2019/02072019.md)
-      + [Januar 2019](c-legacy-releases/2019/01172019.md)
-   + 2018 und früher {#legacy-rns}
-      + [2018 und früher](c-legacy-releases/2018-earlier.md)
+   + 2019 und früher {#legacy-rns}
+      + [2019 und früher](c-legacy-releases/2019-earlier.md)
