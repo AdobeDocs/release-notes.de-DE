@@ -2,17 +2,17 @@
 title: Adobe Experience Cloud – Versionshinweise
 description: Experience Cloud – Versionshinweise
 doc-type: release notes
-last-update: March 2020
+last-update: June 2021
 author: mfrei
-source-git-commit: e01e0ceec2a3aec43f7a64b7c2f3fb9e24b76cc9
+source-git-commit: 918c6cb27c16972d16d4da7f283fa790d14ac51d
 workflow-type: tm+mt
 source-wordcount: '1344'
-ht-degree: 79%
+ht-degree: 81%
 
 ---
 
 
-# VORLAGE - Versionshinweise zu Adobe Experience Cloud - Monat 2020
+# VORLAGE - Versionshinweise zu Adobe Experience Cloud - Monat 2021
 
 ![Banner](/assets/experience-cloud-banner-3.png)
 
@@ -26,7 +26,7 @@ Neue Funktionen und Fehlerbehebungen in Adobe Experience Cloud.
 >
 >Abonnieren Sie das [Adobe Priority Product Update](https://www.adobe.com/subscription/priority-product-update.html), um per E-Mail über bevorstehende Versionen benachrichtigt zu werden. Nach dem Release veröffentlichte neue Informationen werden mit dem Veröffentlichungsdatum gekennzeichnet.
 
-**Releasedatum: 2020**
+**Releasedatum: 2021**
 
 * [Adobe-Systemstatus](#status)
 * [Experience Cloud-Benutzeroberfläche ](#ecloud)
@@ -96,7 +96,7 @@ Mithilfe von Adobe [!UICONTROL Experience Platform] können Sie individuelle Cus
 
 #### Zusätzliche Ressourcen für [!UICONTROL Journey Orchestration]
 
-[Dokumentation](https://experienceleague.adobe.com/docs/journeys/using/journey-orchestration-home.html?lang=de) – [Versionshinweise](https://experienceleague.adobe.com/docs/journeys/using/release-notes/release-notes.html?lang=de) – [Videoanleitungen](https://experienceleague.adobe.com/docs/journey-orchestration-learn/tutorials/understanding-journey-orchestration.html?lang=en)
+[Dokumentation](https://experienceleague.adobe.com/docs/journeys/using/journey-orchestration-home.html?lang=de) – [Versionshinweise](https://experienceleague.adobe.com/docs/journeys/using/release-notes/release-notes.html?lang=de) – [Videoanleitungen](https://experienceleague.adobe.com/docs/journey-orchestration-learn/tutorials/understanding-journey-orchestration.html?lang=de)
 
 ### [!UICONTROL Mobile Services] und [!UICONTROL Mobile SDK] {#mobile}
 
@@ -223,7 +223,7 @@ Die folgenden AEM-Dokumentationssätze wurden in eine neue kollaborative Plattfo
 
 * [AEM 6.4 Schulung und Support – Startseite](https://experienceleague.adobe.com/docs/experience-manager-64.html?lang=de)
 * [AEM 6.3 Schulung und Support – Startseite](https://helpx.adobe.com/de/support/experience-manager/6-3.html)
-* [AEM 6.2 Schulung und Support – Startseite](https://experienceleague.adobe.com/docs/experience-manager-release-information/aem-release-updates/previous-updates/aem-previous-versions.html)
+* [AEM 6.2 Schulung und Support – Startseite](https://experienceleague.adobe.com/docs/experience-manager-release-information/aem-release-updates/previous-updates/aem-previous-versions.html?lang=de)
 * [Cloud Manager-Benutzerhandbuch](https://experienceleague.adobe.com/docs/experience-manager-cloud-manager/using/introduction-to-cloud-manager.html?lang=de)
 * [Ältere Versionen der AEM-Dokumentation](https://experienceleague.adobe.com/docs/experience-manager-release-information/aem-release-updates/previous-updates/aem-previous-versions.html?lang=de)
 * [Scene7 Publishing System – Versionshinweise](https://experienceleague.adobe.com/docs/dynamic-media-developer-resources/release-notes/s7rn2017.html?lang=de)
@@ -266,7 +266,7 @@ Adobe Campaign bietet die Möglichkeit, direkte Nachrichten über Online- und O
 ### Zusätzliche Ressourcen
 
 * Adobe Campaign Standard: [Dokumentation](https://experienceleague.adobe.com/docs/campaign-standard.html) – [Versionshinweise](https://experienceleague.adobe.com/docs/campaign-standard/using/release-notes/release-notes.html?lang=en) – [Videoanleitungen](https://experienceleague.adobe.com/docs/campaign-standard-learn/tutorials/overview.html?lang=en) – [Versionsplanung](https://experienceleague.adobe.com/docs/campaign-standard/using/release-notes/release-planning.html?lang=de)
-* Adobe Campaign Classic: [Dokumentation](https://experienceleague.adobe.com/docs/campaign-classic.html) – [Versionshinweise](https://final-docs.campaign.adobe.com/doc/AC/en/RN.html) – [Videoanleitungen](https://experienceleague.adobe.com/docs/campaign-classic-learn/tutorials/overview.html?lang=de)
+* Adobe Campaign Classic: [Dokumentation](https://experienceleague.adobe.com/docs/campaign-classic.html) – [Versionshinweise](https://final-docs.campaign.adobe.com/doc/AC/en/RN.html) – [Videoanleitungen](https://experienceleague.adobe.com/docs/campaign-classic-learn/tutorials/overview.html?lang=en)
 * Control Panel von Adobe Campaign: [Dokumentation](https://experienceleague.adobe.com/docs/control-panel/using/control-panel-home.html?lang=de) – [Versionshinweise](https://experienceleague.adobe.com/docs/control-panel/using/release-notes.html?lang=en)
 
 ## Werbung {#adcloud}
