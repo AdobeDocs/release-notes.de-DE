@@ -6,9 +6,9 @@ last-update: June 2021
 author: mfrei
 mini-toc-levels: 1
 exl-id: bcbdba6a-9e24-4f84-97ca-65c24ef45707
-source-git-commit: 42bcb928d8eb34cc13017dab09f8490a673368a5
+source-git-commit: 823476f3b4553a0bd9aae8670652bec1259cd84f
 workflow-type: tm+mt
-source-wordcount: '4910'
+source-wordcount: '4914'
 ht-degree: 52%
 
 ---
@@ -213,16 +213,16 @@ Neue Funktionen, Fehlerbehebungen und Aktualisierungen in Experience Manager (AE
 >
 >Adobe empfiehlt, die Seite [Experience Manager-Versions-Updates und -Roadmaps](https://experienceleague.adobe.com/docs/experience-manager-release-information/aem-release-updates/home.html?lang=de) zu besuchen, um auf dem Laufenden zu bleiben.
 
-### AEM Produktaktualisierungen
+### Experience Manager-Produktaktualisierungen
 
 * **Experience Manager 6.5.9.0**
 
-   AEM 6.5, Service Pack 9.0 (6.5.9.0 vom 27. Mai 2021) ist ein wichtiges Update, das neue Funktionen, wichtige von Kunden angeforderte Verbesserungen, verbesserte Leistung, Stabilität und Sicherheit umfasst. Dieses Update wurde seit der allgemeinen Verfügbarkeit von AEM 6.5 im April 2019 veröffentlicht.
+   Experience Manager 6.5, Service Pack 9.0 (6.5.9.0 vom 27. Mai 2021) ist ein wichtiges Update, das neue Funktionen, wichtige von Kunden angeforderte Verbesserungen, verbesserte Leistung, Stabilität und Sicherheit umfasst. Dieses Update wurde seit der allgemeinen Verfügbarkeit von AEM 6.5 im April 2019 veröffentlicht.
 
    * [Versionshinweise](https://experienceleague.adobe.com/docs/experience-manager-65/release-notes/service-pack/sp-release-notes.html?lang=de)
    * [Versionsfreigaben von AEM Forms](https://experienceleague.adobe.com/docs/experience-manager-release-information/aem-release-updates/forms-updates/aem-forms-releases.html?lang=en)
 
-### AEM Produktversionen
+### Experience Manager-Produktversionen
 
 * **Experience Manager as a Cloud Service**
 
@@ -251,7 +251,7 @@ Neue Funktionen, Fehlerbehebungen und Aktualisierungen in Experience Manager (AE
 
 
 
-### **AEM Community**
+### **Experience Manager Community**
 
 * [One-Stopp-Shop für alle Experience Manager-Blogs](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-manager/bd-p/adobe-experience-manager-discussions)
 
