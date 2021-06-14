@@ -6,9 +6,9 @@ last-update: June 2021
 author: mfrei
 mini-toc-levels: 1
 exl-id: bcbdba6a-9e24-4f84-97ca-65c24ef45707
-source-git-commit: b0ad7a5c45760fba6a1a4e7e0f6dbbedbef93355
+source-git-commit: e198a57703d4be29e32e9b2919af157858651d74
 workflow-type: tm+mt
-source-wordcount: '4913'
+source-wordcount: '4926'
 ht-degree: 52%
 
 ---
@@ -40,7 +40,7 @@ Letzte Aktualisierung: **14. Juni 2021**
 * [[!DNL Marketo Engage]](#marketo)
 * [[!DNL Workfront]](#workfront)
 * [Document Cloud](#doc-cloud)
-* [Creative Cloud Enterprise](#creative-cloud)
+* [Creative Cloud für Unternehmen](#creative-cloud)
 
 Benötigen Sie Hilfe? Besuchen Sie [Adobe Experience League](https://experienceleague.adobe.com/?lang=de#home), um Produkt- und technische Dokumentation, von Adobe kuratierte Kurse, Video-Tutorials, schnelle Antworten, Community-Einblicke und von Schulungsleitern geführte Kurse zu erhalten.
 
@@ -403,7 +403,9 @@ Hilfe zu Document Cloud erhalten Sie über:
 * [Adobe Sign](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/overview.html?lang=de)
 * [Document Cloud: Lernen und Support](https://helpx.adobe.com/de/support/document-cloud.html)
 
-## ![Symbol](/assets/creative-cloud-24.png) Creative Cloud Enterprise {#creative-cloud}
+## ![](/assets/creative-cloud-24.png) IconCreative Cloud für Unternehmen  {#creative-cloud}
+
+Neue Videos, Tutorials oder Kurse, die zum Creative Cloud für Unternehmen veröffentlicht wurden.
 
 | Veröffentlicht | Name | Typ | Beschreibung |
 | ----------| --------- | --------- | --------- |
