@@ -9,7 +9,7 @@ exl-id: bcbdba6a-9e24-4f84-97ca-65c24ef45707
 source-git-commit: 99885f10a13d7b51702ffac182362f1abd09f141
 workflow-type: tm+mt
 source-wordcount: '4984'
-ht-degree: 94%
+ht-degree: 99%
 
 ---
 
@@ -80,20 +80,20 @@ Neue Videos, Tutorials oder Kurse, die für Experience Platform und Services ver
 
 | Veröffentlicht | Name | Typ | Beschreibung |
 | -----------| ---------- | ---------- | ---------- |
-| Juni 2021 | [Vorbereiten von Daten mit Query Service](https://experienceleague.adobe.com/docs/platform-learn/tutorials/queries/prepare-data.html?lang=de) | Video | Erfahren Sie, wie Sie Daten aus mehreren Datensätzen bereinigen, vorbereiten und kombinieren können, um einen Datensatz mit den Funktionen „Create Table AS (CTAS)“ und „Spark SQL“ für die Erstellung von Berichten und Dashboards zu generieren. |
+| Juni 2021 | [Vorbereiten von Daten mit dem Abfrage-Service](https://experienceleague.adobe.com/docs/platform-learn/tutorials/queries/prepare-data.html?lang=de) | Video | Erfahren Sie, wie Sie Daten aus mehreren Datensätzen bereinigen, vorbereiten und kombinieren können, um einen Datensatz mit den Funktionen „Create Table AS (CTAS)“ und „Spark SQL“ für die Erstellung von Berichten und Dashboards zu generieren. |
 | Juni 2021 | [Kopieren von Schemas zwischen Sandboxes](https://experienceleague.adobe.com/docs/platform-learn/tutorials/schemas/copy-schemas-between-sandboxes.html?lang=de) | Video | Erfahren Sie, wie Sie ein Schema in Adobe Experience Platform mithilfe der [!UICONTROL Export/Import-Schema-API] aus einer Sandbox in eine andere kopieren. Erstellen und testen Sie Ihre Schemas in Entwicklungs-Sandboxes und kopieren Sie sie dann in die Produktionsumgebung. |
 | Juni 2021 | [Aktualisieren von Schemas](https://experienceleague.adobe.com/docs/platform-learn/tutorials/schemas/update-schemas.html?lang=de) | Video | Machen Sie sich mit den wichtigsten Punkten vertraut, die es bei der Aktualisierung bestehender Schemas in Adobe Experience Platform zu beachten gilt. |
 | Juni 2021 | [Grundbausteine von Schemas](https://experienceleague.adobe.com/docs/platform-learn/tutorials/schemas/schema-building-blocks.html?lang=de) | Video | Machen Sie sich mit den Grundbausteien von XDM-Schemas (Experience-Datenmodell) vertraut, darunter Felder, Datentypen, Schemafeldgruppen, Klassen und Verhalten. |
 | Juni 2021 | [Erstellen von Schemaklassen](https://experienceleague.adobe.com/docs/platform-learn/tutorials/schemas/create-classes.html?lang=de) | Video | Erfahren Sie, wie Sie in Adobe Experience Platform Klassen zur Verwendung in XDM-Schemas (Experience-Datenmodell) erstellen. |
 | Juni 2021 | [Konfigurieren von Beziehungen zwischen Schemas](https://experienceleague.adobe.com/docs/platform-learn/tutorials/schemas/configure-relationships-between-schemas.html?lang=de) | Video | Erfahren Sie, wie Sie in Adobe Experience Platform eine Beziehung zwischen zwei Schemas konfigurieren. Beziehungen ermöglichen es Ihnen, einen Datensatz als Nachschlagetabelle für einen anderen zu verwenden. |
-| Juni 2021 | [Erstellen von Schemadatentypen](https://experienceleague.adobe.com/docs/platform-learn/tutorials/schemas/create-data-types.html?lang=de) | Video | Erfahren Sie, wie Sie Ihre eigenen Datentypen in Adobe Experience Platform zur Verwendung in XDM-Schemas (Experience-Datenmodell) erstellen. |
+| Juni 2021 | [ Erstellen von Schema-Datentypen](https://experienceleague.adobe.com/docs/platform-learn/tutorials/schemas/create-data-types.html?lang=de) | Video | Erfahren Sie, wie Sie Ihre eigenen Datentypen in Adobe Experience Platform zur Verwendung in XDM-Schemas (Experience-Datenmodell) erstellen. |
 | Juni 2021 | [Konvertieren Ihres Datenmodells in ein Experience-Datenmodell](https://experienceleague.adobe.com/docs/platform-learn/tutorials/schemas/convert-your-data-model-to-xdm.html?lang=de) | Video | Erfahren Sie, wie Datenarchitekten ihr vorhandenes Transaktionsdatenmodell in ein Experience-Datenmodell konvertieren können. In diesem Video werden die Unterschiede zwischen Ansätzen für die Modellierung anhand von Entitäts-Beziehungsdiagrammen veranschaulicht. |
 | Juni 2021 | [Planung Ihres Datenmodells](https://experienceleague.adobe.com/docs/platform-learn/tutorials/schemas/plan-your-data-model.html?lang=de) | Video | Machen Sie sich mit vorbereitenden Maßnahmen für die Erstellung Ihrer Schemas in Adobe Experience Platform vertraut. Hierzu gehören etwa die Dokumentation von Anwendungsfällen für Ihr Unternehmen, das Verständnis um den Umfang Ihrer Platform-Lizenz sowie zu Produkteinschränkungen, oder auch die Ermittlung der aufzunehmenden Daten, bevor Sie Ihr Datenmodell abschließen. |
-| Juni 2021 | [Verbinden von Tableau mit Query Service](https://experienceleague.adobe.com/docs/platform-learn/tutorials/queries/psql-client-tableau.html?lang=de) | Video | Erfahren Sie, wie Sie eine Verbindung zum [!UICONTROL Query Service] von verschiedenen Desktop-Client-Anwendungen aus herstellen, die das `PostgreSQL`-Protokoll unterstützen, und wie Sie `PostgreSQL`-Tools und -Treiber verwenden können, um Abfragen zu verbinden und zu schreiben. |
-| Juni 2021 | [Von der Adobe definierte Funktionen in Query Service](https://experienceleague.adobe.com/docs/platform-learn/tutorials/queries/adobe-defined-functions.html?lang=de) | Video | Erfahren Sie, wie Sie in Adobe Experience Platform [!UICONTROL Query Service] mithilfe von Adobe-definierten Funktionen gängige geschäftsbezogene Aufgaben auf Daten zu Erlebnisereignissen ausführen können. |
-| Juni 2021 | [Datenexploration mit Query Service](https://experienceleague.adobe.com/docs/platform-learn/tutorials/queries/explore-data.html?lang=de) | Video | Erfahren Sie, wie Sie erfasste Daten validieren, Daten in der Vorschau anzeigen und mithilfe von SQL-Funktionen statistische und analytische Eigenschaften von Daten untersuchen können. |
+| Juni 2021 | [Verbinden von Tableau mit dem Abfrage-Service verbinden](https://experienceleague.adobe.com/docs/platform-learn/tutorials/queries/psql-client-tableau.html?lang=de) | Video | Erfahren Sie, wie Sie eine Verbindung zum [!UICONTROL Query Service] von verschiedenen Desktop-Client-Anwendungen aus herstellen, die das `PostgreSQL`-Protokoll unterstützen, und wie Sie `PostgreSQL`-Tools und -Treiber verwenden können, um Abfragen zu verbinden und zu schreiben. |
+| Juni 2021 | [Von Adobe definierte Funktionen im Abfrage-Service](https://experienceleague.adobe.com/docs/platform-learn/tutorials/queries/adobe-defined-functions.html?lang=de) | Video | Erfahren Sie, wie Sie in Adobe Experience Platform [!UICONTROL Query Service] mithilfe von Adobe-definierten Funktionen gängige geschäftsbezogene Aufgaben auf Daten zu Erlebnisereignissen ausführen können. |
+| Juni 2021 | [Datenexploration mit dem Abfrage-Service](https://experienceleague.adobe.com/docs/platform-learn/tutorials/queries/explore-data.html?lang=de) | Video | Erfahren Sie, wie Sie erfasste Daten validieren, Daten in der Vorschau anzeigen und mithilfe von SQL-Funktionen statistische und analytische Eigenschaften von Daten untersuchen können. |
 | Juni 2021 | [Query Service – Übersicht](https://experienceleague.adobe.com/docs/platform-learn/tutorials/queries/understanding-query-service.html?lang=de) | Video | Erfahren Sie mehr über Query Service in Adobe Experience Platform und wie Sie mit dessen Hilfe ein klareres Verständnis über das Verhalten von Kunden sowie zielführende Einblicke gewinnen können. |
-| Juni 2021 | [Übersicht über die Benutzeroberfläche von Query Service](https://experienceleague.adobe.com/docs/platform-learn/tutorials/queries/query-service-ui.html?lang=de) | Video | Erfahren Sie, wie Sie Abfragen schreiben und ausführen, zuvor ausgeführte Abfragen anzeigen und auf Abfragen zugreifen können, die von anderen Benutzern in Ihrer IMS-Organisation in Adobe Experience Platform Query Service gespeichert wurden. |
+| Juni 2021 | [Überblick über die Benutzeroberfläche des Abfrage-Service](https://experienceleague.adobe.com/docs/platform-learn/tutorials/queries/query-service-ui.html?lang=de) | Video | Erfahren Sie, wie Sie Abfragen schreiben und ausführen, zuvor ausgeführte Abfragen anzeigen und auf Abfragen zugreifen können, die von anderen Benutzern in Ihrer IMS-Organisation in Adobe Experience Platform Query Service gespeichert wurden. |
 | Juni 2021 | [Abfrage-API](https://experienceleague.adobe.com/docs/platform-learn/tutorials/queries/query-service-api.html?lang=de) | Video | Erfahren Sie, wie Sie Abfragen schreiben und ausführen, planen Sie Abfragen und erstellen Sie eine Abfragevorlage mit der Adobe Experience Platform [!UICONTROL Query Service API]. |
 
 {style=&quot;table-layout:auto&quot;}
@@ -213,16 +213,16 @@ Neue Funktionen, Fehlerbehebungen und Aktualisierungen in Experience Manager (AE
 >
 >Adobe empfiehlt, die Seite [Experience Manager-Versions-Updates und -Roadmaps](https://experienceleague.adobe.com/docs/experience-manager-release-information/aem-release-updates/home.html?lang=de) zu besuchen, um auf dem Laufenden zu bleiben.
 
-### Experience Manager-Produktaktualisierungen
+### Produktaktualisierungen für Experience Manager
 
 * **Experience Manager 6.5.9.0**
 
-   Experience Manager 6.5, Service Pack 9.0 (6.5.9.0 vom 27. Mai 2021) ist ein wichtiges Update, das neue Funktionen, wichtige von Kunden angeforderte Verbesserungen, verbesserte Leistung, Stabilität und Sicherheit umfasst. Dieses Update wurde seit der allgemeinen Verfügbarkeit von AEM 6.5 im April 2019 veröffentlicht.
+   Experience Manager 6.5, Service Pack 9.0 (6.5.9.0 vom 27. Mai 2021) ist ein wichtiges Update, das neue Funktionen, wichtige von Kunden gewünschte Verbesserungen und Steigerungen von Leistung, Stabilität und Sicherheit umfasst, die seit der allgemeinen Verfügbarkeit von AEM 6.5 (April 2019) veröffentlicht wurden.
 
    * [Versionshinweise](https://experienceleague.adobe.com/docs/experience-manager-65/release-notes/service-pack/sp-release-notes.html?lang=de)
    * [Versionsfreigaben von AEM Forms](https://experienceleague.adobe.com/docs/experience-manager-release-information/aem-release-updates/forms-updates/aem-forms-releases.html?lang=de)
 
-### Experience Manager-Produktversionen
+### Produktversionen von Experience Manager
 
 * **Experience Manager as a Cloud Service**
 
@@ -239,7 +239,7 @@ Neue Funktionen, Fehlerbehebungen und Aktualisierungen in Experience Manager (AE
       * [Build Analyzer-Maven-Plug-in für Experience Manager as a Cloud Service SDK](https://experienceleague.adobe.com/docs/experience-manager-core-components/using/developing/archetype/build-analyzer-maven-plugin.html?lang=de): Aktualisieren Sie Ihre Maven-Projekte auf die neueste Version, die eine Prüfung auf veraltete Java™-APIs und weitere Verbesserungen umfasst.
    * **Experience Manager Sites as a Cloud Service**
 
-      Sie können jetzt Inhalte in einer neuen [Vorschaustufe](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/sites/authoring/fundamentals/previewing-content.html?lang=de) überprüfen, um das endgültige Look-and-Feel des Erlebnisses so zu simulieren, wie es sich auf der Veröffentlichungsstufe darstellt. Diese neue Funktion wird vom Experience Manager Sites Managed Publishing-Assistenten aktiviert, mit dem Sie ein Veröffentlichungsziel zwischen [!UICONTROL Publish] oder [!UICONTROL Preview] wählen können. Erlebnisse für [!UICONTROL Vorschau] können dann über eine dedizierte URL aufgerufen werden. Nach der Validierung für [!UICONTROL Vorschau] können Sie Inhalte wie gewohnt von [!UICONTROL Autor] in [!UICONTROL Veröffentlichen] veröffentlichen. Die Aktivierung des Diensts [!UICONTROL Vorschau] in Experience Manager as a Cloud Service-Umgebungen erfolgt in den nächsten Wochen schrittweise.
+      Sie können jetzt Inhalte in einer neuen [Vorschaustufe](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/sites/authoring/fundamentals/previewing-content.html?lang=de) überprüfen, um das endgültige Look-and-Feel des Erlebnisses so zu simulieren, wie es sich auf der Veröffentlichungsstufe darstellt. Diese neuen Funktionen werden vom Experience Manager Sites-Assistenten für die verwaltete Veröffentlichung aktiviert, mit dem Sie beim Veröffentlichungsziel zwischen [!UICONTROL Veröffentlichung] oder [!UICONTROL Vorschau] wählen können. Erlebnisse in der [!UICONTROL Vorschau] können dann über eine dedizierte URL aufgerufen werden. Nach der Validierung in der [!UICONTROL Vorschau] können Inhalte wie gewohnt aus der [!UICONTROL Autoren-] in der [!UICONTROL Veröffentlichungsinstanz] veröffentlicht werden. Die Aktivierung des [!UICONTROL Vorschau]-Service in Experience Manager as a Cloud Service-Umgebungen erfolgt in den nächsten Wochen schrittweise.
 
    * **Experience Manager Assets as a Cloud Service**
 
@@ -255,7 +255,7 @@ Neue Funktionen, Fehlerbehebungen und Aktualisierungen in Experience Manager (AE
 
 
 
-### **Experience Manager Community**
+### **Experience Manager-Community**
 
 * [Zentrale Anlaufstelle für alle Blogs zu Experience Manager](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-manager/bd-p/adobe-experience-manager-discussions)
 
@@ -316,11 +316,11 @@ Adobe Campaign bietet die Möglichkeit, direkte Nachrichten über Online- und O
 
 Erfahren Sie mehr über die aktuellsten veröffentlichten Funktionen, Verbesserungen und Fehlerbehebungen:
 
-* **Adobe Campaign v8**  bietet wichtige Verbesserungen in den Bereichen Infrastruktur, Sicherheit, Zustellbarkeit und Überwachung. Adobe Campaign v8 verbessert den Umfang und die Geschwindigkeit erheblich, da eine größere Anzahl von Kundenprofilen sowie deutlich höhere Zustellraten und Transaktionen pro Stunde verwaltet werden können. Weitere Informationen finden Sie in der [Campaign v8-Dokumentation](https://experienceleague.adobe.com/docs/campaign/campaign-v8/campaign-home.html?lang=de).
+* **Adobe Campaign v8**: Die neue Version bietet deutliche Verbesserungen in den Bereichen Infrastruktur, Sicherheit, Zustellbarkeit und Überwachung. Adobe Campaign v8 verbessert die Skalierbarkeit und Geschwindigkeit erheblich. So kann eine größere Anzahl von Kundenprofilen verwaltet werden und es werden deutlich höhere Versandraten sowie mehr Transaktionen pro Stunde erreicht. Weitere Informationen finden Sie in der [Campaign v8-Dokumentation](https://experienceleague.adobe.com/docs/campaign/campaign-v8/campaign-home.html?lang=de).
 
-* **Adobe Campaign Classic v7 Version 21.1.3:** Weitere Informationen finden Sie in den  [Versionshinweisen zu Campaign Classic v7](https://experienceleague.adobe.com/docs/campaign-classic/using/release-notes/latest-release.html?lang=de?lang=de).
+* **Adobe Campaign Classic v7 Version 21.1.3**: Weitere Informationen finden Sie in den [Versionshinweisen zu Campaign Classic v7](https://experienceleague.adobe.com/docs/campaign-classic/using/release-notes/latest-release.html?lang=de?lang=de).
 
-* **Adobe Campaign Standard-Version 21.2:** Weitere Informationen finden Sie in den  [Campaign Standard-Versionshinweisen](https://experienceleague.adobe.com/docs/campaign-standard/using/release-notes/release-notes.html?lang=de).
+* **Adobe Campaign Standard Version 21.2**: Weitere Informationen finden Sie in den [Versionshinweisen zu Campaign Standard](https://experienceleague.adobe.com/docs/campaign-standard/using/release-notes/release-notes.html?lang=de).
 
 ### Neue [!UICONTROL Campaign]-Kurse und -Tutorials {#tutorials-campaign}
 
@@ -408,9 +408,9 @@ Hilfe zu Document Cloud erhalten Sie über:
 * [Adobe Sign](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/overview.html?lang=de)
 * [Document Cloud: Lernen und Support](https://helpx.adobe.com/de/support/document-cloud.html)
 
-## ![](/assets/creative-cloud-24.png) IconCreative Cloud für Unternehmen {#creative-cloud}
+## ![Symbol](/assets/creative-cloud-24.png) Creative Cloud für Unternehmen {#creative-cloud}
 
-Neue Videos, Tutorials oder Kurse, die zum Creative Cloud für Unternehmen veröffentlicht wurden.
+Neue Videos, Tutorials oder Kurse, die zu Creative Cloud für Unternehmen veröffentlicht wurden.
 
 | Veröffentlicht | Name | Typ | Beschreibung |
 | ----------| --------- | --------- | --------- |
