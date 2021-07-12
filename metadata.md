@@ -1,19 +1,13 @@
 ---
 cloud: Experience Cloud
-solution-title: Lernen und Support
-description: Versionshinweise für Experience Cloud-Lösungen
-solution-hub-url: https://helpx.adobe.com/de/support/experience-cloud.html
-solution-icon: assets/assets/experience-cloud-logo-24.png
-getting-started-title: Erste Schritte
-getting-started-url: https://landing.adobe.com/experience-league/
-tutorials-title: Tutorials
-tutorials-url: https://helpx.adobe.com/de/experience-cloud/tutorials.html
+type: Documentation
+solution: Experience Cloud
 mini-toc-levels: 2
 git-repo: https://git.corp.adobe.com/AdobeDocs/release-notes.de-DE
 index: true
-source-git-commit: 3d7d30975cb241633f0d847a6b7689134bb56749
-workflow-type: ht
-source-wordcount: '175'
+source-git-commit: 759707638404f746de2e71ac27bd16926a8d1151
+workflow-type: tm+mt
+source-wordcount: '153'
 ht-degree: 100%
 
 ---
@@ -37,7 +31,7 @@ Die Datei metadata.md enthält Metadaten auf Repo-Ebene, die an die TOC.md-Datei
 
 In der Datei TOC.md
 
-| metadata | was es macht |
+| Metadaten | was es macht |
 |--- |--- |
 | user-guide-title | Wird in der Artikelkopfzeile als Link verwendet |
 | user-guide-url | Öffnet die helpx-Hub-Seite |
