@@ -1,18 +1,16 @@
 ---
 description: Hier finden Sie Angaben zur Kontaktaufnahme mit Adobe und rechtliche Hinweise zu Ihrer Nutzung des Produkts und der Dokumentation.
-keywords: dynamic tag management;release notes
+keywords: dynamisches Tag-Management; Versionshinweise
 seo-description: Hier finden Sie Angaben zur Kontaktaufnahme mit Adobe und rechtliche Hinweise zu Ihrer Nutzung des Produkts und der Dokumentation.
 seo-title: Kontakt und rechtliche Informationen
-solution: Experience Cloud
 title: Kontakt und rechtliche Informationen
 uuid: be6810fd-8a50-4e88-af09-ab00187e4082
 internal: n
 translate: y
-translation-type: tm+mt
-source-git-commit: 00226294d475d0c8f323692272bedf0d2705fd20
+source-git-commit: 759707638404f746de2e71ac27bd16926a8d1151
 workflow-type: tm+mt
-source-wordcount: '253'
-ht-degree: 97%
+source-wordcount: '258'
+ht-degree: 100%
 
 ---
 
@@ -36,7 +34,7 @@ Je nach Konfiguration Ihrer Lösung stehen Ihnen eventuell einige der in diesem 
 ## Feedback {#section_8154D6D712054220A90D85FA8E92933E}
 Adobe Systems welcome any suggestions or feedback regarding this solution. You can add enhancement ideas and suggestions for the Analytics suite to our [Customer Idea Exchange](https://my.omniture.com/login/?r=%2Fp%2Fsuite%2Fcurrent%2Findex.html%3Fa%3DIdeasExchange.Redirect%26redirectreason%3Dnotregistered%26referer%3Dhttp%253A%252F%252Fideas.omniture.com%252Ft5%252FAdobe-Idea-Exchange-for-Omniture%252Fidb-p%252FIdeaExchange3). -->
 
-## Rechtliche Informationen  {#section_A6E1844D4AC2485CADBF6D05116E3D59}
+## Rechtliche Informationen {#section_A6E1844D4AC2485CADBF6D05116E3D59}
 
 
 <ul class="simplelist"> 
@@ -44,7 +42,7 @@ Adobe Systems welcome any suggestions or feedback regarding this solution. You c
  <li> Published by Adobe Systems Incorporated. </li> 
 </ul>
 
-[Nutzungsbedingungen](https://www.adobe.com/go/marketingcloud_terms_of_use) | [Datenschutzcenter](https://www.adobe.com/de/privacy/policy.html)
+[Nutzungsbedingungen](https://www.adobe.com/go/marketingcloud_terms_of_use_de) | [Datenschutzcenter](https://www.adobe.com/de/privacy/policy.html)
 
 Adobe and the Adobe logo are either registered trademarks or trademarks of Adobe Systems Incorporated in the United States and/or other countries. A trademark symbol (®, ™, etc.) denotes an Adobe trademark.
 
