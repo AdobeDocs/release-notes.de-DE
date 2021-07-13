@@ -9,7 +9,7 @@ exl-id: bcbdba6a-9e24-4f84-97ca-65c24ef45707
 source-git-commit: 99885f10a13d7b51702ffac182362f1abd09f141
 workflow-type: tm+mt
 source-wordcount: '4984'
-ht-degree: 99%
+ht-degree: 100%
 
 ---
 
@@ -89,12 +89,12 @@ Neue Videos, Tutorials oder Kurse, die für Experience Platform und Services ver
 | Juni 2021 | [ Erstellen von Schema-Datentypen](https://experienceleague.adobe.com/docs/platform-learn/tutorials/schemas/create-data-types.html?lang=de) | Video | Erfahren Sie, wie Sie Ihre eigenen Datentypen in Adobe Experience Platform zur Verwendung in XDM-Schemas (Experience-Datenmodell) erstellen. |
 | Juni 2021 | [Konvertieren Ihres Datenmodells in ein Experience-Datenmodell](https://experienceleague.adobe.com/docs/platform-learn/tutorials/schemas/convert-your-data-model-to-xdm.html?lang=de) | Video | Erfahren Sie, wie Datenarchitekten ihr vorhandenes Transaktionsdatenmodell in ein Experience-Datenmodell konvertieren können. In diesem Video werden die Unterschiede zwischen Ansätzen für die Modellierung anhand von Entitäts-Beziehungsdiagrammen veranschaulicht. |
 | Juni 2021 | [Planung Ihres Datenmodells](https://experienceleague.adobe.com/docs/platform-learn/tutorials/schemas/plan-your-data-model.html?lang=de) | Video | Machen Sie sich mit vorbereitenden Maßnahmen für die Erstellung Ihrer Schemas in Adobe Experience Platform vertraut. Hierzu gehören etwa die Dokumentation von Anwendungsfällen für Ihr Unternehmen, das Verständnis um den Umfang Ihrer Platform-Lizenz sowie zu Produkteinschränkungen, oder auch die Ermittlung der aufzunehmenden Daten, bevor Sie Ihr Datenmodell abschließen. |
-| Juni 2021 | [Verbinden von Tableau mit dem Abfrage-Service verbinden](https://experienceleague.adobe.com/docs/platform-learn/tutorials/queries/psql-client-tableau.html?lang=de) | Video | Erfahren Sie, wie Sie eine Verbindung zum [!UICONTROL Query Service] von verschiedenen Desktop-Client-Anwendungen aus herstellen, die das `PostgreSQL`-Protokoll unterstützen, und wie Sie `PostgreSQL`-Tools und -Treiber verwenden können, um Abfragen zu verbinden und zu schreiben. |
-| Juni 2021 | [Von Adobe definierte Funktionen im Abfrage-Service](https://experienceleague.adobe.com/docs/platform-learn/tutorials/queries/adobe-defined-functions.html?lang=de) | Video | Erfahren Sie, wie Sie in Adobe Experience Platform [!UICONTROL Query Service] mithilfe von Adobe-definierten Funktionen gängige geschäftsbezogene Aufgaben auf Daten zu Erlebnisereignissen ausführen können. |
+| Juni 2021 | [Verbinden von Tableau mit dem Abfrage-Service verbinden](https://experienceleague.adobe.com/docs/platform-learn/tutorials/queries/psql-client-tableau.html?lang=de) | Video | Erfahren Sie, wie Sie eine Verbindung zum [!UICONTROL Abfrage-Service] von verschiedenen Desktop-Client-Anwendungen aus herstellen, die das `PostgreSQL`-Protokoll unterstützen, und wie Sie `PostgreSQL`-Tools und -Treiber verwenden können, um Abfragen zu verbinden und zu schreiben. |
+| Juni 2021 | [Von Adobe definierte Funktionen im Abfrage-Service](https://experienceleague.adobe.com/docs/platform-learn/tutorials/queries/adobe-defined-functions.html?lang=de) | Video | Erfahren Sie, wie Sie im [!UICONTROL Abfrage-Service] von Adobe Experience Platform mithilfe von Adobe-definierten Funktionen gängige geschäftsbezogene Aufgaben auf Daten zu Erlebnisereignissen ausführen können. |
 | Juni 2021 | [Datenexploration mit dem Abfrage-Service](https://experienceleague.adobe.com/docs/platform-learn/tutorials/queries/explore-data.html?lang=de) | Video | Erfahren Sie, wie Sie erfasste Daten validieren, Daten in der Vorschau anzeigen und mithilfe von SQL-Funktionen statistische und analytische Eigenschaften von Daten untersuchen können. |
-| Juni 2021 | [Query Service – Übersicht](https://experienceleague.adobe.com/docs/platform-learn/tutorials/queries/understanding-query-service.html?lang=de) | Video | Erfahren Sie mehr über Query Service in Adobe Experience Platform und wie Sie mit dessen Hilfe ein klareres Verständnis über das Verhalten von Kunden sowie zielführende Einblicke gewinnen können. |
-| Juni 2021 | [Überblick über die Benutzeroberfläche des Abfrage-Service](https://experienceleague.adobe.com/docs/platform-learn/tutorials/queries/query-service-ui.html?lang=de) | Video | Erfahren Sie, wie Sie Abfragen schreiben und ausführen, zuvor ausgeführte Abfragen anzeigen und auf Abfragen zugreifen können, die von anderen Benutzern in Ihrer IMS-Organisation in Adobe Experience Platform Query Service gespeichert wurden. |
-| Juni 2021 | [Abfrage-API](https://experienceleague.adobe.com/docs/platform-learn/tutorials/queries/query-service-api.html?lang=de) | Video | Erfahren Sie, wie Sie Abfragen schreiben und ausführen, planen Sie Abfragen und erstellen Sie eine Abfragevorlage mit der Adobe Experience Platform [!UICONTROL Query Service API]. |
+| Juni 2021 | [Abfrage-Service – Übersicht](https://experienceleague.adobe.com/docs/platform-learn/tutorials/queries/understanding-query-service.html?lang=de) | Video | Erfahren Sie mehr über den Abfrage-Service in Adobe Experience Platform und wie Sie mit dessen Hilfe ein klareres Verständnis über das Verhalten von Kunden sowie zielführende Einblicke gewinnen können. |
+| Juni 2021 | [Überblick über die Benutzeroberfläche des Abfrage-Service](https://experienceleague.adobe.com/docs/platform-learn/tutorials/queries/query-service-ui.html?lang=de) | Video | Erfahren Sie, wie Sie Abfragen schreiben und ausführen, zuvor ausgeführte Abfragen anzeigen und auf Abfragen zugreifen können, die von anderen Benutzern in Ihrer IMS-Organisation im Abfrage-Service von Adobe Experience Platform gespeichert wurden. |
+| Juni 2021 | [Abfrage-API](https://experienceleague.adobe.com/docs/platform-learn/tutorials/queries/query-service-api.html?lang=de) | Video | Erfahren Sie, wie Sie Abfragen schreiben und ausführen, planen Sie Abfragen und erstellen Sie eine Abfragevorlage mit der [!UICONTROL Abfrage-Service API] von Adobe Experience Platform. |
 
 {style=&quot;table-layout:auto&quot;}
 
@@ -230,7 +230,7 @@ Neue Funktionen, Fehlerbehebungen und Aktualisierungen in Experience Manager (AE
 
    >[!NOTE]
    >
-   >Experience Manager as a Cloud Service - Version der Juni-Funktion ist jetzt verfügbar. Um die neuen Funktionen zu nutzen, stellen Sie sicher, dass Sie mindestens Experience Manager 2021.6.5561 verwenden.
+   >Experience Manager as a Cloud Service – die Juni-Funktionsversion ist jetzt verfügbar. Um die neuen Funktionen zu nutzen, stellen Sie sicher, dass Sie mindestens Experience Manager 2021.6.5561 verwenden.
 
    * **Adobe Experience Manager as a Cloud Service Foundation**
 
@@ -268,8 +268,8 @@ Neue Funktionen, Fehlerbehebungen und Aktualisierungen in Experience Manager (AE
 Die nachfolgend aufgeführten Seiten umfassen alle Versionshinweise zu Experience Manager:
 
 * [Versionsinformationen für Experience Manager as a Cloud Service](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/release-notes/home.html?lang=de)
-* [Versionshinweise zu Experience Manager as a Cloud Service](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/release-notes/release-notes/release-notes-current.html?lang=en)
-* [Versionshinweise für Experience Manager Cloud Manager](https://experienceleague.adobe.com/docs/experience-manager-cloud-manager/using/release-notes/release-notes-current.html?lang=en)
+* [Versionsinformationen für Experience Manager as a Cloud Service](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/release-notes/release-notes/release-notes-current.html?lang=de)
+* [Versionshinweise für Experience Manager Cloud Manager](https://experienceleague.adobe.com/docs/experience-manager-cloud-manager/using/release-notes/release-notes-current.html?lang=de)
 * [Versionshinweise zum Dienst für die automatische Formularkonversion](https://experienceleague.adobe.com/docs/aem-forms-automated-conversion-service/using/release-notes.html?lang=de)
 * [Versionshinweise für Experience Manager 6.5 Service Pack](https://experienceleague.adobe.com/docs/experience-manager-65/release-notes/service-pack/sp-release-notes.html?lang=en)
 * [Versionshinweise für Experience Manager 6.4 Cumulative Fix Pack](https://experienceleague.adobe.com/docs/experience-manager-64/release-notes/cfp-release-notes.html?lang=de)
