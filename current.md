@@ -6,10 +6,10 @@ last-update: July 2021
 author: mfrei
 mini-toc-levels: 1
 exl-id: bcbdba6a-9e24-4f84-97ca-65c24ef45707
-source-git-commit: 906530244a4f60dd032aaafb772025478c42c017
+source-git-commit: db12e3c3021aa572c3f0e22be5c96e52fae78131
 workflow-type: tm+mt
-source-wordcount: '4867'
-ht-degree: 50%
+source-wordcount: '3904'
+ht-degree: 58%
 
 ---
 
@@ -50,14 +50,14 @@ Benötigen Sie Hilfe? Besuchen Sie [Adobe Experience League](https://experiencel
 Die zentralen Komponenten der Experience Cloud-UI umfassen Aktualisierungen, die allesamt über die Kopfzeile des Produkts aufgerufen werden können, darunter etwa die Selbsthilfe, Suche oder die Voreinstellungen für Benutzerkonten. Dort finden sich auch Aktualisierungen zu Personen, dem Places-Service (ehemals Location-Service) und der Produktverwaltung.
 
 | Funktion | Datum | Beschreibung |
-| ------- | ------- | ------- |
-| Experience Cloud Global Search | 5. Juli 2021 | Mit dieser Version fügt Experience Cloud Global Search der Suche nach Geschäftsobjekten in Experience Cloud, wie Segmenten, Datensätzen, Schemas und mehr, Journey Orchestration hinzu.) |
+| ------- | ------- | -------|
+| Experience Cloud ![Globale Suche](https://experienceleague.adobe.com/docs/core-services/interface/experience-cloud.html?lang=en#globally-search-for-objects-and-entities) | 5. Juli 2021 | Mit dieser Version fügt Experience Cloud Global Search der Suche nach Geschäftsobjekten in Experience Cloud, wie Segmenten, Datensätzen, Schemas und mehr, Journey Orchestration hinzu. |
 
 {style=&quot;table-layout:auto&quot;}
 
 **Weitere Hilferessourcen**
 
-* Hilfe für Administratoren zum Thema [zentrale UI-Komponenten](https://experienceleague.adobe.com/docs/core-services/interface/experience-cloud.html?lang=de) und Benutzerverwaltung
+* Hilfe für Administratoren zum Thema [zentrale UI-Komponenten](https://experienceleague.adobe.com/docs/core-services/interface/experience-cloud.html?lang=en) und Benutzerverwaltung
 * Hilfe und Versionshinweise für [Places-/Location-Service](https://experienceleague.adobe.com/docs/places/using/release-notes.html?lang=de)
 * Hilfe zu [Personen - Kundenattribute und Zielgruppenbibliothek](https://experienceleague.adobe.com/docs/core-services/interface/services/core-services-landing.html?lang=de).
 
@@ -93,9 +93,9 @@ Neue Videos, Tutorials oder Kurse, die für Experience Platform und Services ver
 
 Mit Adobe Journey Optimizer können Sie geplante Omnichannel-Kampagnen und einmalige Erlebnisse für Millionen von Kunden aus einer einzigen Anwendung verwalten - und die gesamte Journey wird mit intelligenten Entscheidungen und Einblicken optimiert.
 
-### Aktuelle Produktversionen
+### Neueste Journey Optimizer-Produktversionen
 
-* Journey Optimizer ist jetzt verfügbar. [Mehr dazu](https://experienceleague.adobe.com/docs/journey-optimizer/using/ajo-home.html?lang=en).
+* **Juli 2021:** Journey Optimizer ist jetzt verfügbar. [Mehr dazu](https://experienceleague.adobe.com/docs/journey-optimizer/using/ajo-home.html?lang=en).
 
 **Weitere Ressourcen für Journey Optimizer**
 
@@ -206,87 +206,9 @@ Neue Funktionen, Fehlerbehebungen und Aktualisierungen in Experience Manager. Ad
 
 >[!NOTE]
 >
->Adobe empfiehlt, die Seite [Experience Manager-Versions-Updates und -Roadmaps](https://experienceleague.adobe.com/docs/experience-manager-release-information/aem-release-updates/home.html?lang=de) zu besuchen, um auf dem Laufenden zu bleiben.
+>Adobe empfiehlt, die häufig besuchte Seite [Experience Manager-Versionsupdates und -Roadmaps](https://experienceleague.adobe.com/docs/experience-manager-release-information/aem-release-updates/home.html?lang=de) zu besuchen, um über Versionsinformationen auf dem Laufenden zu bleiben.
 
-### Produktversionen von Experience Manager
-
-* **Experience Manager as a Cloud Service**
-
-   Neue Funktionen in Experience Manager as a Cloud Service:
-
-   * **XML-Dokumentation für Adobe Experience Manager as a Cloud Service**
-
-      * **Cloud-natives Komponenteninhaltsmanagementsystem**  - XML-Dokumentation für Adobe Experience Manager ist als Cloud Service verfügbar. Rufen Sie die Umgebung ab, in der Sie Dokumentation und Inhalte im großen Maßstab erstellen, verwalten und bereitstellen können.
-      * **KI-gestützte Dokumentation**  - Smart-Tagging-Funktion zur automatischen Identifizierung und Extrahierung relevanter Metadaten-Schlüsselwörter aus dem Text für die Metadatenbeschriftung.
-      * **Neues Erscheinungsbild für den Webeditor**  - Neues Erscheinungsbild mit Änderungen der Benutzeroberfläche, wodurch diese intuitiver werden. Die zugrunde liegende Architektur wurde von Korallen zu reaktionsbasiertem Spektrum geändert.
-   * **Experience Manager als Cloud Service**
-
-      * [!UICONTROL Vorschaudienste werden ] fortlaufend für alle Programme bereitgestellt. Kunden werden im Produkt benachrichtigt, wenn ihr Programm für [!UICONTROL Vorschaudienst] aktiviert ist. Siehe [Zugriff auf den Vorschaudienst](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/implementing/using-cloud-manager/manage-environments.html?lang=en#access-preview-service).
-      * Maven-Abhängigkeiten, die während des Build-Schritts heruntergeladen wurden, werden jetzt zwischen Pipeline-Ausführungen zwischengespeichert. Diese Funktion wird in den nächsten Wochen für Kunden aktiviert.
-      * Sie können jetzt den Programmnamen über das Dialogfeld [!UICONTROL Programm bearbeiten] bearbeiten.
-      * Der Standardverzweigungsname, der sowohl bei der Projekterstellung als auch im Standardbefehl [!UICONTROL Push] zur Verwaltung von Git-Workflows verwendet wird, wurde in `main` geändert.
-      * Die Bearbeitung des Programmerlebnisses in der Benutzeroberfläche wurde aktualisiert.
-      * Die Qualitätsregel `ImmutableMutableMixCheck` wurde aktualisiert, um `/oak:index`-Knoten als unveränderlich zu klassifizieren.
-      * Die Qualitätsregeln `CQBP-84andCQBP-84--dependencies` wurden in einer einzigen Regel zusammengefasst. Im Rahmen dieser Konsolidierung werden beim Überprüfen von Abhängigkeiten Probleme in Drittanbieterabhängigkeiten, die zur Laufzeit des Experience Managers bereitgestellt werden, genauer identifiziert.
-      * Um Verwirrung zu vermeiden, wurden die Segmentzeilen Veröffentlichungs-Experience Manager und Veröffentlichungs-Dispatcher auf der Seite Umgebungsdetails konsolidiert.
-      * Eine neue Code-Qualitätsregel wurde hinzugefügt, um die Struktur von `damAssetLucene`Indizes zu überprüfen. Siehe [Benutzerdefinierte DAM-Asset Lucene Oak-Indizes](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/implementing/using-cloud-manager/test-results/custom-code-quality-rules.html?lang=en#oakpal-damAssetLucene-sanity-check).
-      * Auf der Seite &quot;Umgebungsdetails&quot;werden jetzt ggf. mehrere Domänennamen für Veröffentlichungs- und Vorschaudienste angezeigt. Siehe [Umgebungsdetails](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/implementing/using-cloud-manager/manage-environments.html?lang=en#viewing-environment).
-   * **Experience Manager Assets as a Cloud Service**
-
-      Neue Funktionen in Assets:
-
-      * [!UICONTROL Mit der ] Funktion zur Inhaltsautomatisierung können Experience Manager-Assets die Adobe Creative Cloud-APIs verwenden, um die Asset-Produktion skaliert zu automatisieren. Die Geschwindigkeit von Inhalten wird verbessert, indem die zum Erstellen von Varianten desselben Assets erforderliche Zeit und Iterationen erheblich verkürzt werden. Die Funktion erfordert keine Programmierung und funktioniert innerhalb des DAM. Siehe [Generieren von Varianten von Assets mithilfe der Adobe Creative Cloud-Integration](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/assets/manage/cc-api-integration.html?lang=en).
-      * [Adobe Asset Link 3.0](https://helpx.adobe.com/de/enterprise/using/adobe-asset-link.html) für Adobe Photoshop, Adobe Illustrator und Adobe InDesign und Adobe  [Adobe Asset Link 2.0](https://helpx.adobe.com/de/enterprise/using/adobe-asset-link-for-xd.html) für Adobe XD ist verfügbar. Es unterstützt Assets Essentials und die Möglichkeit, automatisch eine Verbindung zu Experience Manager as a Cloud Service oder Assets Essentials herzustellen.
-      * Mit dem [Asset Bulk Ingestor-Tool](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/assets/manage/add-assets.html?lang=de#asset-bulk-ingestor) können Sie während einer Massenaufnahme Metadaten hinzufügen.
-
-      Neue Funktionen im Vorversionskanal &quot;Assets&quot;:
-
-      * Die Anzeigeeinstellungen wurden verbessert, sodass Sie eine Standardansicht und einen standardmäßigen Sortierparameter wählen können.
-      * Die Download-Funktion [!UICONTROL Linkfreigabe] verwendet asynchrone Downloads, die die Download-Geschwindigkeit erhöhen. Siehe [Herunterladen von freigegebenen Assets mithilfe der Linkfreigabe](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/assets/manage/download-assets-from-aem.html?lang=en#link-share-download).
-      * Sie können die Ordner anhand von Eigenschaftsprädikaten suchen und filtern.
-      * Experience Manager Assets bettet den PDF-Viewer ein, um die unterstützten Dokumentformate in der Vorschau anzuzeigen. Es wird von Adobe Document Cloud betrieben. Mit dieser Funktion können Sie PDF- und andere mehrseitige Dateien ohne komplexe Verarbeitung in der Vorschau anzeigen. Dadurch wird die Funktionsparität mit Experience Manager 6.5 verbessert. Die in der Vorschau verfügbaren Steuerelemente sind Zoomen, Navigieren zu Seiten, Aufheben der Andockung von Steuerelementen und Anzeigen im Vollbildmodus. Der integrierte PDF-Viewer unterstützt die Dateiformate AI, DOCX, INDD, PDF und PSD. Sie können das Asset selbst kommentieren, Kommentare und Anmerkungen in der PDF-Datei werden jedoch nicht unterstützt.
-      * Die Benutzerumgebung wurde dahingehend verbessert, dass die Anzahl der in einem Ordner vorhandenen Assets angezeigt wird. Für mehr als 1000 Assets in einem Ordner zeigt Assets über 1000 Assets an.
-      * Sie können ein Metadatenschema direkt auf einen Ordner in dessen Eigenschaften anwenden.
-   * **Experience Manager Sites as a Cloud Service**
-
-      Neue Funktionen:
-
-      * &quot;In Vorschau veröffentlichen&quot;wird nun in der Sites Admin-Benutzeroberfläche als Seitenstatus angezeigt.
-      * Veröffentlichen Sie die Seite in der Vorschauebene, um die Vorschau-URL am Ende der Aktion anzuzeigen, und speichern Sie die URL in den Seiteneigenschaften, um später darauf zu verweisen.
-   * **Experience Manager Forms as a Cloud Service**
-
-      Neue Funktionen:
-
-      * Metadatenschemas können direkt auf die Ordnereigenschaften angewendet werden.
-      * Mit dem Tool für die Asset-Aufnahme in Batches können Sie Metadaten während einer Massenaufnahme hinzufügen.
-      * Die Benutzerumgebung wurde dahingehend verbessert, dass die Anzahl der in einem Ordner vorhandenen Assets angezeigt wird. Für mehr als 1000 Assets in einem Ordner zeigt Experience Manager Assets 1000+ an.
-
-      Beta-Funktion von Forms:
-
-      * **Experience Manager Forms as a Cloud Service - Communications**  - Communication APIs helfen Ihnen, XDP-Vorlagen und XML-Daten zu kombinieren, um Druckdokumente in verschiedenen Formaten zu generieren. Mit dem Dienst können Sie Dokumente im synchronen Modus erstellen. Mit den APIs können Sie Anwendungen erstellen, mit denen Sie:
-         * Generieren Sie Dokumente, indem Sie Vorlagendateien mit XML-Daten füllen.
-         * Generieren Sie Ausgabeformulare in verschiedenen Formaten, einschließlich nicht interaktiver PDF-Druckströme.
-         * Generieren Sie druckbare PDFs aus einem XFA-Formular-PDF und Adobe Acrobat-Formular (AcroForm).
-
-      Sie können [formscsbeta@adobe.com](mailto:formscsbeta@adobe.com) schreiben, um sich für das Betaprogramm anzumelden.
-
-   * **Experience Manager Screens als Cloud Service**
-
-      * Die Massenregistrierung von Geräten bedeutet, dass die Bereitstellung massiver Mengen von Player-Geräten schneller und effizienter ist.
-      * Verbesserte Such- und Filteroptionen für die Inventaransichten &quot;Gerät&quot;, &quot;Anzeige&quot;und &quot;Kanal&quot;.
-      * Die Momentaufnahme der Gerätegesundheit spart Zeit, da sie einen kritischen Status als Überblick bietet.
-      * Die Seite &quot;Objektdetails&quot;bietet eine Zusammenfassung der relevantesten Informationen für jedes Objekt in Ihrem Projekt.
-
-
-
-
-
-
-
-
-### Versionsinformationen zu Experience Manager
-
-Die nachfolgend aufgeführten Seiten umfassen alle Versionshinweise zu Experience Manager:
+Links zu Experience Manager-Versionsinformationen:
 
 * [Versionsinformationen für Experience Manager as a Cloud Service](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/release-notes/home.html?lang=de)
 * [Versionsinformationen für Experience Manager as a Cloud Service](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/release-notes/release-notes/release-notes-current.html?lang=de)
