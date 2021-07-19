@@ -6,9 +6,9 @@ last-update: July 2021
 author: mfrei
 mini-toc-levels: 1
 exl-id: bcbdba6a-9e24-4f84-97ca-65c24ef45707
-source-git-commit: bd6b98b1decdcf563421c1f828d3fb068fb6ca33
+source-git-commit: 906530244a4f60dd032aaafb772025478c42c017
 workflow-type: tm+mt
-source-wordcount: '4863'
+source-wordcount: '4867'
 ht-degree: 50%
 
 ---
@@ -23,7 +23,7 @@ Experience Cloud-Programme und -Services werden monatlich aktualisiert. Auf dies
 >
 >Abonnieren Sie das monatliche [Adobe Priority Product Update](https://www.adobe.com/subscription/priority-product-update.html), um E-Mail-Benachrichtigungen über Aktualisierungen dieser Seite zu erhalten. Diese Seite wird den ganzen Monat über gepflegt. Informieren Sie sich daher regelmäßig über die neuesten Updates zu Adobe Unternehmensprodukten und der Experience League-Dokumentation.
 
-Neueste Aktualisierung: **16. Juli 2021**
+Neueste Aktualisierung: **19. Juli 2021**
 
 * [Zentrale Schnittstellenkomponenten von Experience Cloud](#ecloud)
 * [Adobe-Systemstatus](#status)
@@ -31,7 +31,7 @@ Neueste Aktualisierung: **16. Juli 2021**
 * [Journey Optimizer](#journey-opt)
 * [Journey Orchestration](#journey-orch)
 * [Offer Decisioning](#offer-decisioning)
-* [[!DNL Analytics]](#analytics) und [Customer Journey Analytics](#cust-journey)
+* [[!DNL Analytics]](#analytics) und [Customer Journey Analytics](#cust-journey) (Aktualisiert am 19. Juli 2021)
 * [[!DNL Audience Manager]](#aam)
 * [[!DNL Experience Manager]](#aem)
 * [[!DNL Campaign]](#ac)
@@ -128,7 +128,7 @@ Siehe [Offer decisioning-Versionshinweise](https://experienceleague.adobe.com/do
 Versionsdatum: **22. Juli 2021**
 
 * [Neue Funktionen in Adobe Analytics](#aa-features)
-* [Neue Funktionen in Customer Journey Analytics](#cust-journey)
+* [Neue Funktionen in Customer Journey Analytics](#cust-journey) (Aktualisiert am 19. Juli 2021)
 * [Fehlerbehebungen in Adobe Analytics](#aa-fixes)
 * [Wichtige Hinweise für Analytics-Administratoren](#aa-notices)
 * [Analytics-Kurse und -Tutorials](#tutorials-analytics)
@@ -146,7 +146,7 @@ Versionsdatum: **22. Juli 2021**
 
 | Funktion | Beschreibung | [Allgemeine Verfügbarkeit](https://experienceleague.adobe.com/docs/analytics/landing/an-releases.html?lang=en) – geplantes Datum |
 | ----------- | ---------- | ----- |
-| Neues Erlebnis zu Verbindungsinformationen | Diese Verbesserung der Benutzeroberfläche von Verbindungen informiert Sie darüber, ob und wann Ihre Daten für die Berichterstellung verwendet werden können. Sie können damit auch alle Probleme bei der Verarbeitung von Daten verfolgen. [Weitere Informationen](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-connections/manage-connections.html?lang=en) | 19. August 2021 |
+| Neues Erlebnis zu Verbindungsinformationen | Diese Verbesserung der Benutzeroberfläche von Verbindungen informiert Sie darüber, ob und wann Ihre Daten für die Berichterstellung verwendet werden können. Sie können damit auch alle Probleme bei der Verarbeitung von Daten verfolgen. [Weitere Informationen](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-connections/manage-connections.html?lang=en) | 10. August 2021 |
 
 {style=&quot;table-layout:auto&quot;}
 
