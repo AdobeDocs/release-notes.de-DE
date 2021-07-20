@@ -6,7 +6,7 @@ last-update: July 2021
 author: mfrei
 mini-toc-levels: 1
 exl-id: bcbdba6a-9e24-4f84-97ca-65c24ef45707
-source-git-commit: 9a3217d27c176834935ae72ae375bda5cdf6c7f2
+source-git-commit: 722ad9ef37f15c3c6070ccaa66c9b55e25b4e35d
 workflow-type: tm+mt
 source-wordcount: '4899'
 ht-degree: 47%
@@ -23,7 +23,7 @@ Experience Cloud-Programme und -Services werden monatlich aktualisiert. Auf dies
 >
 >Abonnieren Sie das monatliche [Adobe Priority Product Update](https://www.adobe.com/subscription/priority-product-update.html), um E-Mail-Benachrichtigungen über Aktualisierungen dieser Seite zu erhalten. Diese Seite wird den ganzen Monat über gepflegt. Informieren Sie sich daher regelmäßig über die neuesten Updates zu Adobe Unternehmensprodukten und der Experience League-Dokumentation.
 
-Neueste Aktualisierung: **19. Juli 2021**
+Neueste Aktualisierung: **20. Juli 2021**
 
 * [Zentrale Schnittstellenkomponenten von Experience Cloud](#ecloud)
 * [Adobe-Systemstatus](#status)
@@ -278,6 +278,17 @@ Adobe empfiehlt, häufig [Experience Manager-Versionsupdates und -Roadmaps](http
 
 
 
+### Neue Experience Manager-Kurse und -Tutorials {#tutorials-aem}
+
+Nachfolgend sind die im vergangenen Monat neu veröffentlichten Videos, Tutorials und Kurse aufgeführt.
+
+| Veröffentlicht | Name | Typ | Beschreibung |
+| -----------| ---------- | ---------- | ---------- |
+| Juli 2021 | [XML-Dokumentation für Adobe Experience Manager](https://experienceleague.adobe.com/docs/experience-manager-xml-documentation-learn/tutorials/overview.html?lang=en) | Artikel | Erfahren Sie, wie die [!UICONTROL XML Documentation Solution] alle zentralen CCMS-Funktionen wie Zusammenarbeit, Überprüfung, Übersetzung, Suche und Berichte für DITA-Inhalte bietet. Diese Funktionen ermöglichen es Autoren, durch effiziente Wiederverwendung von Inhalten und leistungsstarke Workflows zeitsparender zu arbeiten. |
+| Juli 2021 | [AEM Headless GraphQL Postman-Sammlungen](https://experienceleague.adobe.com/docs/experience-manager-learn/getting-started-with-aem-headless/graphql/video-series/modeling-basics.html?lang=en) | Video | Erfahren Sie, wie Sie Inhaltsfragmente in Adobe Experience Manager (AEM) für die Verwendung mit GraphQL definieren und nutzen. |
+
+{style=&quot;table-layout:auto&quot;}
+
 ### Versionsinformationen zu Experience Manager {#aem-links}
 
 Versionshinweise und andere Links zu Versionsinformationen für Experience Manager finden Sie hier:
@@ -294,17 +305,6 @@ Versionshinweise und andere Links zu Versionsinformationen für Experience Manag
 * [Versionshinweise für Experience Manager Dispatcher](https://experienceleague.adobe.com/docs/experience-manager-dispatcher/using/getting-started/release-notes.html?lang=de)
 * [Versionshinweise zu Adobe Primetime](https://experienceleague.adobe.com/docs/primetime/release-notes/home.html)
 * [Versionshinweise zu Livefyre](https://experienceleague.adobe.com/docs/livefyre/using/release-notes/c-rn.html)
-
-### Neue Experience Manager-Kurse und -Tutorials {#tutorials-aem}
-
-Nachfolgend sind die im vergangenen Monat neu veröffentlichten Videos, Tutorials und Kurse aufgeführt.
-
-| Veröffentlicht | Name | Typ | Beschreibung |
-| -----------| ---------- | ---------- | ---------- |
-| Juli 2021 | [XML-Dokumentation für Adobe Experience Manager](https://experienceleague.adobe.com/docs/experience-manager-xml-documentation-learn/tutorials/overview.html?lang=en) | Artikel | Erfahren Sie, wie die [!UICONTROL XML Documentation Solution] alle zentralen CCMS-Funktionen wie Zusammenarbeit, Überprüfung, Übersetzung, Suche und Berichte für DITA-Inhalte bietet. Diese Funktionen ermöglichen es Autoren, durch effiziente Wiederverwendung von Inhalten und leistungsstarke Workflows zeitsparender zu arbeiten. |
-| Juli 2021 | [AEM Headless GraphQL Postman-Sammlungen](https://experienceleague.adobe.com/docs/experience-manager-learn/getting-started-with-aem-headless/graphql/video-series/modeling-basics.html?lang=en) | Video | Erfahren Sie, wie Sie Inhaltsfragmente in Adobe Experience Manager (AEM) für die Verwendung mit GraphQL definieren und nutzen. |
-
-{style=&quot;table-layout:auto&quot;}
 
 ### Sonstige Hilferessourcen für Experience Manager
 
