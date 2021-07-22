@@ -6,9 +6,9 @@ last-update: July 2021
 author: mfrei
 mini-toc-levels: 1
 exl-id: bcbdba6a-9e24-4f84-97ca-65c24ef45707
-source-git-commit: 272c8da44a241b5a8eb5930462cc53b3e6c43297
+source-git-commit: 563d306d19333cdfe78c7eb1077b9b8309fadd4e
 workflow-type: tm+mt
-source-wordcount: '5023'
+source-wordcount: '5036'
 ht-degree: 46%
 
 ---
@@ -23,8 +23,9 @@ Experience Cloud-Programme und -Services werden monatlich aktualisiert. Auf dies
 >
 >Abonnieren Sie das monatliche [Adobe Priority Product Update](https://www.adobe.com/subscription/priority-product-update.html), um E-Mail-Benachrichtigungen über Aktualisierungen dieser Seite zu erhalten. Diese Seite wird den ganzen Monat über gepflegt. Informieren Sie sich daher regelmäßig über die neuesten Updates zu Adobe Unternehmensprodukten und der Experience League-Dokumentation.
 
-Neueste Aktualisierung: **20. Juli 2021**
+Neueste Aktualisierung: **22. Juli 2021**
 
+* [Ereignisbenachrichtigung für Experience League Live](#events)  - 29.  **Juli 2021**
 * [Zentrale Schnittstellenkomponenten von Experience Cloud](#ecloud)
 * [Adobe-Systemstatus](#status)
 * [Experience Platform](#platform)
@@ -127,6 +128,7 @@ Siehe [Offer decisioning-Versionshinweise](https://experienceleague.adobe.com/do
 
 Versionsdatum: **22. Juli 2021**
 
+* [Ereignisbenachrichtigung zur Live-Experience League](#events)
 * [Neue Funktionen in Adobe Analytics](#aa-features)
 * [Neue Funktionen in Customer Journey Analytics](#cust-journey) (Aktualisiert am 19. Juli 2021)
 * [Fehlerbehebungen in Adobe Analytics](#aa-fixes)
@@ -134,7 +136,7 @@ Versionsdatum: **22. Juli 2021**
 * [Analytics-Kurse und -Tutorials](#tutorials-analytics)
 * [AppMeasurement](#appm)
 
-### Ereignisbenachrichtigung für Experience League Live - Analytics-Implementierung
+## Ereignisbenachrichtigung für Experience League Live - Analytics-Implementierung {#events}
 
 Nehmen Sie an uns teil, um konkrete Tipps zu erhalten, die jedes Implementierungsteam von Adobe Analytics kennen sollte - und lassen Sie Ihre Fragen von Eric Matisoff im Chat-Pod beantworten. Es handelt sich um eine Live-Veranstaltung, also müssen Sie sich nicht vorab registrieren, sondern stellen Sie sicher, dass Sie sie auf Ihren Kalender setzen, damit Sie es nicht verpassen!
 
