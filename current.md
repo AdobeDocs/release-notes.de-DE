@@ -6,10 +6,10 @@ last-update: July 2021
 author: mfrei
 mini-toc-levels: 1
 exl-id: bcbdba6a-9e24-4f84-97ca-65c24ef45707
-source-git-commit: 7c57afe86724db59e8696b3e034a82d5ba6f9153
+source-git-commit: 5de9bc92bc3752726b7af80dd0abf91e253a5c33
 workflow-type: tm+mt
-source-wordcount: '4923'
-ht-degree: 47%
+source-wordcount: '5139'
+ht-degree: 45%
 
 ---
 
@@ -22,6 +22,14 @@ Experience Cloud-Programme und -Services werden monatlich aktualisiert. Auf dies
 >[!NOTE]
 >
 >Abonnieren Sie das monatliche [Adobe Priority Product Update](https://www.adobe.com/subscription/priority-product-update.html), um E-Mail-Benachrichtigungen über Aktualisierungen dieser Seite zu erhalten. Diese Seite wird den ganzen Monat über gepflegt. Informieren Sie sich daher regelmäßig über die neuesten Updates zu Adobe Unternehmensprodukten und der Experience League-Dokumentation.
+
+## Experience League live
+
+[Adobe Analytics-Implementierung - Tipps und Tricks](https://www.youtube.com/watch?v=lxOvLCzEGBI)
+
+Sie haben ihn auf dem Gipfel auf der Bühne gesehen. Sie haben ihn auf Adobe Insider Tours mit Experten beraten hören. Möglicherweise hatten Sie sogar den Vorteil, mit ihm an Ihrer eigenen Adobe Analytics-Implementierung zu arbeiten. Nun bringt Eric Matisoff seine &quot;Drei Favoriten für Adobe Analytics-Implementierungs-Tipps&quot;in diese exklusive Experience League Live-Diskussion.
+
+Nehmen Sie an uns teil, um konkrete Tipps zu erhalten, die jedes Implementierungsteam von Adobe Analytics kennen sollte - und lassen Sie Ihre Fragen von Eric im Chat-Pod beantworten. Es handelt sich um eine Live-Veranstaltung, also müssen Sie sich nicht vorab registrieren, sondern stellen Sie sicher, dass Sie sie auf Ihren Kalender setzen, damit Sie es nicht verpassen!
 
 Neueste Aktualisierung: **20. Juli 2021**
 
@@ -134,11 +142,25 @@ Versionsdatum: **22. Juli 2021**
 * [Analytics-Kurse und -Tutorials](#tutorials-analytics)
 * [AppMeasurement](#appm)
 
+### Ereignisbenachrichtigung für Experience League Live - Analytics-Implementierung
+
+Nehmen Sie an uns teil, um konkrete Tipps zu erhalten, die jedes Implementierungsteam von Adobe Analytics kennen sollte - und lassen Sie Ihre Fragen von Eric Matisoff im Chat-Pod beantworten. Es handelt sich um eine Live-Veranstaltung, also müssen Sie sich nicht vorab registrieren, sondern stellen Sie sicher, dass Sie sie auf Ihren Kalender setzen, damit Sie es nicht verpassen!
+
+[Adobe Analytics-Implementierung - Tipps und Tricks](https://www.youtube.com/watch?v=lxOvLCzEGBI)
+
+**Wann:** 29. Juli 2021 um 9:00 Uhr PDT
+
+**Adoben**
+
+* Eric Matisoff, Principal Evangelist für Analytics &amp; Data Science, Adobe
+* Dasha Fitzpatrick, Adobe Principal Technical Consultant
+* Doug Moore, Adobe Technical Marketing Engineer
+
 ### Neue Funktionen in Adobe Analytics {#aa-features}
 
 | Funktion | Beschreibung | [Allgemeine Verfügbarkeit](https://experienceleague.adobe.com/docs/analytics/landing/an-releases.html?lang=de) – geplantes Datum |
 | ----------- | ---------- | ------- |
-| Neue Adobe Analytics-Landingpage (Beta öffnen) | Die neue Landingpage für Adobe Analytics fasst sowohl Analysis Workspace als auch Reports &amp; Analytics in einer einzigen Benutzeroberfläche zusammen und fügt einen Zugriffspunkt unter dem Dach &quot;Workspace&quot;ein. Es enthält eine neue Startseite des Projekt-Managers, ein aktualisiertes Berichtsmenü und aktualisierte Berichte sowie einen neuen Lernabschnitt, der Ihnen dabei hilft, effektiver zu beginnen. Die neue Seite verbessert die Auffindbarkeit und leitet Benutzer von Reports &amp; Analytics zu einem verbesserten Berichtserlebnis in Workspace. [Weitere Informationen](https://experienceleague.adobe.com/docs/analytics/landing/an-landing.html) | 26. Juli 2021 |
+| Neue Adobe Analytics-Landingpage (Beta öffnen) | Die neue Landingpage für Adobe Analysis fasst sowohl Analysis Workspace als auch Reports &amp; Analytics in einer einzigen Benutzeroberfläche zusammen und bietet so einen zentralen Zugriffspunkt, den Workspace. Es enthält eine neue Startseite des Projekt-Managers, ein aktualisiertes Berichtsmenü und aktualisierte Berichte sowie einen neuen Lernabschnitt, der Ihnen dabei hilft, effektiver zu beginnen. Die neue Seite verbessert die Entdeckbarkeit und leitet Benutzer von Reports &amp; Analytics zu einem verbesserten Reporting-Erlebnis in Workspace. [Weitere Informationen](https://experienceleague.adobe.com/docs/analytics/landing/an-landing.html) | 26. Juli 2021 |
 
 {style=&quot;table-layout:auto&quot;}
 
