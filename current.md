@@ -9,7 +9,7 @@ exl-id: bcbdba6a-9e24-4f84-97ca-65c24ef45707
 source-git-commit: 0a6bbad001bc4aeb0b8f6537d87d8d98131af5d5
 workflow-type: tm+mt
 source-wordcount: '5034'
-ht-degree: 90%
+ht-degree: 99%
 
 ---
 
@@ -25,7 +25,7 @@ Experience Cloud-Programme und -Services werden monatlich aktualisiert. Auf dies
 
 Neueste Aktualisierung: **22. Juli 2021**
 
-* [Ereignisbenachrichtigung für Experience League Live](#events)  - 29.  **Juli 2021**
+* [Ereignisbenachrichtigung für Experience League Live](#events) – **29. Juli 2021**
 * [Zentrale Schnittstellenkomponenten von Experience Cloud](#ecloud)
 * [Adobe-Systemstatus](#status)
 * [Experience Platform](#platform)
@@ -48,17 +48,17 @@ Benötigen Sie Hilfe? Besuchen Sie [Adobe Experience League](https://experiencel
 
 ## ![Symbol](/assets/ec_appicon_24.png) Zentrale Komponenten der Experience Cloud-UI {#ecloud}
 
-Experience Cloud Central Interface Components umfasst Aktualisierungen, auf die über die einheitliche Produktheader zugegriffen werden kann, z. B. Voreinstellungen für Selbsthilfe, Suche und Benutzerkonten. Dort finden sich auch Aktualisierungen zu Personen, dem Places-Service (ehemals Location-Service) und der Produktverwaltung.
+Die zentralen Komponenten der Experience Cloud-UI umfassen Aktualisierungen, die über die Kopfzeile des Produkts aufgerufen werden können, darunter Selbsthilfe, Suche oder Voreinstellungen für Benutzerkonten. Dort finden sich auch Aktualisierungen zu Personen, dem Places-Service (ehemals Location-Service) und der Produktverwaltung.
 
 | Funktion | Datum | Beschreibung |
 | ------- | ------- | -------|
-| Experience Cloud ![Globale Suche](https://experienceleague.adobe.com/docs/core-services/interface/experience-cloud.html?lang=en#globally-search-for-objects-and-entities) | 5. Juli 2021 | Mit dieser Version fügt Experience Cloud Global Search der Suche nach Geschäftsobjekten in Experience Cloud, wie Segmenten, Datensätzen, Schemas und mehr, Journey Orchestration hinzu. |
+| ![Globale Suche](https://experienceleague.adobe.com/docs/core-services/interface/experience-cloud.html?lang=de#globally-search-for-objects-and-entities) in Experience Cloud | 5. Juli 2021 | Ab dieser Version wird bei der globalen Suche in Experience Cloud auch Journey Orchestration zur Suche nach Geschäftsobjekten wie Segmenten, Datensätzen, Schemas und mehr hinzugefügt. |
 
 {style=&quot;table-layout:auto&quot;}
 
 **Weitere Hilferessourcen**
 
-* Hilfe für Administratoren zum Thema [zentrale UI-Komponenten](https://experienceleague.adobe.com/docs/core-services/interface/experience-cloud.html?lang=en) und Benutzerverwaltung
+* Hilfe für Administratoren zum Thema [zentrale UI-Komponenten](https://experienceleague.adobe.com/docs/core-services/interface/experience-cloud.html?lang=de) und Benutzerverwaltung
 * Hilfe und Versionshinweise für [Places-/Location-Service](https://experienceleague.adobe.com/docs/places/using/release-notes.html?lang=de)
 * Hilfe zu [Personen - Kundenattribute und Zielgruppenbibliothek](https://experienceleague.adobe.com/docs/core-services/interface/services/core-services-landing.html?lang=de).
 
@@ -72,8 +72,8 @@ Informationen zu den neuesten Aktualisierungen des Adobe-Systemstatus finden Sie
 
 Enthält Versionsupdates und neue Dokumentationen für Experience Platform und Platform-Tagging.
 
-* **30. Juni 2021** [Versionshinweise zur Experience Platform](https://experienceleague.adobe.com/docs/experience-platform/release-notes/latest.html?lang=de)
-* **17. Mai 2021** [Experience Platform Tags - Versionshinweise](https://experienceleague.adobe.com/docs/experience-platform/tags/release-notes/current.html)  (früher Experience Platform Launch)
+* **30. Juni 2021:** [Versionshinweise zur Experience Platform](https://experienceleague.adobe.com/docs/experience-platform/release-notes/latest.html?lang=de)
+* **17. Mai 2021** [Experience Platform Tags - Versionshinweise](https://experienceleague.adobe.com/docs/experience-platform/tags/release-notes/current.html?lang=de)  (früher Experience Platform Launch)
 
 ### Experience Platform-Tutorials und -Kurse {#tutorials-platform}
 
@@ -84,7 +84,7 @@ Neue Videos, Tutorials oder Kurse, die für Experience Platform und Services ver
 | Juli 2021 | [Modellieren von Kundenerlebnisdaten mit XDM](https://experienceleague.adobe.com/?recommended=ExperiencePlatform-D-1-2021.1.xdm) | Kurs | Erfahren Sie, wie Sie Ihr Datenmodell in Adobe Experience Platform erstellen. In diesem Kurs lernen Sie das Experience-Datenmodell (XDM) kennen und erfahren, wie Sie Ihr vorhandenes Datenmodell in XDM konvertieren. Erfahren Sie, wie Sie Schemas mit Standardklassen und Feldgruppen erstellen und eigene benutzerdefinierte Komponenten erstellen. |
 | Juli 2021 | [Erste Schritte mit dem Abfrage-Service für Dateningenieure](https://experienceleague.adobe.com/?recommended=ExperiencePlatform-D-1-2021.1.qsvc.gsde?lang=de) | Kurs | Erfahren Sie, wie Sie aufgenommene Daten validieren, Erkenntnisse aus den im Data Lake gespeicherten Daten gewinnen und die Daten mithilfe des Abfrage-Service für geschäftskritische Entscheidungen vorbereiten können. |
 | Juli 2021 | [Erstellen von Dashboards mit dem Abfrage-Service](https://experienceleague.adobe.com/?recommended=ExperiencePlatform-D-1-2021.1.qsvc.dash) | Kurs | Erfahren Sie, wie Sie aufgenommene Daten validieren, Erkenntnisse aus den im Data Lake gespeicherten Daten gewinnen und mithilfe des Abfrage-Service in Adobe Experience Platform Dashboards erstellen. |
-| Juli 2021 | [Erste Schritte mit Real-Time CDP für Marketing-Experten](https://experienceleague. adobe.com/?recommended=ExperiencePlatform-U-1-2021.1.rtcdp) | Kurs | In diesem Kurs erfahren Sie alles, was Sie als praktischer Anwender für die ersten Schritte mit Real-Time Customer Data Platform (Real-Time CDP) wissen müssen. |
+| Juli 2021 | [Erste Schritte mit Real-Time CDP für Marketing-Experten](https://experienceleague.adobe.com/?recommended=ExperiencePlatform-U-1-2021.1.rtcdp) | Kurs | In diesem Kurs erfahren Sie alles, was Sie als praktischer Anwender für die ersten Schritte mit Real-Time Customer Data Platform (Real-Time CDP) wissen müssen. |
 | Juli 2021 | [Erste Schritte mit Data Science Workspace für Datenwissenschaftler](https://experienceleague.adobe.com/?recommended=ExperiencePlatform-U-1-2021.1.dsw) | Kurs | Erfahren Sie mehr über Data Science Workspace in Adobe Experience Platform. Dieser Kurs richtet sich an Datenwissenschaftler, die lernen möchten, wie sie mit [!DNL JupyterLab] Notebooks Erkenntnisse und Abfragedaten ermitteln, profilaktivierte Datensätze erstellen, Modelle für automatisiertes maschinelles Lernen veröffentlichen und über maschinelles Lernen ermittelte Erkenntnisse für Adobe- und Drittanwender-Programme aktivieren können. |
 | Juli 2021 | [Erste Schritte mit Adobe Experience Platform Data Governance](https://experienceleague.adobe.com/?recommended=ExperiencePlatform-D-1-2021.1.dgov.gs) | Kurs | Erfahren Sie, wie Sie die Kontrolle über Ihre Daten übernehmen können von dem Punkt an, an dem sie in Datenquellen erfasst werden, bis zu dem Zeitpunkt, an dem sie für Ziele außerhalb von Adobe Experience Platform syndiziert werden. |
 
@@ -118,7 +118,7 @@ Erfahren Sie mehr über die neuesten Funktionen, Verbesserungen und Fehlerbehebu
 
 * **Version Juni 2021:** Mit dem KI-Ranking können Sie verschiedene Ranking-Strategien erstellen (basierend auf Ihren Geschäftszielen), die von einem trainierten Modellsystem verwendet werden, um die geeigneten Angebote zur Anzeige für ein bestimmtes Profil zu bewerten.
 
-Siehe [Offer decisioning-Versionshinweise](https://experienceleague.adobe.com/docs/offer-decisioning/using/new/release-notes.html?lang=de#new) , um auf dem neuesten Stand zu bleiben.
+Siehe die [Offer Decisioning-Versionshinweise](https://experienceleague.adobe.com/docs/offer-decisioning/using/new/release-notes.html?lang=de#new), um auf dem neuesten Stand zu bleiben.
 
 **Weitere Ressourcen zu Offer Decisioning**
 
@@ -128,7 +128,7 @@ Siehe [Offer decisioning-Versionshinweise](https://experienceleague.adobe.com/do
 
 Versionsdatum: **22. Juli 2021**
 
-* [Ereignisbenachrichtigung zur Live-Experience League](#events)
+* [Ereignisbenachrichtigung für Experience League Live](#events)
 * [Neue Funktionen in Adobe Analytics](#aa-features)
 * [Neue Funktionen in Customer Journey Analytics](#cust-journey) (Aktualisiert am 19. Juli 2021)
 * [Fehlerbehebungen in Adobe Analytics](#aa-fixes)
@@ -136,25 +136,25 @@ Versionsdatum: **22. Juli 2021**
 * [Analytics-Kurse und -Tutorials](#tutorials-analytics)
 * [AppMeasurement](#appm)
 
-## Ereignisbenachrichtigung für Experience League Live - Analytics-Implementierung {#events}
+## Ereignisbenachrichtigung für Experience League Live – Analytics-Implementierung {#events}
 
-Nehmen Sie an uns teil, um konkrete Tipps zu erhalten, die jedes Implementierungsteam von Adobe Analytics kennen sollte - und lassen Sie Ihre Fragen von Eric Matisoff im Chat-Pod beantworten. Es handelt sich um eine Live-Veranstaltung, also müssen Sie sich nicht vorab registrieren, sondern stellen Sie sicher, dass Sie sie auf Ihren Kalender setzen, damit Sie es nicht verpassen!
+Nehmen Sie teil, um konkrete Tipps zu erhalten, die jedes Implementierungs-Team von Adobe Analytics kennen sollte – und lassen Sie sich Ihre Fragen von Eric Matisoff im Chat-Pod beantworten. Es handelt sich um eine Live-Veranstaltung, also müssen Sie sich nicht vorab registrieren. Aber stellen Sie sicher, dass Sie sie in Ihren Kalender einfügen, damit Sie sie nicht verpassen!
 
-**Ereignis:** [Adobe Analytics-Implementierung - Tipps und Tricks](https://www.youtube.com/watch?v=lxOvLCzEGBI)
+**Ereignis:**[Adobe Analytics-Implementierung – Tipps und Tricks](https://www.youtube.com/watch?v=lxOvLCzEGBI)
 
-**Wann:** 29. Juli 2021 um 9:00 Uhr PDT
+**Wann:** 29. Juli 2021 um 18:00 Uhr MESZ
 
-**Adoben**
+**Adobe-Präsentatoren**
 
-* Eric Matisoff, Principal Evangelist für Analytics &amp; Data Science, Adobe
-* Dasha Fitzpatrick, Adobe Principal Technical Consultant
-* Doug Moore, Adobe Technical Marketing Engineer
+* Eric Matisoff, leitender Produktexperte für Analysen &amp; Datenwissenschaft, Adobe
+* Dasha Fitzpatrick, leitende technische Beraterin bei Adobe
+* Doug Moore, technischer Marketing-Ingenieur bei Adobe
 
 ### Neue Funktionen in Adobe Analytics {#aa-features}
 
 | Funktion | Beschreibung | [Allgemeine Verfügbarkeit](https://experienceleague.adobe.com/docs/analytics/landing/an-releases.html?lang=de) – geplantes Datum |
 | ----------- | ---------- | ------- |
-| Neue Adobe Analytics-Landingpage (offene Beta-Version) | Die neue Landingpage für Adobe Analytics fasst Analysis Workspace und Reports &amp; Analytics in einer Benutzeroberfläche zusammen und bietet so einen zentralen Zugriffspunkt, den Workspace. Es enthält eine neue Startseite des Projekt-Managers, ein aktualisiertes Berichtsmenü und aktualisierte Berichte sowie einen neuen Lernabschnitt, der Ihnen dabei hilft, effektiver zu beginnen. Die neue Seite verbessert die Auffindbarkeit und leitet Benutzer von Reports &amp; Analytics zu einem verbesserten Reporting-Erlebnis in Workspace. [Weitere Informationen](https://experienceleague.adobe.com/docs/analytics/landing/an-landing.html?lang=de) | 26. Juli 2021 |
+| Neue Adobe Analytics-Landingpage (offene Beta-Version) | Die neue Landingpage für Adobe Analytics fasst Analysis Workspace und Reports &amp; Analytics in einer Benutzeroberfläche zusammen und bietet so einen zentralen Zugriffspunkt, den Workspace. Sie enthält eine neue Startseite des Projekt-Managers, ein aktualisiertes Berichtsmenü und aktualisierte Berichte sowie einen neuen Lernbereich, der Ihnen dabei hilft, die ersten Schritte effektiver zu bewältigen. Die neue Seite verbessert die Auffindbarkeit und leitet Benutzer von Reports &amp; Analytics zu einem verbesserten Reporting-Erlebnis in Workspace. [Weitere Informationen](https://experienceleague.adobe.com/docs/analytics/landing/an-landing.html?lang=de) | 26. Juli 2021 |
 
 {style=&quot;table-layout:auto&quot;}
 
@@ -168,7 +168,7 @@ Nehmen Sie an uns teil, um konkrete Tipps zu erhalten, die jedes Implementierung
 
 ### Fehlerbehebungen in Adobe Analytics {#aa-fixes}
 
-* Fehlerkorrektur - Warnhinweise werden jetzt gesendet und Fehler werden beim Erstellen von Warnhinweisen nicht mehr angezeigt. (AN-263962)
+* Es wurde ein Problem behoben, bei dem Warnhinweise nicht gesendet und bei der Erstellung von Warnhinweisen Fehler angezeigt wurden. (AN-263962)
 * Es wurde ein Problem mit Virtual Report Suites in Analysis Workspace behoben: Daten außerhalb des angegebenen Datumsbereichs wurden extrahiert. (AN-263121)
 * Es wurde ein Problem behoben, durch das Workspace-Projekte nicht geöffnet wurden (Timeout). (AN-247248)
 * Es wurde ein Problem behoben, durch das die Report Suite-Nutzungsdaten nicht unter [!UICONTROL Nutzung der Server-Aufrufe] geladen werden konnten. (AN-264215)
@@ -218,7 +218,7 @@ Fehlerbehebungen und Verbesserungen bei Audience Manager.
 
 ## ![Symbol](/assets/aem.png) Experience Manager {#aem}
 
-Adobe empfiehlt, häufig [Experience Manager-Versionsupdates und -Roadmaps](https://experienceleague.adobe.com/docs/experience-manager-release-information/aem-release-updates/home.html?lang=de) zu besuchen, um über Versionsinformationen auf dem Laufenden zu bleiben.
+Adobe empfiehlt, oft die Seite [Versions-Updates und Roadmaps für Experience Manager](https://experienceleague.adobe.com/docs/experience-manager-release-information/aem-release-updates/home.html?lang=de) zu besuchen, um auf dem neuesten Stand der Versionsinformationen zu bleiben.
 
 * **Experience Manager as a Cloud Service**
 
@@ -283,7 +283,7 @@ Adobe empfiehlt, häufig [Experience Manager-Versionsupdates und -Roadmaps](http
 
       Sie können [formscsbeta@adobe.com](mailto:formscsbeta@adobe.com) kontaktieren, um sich für das Beta-Programm anzumelden.
 
-   * **Experience Manager Sites as a Cloud Service**
+   * **Experience Manager Screens as a Cloud Service**
 
       * Die Massenregistrierung von Geräten bedeutet, dass die Bereitstellung großer Mengen von Player-Geräten schneller und effizienter ist.
       * Verbesserte Such- und Filteroptionen für die Inventaransichten „Gerät“, „Anzeige“ und „Kanal“.
@@ -312,8 +312,8 @@ Nachfolgend sind die im vergangenen Monat neu veröffentlichten Videos, Tutorial
 
 Versionshinweise und andere Links zu Versionsinformationen für Experience Manager finden Sie hier:
 
-* [Versionsinformationen für Experience Manager as a Cloud Service](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/release-notes/release-notes/release-notes-current.html?lang=de)
-* [Versionsinformationen für Experience Manager as a Cloud Service](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/release-notes/home.html?lang=de)
+* [Versionshinweise für Experience Manager as a Cloud Service](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/release-notes/release-notes/release-notes-current.html?lang=de)
+* [Versionshinweise für Experience Manager as a Cloud Service](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/release-notes/home.html?lang=de)
 * [Versionshinweise für Experience Manager Cloud Manager](https://experienceleague.adobe.com/docs/experience-manager-cloud-manager/using/release-notes/release-notes-current.html?lang=de)
 * [Versionshinweise zum Dienst für die automatische Formularkonversion](https://experienceleague.adobe.com/docs/aem-forms-automated-conversion-service/using/release-notes.html?lang=de)
 * [Versionshinweise für Experience Manager 6.5 Service Pack](https://experienceleague.adobe.com/docs/experience-manager-65/release-notes/service-pack/sp-release-notes.html?lang=de)
@@ -325,7 +325,7 @@ Versionshinweise und andere Links zu Versionsinformationen für Experience Manag
 * [Versionshinweise zu Adobe Primetime](https://experienceleague.adobe.com/docs/primetime/release-notes/home.html?lang=de)
 * [Versionshinweise zu Livefyre](https://experienceleague.adobe.com/docs/livefyre/using/release-notes/c-rn.html?lang=de)
 
-### Sonstige Hilferessourcen für Experience Manager
+### Weitere Hilferessourcen für Experience Manager
 
 * [Handbücher für Experience Manager as a Cloud Service](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/landing/home.html?lang=de)
 * [Experience Manager 6.5 – Training und Support, Startseite](https://experienceleague.adobe.com/docs/experience-manager-65/deploying/home.html?lang=de)
@@ -345,7 +345,7 @@ Adobe Campaign bietet die Möglichkeit, direkte Nachrichten über Online- und O
 
 Erfahren Sie mehr über die aktuellsten veröffentlichten Funktionen, Verbesserungen und Fehlerbehebungen:
 
-* [Versionshinweise zu Campaign v8](https://experienceleague.adobe.com/docs/campaign/campaign-v8/start/whats-new.html?lang=en)
+* [Versionshinweise zu Campaign Version 8](https://experienceleague.adobe.com/docs/campaign/campaign-v8/start/whats-new.html?lang=de)
 * [Versionshinweise zu Campaign Standard](https://experienceleague.adobe.com/docs/campaign-standard/using/release-notes/release-notes.html?lang=de)
 * [Versionshinweise zu Campaign Classic](https://experienceleague.adobe.com/docs/campaign-classic/using/release-notes/latest-release.html?lang=de)
 
@@ -361,7 +361,7 @@ Erfahren Sie mehr über die aktuellsten veröffentlichten Funktionen, Verbesseru
 
 ### Hilferessourcen für Campaign
 
-* Adobe Campaign v8: [Help Center](https://experienceleague.adobe.com/docs/campaign/campaign-v8/campaign-home.html?lang=de) - [Versionshinweise](https://experienceleague.adobe.com/docs/campaign/campaign-v8/start/whats-new.html?lang=en) - [Implementierungshandbücher](https://experienceleague.adobe.com/docs/campaign/campaign-v8/implement/implement.html?lang=en)
+* Adobe Campaign Version 8: [Hilfe-Center](https://experienceleague.adobe.com/docs/campaign/campaign-v8/campaign-home.html?lang=de) – [Versionshinweise](https://experienceleague.adobe.com/docs/campaign/campaign-v8/start/whats-new.html?lang=en) – [Implementierungshandbücher](https://experienceleague.adobe.com/docs/campaign/campaign-v8/implement/implement.html?lang=de)
 * Adobe Campaign Standard: [Hilfe-Center](https://experienceleague.adobe.com/docs/campaign-standard/using/campaign-standard-home.html?lang=de) – [Versionshinweise](https://experienceleague.adobe.com/docs/campaign-standard/using/release-notes/release-notes.html?lang=en) – [Anleitungsvideos](https://experienceleague.adobe.com/docs/campaign-standard-learn/tutorials/overview.html?lang=de) – [Versionsplanung](https://experienceleague.adobe.com/docs/campaign-standard/using/release-notes/release-planning.html?lang=de) – [Neueste Aktualisierungen der Dokumentation](https://experienceleague.adobe.com/docs/campaign-standard/using/documentation-updates.html?lang=de)
 * Adobe Campaign Classic: [Hilfe-Center](https://experienceleague.adobe.com/docs/campaign-classic/using/campaign-classic-home.html?lang=de) – [Versionshinweise](https://experienceleague.adobe.com/docs/campaign-classic/using/release-notes/latest-release.html?lang=en) – [Anleitungsvideos](https://experienceleague.adobe.com/docs/campaign-classic-learn/tutorials/overview.html?lang=de) – [Neueste Aktualisierungen der Dokumentation](https://experienceleague.adobe.com/docs/campaign-classic/using/documentation-updates.html?lang=de)
 * Control Panel von Adobe Campaign: [Dokumentation](https://experienceleague.adobe.com/docs/control-panel/using/control-panel-home.html?lang=de) – [Versionshinweise](https://experienceleague.adobe.com/docs/control-panel/using/release-notes.html?lang=de) – Anleitungsvideos für [Campaign Standard](https://experienceleague.adobe.com/docs/campaign-standard-learn/control-panel/control-panel-overview.html?lang=de)/[Campaign Classic](https://experienceleague.adobe.com/docs/campaign-classic-learn/control-panel/control-panel-overview.html?lang=de)
@@ -395,7 +395,7 @@ Zuletzt aktualisiert: **19. Mai 2021, für die Version vom 18. Mai**
 
 ## ![Symbol](/assets/magento.png) [!DNL Commerce] (Magento) {#magento}
 
-Informationen zu den Versionshinweisen zu Adobe Commerce finden Sie unter den folgenden Links:
+Versionshinweise zu Adobe Commerce finden Sie unter den folgenden Links:
 
 * [Magento Commerce und Open Source](https://devdocs.magento.com/guides/v2.4/release-notes/bk-release-notes.html)
 * [Cloud Suite](https://devdocs.magento.com/cloud/release-notes/cloud-tools.html)
@@ -429,14 +429,14 @@ Neue Videos, Tutorials oder Kurse, die für Adobe Document Cloud veröffentlicht
 | Juli 2021 | [Liquid Mode in Adobe Sign](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/mobile/mobile-tutorials/liquidmode.html?lang=de) | Video | Erfahren Sie, wie der Liquid Mode das Signier-Erlebnis auf Mobilgeräten verbessert. Dadurch werden Pinch- und Zoom-Gesten reduziert, sodass die Konzentration auf ausfüllbare Felder möglich ist. |
 | Juli 2021 | [Erste Schritte mit der Adobe Sign-API](https://experienceleague.adobe.com/docs/document-services/tutorials/usecases/signapi.html?lang=de) | Artikel | Erfahren Sie, wie Entwickler die Sign-API verwenden können, um mit Adobe Document Services erstellte Programme und Workflows zu verbessern. |
 | Juli 2021 | [Veröffentlichung digitaler Dokumente mit der Adobe PDF Embed API](https://experienceleague.adobe.com/docs/document-services/tutorials/usecases/ddppdfembedapi.html?lang=de) | Artikel | Durch Einbetten eines PDF-Viewers in Ihre Web-Seiten können Sie Benutzern die Anzeige von Dokumenten ermöglichen, ohne dass sie HTML und CSS neu gestalten oder den Zugriff auf Ihre Website einschränken müssen. |
-| Juli 2021 | [Zusammenarbeit zwischen Studenierenden und Lehrkräften mit Adobe Document Services-APIs](https://experienceleague.adobe.com/docs/document-services/tutorials/usecases/educationcollab.html?lang=de) | Artikel | Erfahren Sie mehr über ein offizielles SDK für `Node.js`-Programme zum Zugriff auf die PDF Services-API. Dadurch können Sie Dokumente wie Microsoft® Word oder Microsoft® Excel in PDF konvertieren. |
+| Juli 2021 | [Zusammenarbeit zwischen Studenierenden und Lehrkräften mit Adobe Document Services-APIs](https://experienceleague.adobe.com/docs/document-services/tutorials/usecases/educationcollab.html?lang=de) | Artikel | Erfahren Sie mehr über ein offizielles SDK für `Node.js`-Programme zum Zugriff auf die PDF Services-API. Dadurch können Sie Dokumente wie Microsoft® Word- oder Microsoft® Excel-Dateien in PDF konvertieren. |
 | Juli 2021 | [Erstellen von Aufträgen mit der Adobe Document Services-APIs](https://experienceleague.adobe.com/docs/document-services/tutorials/usecases/jobposting.html?lang=de) | Artikel | Wenn Sie eine Website mit mehreren Benutzern betreiben, ist es von entscheidender Bedeutung, das Erlebnis so zu erstellen, dass es für alle Beteiligten reibungslos funktioniert. Erfahren Sie, wie Sie alle hochgeladenen Dokumente automatisch in PDFs konvertieren und in die Beiträge einbetten können. |
 | Juli 2021 | [Berichterstellung und -bearbeitung mit Adobe Document Services-APIs](https://experienceleague.adobe.com/docs/document-services/tutorials/usecases/reportcreation.html?lang=de) | Artikel | PDF-Dateien erleichtern die Freigabe von Rich-Dokumenten mit Tabellen, Grafiken und interaktiven Inhalten in einem Format, das jeder anzeigen kann. Erfahren Sie, wie Sie diese Statistiken mit ihren Führungskräften, Aktionären, Stiftern oder anderen Interessengruppen teilen können. |
 | Juli 2021 | [Überprüfungen und Genehmigungen mit Adobe Document Services-APIs](https://experienceleague.adobe.com/docs/document-services/tutorials/usecases/reviews.html?lang=de) | Artikel | Erfahren Sie, wie Sie mithilfe mehrerer Adobe Document Services-APIs ein praktisches Anwendungsbeispiel für Überprüfung und Genehmigung lösen können. |
 | Juli 2021 | [Suchen und Indizieren mit Adobe Document Services-APIs](https://experienceleague.adobe.com/docs/document-services/tutorials/usecases/searching.html?lang=de) | Artikel | In diesem Tutorial werden die fantastischen Funktionen von Adobe Document Services-APIs und deren einfache Verwendung zur Archivierung und Digitalisierung von Dokumenten erläutert. Wir entdecken diese Funktionen, indem wir eine Express NodeJS-Anwendung erstellen und dann Document Services-APIs für die Archivierung, Digitalisierung und Dokumentumwandlung integrieren. |
-| Juli 2021 | [Verwalten von Mitarbeiter-Angebotsbriefen mit Adobe Document Services-APIs](https://experienceleague.adobe.com/docs/document-services/tutorials/usecases/offer.html?lang=de) | Artikel | Dieses Tutorial führt Sie durch die Einrichtung eines Node Express-Projekts, das ein Web-Formular anzeigt, in das ein Benutzer Mitarbeiterdetails eingefügen kann. Diese Details verwenden Document Services über das Web, um einen Angebotsbrief als PDF zu generieren, der später mithilfe der Adobe Sign-API zur Signatur an einen Kunden gesendet werden kann. |
+| Juli 2021 | [Verwalten von Mitarbeiter-Angebotsbriefen mit Adobe Document Services-APIs](https://experienceleague.adobe.com/docs/document-services/tutorials/usecases/offer.html?lang=de) | Artikel | Dieses Tutorial führt Sie durch die Einrichtung eines Node Express-Projekts, das ein Web-Formular anzeigt, in das ein Benutzer Mitarbeiterdetails eingefügen kann. Diese Details verwenden Document Services über das Web, um einen Angebotsbrief als PDF zu generieren, der später an einen Kunden zur Unterschrift mithilfe der Adobe Sign-API gesendet werden kann. |
 | Juli 2021 | [Verwalten von Rechtsverträgen mit Adobe Document Services-APIs](https://experienceleague.adobe.com/docs/document-services/tutorials/usecases/legal.html?lang=de) | Artikel | In diesem Tutorial erkunden wir die Funktionen von Adobe Document Services-APIs bei der Erstellung von benutzerdefinierten Eingabefeldern in Dokumenten. Außerdem untersuchen wir, wie Sie diese generierten Dokumente einfach in ein geschütztes tragbares Dokumentenformat (PDF) konvertieren können, um Datenmanipulationen zu verhindern. |
-| Juli 2021 | [Erstellen einer NDA mit Adobe Document Services-APIs](https://experienceleague.adobe.com/docs/document-services/tutorials/usecases/nda.html?lang=de) | Artikel | Erfahren Sie, wie Sie eine Microsoft® Word-Vorlage für Ihr Unternehmen NDA erstellen. Das kostenlose Add-in von Adobe für Microsoft® Word, Adobe Document Generation Tagger, hilft Ihnen beim Einfügen von &quot;Tags&quot;, um die dynamischen Werte einzugeben. Außerdem erfahren Sie, wie Sie die JSON-Daten an die Vorlage übergeben und eine dynamische PDF-Datei erstellen. Sie können diese PDF-Datei dann per E-Mail versenden oder Mitwirkenden im Browser anzeigen, je nach Ihren geschäftlichen Anforderungen und Zielen. |
+| Juli 2021 | [Erstellen einer NDA mit Adobe Document Services-APIs](https://experienceleague.adobe.com/docs/document-services/tutorials/usecases/nda.html?lang=de) | Artikel | Hier erfahren Sie, wie Sie eine Microsoft Word®-Vorlage für Ihre Unternehmens-NDA erstellen. Das kostenlose Add-in von Adobe für Microsoft Word, Adobe Document Generation Tagger, hilft Ihnen beim Einfügen von „Tags“, um die dynamischen Werte einzugeben. Außerdem erfahren Sie, wie Sie die JSON-Daten an die Vorlage übergeben und eine dynamische PDF-Datei erstellen. Sie können diese PDF-Datei dann per E-Mail versenden oder Mitwirkenden im Browser anzeigen, je nach Ihren geschäftlichen Anforderungen und Zielen. |
 | Juli 2021 | [Verwalten von Angeboten und Verträgen mit Adobe Document Services-APIs](https://experienceleague.adobe.com/docs/document-services/tutorials/usecases/sales.html?lang=de) | Artikel | Erfahren Sie, wie Sie mit dynamischen Daten und Workflows einen effizienten Prozess zur Angebotserstellung aufbauen können. |
 | Juli 2021 | [Umgang mit Rechnungen mit der Adobe Document Generation API](https://experienceleague.adobe.com/docs/document-services/tutorials/usecases/invoices.html?lang=de) | Artikel | Erfahren Sie, wie Sie mit der Adobe Document Generation API automatisch Rechnungen erstellen, die PDF-Dateien mit Passwörtern schützen und jedem Kunden eine Rechnung zukommen lassen können. Sie benötigen dazu nur ein wenig Wissen über Node.js, JavaScript, Express.js, HTML und CSS. |
 
