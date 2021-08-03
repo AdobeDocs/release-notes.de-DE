@@ -6,10 +6,10 @@ last-update: July 2021
 author: mfrei
 mini-toc-levels: 1
 exl-id: bcbdba6a-9e24-4f84-97ca-65c24ef45707
-source-git-commit: 0a6bbad001bc4aeb0b8f6537d87d8d98131af5d5
-workflow-type: ht
-source-wordcount: '5034'
-ht-degree: 100%
+source-git-commit: b3b30ac28d820aa30482c823ccd537bcf9cdcfb3
+workflow-type: tm+mt
+source-wordcount: '5036'
+ht-degree: 99%
 
 ---
 
@@ -23,7 +23,7 @@ Experience Cloud-Programme und -Services werden monatlich aktualisiert. Auf dies
 >
 >Abonnieren Sie das monatliche [Adobe Priority Product Update](https://www.adobe.com/subscription/priority-product-update.html), um E-Mail-Benachrichtigungen über Aktualisierungen dieser Seite zu erhalten. Diese Seite wird den ganzen Monat über gepflegt. Informieren Sie sich daher regelmäßig über die neuesten Updates zu Adobe Unternehmensprodukten und der Experience League-Dokumentation.
 
-Neueste Aktualisierung: **22. Juli 2021**
+Letzte Aktualisierung: **3. August 2021**
 
 * [Ereignisbenachrichtigung für Experience League Live](#events) – **29. Juli 2021**
 * [Zentrale Schnittstellenkomponenten von Experience Cloud](#ecloud)
@@ -32,7 +32,7 @@ Neueste Aktualisierung: **22. Juli 2021**
 * [Journey Optimizer](#journey-opt)
 * [Journey Orchestration](#journey-orch)
 * [Offer Decisioning](#offer-decisioning)
-* [[!DNL Analytics]](#analytics) und [Customer Journey Analytics](#cust-journey) (Aktualisiert am 19. Juli 2021)
+* [[!DNL Analytics]](#analytics) und [Customer Journey Analytics](#cust-journey) **(Aktualisiert am 3. August 2021)**
 * [[!DNL Audience Manager]](#aam)
 * [[!DNL Experience Manager]](#aem)
 * [[!DNL Campaign]](#ac)
@@ -100,7 +100,7 @@ Mit Adobe Journey Optimizer können Sie geplante Omni-Channel-Kampagnen und indi
 
 **Weitere Ressourcen für Journey Optimizer**
 
-[Dokumentation](https://experienceleague.adobe.com/docs/journey-optimizer/using/ajo-home.html?lang=de) - [Neueste Aktualisierungen](https://experienceleague.adobe.com/docs/journey-optimizer/using/documentation-updates.html?lang=de) - [Video-Anleitungen](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/overview.html?lang=de)
+[Dokumentation](https://experienceleague.adobe.com/docs/journey-optimizer/using/ajo-home.html?lang=en) - [Neueste Aktualisierungen](https://experienceleague.adobe.com/docs/journey-optimizer/using/documentation-updates.html?lang=de) - [Video-Anleitungen](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/overview.html?lang=de)
 
 ## ![Symbol](/assets/experience_platform_appicon_24.png) Customer Journey Orchestration {#journey-orch}
 
@@ -110,7 +110,7 @@ Erfahren Sie mehr über die neuesten Funktionen, Verbesserungen und Fehlerbehebu
 
 **Weitere Ressourcen für Journey Orchestration**
 
-[Dokumentation](https://experienceleague.adobe.com/docs/journeys/using/journey-orchestration-home.html?lang=de) – [Versionshinweise](https://experienceleague.adobe.com/docs/journeys/using/release-notes/release-notes.html?lang=de) – [Videoanleitungen](https://experienceleague.adobe.com/docs/journey-orchestration-learn/tutorials/understanding-journey-orchestration.html?lang=de)
+[Dokumentation](https://experienceleague.adobe.com/docs/journeys/using/journey-orchestration-home.html?lang=de) – [Versionshinweise](https://experienceleague.adobe.com/docs/journeys/using/release-notes/release-notes.html?lang=en) – [Videoanleitungen](https://experienceleague.adobe.com/docs/journey-orchestration-learn/tutorials/understanding-journey-orchestration.html?lang=de)
 
 ## ![Symbol für](/assets/experience_platform_appicon_24.png) Offer Decisioning {#offer-decisioning}
 
@@ -122,7 +122,7 @@ Siehe die [Offer Decisioning-Versionshinweise](https://experienceleague.adobe.co
 
 **Weitere Ressourcen zu Offer Decisioning**
 
-[Dokumentation](https://experienceleague.adobe.com/docs/offer-decisioning/using/offer-decisioning-home.html?lang=de) – [Versionshinweise](https://experienceleague.adobe.com/docs/offer-decisioning/using/new/release-notes.html?lang=de#new) – [Videoanleitungen](https://experienceleague.adobe.com/docs/offer-decisioning-learn/tutorials/overview.html?lang=de)
+[Dokumentation](https://experienceleague.adobe.com/docs/offer-decisioning/using/offer-decisioning-home.html?lang=de) – [Versionshinweise](https://experienceleague.adobe.com/docs/offer-decisioning/using/new/release-notes.html?lang=en#new) – [Videoanleitungen](https://experienceleague.adobe.com/docs/offer-decisioning-learn/tutorials/overview.html?lang=de)
 
 ## ![Symbol](/assets/analytics.png) [!DNL Adobe Analytics] {#analytics}
 
@@ -132,7 +132,7 @@ Versionsdatum: **22. Juli 2021**
 * [Neue Funktionen in Adobe Analytics](#aa-features)
 * [Neue Funktionen in Customer Journey Analytics](#cust-journey) (Aktualisiert am 19. Juli 2021)
 * [Fehlerbehebungen in Adobe Analytics](#aa-fixes)
-* [Wichtige Hinweise für Analytics-Administratoren](#aa-notices)
+* [Wichtige Hinweise für Analytics-Administratoren](#aa-notices)(Aktualisiert am 3. August 2021)
 * [Analytics-Kurse und -Tutorials](#tutorials-analytics)
 * [AppMeasurement](#appm)
 
@@ -160,7 +160,7 @@ Nehmen Sie teil, um konkrete Tipps zu erhalten, die jedes Implementierungs-Team 
 
 ### Neue Funktionen in Customer Journey Analytics {#cust-journey}
 
-| Funktion | Beschreibung | [Allgemeine Verfügbarkeit](https://experienceleague.adobe.com/docs/analytics/landing/an-releases.html?lang=de) – geplantes Datum |
+| Funktion | Beschreibung | [Allgemeine Verfügbarkeit](https://experienceleague.adobe.com/docs/analytics/landing/an-releases.html?lang=en) – geplantes Datum |
 | ----------- | ---------- | ----- |
 | Neues Erlebnis zu Verbindungsinformationen | Diese Verbesserung der Verbindungs-Benutzeroberfläche informiert Sie darüber, ob und wann Ihre Daten für das Reporting verwendet werden können. Sie können damit auch jegliche Probleme bei der Datenverarbeitung nachverfolgen. [Weitere Informationen](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-connections/manage-connections.html?lang=de) | 10. August 2021 |
 
@@ -181,8 +181,8 @@ AN-160022; AN-186365; AN-234768 (CJA); AN-253041; AN-255098; AN-256319; AN-25656
 
 | Hinweis | Hinzugefügt oder aktualisiert am | Beschreibung |
 | ----------- | ---------- | ---------- |
+| EOL von Adobe Data Connectors | 3. August 2021 | Adobe [!UICONTROL Data Connectors] basieren auf einer älteren Technologie, die nicht mehr funktionsfähig ist oder unterstützt wird. Ein neuer Standard ist im [Adobe Exchange-Partner-Programm](https://partners.adobe.com/exchangeprogram/experiencecloud) verfügbar. Sie können diesen Standard für jede Integration verwenden, sodass dies weiterhin angeboten und unterstützt werden kann. Das offizielle Enddatum ist der **19. August 2021**. [Weitere Infos...](https://experienceleague.adobe.com/docs/analytics/import/dataconnectors/data-connectors-eol.html?lang=de) |
 | Ende der Nutzungsdauer von drei Analytics-API-Services | 15. Juli 2021 | Am **18. August 2021** erreichen die folgenden Analytics Legacy-API-Services das Ende ihrer Nutzungsdauer und werden eingestellt. Alle aktuellen Integrationen, die mit diesen Services erstellt wurden, funktionieren ab diesem Tag nicht mehr.<ul><li>1.3 Analytics-APIs</li><li>1.4 SOAP Analytics-APIs</li><li>Legacy-OAuth-Authentifizierung (OAuth und JWT)</li></ul>Adobe hat ein Dokument [Häufig gestellte Fragen (FAQ) zum Ende der Nutzungsdauer (EOL) der Legacy-API](https://github.com/AdobeDocs/analytics-1.4-apis/blob/master/docs/APIEOL.md?mv=email) bereitgestellt, das Ihre Fragen beantworten und Anleitungen zum weiteren Vorgehen geben soll. API-Integrationen, die diese Dienste nutzen, können zu den [Analytics-REST-APIs 1.4](https://github.com/AdobeDocs/analytics-1.4-apis?mv=email) oder den [Analytics-APIs 2.0](https://github.com/AdobeDocs/analytics-2.0-apis?mv=email) migrieren. Ältere OAuth-Konten können zu einem [Adobe I/O](https://console.adobe.io/home?mv=email#) Analytics-Integrationskonto migriert werden, das für den Zugriff auf sowohl Analytics-APIs 1.4 als auch Analytics-APIs 2.0 verwendet werden kann. |
-| Ende von Adobe Data Connectors | 13. Juli 2020 | Adobe [!UICONTROL Data Connectors] basieren auf einer älteren Technologie, die nicht mehr funktionsfähig ist oder unterstützt wird. Ein neuer Standard ist im [Adobe Exchange-Partner-Programm](https://partners.adobe.com/exchangeprogram/experiencecloud) verfügbar. Sie können diesen Standard für jede Integration verwenden, sodass dies weiterhin angeboten und unterstützt werden kann. Das offizielle Enddatum ist der **1. August 2021**. [Weitere Infos...](https://experienceleague.adobe.com/docs/analytics/import/dataconnectors/data-connectors-eol.html?lang=de) |
 | Ende der vollständigen Data Sources-Verarbeitung | 12. April 2021 | Adobe plant, die vollständige Verarbeitung von Datenquellen **am 31. Juli 2021** auslaufen zu lassen. Ab dem 25. März 2021 können keine neuen Importe dieser Art mehr erstellt werden. Verwenden Sie zum Importieren dieses Datentyps die [API zum Massendateneinfügen](https://www.adobe.io/apis/experiencecloud/analytics/docs.html#!AdobeDocs/analytics-2.0-apis/master/bdia.md). |
 | Update des Anmeldevorgangs bei [!UICONTROL Report Builder] | 9. April 2021 | Am 14. Januar 2021 wurden durch die Updates des Anmeldevorgangs bei [!UICONTROL Report Builder] die Abhängigkeiten von veralteten Technologien beendet und der Anmeldevorgang mit dem von Experience Cloud abgestimmt. Experience Cloud verwendet Ihre Enterprise ID (E-Mail und Passwort). Um den unterbrechungsfreien Zugriff auf [!UICONTROL Report Builder] sicherzustellen, aktualisieren Sie das Add-in für [!UICONTROL Report Builder] **bis zum 22. Juli 2021** auf Version 5.6.47 oder höher. Report Builder Version 5.6.47 und höher unterstützt nur die Experience Cloud-Anmeldung. Single Sign-on wird nicht unterstützt. |
 
@@ -332,7 +332,7 @@ Versionshinweise und andere Links zu Versionsinformationen für Experience Manag
 * [Experience Manager 6.4 – Training und Support, Startseite](https://experienceleague.adobe.com/docs/experience-manager-64.html?lang=de)
 * [Experience Manager 6.3 – Training und Support, Startseite](https://experienceleague.adobe.com/docs/experience-manager-release-information/aem-release-updates/previous-updates/aem-previous-versions.html?lang=de)
 * [Experience Manager 6.2 – Training und Support, Startseite](https://experienceleague.adobe.com/docs/experience-manager-release-information/aem-release-updates/previous-updates/aem-previous-versions.html?lang=de#previous-updates)
-* [Ältere Versionen der Dokumentation zu Experience Manager](https://experienceleague.adobe.com/docs/experience-manager-release-information/aem-release-updates/previous-updates/aem-previous-versions.html?lang=de#previous-updates)
+* [Ältere Versionen der Dokumentation zu Experience Manager](https://experienceleague.adobe.com/docs/experience-manager-release-information/aem-release-updates/previous-updates/aem-previous-versions.html?lang=en#previous-updates)
 * [Cloud Manager-Benutzerhandbuch](https://experienceleague.adobe.com/docs/experience-manager-cloud-manager/using/introduction-to-cloud-manager.html?lang=de)
 * [Startseite der Hilfe zu Dynamic Media Classic](https://experienceleague.adobe.com/docs/dynamic-media-classic/using/home.html?lang=de)
 * [Experience Manager-Dokumentation: Neueste Aktualisierungen](https://experienceleague.adobe.com/docs/experience-manager-release-information/aem-release-updates/doc-updates/documentation-updates.html?lang=de#aem-as-a-cloud-service)
@@ -361,9 +361,9 @@ Erfahren Sie mehr über die aktuellsten veröffentlichten Funktionen, Verbesseru
 
 ### Hilferessourcen für Campaign
 
-* Adobe Campaign Version 8: [Hilfe-Center](https://experienceleague.adobe.com/docs/campaign/campaign-v8/campaign-home.html?lang=de) – [Versionshinweise](https://experienceleague.adobe.com/docs/campaign/campaign-v8/start/whats-new.html?lang=de) – [Implementierungshandbücher](https://experienceleague.adobe.com/docs/campaign/campaign-v8/implement/implement.html?lang=de)
-* Adobe Campaign Standard: [Hilfe-Center](https://experienceleague.adobe.com/docs/campaign-standard/using/campaign-standard-home.html?lang=de) – [Versionshinweise](https://experienceleague.adobe.com/docs/campaign-standard/using/release-notes/release-notes.html?lang=de) – [Anleitungsvideos](https://experienceleague.adobe.com/docs/campaign-standard-learn/tutorials/overview.html?lang=de) – [Versionsplanung](https://experienceleague.adobe.com/docs/campaign-standard/using/release-notes/release-planning.html?lang=de) – [Neueste Aktualisierungen der Dokumentation](https://experienceleague.adobe.com/docs/campaign-standard/using/documentation-updates.html?lang=de)
-* Adobe Campaign Classic: [Hilfe-Center](https://experienceleague.adobe.com/docs/campaign-classic/using/campaign-classic-home.html?lang=de) – [Versionshinweise](https://experienceleague.adobe.com/docs/campaign-classic/using/release-notes/latest-release.html?lang=de) – [Anleitungsvideos](https://experienceleague.adobe.com/docs/campaign-classic-learn/tutorials/overview.html?lang=de) – [Neueste Aktualisierungen der Dokumentation](https://experienceleague.adobe.com/docs/campaign-classic/using/documentation-updates.html?lang=de)
+* Adobe Campaign Version 8: [Hilfe-Center](https://experienceleague.adobe.com/docs/campaign/campaign-v8/campaign-home.html?lang=de) – [Versionshinweise](https://experienceleague.adobe.com/docs/campaign/campaign-v8/start/whats-new.html?lang=en) – [Implementierungshandbücher](https://experienceleague.adobe.com/docs/campaign/campaign-v8/implement/implement.html?lang=de)
+* Adobe Campaign Standard: [Hilfe-Center](https://experienceleague.adobe.com/docs/campaign-standard/using/campaign-standard-home.html?lang=de) – [Versionshinweise](https://experienceleague.adobe.com/docs/campaign-standard/using/release-notes/release-notes.html?lang=en) – [Anleitungsvideos](https://experienceleague.adobe.com/docs/campaign-standard-learn/tutorials/overview.html?lang=de) – [Versionsplanung](https://experienceleague.adobe.com/docs/campaign-standard/using/release-notes/release-planning.html?lang=de) – [Neueste Aktualisierungen der Dokumentation](https://experienceleague.adobe.com/docs/campaign-standard/using/documentation-updates.html?lang=de)
+* Adobe Campaign Classic: [Hilfe-Center](https://experienceleague.adobe.com/docs/campaign-classic/using/campaign-classic-home.html?lang=de) – [Versionshinweise](https://experienceleague.adobe.com/docs/campaign-classic/using/release-notes/latest-release.html?lang=en) – [Anleitungsvideos](https://experienceleague.adobe.com/docs/campaign-classic-learn/tutorials/overview.html?lang=de) – [Neueste Aktualisierungen der Dokumentation](https://experienceleague.adobe.com/docs/campaign-classic/using/documentation-updates.html?lang=de)
 * Control Panel von Adobe Campaign: [Dokumentation](https://experienceleague.adobe.com/docs/control-panel/using/control-panel-home.html?lang=de) – [Versionshinweise](https://experienceleague.adobe.com/docs/control-panel/using/release-notes.html?lang=de) – Anleitungsvideos für [Campaign Standard](https://experienceleague.adobe.com/docs/campaign-standard-learn/control-panel/control-panel-overview.html?lang=de)/[Campaign Classic](https://experienceleague.adobe.com/docs/campaign-classic-learn/control-panel/control-panel-overview.html?lang=de)
 
 ## ![Symbol](/assets/advertising-cloud.png) Advertising {#adcloud}
