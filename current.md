@@ -6,10 +6,10 @@ last-update: July 2021
 author: mfrei
 mini-toc-levels: 1
 exl-id: bcbdba6a-9e24-4f84-97ca-65c24ef45707
-source-git-commit: 78eda24b09b4fd09e6dbddde9ba32104cca40261
+source-git-commit: a93d9deb8ad36d396899d0b0505b1d6bf9441c3b
 workflow-type: tm+mt
-source-wordcount: '5036'
-ht-degree: 99%
+source-wordcount: '5002'
+ht-degree: 98%
 
 ---
 
@@ -36,7 +36,7 @@ Letzte Aktualisierung: **3. August 2021**
 * [[!DNL Audience Manager]](#aam)
 * [[!DNL Experience Manager]](#aem)
 * [[!DNL Campaign]](#ac)
-* [[!DNL Advertising]](#adcloud)
+* [[!DNL Advertising Cloud]](#adcloud)
 * [[!DNL Target]](#target)
 * [[!DNL Commerce]](#magento) (Magento)
 * [[!DNL Marketo Engage]](#marketo)
@@ -366,34 +366,34 @@ Erfahren Sie mehr über die aktuellsten veröffentlichten Funktionen, Verbesseru
 * Adobe Campaign Classic: [Hilfe-Center](https://experienceleague.adobe.com/docs/campaign-classic/using/campaign-classic-home.html?lang=de) – [Versionshinweise](https://experienceleague.adobe.com/docs/campaign-classic/using/release-notes/latest-release.html?lang=en) – [Anleitungsvideos](https://experienceleague.adobe.com/docs/campaign-classic-learn/tutorials/overview.html?lang=de) – [Neueste Aktualisierungen der Dokumentation](https://experienceleague.adobe.com/docs/campaign-classic/using/documentation-updates.html?lang=de)
 * Control Panel von Adobe Campaign: [Dokumentation](https://experienceleague.adobe.com/docs/control-panel/using/control-panel-home.html?lang=de) – [Versionshinweise](https://experienceleague.adobe.com/docs/control-panel/using/release-notes.html?lang=de) – Anleitungsvideos für [Campaign Standard](https://experienceleague.adobe.com/docs/campaign-standard-learn/control-panel/control-panel-overview.html?lang=de)/[Campaign Classic](https://experienceleague.adobe.com/docs/campaign-classic-learn/control-panel/control-panel-overview.html?lang=de)
 
-## ![Symbol](/assets/advertising-cloud.png) Advertising {#adcloud}
+## ![Symbol](/assets/advertising-cloud.png) Advertising Cloud {#adcloud}
 
-Versionshinweise für [!DNL Adobe Advertising].
+Versionshinweise für [!DNL Adobe Advertising Cloud].
 
-* [Neue Funktionen in Advertising DSP](#adcloud-dsp)
-* [Neue Funktionen in Advertising Search](#adcloud-search)
+* [Neue Funktionen in Advertising Cloud DSP](#adcloud-dsp)
+* [Neue Funktionen in Advertising Cloud Search](#adcloud-search)
 
-### Neue Funktionen in Version [!DNL Advertising DSP] {#adcloud-dsp}
+### Neue Funktionen in Version [!DNL Advertising Cloud DSP] {#adcloud-dsp}
 
 Letzte Aktualisierung: **10. Juni 2021, für die Version vom 16. Juni**
 
 | Funktion | Beschreibung |
-| -----------| ---------- |
+| ------- | ----------- |
 | Kampagnenverwaltung | (Version vom 16. Juni) Die Prognose ist für standardmäßige Display-Platzierungen mit Geschwindigkeit und Budgets auf Platzierungsebene verfügbar. |
 
 {style=&quot;table-layout:auto&quot;}
 
-### Neue Funktionen in Version [!DNL Advertising Search] {#adcloud-search}
+### Neue Funktionen in Version [!DNL Advertising Cloud Search] {#adcloud-search}
 
-Zuletzt aktualisiert: **19. Mai 2021, für die Version vom 18. Mai**
+Zuletzt aktualisiert: **Für Version vom 24. Juli**
 
 | Funktion | Beschreibung |
-| -----------| ---------- |
-| [!UICONTROL Benachrichtigungszentrum – Beta-Version] | Die [!UICONTROL Beta-Version des Benachrichtigungszentrums] steht allen Benutzern zur Verfügung. Abonnieren Sie damit E-Mail- und Web-Benachrichtigungen zu Fehlern bei der Kontoauthentifizierung, ausgelösten benutzerdefinierten Warnungen und abgeschlossenen von Ihnen generierten [!UICONTROL Werbungseinblicke].<br>Sie können Ihre Benachrichtigungen in folgenden Bereichen anzeigen:<ul><li>Im Bedienfeld [!UICONTROL Benachrichtigungen], das über den Link „Benachrichtigungen“ oben rechts auf einer beliebigen Seite geöffnet wird.</li><li>Im [!UICONTROL Benachrichtigungszentrum] unter [!UICONTROL Einblicke und Berichte > Benachrichtigungszentrum – Beta].</li></ul><br><b>Hinweis:</b> Aufgrund von Verbesserungen bei der Speicherung von Benachrichtigungen wurden alle vorhandenen Benachrichtigungen gelöscht. |
+| ------- | ----------- |
+| [!UICONTROL Tools] | Wenn Ihr Advertiser-Konto für die Verwendung der Hybridoptimierung konfiguriert ist, kann Advertising Cloud optional die Kontoziele in Google Ads und Microsoft Ads als Konversionen hochladen, damit Sie sie zur Hybridoptimierung verwenden können. Sie können die Funktion unter [!UICONTROL Suche] > [!UICONTROL Tools] > [!UICONTROL Einrichtung für Konversions-Upload] aktivieren. |
 
 {style=&quot;table-layout:auto&quot;}
 
-## ![Symbol](/assets/magento.png) [!DNL Commerce] (Magento) {#magento}
+## ![Symbol](/assets/magento.png) [!DNL Commerce]  (Magento) {#magento}
 
 Versionshinweise zu Adobe Commerce finden Sie unter den folgenden Links:
 
