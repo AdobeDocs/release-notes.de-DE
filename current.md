@@ -6,9 +6,9 @@ last-update: July 2021
 author: mfrei
 mini-toc-levels: 1
 exl-id: bcbdba6a-9e24-4f84-97ca-65c24ef45707
-source-git-commit: 6c6ebfbf878dcdd9db406789f1350e04b42f3d85
+source-git-commit: 7a9c166e6b3efc239e039f7aa2c2d52a7fadd680
 workflow-type: tm+mt
-source-wordcount: '5004'
+source-wordcount: '5003'
 ht-degree: 98%
 
 ---
@@ -385,11 +385,11 @@ Letzte Aktualisierung: **10. Juni 2021, für die Version vom 16. Juni**
 
 ### Neue Funktionen in Version [!DNL Advertising Cloud Search] {#adcloud-search}
 
-Zuletzt aktualisiert: **Für Version vom 24. Juli**
+Zuletzt aktualisiert: **11. August für Version vom 24. Juli**
 
 | Funktion | Beschreibung |
 | ------- | ----------- |
-| [!UICONTROL Tools] | Wenn Ihr Advertiser-Konto für die Verwendung der Hybridoptimierung konfiguriert ist, kann Advertising Cloud optional die Kontoziele in Google Ads und Microsoft Ads als Konversionen hochladen, damit Sie sie zur Hybridoptimierung verwenden können. Sie können die Funktion unter **[!UICONTROL Suche]** > **[!UICONTROL Tools]** > **[!UICONTROL Einrichtung für Konversions-Upload]** aktivieren. |
+| [!UICONTROL Tools] | Wenn Ihr Advertiser-Konto für die Verwendung der Hybridoptimierung konfiguriert ist, kann [!DNL Advertising Cloud Search] optional die Ziele für die Portfolios des Kontos als Konversionen in Google Ads hochladen, damit Sie sie für die Hybridoptimierung verwenden können. Sie können die Funktion unter **[!UICONTROL Suche]** > **[!UICONTROL Tools]** > **[!UICONTROL Einrichtung für Konversions-Upload]** aktivieren. |
 
 {style=&quot;table-layout:auto&quot;}
 
