@@ -36,7 +36,7 @@ Letzte Aktualisierung: **11. August 2021**
 * [[!DNL Audience Manager]](#aam)
 * [[!DNL Experience Manager]](#aem)
 * [[!DNL Campaign]](#ac)
-* [[!DNL Advertising Cloud]](#adcloud) (Aktualisiert am 11.  **August 2021**)
+*  [[!DNL Advertising Cloud]](#adcloud)**(Aktualisiert am 11. August 2021**)
 * [[!DNL Target]](#target)
 * [[!DNL Commerce]](#magento) (Magento)
 * [[!DNL Marketo Engage]](#marketo)
