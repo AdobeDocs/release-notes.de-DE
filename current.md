@@ -6,10 +6,10 @@ last-update: August 2021
 author: mfrei
 mini-toc-levels: 1
 exl-id: bcbdba6a-9e24-4f84-97ca-65c24ef45707
-source-git-commit: 4bcabafad300591b5dd46afad7032ecb8c9f5bcf
+source-git-commit: cfeac2dbfaef453f24b54450c45d22e737510281
 workflow-type: tm+mt
 source-wordcount: '4362'
-ht-degree: 52%
+ht-degree: 51%
 
 ---
 
@@ -65,13 +65,13 @@ Die zentralen Komponenten der Experience Cloud-UI umfassen Aktualisierungen, die
 
 [!UICONTROL Der Adobe-Systemstatus] liefert detaillierte Informationen, Statusaktualisierungen und E-Mail-Benachrichtigungen zu Ausfällen, Störungen und Wartungsarbeiten von Adobe Cloud-Produkten und -Diensten. Weitere Informationen dazu erhalten Sie unter [status.adobe.com](https://status.adobe.com/).
 
-Informationen zu den neuesten Aktualisierungen des Adobe-Systemstatus finden Sie unter [Adobe-Systemstatus – 21. Mai 2020](https://experienceleague.adobe.com/docs/release-notes/experience-cloud/previous/2020/05212020.html?lang=de).
+Die neuesten Versionsinformationen zum Systemstatus von Adobe finden Sie in den Versionshinweisen für [21. Mai 2020](https://experienceleague.adobe.com/docs/release-notes/experience-cloud/previous/2020/05212020.html?lang=de).
 
 ## ![Symbol](/assets/experience_platform_appicon_24.png) Experience Platform {#platform}
 
 Umfasst Informationen zu Versionsaktualisierungen und neue Dokumentationen für Experience Platform und Platform-Tagging.
 
-* **Versionshinweise zur Experience Platform vom 28. Juli 2021** [](https://experienceleague.adobe.com/docs/experience-platform/release-notes/latest.html?lang=de)
+* **** [Versionshinweise zur Experience Platform vom 28. Juli 2021](https://experienceleague.adobe.com/docs/experience-platform/release-notes/latest.html?lang=de)  (Nächste geplante Version:  **19. August**)
 * **19. Juli 2021** [Experience Platform Tags - Versionshinweise](https://experienceleague.adobe.com/docs/experience-platform/tags/release-notes/current.html?lang=de)  (früher Experience Platform Launch)
 
 ### Experience Platform-Tutorials und -Kurse {#tutorials-platform}
@@ -91,7 +91,7 @@ Mit Adobe Journey Optimizer können Sie geplante Omni-Channel-Kampagnen und indi
 
 ### Neueste Journey Optimizer-Produktversionen
 
-Erfahren Sie mehr über die neuesten Funktionen, Verbesserungen und Fehlerbehebungen in den [Versionshinweisen zu Journey Orchestration](https://experienceleague.adobe.com/docs/journey-optimizer/using/whats-new/release-notes.html?lang=en).
+Weitere Informationen zu den neuesten Funktionen, Verbesserungen und Fehlerbehebungen finden Sie in den [Journey Optimizer-Versionshinweisen](https://experienceleague.adobe.com/docs/journey-optimizer/using/whats-new/release-notes.html?lang=en).
 
 **Weitere Ressourcen für Journey Optimizer**
 
