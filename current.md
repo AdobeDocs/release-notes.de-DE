@@ -6,10 +6,10 @@ last-update: August 2021
 author: mfrei
 mini-toc-levels: 1
 exl-id: bcbdba6a-9e24-4f84-97ca-65c24ef45707
-source-git-commit: c0e65e13f424913c82f6608b24a8f797ee7a0341
+source-git-commit: 98ff0e6871649fdf5e88c4119de1b21f27de21bf
 workflow-type: tm+mt
-source-wordcount: '4360'
-ht-degree: 51%
+source-wordcount: '4374'
+ht-degree: 53%
 
 ---
 
@@ -23,7 +23,7 @@ Experience Cloud-Programme und -Services werden monatlich aktualisiert. Auf dies
 >
 >Abonnieren Sie das monatliche [Adobe Priority Product Update](https://www.adobe.com/subscription/priority-product-update.html), um E-Mail-Benachrichtigungen über Aktualisierungen dieser Seite zu erhalten. Diese Seite wird den ganzen Monat über gepflegt. Informieren Sie sich daher regelmäßig über die neuesten Updates zu Adobe Unternehmensprodukten und der Experience League-Dokumentation.
 
-Letzte Aktualisierung: **13. August 2021**
+Letzte Aktualisierung: **17. August 2021**
 
 * [Zentrale Schnittstellenkomponenten von Experience Cloud](#ecloud)
 * [Experience Platform](#platform)
@@ -31,7 +31,7 @@ Letzte Aktualisierung: **13. August 2021**
 * [Journey Optimizer](#journey-opt)
 * [Journey Orchestration](#journey-orch)
 * [Offer Decisioning](#offer-decisioning)
-* [[!DNL Analytics]](#analytics) und [Customer Journey Analytics](#cust-journey)
+* [[!DNL Analytics]](#analytics) und [Customer Journey Analytics](#cust-journey) Aktualisiert **17. August 2021**
 * [[!DNL Audience Manager]](#aam)
 * [[!DNL Experience Manager]](#aem)
 * [[!DNL Campaign]](#ac)
@@ -135,9 +135,9 @@ Siehe die [Offer Decisioning-Versionshinweise](https://experienceleague.adobe.co
 Release-Datum: **19. August 2021**
 
 * [Neue Funktionen in Adobe Analytics](#aa-features)
-* [Neue Funktionen in Customer Journey Analytics](#cust-journey)
+* [Neue Funktionen in Customer Journey Analytics](#cust-journey) (Aktualisiert **17. August 2021**)
 * [Fehlerbehebungen in Adobe Analytics](#aa-fixes)
-* [Wichtige Hinweise für Analytics-Administratoren](#aa-notices)(Aktualisiert am 3. August 2021)
+* [Wichtige Hinweise für Analytics-Administratoren](#aa-notices)
 * [Analytics-Kurse und -Tutorials](#tutorials-analytics)
 * [AppMeasurement](#appm)
 
@@ -154,7 +154,7 @@ Release-Datum: **19. August 2021**
 | Funktion | Beschreibung | [Allgemeine Verfügbarkeit](https://experienceleague.adobe.com/docs/analytics/landing/an-releases.html?lang=en) – geplantes Datum |
 | ----------- | ---------- | ----- |
 | Neues Erlebnis zu Verbindungsinformationen | Diese Verbesserung der Verbindungs-Benutzeroberfläche informiert Sie darüber, ob und wann Ihre Daten für das Reporting verwendet werden können. Sie können damit auch jegliche Probleme bei der Datenverarbeitung nachverfolgen. [Weitere Informationen](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-connections/manage-connections.html?lang=de) | 19. August 2021 |
-| Kontrolle der Groß-/Kleinschreibung in Datenansichtsdimensionen | Dient der Überprüfung der Groß-/Kleinschreibung durch Customer Journey Analytics. Dies ermöglicht die Deduplizierung von Zeilen mit demselben Wert, jedoch einer anderen Groß-/Kleinschreibung. | 19. August 2021 |
+| Kontrolle der Groß-/Kleinschreibung in Datenansichtsdimensionen | Dient der Überprüfung der Groß-/Kleinschreibung durch Customer Journey Analytics. Dies ermöglicht die Deduplizierung von Zeilen mit demselben Wert, jedoch einer anderen Groß-/Kleinschreibung. [Weitere Informationen](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-dataviews/create-dataview.html?lang=en#configure-behavior-settings) | 19. August 2021 |
 
 {style=&quot;table-layout:auto&quot;}
 
@@ -244,15 +244,15 @@ Adobe empfiehlt, die Seite [Experience Manager-Versions-Updates und -Roadmaps](h
       * Wenn Sie digitale Assets als Link freigeben, können Benutzer die URL in die Zwischenablage kopieren. Dank der Verbesserung können Sie Assets schneller und bequemer freigeben.
    * **Experience Manager Forms as a Cloud Service**
 
-      * Sie können jetzt den Automated forms conversion-Dienst verwenden, um [PDF forms in französischer, deutscher und spanischer Sprache](https://experienceleague.adobe.com/docs/aem-forms-automated-conversion-service/using/extending-the-default-meta-model.html?lang=en#language-specific-meta-model) in adaptive Formulare zu konvertieren.
-      * Es wurde ein separates Bedienfeld zum Vorlagen-Editor hinzugefügt, um Fehler im Zusammenhang mit adaptiven Formularkomponenten anzuzeigen. Dies hilft, alle Fehler in adaptiven Formularen an einem Ort zu konsolidieren und die Auflösungszeit zu verkürzen.
+      * Sie können jetzt den Service für die automatisierte Formularkonvertierung nutzen, um [PDF-Formulare in deutscher, französischer und spanischer Sprache](https://experienceleague.adobe.com/docs/aem-forms-automated-conversion-service/using/extending-the-default-meta-model.html?lang=en#language-specific-meta-model) in adaptive Formulare umzuwandeln.
+      * Es wurde ein separates Bedienfeld zum Vorlagen-Editor hinzugefügt, um Fehler im Zusammenhang mit Komponenten von adaptiven Formularen anzuzeigen. Dies hilft, alle Fehler in adaptiven Formularen an einem Ort zu konsolidieren und die Zeit bis zur Behebung zu verkürzen.
 
       Neue Funktionen im Vorabversionskanal für Forms verfügbar
 
       * **Experience Manager Forms as a Cloud Service - Kommunikation**  -  [Verwenden Sie AEM Forms as a Cloud Service - Communications ](https://experienceleague.adobe.com/docs/experience-manager-forms-cloud-service/forms/aem-forms-cloud-service-communications.html?lang=en) APIshelp, mit dem Sie XDP-Vorlagen und XML-Daten kombinieren, um Druckdokumente in verschiedenen Formaten zu generieren. Mit dem Service können Sie Dokumente im synchronen Modus erstellen. Mit den APIs können Sie Programme mit folgender Funktionalität erstellen:
          * Erstellen von Dokumenten durch Füllen von Vorlagendateien mit XML-Daten.
          * Erstellen von Ausgabeformularen in verschiedenen Formaten, einschließlich nicht interaktiver PDF-Printstreams.
-         * Generieren Sie PDF-Druckdateien aus einem XFA-Formular als PDF und Adobe Acrobat-Formular.
+         * Generieren von PDF-Print-Dateien aus einem PDF-XFA-Formular und einem Adobe Acrobat-Formular.
       * **[!UICONTROL Variable Data Externalizer]**  - Sie können Daten von Experience Manager-Workflow-Variablen in einem externen Speichersystem speichern, das von Ihrem Unternehmen verwaltet wird.
       * **[!UICONTROL Acroform-based Document of Record]**  - Sie können auch Adobe Acrobat Form PDF (Acroform PDF) [ als Vorlage für Datensatzdokument neben XFA-basierten Formularvorlagen ](https://experienceleague.adobe.com/docs/experience-manager-forms-cloud-service/forms/create-an-adaptive-form/generate-document-of-record-for-non-xfa-based-adaptive-forms.html?lang=en) verwenden.
          **Microsoft® Azure-Datenspeicher-Connector**  - Sie können jetzt das Formulardatenmodell mit Microsoft® Azure Storage  [verbinden](https://experienceleague.adobe.com/docs/experience-manager-forms-cloud-service/forms/use-form-data-model/configure-azure-storage.html?lang=en). Dadurch können Sie adaptive Formulardaten abrufen und in Microsoft® Azure Storage as a BLOB speichern.
