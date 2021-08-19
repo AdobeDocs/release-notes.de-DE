@@ -9,7 +9,7 @@ exl-id: bcbdba6a-9e24-4f84-97ca-65c24ef45707
 source-git-commit: 98ff0e6871649fdf5e88c4119de1b21f27de21bf
 workflow-type: tm+mt
 source-wordcount: '4363'
-ht-degree: 52%
+ht-degree: 54%
 
 ---
 
@@ -109,10 +109,10 @@ Neue Videos, Tutorials oder Kurse, die für Adobe Campaign veröffentlicht wurde
 
 | Veröffentlicht | Name | Typ | Beschreibung |
 | -----------| ---------- | ---------- | ---------- |
-| August 2021 | [Einführung in das Erstellen einer Journey](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/create-journeys/introduction-to-building-a-journey.html) | Video | Machen Sie sich mit den Grundlagen zum Erstellen einer Journey auf der Journey-Arbeitsfläche vertraut. |
+| August 2021 | [Einführung in das Erstellen einer Journey](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/create-journeys/introduction-to-building-a-journey.html) | Video | Machen Sie sich mit den Grundlagen zum Erstellen einer Journey in der Journey-Arbeitsfläche vertraut. |
 | August 2021 | [Einrichten von Daten - Übersicht](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/get-started/data-configuration/set-up-data-overview.html) | Video | Erfahren Sie mehr über Echtzeit-Kundenprofildaten und welche Schritte zum Einrichten von Kundenprofildaten für Journey Optimizer erforderlich sind. |
-| August 2021 | [Zuordnungsidentitäten](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/get-started/data-configuration/map-identities.html) | Video | Erfahren Sie, wie und wann ein Schemafeld als Identität bezeichnet werden kann, wie ein Namespace erstellt wird, wann eine Identität als primär festgelegt wird und wie Identitätsdaten erfasst und überprüft werden. |
-| August 2021 | [Anwendungsbeispiel: Burst-Nachricht](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/create-journeys/use-case-read-burst-message.html) | Video | Machen Sie sich mit den anwendbaren Anwendungsfällen für Burst-Messaging vertraut. Erfahren Sie, wie Sie eine Journey für Burst-Nachrichten konfigurieren und welche Best Practices angewendet werden. |
+| August 2021 | [Zuordnen von Identitäten](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/get-started/data-configuration/map-identities.html) | Video | Erfahren Sie, wie und wann ein Schemafeld als Identität bezeichnet wird, wie ein Namespace erstellt wird, wann eine Identität als primär festgelegt wird und wie Identitätsdaten aufgenommen und überprüft werden. |
+| August 2021 | [Anwendungsbeispiel: Burst-Nachricht](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/create-journeys/use-case-read-burst-message.html) | Video | Machen Sie sich mit den Anwendungsfällen für Bust-Messaging vertraut. Erfahren Sie, wie Sie eine Journey für Burst-Nachrichten konfigurieren und welche Best Practices zur Anwendung kommen. |
 
 **Weitere Ressourcen für Journey Orchestration**
 
@@ -135,7 +135,7 @@ Siehe die [Offer Decisioning-Versionshinweise](https://experienceleague.adobe.co
 Release-Datum: **19. August 2021**
 
 * [Neue Funktionen in Adobe Analytics](#aa-features)
-* [Neue Funktionen in Customer Journey Analytics](#cust-journey) (Aktualisiert **17. August 2021**)
+* [Neue Funktionen in Customer Journey Analytics](#cust-journey)  (Aktualisiert am **17. August 2021**)
 * [Fehlerbehebungen in Adobe Analytics](#aa-fixes)
 * [Wichtige Hinweise für Analytics-Administratoren](#aa-notices)
 * [Analytics-Kurse und -Tutorials](#tutorials-analytics)
@@ -381,7 +381,7 @@ Zuletzt aktualisiert: **12. August 2021, für die Version vom 21. August**
 
 {style=&quot;table-layout:auto&quot;}
 
-## ![Symbol](/assets/magento.png) [!DNL Commerce]  (Magento) {#magento}
+## ![Symbol](/assets/magento.png) [!DNL Commerce] (Magento) {#magento}
 
 Versionshinweise zu Adobe Commerce finden Sie unter den folgenden Links:
 
