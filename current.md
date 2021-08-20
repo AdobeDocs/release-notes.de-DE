@@ -6,10 +6,10 @@ last-update: August 2021
 author: mfrei
 mini-toc-levels: 1
 exl-id: bcbdba6a-9e24-4f84-97ca-65c24ef45707
-source-git-commit: 98ff0e6871649fdf5e88c4119de1b21f27de21bf
+source-git-commit: 9b538a541f0211a3026fb3f8bdd7de834bced917
 workflow-type: tm+mt
-source-wordcount: '4363'
-ht-degree: 54%
+source-wordcount: '4444'
+ht-degree: 53%
 
 ---
 
@@ -373,10 +373,11 @@ Zuletzt aktualisiert: **12. August 2021, für die Version vom 11. August**
 
 ### Neue Funktionen in Version [!DNL Advertising Cloud Search] {#adcloud-search}
 
-Zuletzt aktualisiert: **12. August 2021, für die Version vom 21. August**
+Zuletzt aktualisiert: **20. August 2021, für die Version vom 21. August**
 
 | Funktion | Beschreibung |
 | ------- | ----------- |
+| — | Das neue Advertising Cloud-JavaScript-Tag verwendet den Adobe Experience Cloud ID-Dienst (ECID) sowie die veraltete ef_id und gsurferid zum Messen von Konversionen. Das neue Tag erstellt [Erstanbieter-Experience Cloud s_ecid-Cookies](https://experienceleague.adobe.com/docs/core-services/interface/administration/ec-cookies/cookies-first-party.html) und bietet eine engere Integration mit anderen Experience Cloud-Produkten.<br><br>Das alte Advertising Cloud-JavaScript-Tag mit ITP-Zuordnung wird im September 2021 eingestellt.<br><br>Ihr Adobe-Kundenbetreuer kontaktiert Sie mit weiteren Informationen und Implementierungsanweisungen. |
 | [!UICONTROL Portfolios] | Für alle Benutzer steht eine neue [!UICONTROL Beta-Version] mit automatisierten Gewichtungsempfehlungen zur Verfügung. Die neue Benutzeroberfläche enthält mehr Anleitungen zum Erstellen von Zielen und zum Festlegen der anfänglichen Zielgewichtung. Gewichtungsempfehlungen sind nur für unterstützende Metriken verfügbar. |
 
 {style=&quot;table-layout:auto&quot;}
