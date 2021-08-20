@@ -6,10 +6,10 @@ last-update: August 2021
 author: mfrei
 mini-toc-levels: 1
 exl-id: bcbdba6a-9e24-4f84-97ca-65c24ef45707
-source-git-commit: 9b538a541f0211a3026fb3f8bdd7de834bced917
+source-git-commit: c47b884401c2d9b4cce5d6b56252c58acccc598c
 workflow-type: tm+mt
-source-wordcount: '4444'
-ht-degree: 53%
+source-wordcount: '4427'
+ht-degree: 54%
 
 ---
 
@@ -23,7 +23,7 @@ Experience Cloud-Programme und -Services werden monatlich aktualisiert. Auf dies
 >
 >Abonnieren Sie das monatliche [Adobe Priority Product Update](https://www.adobe.com/subscription/priority-product-update.html), um E-Mail-Benachrichtigungen über Aktualisierungen dieser Seite zu erhalten. Diese Seite wird den ganzen Monat über gepflegt. Informieren Sie sich daher regelmäßig über die neuesten Updates zu Adobe Unternehmensprodukten und der Experience League-Dokumentation.
 
-Letzte Aktualisierung: **17. August 2021**
+Letzte Aktualisierung: **20. August 2021**
 
 * [Zentrale Schnittstellenkomponenten von Experience Cloud](#ecloud)
 * [Experience Platform](#platform)
@@ -31,7 +31,7 @@ Letzte Aktualisierung: **17. August 2021**
 * [Journey Optimizer](#journey-opt)
 * [Journey Orchestration](#journey-orch)
 * [Offer Decisioning](#offer-decisioning)
-* [[!DNL Analytics]](#analytics) und [Customer Journey Analytics](#cust-journey) Aktualisiert **17. August 2021**
+* [[!DNL Analytics]](#analytics) und [Customer Journey Analytics](#cust-journey) (Aktualisiert: **17. August 2021**)
 * [[!DNL Audience Manager]](#aam)
 * [[!DNL Experience Manager]](#aem)
 * [[!DNL Campaign]](#ac)
@@ -71,8 +71,7 @@ Die neuesten Versionsinformationen zum Systemstatus von Adobe finden Sie in den 
 
 Umfasst Informationen zu Versionsaktualisierungen und neue Dokumentationen für Experience Platform und Platform-Tagging.
 
-* **** [Versionshinweise zur Experience Platform vom 28. Juli 2021](https://experienceleague.adobe.com/docs/experience-platform/release-notes/latest.html?lang=de)  (Nächste geplante Version:  **19. August**)
-* **19. Juli 2021** [Experience Platform Tags - Versionshinweise](https://experienceleague.adobe.com/docs/experience-platform/tags/release-notes/current.html?lang=de)  (früher Experience Platform Launch)
+* **28. Juli 2021** [Versionshinweise zur Experience Platform](https://experienceleague.adobe.com/docs/experience-platform/release-notes/latest.html?lang=de)  (Nächste geplante Version - 25.  **August**)
 
 ### Experience Platform-Tutorials und -Kurse {#tutorials-platform}
 
