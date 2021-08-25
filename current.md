@@ -6,9 +6,9 @@ last-update: August 2021
 author: mfrei
 mini-toc-levels: 1
 exl-id: bcbdba6a-9e24-4f84-97ca-65c24ef45707
-source-git-commit: fd638c92e6804ccdec2adfc9aec1f571c610b798
+source-git-commit: 0f1c37e20e20740e60c6e6c72e465c8611e4a60b
 workflow-type: tm+mt
-source-wordcount: '4430'
+source-wordcount: '4445'
 ht-degree: 53%
 
 ---
@@ -23,10 +23,10 @@ Experience Cloud-Programme und -Services werden monatlich aktualisiert. Auf dies
 >
 >Abonnieren Sie das monatliche [Adobe Priority Product Update](https://www.adobe.com/subscription/priority-product-update.html), um E-Mail-Benachrichtigungen über Aktualisierungen dieser Seite zu erhalten. Diese Seite wird den ganzen Monat über gepflegt. Informieren Sie sich daher regelmäßig über die neuesten Updates zu Adobe Unternehmensprodukten und der Experience League-Dokumentation.
 
-Letzte Aktualisierung: **20. August 2021**
+Letzte Aktualisierung: **25. August 2021**
 
 * [Zentrale Schnittstellenkomponenten von Experience Cloud](#ecloud)
-* [Experience Platform](#platform)
+* [Experience Platform](#platform)  (aktualisiert  **am 25. August 2021**)
 * [Adobe-Systemstatus](#status)
 * [Journey Optimizer](#journey-opt)
 * [Journey Orchestration](#journey-orch)
@@ -71,7 +71,13 @@ Die neuesten Versionsinformationen zum Systemstatus von Adobe finden Sie in den 
 
 Umfasst Informationen zu Versionsaktualisierungen und neue Dokumentationen für Experience Platform und Platform-Tagging.
 
-* **28. Juli 2021** [Versionshinweise zur Experience Platform](https://experienceleague.adobe.com/docs/experience-platform/release-notes/latest.html?lang=de)  (Nächste geplante Version - 25.  **August**)
+**Am 25. August 2021 veröffentlichte** Aktualisierungen der in Experience Platform vorhandenen Funktionen:
+
+* Observability Insights
+* Echtzeit-Kundenprofil
+* Quellen
+
+Weitere Informationen finden Sie unter [Experience Platform-Versionshinweise](https://experienceleague.adobe.com/docs/experience-platform/release-notes/latest.html?lang=de) .
 
 ### Experience Platform-Tutorials und -Kurse {#tutorials-platform}
 
