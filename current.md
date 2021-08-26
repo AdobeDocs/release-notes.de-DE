@@ -6,9 +6,9 @@ last-update: August 2021
 author: mfrei
 mini-toc-levels: 1
 exl-id: bcbdba6a-9e24-4f84-97ca-65c24ef45707
-source-git-commit: 8b1a49bf761607dccb2793e0223c072cd6121be3
+source-git-commit: c402b360cc166a76c694b383806a21a34ccd2e60
 workflow-type: tm+mt
-source-wordcount: '4503'
+source-wordcount: '4508'
 ht-degree: 53%
 
 ---
@@ -46,13 +46,11 @@ Letzte Aktualisierung: **26. August 2021**
 
 Benötigen Sie Hilfe? Besuchen Sie [Adobe Experience League](https://experienceleague.adobe.com/?lang=de#home), um Produkt- und technische Dokumentation, von Adobe kuratierte Kurse, Video-Tutorials, schnelle Antworten, Community-Einblicke und von Schulungsleitern geführte Kurse zu erhalten.
 
-## Ereignisbenachrichtigung für Experience League Live - Machen Sie Ihr nächstes Zielgruppensegment schlauer als je zuvor {#events}
+## ![](/assets/experience-league.png) IconExperience League Live {#events}
 
-Lernen Sie den Segment Builder in Experience Platform LIVE mit Aaron Shields, Yaya Wang und Andres Monroy kennen!
+**26. August 2021** |  [Gestalten Sie Ihr nächstes Zielgruppensegment intelligenter denn je](https://www.youtube.com/watch?v=rogVKsTFbWk)  - Lernen Sie den Segment Builder in Experience Platform mit Doug Moore, Aaron Shields, Yaya Wang und Andres Monroy kennen!
 
-**Ereignis:** [Gestalten Sie Ihr nächstes Zielgruppensegment intelligenter denn je](https://www.youtube.com/watch?v=rogVKsTFbWk)
-
-**Wann:** 26. August 2021 um 9:00 Uhr PST
+Weitere Videos finden Sie unter [Adobe Experience League Channel](https://www.youtube.com/channel/UCN-7ZEctit8Qu01BWeHQ0Fw) in YouTube.
 
 ## ![Symbol](/assets/ec_appicon_24.png) Zentrale Komponenten der Experience Cloud-UI {#ecloud}
 
