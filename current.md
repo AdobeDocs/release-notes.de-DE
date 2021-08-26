@@ -6,9 +6,9 @@ last-update: August 2021
 author: mfrei
 mini-toc-levels: 1
 exl-id: bcbdba6a-9e24-4f84-97ca-65c24ef45707
-source-git-commit: 0f1c37e20e20740e60c6e6c72e465c8611e4a60b
+source-git-commit: 8b1a49bf761607dccb2793e0223c072cd6121be3
 workflow-type: tm+mt
-source-wordcount: '4445'
+source-wordcount: '4503'
 ht-degree: 53%
 
 ---
@@ -23,8 +23,9 @@ Experience Cloud-Programme und -Services werden monatlich aktualisiert. Auf dies
 >
 >Abonnieren Sie das monatliche [Adobe Priority Product Update](https://www.adobe.com/subscription/priority-product-update.html), um E-Mail-Benachrichtigungen über Aktualisierungen dieser Seite zu erhalten. Diese Seite wird den ganzen Monat über gepflegt. Informieren Sie sich daher regelmäßig über die neuesten Updates zu Adobe Unternehmensprodukten und der Experience League-Dokumentation.
 
-Letzte Aktualisierung: **25. August 2021**
+Letzte Aktualisierung: **26. August 2021**
 
+* [Ereignisbenachrichtigung für Experience League Live](#events)  - 26.  **August 2021**
 * [Zentrale Schnittstellenkomponenten von Experience Cloud](#ecloud)
 * [Experience Platform](#platform)  (aktualisiert  **am 25. August 2021**)
 * [Adobe-Systemstatus](#status)
@@ -44,6 +45,14 @@ Letzte Aktualisierung: **25. August 2021**
 * [Creative Cloud für Unternehmen](#creative-cloud)
 
 Benötigen Sie Hilfe? Besuchen Sie [Adobe Experience League](https://experienceleague.adobe.com/?lang=de#home), um Produkt- und technische Dokumentation, von Adobe kuratierte Kurse, Video-Tutorials, schnelle Antworten, Community-Einblicke und von Schulungsleitern geführte Kurse zu erhalten.
+
+## Ereignisbenachrichtigung für Experience League Live - Machen Sie Ihr nächstes Zielgruppensegment schlauer als je zuvor {#events}
+
+Lernen Sie den Segment Builder in Experience Platform LIVE mit Aaron Shields, Yaya Wang und Andres Monroy kennen!
+
+**Ereignis:** [Gestalten Sie Ihr nächstes Zielgruppensegment intelligenter denn je](https://www.youtube.com/watch?v=rogVKsTFbWk)
+
+**Wann:** 26. August 2021 um 9:00 Uhr PST
 
 ## ![Symbol](/assets/ec_appicon_24.png) Zentrale Komponenten der Experience Cloud-UI {#ecloud}
 
