@@ -9,7 +9,7 @@ exl-id: bcbdba6a-9e24-4f84-97ca-65c24ef45707
 source-git-commit: c402b360cc166a76c694b383806a21a34ccd2e60
 workflow-type: tm+mt
 source-wordcount: '4508'
-ht-degree: 96%
+ht-degree: 100%
 
 ---
 
@@ -25,14 +25,14 @@ Experience Cloud-Programme und -Services werden monatlich aktualisiert. Auf dies
 
 Letzte Aktualisierung: **26. August 2021**
 
-* [Ereignisbenachrichtigung für Experience League Live](#events)  - 26.  **August 2021**
+* [Nächster Veranstaltungstermin von Experience League Live](#events) - **26. August 2021**
 * [Zentrale Schnittstellenkomponenten von Experience Cloud](#ecloud)
-* [Experience Platform](#platform)  (aktualisiert  **am 25. August 2021**)
+* [Experience Platform](#platform) (Aktualisiert am **25. August 2021**)
 * [Adobe-Systemstatus](#status)
 * [Journey Optimizer](#journey-opt)
 * [Journey Orchestration](#journey-orch)
 * [Offer Decisioning](#offer-decisioning)
-* [[!DNL Analytics]](#analytics) und [Customer Journey Analytics](#cust-journey) (Aktualisiert: **17. August 2021**)
+* [[!DNL Analytics]](#analytics) und [Customer Journey Analytics](#cust-journey) (Aktualisiert am **17. August 2021**)
 * [[!DNL Audience Manager]](#aam)
 * [[!DNL Experience Manager]](#aem)
 * [[!DNL Campaign]](#ac)
@@ -46,11 +46,11 @@ Letzte Aktualisierung: **26. August 2021**
 
 Benötigen Sie Hilfe? Besuchen Sie [Adobe Experience League](https://experienceleague.adobe.com/?lang=de#home), um Produkt- und technische Dokumentation, von Adobe kuratierte Kurse, Video-Tutorials, schnelle Antworten, Community-Einblicke und von Schulungsleitern geführte Kurse zu erhalten.
 
-## ![](/assets/experience-league.png) IconExperience League Live {#events}
+## ![Symbol](/assets/experience-league.png) Experience League Live {#events}
 
-**26. August 2021** |  [Gestalten Sie Ihr nächstes Zielgruppensegment intelligenter denn je](https://www.youtube.com/watch?v=rogVKsTFbWk)  - Lernen Sie den Segment Builder in Experience Platform mit Doug Moore, Aaron Shields, Yaya Wang und Andres Monroy kennen!
+**26. August 2021** | [Zielgruppensegmente intelligenter gestalten als je zuvor](https://www.youtube.com/watch?v=rogVKsTFbWk) – Experience Platform macht dies mit Segment Builder zum Kinderspiel! Unsere Experten Doug Moore, Aaron Shields, Yaya Wang und Andres Monroy zeigen, wie es geht.
 
-Weitere Videos finden Sie unter [Adobe Experience League Channel](https://www.youtube.com/channel/UCN-7ZEctit8Qu01BWeHQ0Fw) in YouTube.
+Weitere Videos finden Sie in unserem [YouTube-Kanal zu Adobe Experience League](https://www.youtube.com/channel/UCN-7ZEctit8Qu01BWeHQ0Fw).
 
 ## ![Symbol](/assets/ec_appicon_24.png) Zentrale Komponenten der Experience Cloud-UI {#ecloud}
 
@@ -78,13 +78,13 @@ Die neuesten Versionsinformationen zu Adobe System Status finden Sie in den Vers
 
 Umfasst Informationen zu Versionsaktualisierungen und neue Dokumentationen für Experience Platform und Platform-Tagging.
 
-**Am 25. August 2021 veröffentlichte** Aktualisierungen der in Experience Platform vorhandenen Funktionen:
+Am Funktions-Updates vom **25. August 2021** für Experience Platform betreffen:
 
 * Observability Insights
 * Echtzeit-Kundenprofil
 * Quellen
 
-Weitere Informationen finden Sie unter [Experience Platform-Versionshinweise](https://experienceleague.adobe.com/docs/experience-platform/release-notes/latest.html?lang=de) .
+Weitere Informationen finden Sie in den [Versionshinweisen zu Experience Platform](https://experienceleague.adobe.com/docs/experience-platform/release-notes/latest.html?lang=de).
 
 ### Experience Platform-Tutorials und -Kurse {#tutorials-platform}
 
@@ -147,7 +147,7 @@ Siehe die [Offer Decisioning-Versionshinweise](https://experienceleague.adobe.co
 Release-Datum: **19. August 2021**
 
 * [Neue Funktionen in Adobe Analytics](#aa-features)
-* [Neue Funktionen in Customer Journey Analytics](#cust-journey)  (Aktualisiert am **17. August 2021**)
+* [Neue Funktionen in Customer Journey Analytics](#cust-journey) (Aktualisiert am **17. August 2021**)
 * [Fehlerbehebungen in Adobe Analytics](#aa-fixes)
 * [Wichtige Hinweise für Analytics-Administratoren](#aa-notices)
 * [Analytics-Kurse und -Tutorials](#tutorials-analytics)
@@ -389,7 +389,7 @@ Zuletzt aktualisiert: **20. August 2021 für die Version 21. August**
 
 | Funktion | Beschreibung |
 | ------- | ----------- |
-| — | Das neue Advertising Cloud-JavaScript-Tag verwendet den Adobe Experience Cloud ID-Dienst (ECID) sowie die veraltete ef_id und gsurferid zum Messen von Konversionen. Das neue Tag erstellt [Erstanbieter-Experience Cloud s_ecid-Cookies](https://experienceleague.adobe.com/docs/core-services/interface/administration/ec-cookies/cookies-first-party.html) und bietet eine engere Integration mit anderen Experience Cloud-Produkten.<br><br>Das alte Advertising Cloud-JavaScript-Tag mit ITP-Zuordnung wird im September 2021 eingestellt.<br><br>Ihr Adobe-Kundenbetreuer kontaktiert Sie mit weiteren Informationen und Implementierungsanweisungen. |
+| — | Das neue Advertising Cloud-JavaScript-Betatag verwendet zur Messung von Konversionen den Adobe Experience Cloud ID-Service (ECID-Service) sowie die auch in früheren Versionen verwendete ef_id und gsurferid. Das neue Tag erstellt [Experience Cloud s_ecid-Erstanbieter-Cookies](https://experienceleague.adobe.com/docs/core-services/interface/administration/ec-cookies/cookies-first-party.html?lang=de) und bietet eine engere Integration mit anderen Experience Cloud-Produkten.<br><br>Das in früheren Versionen verwendete Advertising Cloud-JavaScript-Tag mit ITP-Zuordnung wird im September 2021 eingestellt.<br><br>Ihr Adobe-Kundenbetreuer wird betreffend weiterer Informationen sowie Anweisungen zur Implementierung Kontakt mit Ihnen aufnehmen |
 | [!UICONTROL Portfolios] | Für alle Benutzer steht eine neue [!UICONTROL Ziel-Beta-Version] mit automatisierten Gewichtungsempfehlungen zur Verfügung. Die neue Benutzeroberfläche enthält mehr Anleitungen zum Erstellen von Zielen und zum Festlegen der anfänglichen Zielgewichtung. Gewichtungsempfehlungen sind nur für unterstützende Metriken verfügbar. |
 
 {style=&quot;table-layout:auto&quot;}
@@ -403,7 +403,7 @@ Versionshinweise zu Adobe Commerce finden Sie unter den folgenden Links:
 
 ## ![Symbol](/assets/target.png) [!DNL Target] {#target}
 
-Zuletzt aktualisiert: **3. August 2021**
+Letzte Aktualisierung: **3. August 2021**
 
 Die aktuellen Versionsinformationen finden Sie in den [[!DNL Target] Versionshinweisen](https://experienceleague.adobe.com/docs/target/using/release-notes/target-release-notes.html?lang=de).
 
