@@ -4,9 +4,9 @@ description: Experience Cloud – Versionshinweise
 doc-type: release notes
 last-update: June 2021
 author: mfrei
-source-git-commit: 48c0f82523382da9a78a78d850432c0bafd7cee7
+source-git-commit: b83f085d9fca7c4ae2b3519d32033a03aec28026
 workflow-type: tm+mt
-source-wordcount: '706'
+source-wordcount: '725'
 ht-degree: 93%
 
 ---
@@ -26,20 +26,25 @@ Neue Funktionen und Fehlerbehebungen in Adobe Experience Cloud.
 >
 >Nach dem Release veröffentlichte neue Informationen werden mit dem Veröffentlichungsdatum gekennzeichnet.
 
-**Releasedatum: 2021**
+Neueste Aktualisierung: **September 2021**
 
-* [Adobe-Systemstatus](#status)
-* [Experience Cloud-Benutzeroberfläche](#ecloud)
+* [Live-Ereignisse der Experience League](#events)
+* [Zentrale Schnittstellenkomponenten von Experience Cloud](#ecloud)
 * [Experience Platform](#platform)
-* [Analytics](#analytics)
-* [Audience Manager](#aam)
-* [Experience Manager](#aem)
-* [Campaign](#ac)
-* [Werbung](#adcloud)
-* [Magento](#magento)
-* [Marketo](#marketo)
-* [Primetime](https://experienceleague.adobe.com/docs/primetime.html) (Links zur Lösungshilfe)
-* [Neue Dokumentationen und Tutorials](#selfhelp)
+* [Experience Platform Application Services](#services)
+* [Adobe-Systemstatus](#status)
+* [Journey Optimizer](#journey-opt)
+* [[!DNL Analytics]](#analytics) und [Customer Journey Analytics](#cust-journey)
+* [[!DNL Audience Manager]](#aam)
+* [[!DNL Experience Manager]](#aem)
+* [[!DNL Campaign]](#ac)
+* [[!DNL Advertising Cloud]](#adcloud)
+* [[!DNL Target]](#target)
+* [[!DNL Commerce]](#magento) (Magento)
+* [[!DNL Marketo Engage]](#marketo)
+* [[!DNL Workfront]](#workfront)
+* [Document Cloud](#doc-cloud)
+* [Creative Cloud für Unternehmen](#creative-cloud)
 
 ## Adobe-Systemstatus {#status}
 
@@ -47,12 +52,15 @@ Funktionen und Fehlerbehebungen
 
 Siehe [Systemstatus von Adobe](https://status.adobe.com/).
 
-## Experience Cloud-Benutzeroberfläche{#ecloud}
+## ![Symbol](/assets/ec_appicon_24.png) Zentrale Komponenten der Experience Cloud-UI {#ecloud}
 
-Neue Funktionen und Fehlerkorrekturen in der Benutzeroberfläche von Experience Cloud, einschließlich Verwaltung und Core Services (Kundenattribute, Zielgruppen, Auslöser, Cookies usw.).
+Die zentralen Komponenten der Experience Cloud-UI umfassen Aktualisierungen, die über die Kopfzeile des Produkts aufgerufen werden können, darunter Selbsthilfe, Suche oder Voreinstellungen für Benutzerkonten. Dort finden sich auch Aktualisierungen zu Personen, dem Places-Service (ehemals Location-Service) und der Produktverwaltung.
 
-* [[!UICONTROL Hauptdienste]](#core-services)
-* [Administration und Entwickler](#admin)
+| Funktion | Datum | Beschreibung |
+| ------- | ------- | -------|
+| Funktion | September 2021 | Beschreibung |
+
+{style=&quot;table-layout:auto&quot;}
 
 ### [!UICONTROL Hauptdienste] {#core-services}
 
@@ -220,7 +228,7 @@ Text
 * Fehlerbehebung
 * Fehlerbehebung
 
-## Kampagne {#ac}
+## Campaign {#ac}
 
 Adobe Campaign bietet die Möglichkeit, direkte Nachrichten über Online- und Offline-Marketing-Kanäle intuitiv und automatisiert zu übermitteln. Sie können nun vorhersagen, was Ihre Kunden wünschen, und ihnen Erlebnisse bieten, die Sie anhand ihrer Gewohnheiten und Vorlieben ermittelt haben.
 
