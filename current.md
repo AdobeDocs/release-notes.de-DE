@@ -6,10 +6,10 @@ last-update: September 2021
 author: mfrei
 mini-toc-levels: 1
 exl-id: bcbdba6a-9e24-4f84-97ca-65c24ef45707
-source-git-commit: cc9f1d42093c54689b6d15c640879891e4d4ce24
+source-git-commit: fcba6592d43896676fff4a62d15756823c8a1b20
 workflow-type: tm+mt
-source-wordcount: '6298'
-ht-degree: 38%
+source-wordcount: '6343'
+ht-degree: 37%
 
 ---
 
@@ -23,13 +23,13 @@ ht-degree: 38%
 >
 >Abonnieren Sie das monatliche [Adobe Priority Product Update](https://www.adobe.com/subscription/priority-product-update.html), um E-Mail-Benachrichtigungen über Aktualisierungen dieser Seite zu erhalten. Diese Seite wird den ganzen Monat über gepflegt. Informieren Sie sich daher regelmäßig über die neuesten Updates zu Adobe Unternehmensprodukten und der Experience League-Dokumentation.
 
-Letzte Aktualisierung: **10. September 2021**
+Letzte Aktualisierung: **14. September 2021**
 
 * [[!DNL Experience League] Live-Ereignisse](#events)
 * [[!DNL Experience Cloud Central Interface Components] &amp; Administration](#ecloud)
 * [Adobe [!UICONTROL Systemstatus]](#status)
 * [[!DNL Adobe Analytics]](#analytics) und [Customer Journey Analytics](#cust-journey) 
-* [[!DNL Adobe Audience Manager]](#aam)
+* [[!DNL Adobe Audience Manager]](#aam) (Aktualisiert am 14.  **September 2021**)
 * [[!DNL Adobe Experience Platform]](#platform)
 * [[!DNL Adobe Journey Optimizer]](#journey-opt)
 * [[!DNL Adobe Experience Manager]](#aem)
@@ -163,7 +163,11 @@ Neue Kurse, Tutorial- und Artikel in [!DNL Analytics] und [!UICONTROL Customer J
 
 ## ![Symbol](/assets/audience-manager.png) Audience Manager {#aam}
 
-Nicht aktualisiert.
+Neue Funktionen in Audience Manager - aktualisiert am **14. September 2021**:
+
+| Funktion | Beschreibung |
+| ------- | ------- |
+| Zustimmung zur Datenerfassung mit mobilen IDs | Unterstützung für die Zustimmung zur Datenerfassung mit mobilen IDs hinzugefügt. Um von dieser Aktualisierung profitieren zu können, müssen Kunden auf [AEP Mobile SDK iOS Core 2.8.0](https://aep-sdks.gitbook.io/docs/foundation-extensions/mobile-core/mobile-core-release-notes#november-4-2020) oder höher aktualisieren. |
 
 ## ![Symbol](/assets/experience_platform_appicon_24.png) Experience Platform {#platform}
 
