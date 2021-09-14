@@ -28,7 +28,7 @@ Letzte Aktualisierung: **10. September 2021**
 * [[!DNL Experience League] Live-Ereignisse](#events)
 * [[!DNL Experience Cloud Central Interface Components] &amp; Administration](#ecloud)
 * [Adobe [!UICONTROL Systemstatus]](#status)
-* [[!DNL Adobe Analytics]](#analytics) und [Customer Journey Analytics](#cust-journey)
+* [[!DNL Adobe Analytics]](#analytics) und [Customer Journey Analytics](#cust-journey) 
 * [[!DNL Adobe Audience Manager]](#aam)
 * [[!DNL Adobe Experience Platform]](#platform)
 * [[!DNL Adobe Journey Optimizer]](#journey-opt)
@@ -56,7 +56,7 @@ Benötigen Sie Hilfe? Besuchen Sie [Adobe Experience League](https://experiencel
 
 {style=&quot;table-layout:auto&quot;}
 
-Weitere Videos finden Sie in unserem [YouTube-Kanal zu Adobe Experience League](https://www.youtube.com/channel/UCN-7ZEctit8Qu01BWeHQ0Fw).
+Weitere Videos finden Sie im [Adobe Experience League-Kanal](https://www.youtube.com/channel/UCN-7ZEctit8Qu01BWeHQ0Fw) auf YouTube.
 
 ## ![Symbol](/assets/ec_appicon_24.png) [!DNL Experience Cloud Central UI Components]  und Administration {#ecloud}
 
@@ -120,7 +120,7 @@ Release-Datum: **15. September 2021**
 
 ### Wichtige Hinweise für [!DNL Analytics]-Administratoren {#aa-notices}
 
-| Hinweis | Hinzugefügt oder aktualisiert am | Beschreibung |
+| Hinweis | Hinzugefügt  oder aktualisiert am | Beschreibung |
 | ----------- | ---------- | ---------- |
 | Ende der Adobe [!UICONTROL Data Connectors] | 3. August 2020 | Adobe [!UICONTROL Data Connectors] basieren auf einer älteren Technologie, die nicht mehr funktionsfähig ist oder unterstützt wird. Ein neuer Standard ist im [Adobe Exchange-Partner-Programm](https://partners.adobe.com/exchangeprogram/experiencecloud) verfügbar. Sie können diesen Standard für jede Integration verwenden, sodass dies weiterhin angeboten und unterstützt werden kann. Das offizielle Enddatum ist der **19. August 2021**. [Weitere Infos...](https://experienceleague.adobe.com/docs/analytics/import/dataconnectors/data-connectors-eol.html?lang=de) |
 | Ende der vollständigen Verarbeitung[!UICONTROL  von Data Sources] | 12. April 2021 | Adobe hat Datenquellen mit vollständiger Verarbeitung **am 31. Juli 2021** als veraltet markiert. Ab dem 25. März 2021 können keine neuen Importe dieser Art mehr erstellt werden. Verwenden Sie zum Importieren dieses Datentyps die [API zum Massendateneinfügen](https://www.adobe.io/apis/experiencecloud/analytics/docs.html#!AdobeDocs/analytics-2.0-apis/master/bdia.md). |
@@ -169,7 +169,7 @@ Nicht aktualisiert.
 
 Enthält Versionsupdate-Informationen und neue Dokumentation für Experience Platform- und Plattformdienste ([!UICONTROL Journey Orchestration], [!UICONTROL Offer decisioning] und [!UICONTROL Mobile SDK]).
 
-Am Funktions-Updates vom **25. August 2021** für Experience Platform betreffen:
+**Am 25. August 2021 veröffentlichte** Aktualisierungen der in Experience Platform vorhandenen Funktionen:
 
 * **[!UICONTROL Ziele]:** Dank Verbesserungen der Benutzerfreundlichkeit für   Ziele können Marketing-Experten Segmente nahtlos für vorhandene Ziele aktivieren.
 * **[!UICONTROL Observability Insights]:** Sie können nun wichtige Warnhinweise abonnieren, die sich auf in Platform ausgeführte Workflows beziehen.
@@ -428,7 +428,7 @@ Erfahren Sie mehr über die aktuellsten veröffentlichten Funktionen, Verbesseru
 * Adobe Campaign Version 8: [Hilfe-Center](https://experienceleague.adobe.com/docs/campaign/campaign-v8/campaign-home.html?lang=de) – [Versionshinweise](https://experienceleague.adobe.com/docs/campaign/campaign-v8/start/whats-new.html) – [Implementierungshandbücher](https://experienceleague.adobe.com/docs/campaign/campaign-v8/implement/implement.html)
 * Adobe Campaign Standard: [Campaign Standard Documentation](https://docs.adobe.com/content/help/de-DE/experience-cloud/user-guides/home.translate.html) - [Versionshinweise](https://experienceleague.adobe.com/docs/campaign-standard/using/release-notes/release-notes.html) - [Anleitungsvideos](https://docs.adobe.com/content/help/de-DE/experience-cloud/user-guides/home.translate.html) - [Versionsplanung](https://experienceleague.adobe.com/docs/campaign-standard/using/release-notes/release-planning.html) - [Neueste Dokumentationsaktualisierungen](https://experienceleague.adobe.com/docs/campaign-standard/using/documentation-updates.html)
 * Adobe Campaign Classic: [Campaign Classic v7 Documentation](https://docs.adobe.com/content/help/de-DE/experience-cloud/user-guides/home.translate.html) - [Versionshinweise](https://experienceleague.adobe.com/docs/campaign-classic/using/release-notes/latest-release.html) - [Anleitungsvideos](https://docs.adobe.com/content/help/de-DE/experience-cloud/user-guides/home.translate.html) - [Neueste Dokumentationsaktualisierungen](https://experienceleague.adobe.com/docs/campaign-classic/using/documentation-updates.html?lang=de)
-* Control Panel von Adobe Campaign: [Dokumentation](https://experienceleague.adobe.com/docs/control-panel/using/control-panel-home.html?lang=de) – [Versionshinweise](https://experienceleague.adobe.com/docs/control-panel/using/release-notes.html?lang=de) – Anleitungsvideos für [Campaign Standard](https://experienceleague.adobe.com/docs/campaign-standard-learn/control-panel/control-panel-overview.html?lang=de)/[Campaign Classic](https://experienceleague.adobe.com/docs/campaign-classic-learn/control-panel/control-panel-overview.html?lang=de)
+* Control Panel von Adobe Campaign: [Dokumentation](https://experienceleague.adobe.com/docs/control-panel/using/control-panel-home.html?lang=de) – [Versionshinweise](https://experienceleague.adobe.com/docs/control-panel/using/release-notes.html?lang=de)  – Anleitungsvideos für [Campaign Standard](https://experienceleague.adobe.com/docs/campaign-standard-learn/control-panel/control-panel-overview.html?lang=de)/[Campaign Classic](https://experienceleague.adobe.com/docs/campaign-classic-learn/control-panel/control-panel-overview.html?lang=de)
 
 ## ![Symbol](/assets/advertising-cloud.png) Advertising Cloud {#adcloud}
 
@@ -453,7 +453,7 @@ Zuletzt aktualisiert: **20. August 2021 für die Version 21. August**
 
 | Funktion | Beschreibung |
 | ------- | ----------- |
-| — | Das neue Beta-JavaScript-Tag von Advertising Cloud verwendet den Adobe Experience Cloud ID-Dienst (ECID) und die veralteten `ef_id` und `gsurferid` , um Konversionen zu messen. Das neue Tag erstellt [Experience Cloud s_ecid-Erstanbieter-Cookies](https://experienceleague.adobe.com/docs/core-services/interface/administration/ec-cookies/cookies-first-party.html?lang=de) und bietet eine engere Integration mit anderen Experience Cloud-Produkten.<br><br>Das alte Advertising Cloud JavaScript-Tag mit ITP-Zuordnung wird im September 2021 eingestellt.<br><br>Ihr Adobe-Kundenbetreuer wird betreffend weiterer Informationen sowie Anweisungen zur Implementierung Kontakt mit Ihnen aufnehmen |
+| — | Das neue Beta-JavaScript-Tag von Advertising Cloud verwendet den Adobe Experience Cloud ID-Dienst (ECID) und die veralteten `ef_id` und `gsurferid` , um Konversionen zu messen. Das neue Tag erstellt [Erstanbieter-Experience Cloud s_ecid-Cookies](https://experienceleague.adobe.com/docs/core-services/interface/administration/ec-cookies/cookies-first-party.html?lang=de) und bietet eine engere Integration mit anderen Experience Cloud-Produkten.<br><br>Das alte Advertising Cloud JavaScript-Tag mit ITP-Zuordnung wird im September 2021 eingestellt.<br><br>Ihr Adobe-Kundenbetreuer wird sich mit Ihnen in Verbindung setzen, um Ihnen weitere Informationen und eine Implementierungsanleitung bereitzustellen. |
 | [!UICONTROL Portfolios] | Für alle Benutzer steht eine neue [!UICONTROL Ziel-Beta-Version] mit automatisierten Gewichtungsempfehlungen zur Verfügung. Die neue Benutzeroberfläche enthält mehr Anleitungen zum Erstellen von Zielen und zum Festlegen der anfänglichen Zielgewichtung. Gewichtungsempfehlungen sind nur für unterstützende Metriken verfügbar. |
 
 {style=&quot;table-layout:auto&quot;}
