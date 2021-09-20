@@ -340,7 +340,7 @@ Siehe [SLA-Berichte](https://experienceleague.adobe.com/docs/experience-manager-
 
 * [Adobe Experience Cloud](https://www.linkedin.com/company/adobe-experience-cloud/)-Communities verbinden Adobe-Anwender miteinander und bieten ihnen die Möglichkeit, bahnbrechende digitale Erlebnisse für ihre Kunden zu schaffen.
 
-   Um eine Liste aller Mitglieder aufzurufen, besuchen Sie den [Adobe-Blog](https://blog.adobe.com/de/publish/2021/09/02/introducing-the-2021-adobe-community-advisors.html#gs.a6braz).
+   Um eine Liste aller Mitglieder aufzurufen, besuchen Sie den [Adobe-Blog](https://blog.adobe.com/en/publish/2021/09/02/introducing-the-2021-adobe-community-advisors.html#gs.a6braz).
 
 * [Wie kann ich eine neue Funktionsanfrage/Empfehlung für Experience Manager einreichen?](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-manager/announcing-the-new-process-to-submit-experience-manager-feature/td-p/380425?profile.language=de)
 
