@@ -6,7 +6,7 @@ last-update: September 2021
 author: mfrei
 mini-toc-levels: 1
 exl-id: bcbdba6a-9e24-4f84-97ca-65c24ef45707
-source-git-commit: e12356a1860ce775f703426a7bf7e883ad69e404
+source-git-commit: acd15846c8be6d3fd4ad9bdb8688912013d92f74
 workflow-type: tm+mt
 source-wordcount: '6533'
 ht-degree: 99%
@@ -195,6 +195,38 @@ Neue Videos, Tutorials oder Kurse, die für Experience Platform und Services ver
 
 {style=&quot;table-layout:auto&quot;}
 
+### Adobe Mobile SDK
+
+Siehe [Versionshinweise und Änderungsprotokolle](https://aep-sdks.gitbook.io/docs/release-notes) für die Mobile SDKs von Adobe Experience Platform.
+
+## ![Symbol](/assets/experience_platform_appicon_24.png) Journey Optimizer {#journey-opt}
+
+**August 2021** Zu den Aktualisierungen bei Journey Optimizer gehören:
+
+| Funktion | Beschreibung |
+| -----------| ---------- |
+| [!UICONTROL Optimierung des Versandzeitpunkts] | Senden Sie mit Adobe Journey Optimizer Ihre Push-Benachrichtigung oder E-Mail automatisch zum besten Zeitpunkt für jeden Kunden. |
+| Nutzen von Schemabeziehungen | Sie können jetzt beim Konfigurieren eines Geschäftsereignisses Beziehungen zwischen Schemas nutzen. |
+| [!UICONTROL Zeitraum für weitere Zustellversuche] | Sie können jetzt den Zeitraum für weitere Zustellversuche pro Voreinstellung definieren, um sicherzustellen, dass keine weiteren Zustellversuche ausgeführt werden, wenn sie nicht mehr benötigt werden. |
+| [!UICONTROL Unterdrückungsliste] | Das Hinzufügen von E-Mail-Adressen und Domains zur Unterdrückungsliste ist jetzt in der Benutzeroberfläche entweder einzeln oder im Bulk-Modus durch einen CSV-Datei-Upload möglich. |
+
+Weitere Informationen finden Sie unter [Journey Optimizer – Versionshinweise](https://experienceleague.adobe.com/docs/journey-optimizer/using/whats-new/release-notes.html?lang=de).
+
+### Neue Journey Optimizer-Tutorials und -Kurse {#tutorials-ajo}
+
+| Veröffentlicht | Name | Typ | Beschreibung |
+| -----------| ---------- | ---------- | ---------- |
+| August 2021 | [Einführung in das Erstellen einer Journey](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/create-journeys/introduction-to-building-a-journey.html?lang=de) | Video | Machen Sie sich mit den Grundlagen zum Erstellen einer Journey in der Journey-Arbeitsfläche vertraut. |
+| August 2021 | [Einrichten von Kundenprofildaten – Übersicht](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/data-configuration/set-up-data-overview.html?lang=de) | Video | Erfahren Sie mehr über Echtzeit-Kundenprofildaten und die erforderlichen Schritte zum Einrichten von Kundenprofildaten für Journey Optimizer. |
+| August 2021 | [Zuordnen von Identitäten](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/data-configuration/map-identities.html?lang=de) | Video | Erfahren Sie, wie und wann ein Schemafeld als Identität bezeichnet wird, wie ein Namespace erstellt wird, wann eine Identität als primär festgelegt wird und wie Identitätsdaten aufgenommen und überprüft werden. |
+| August 2021 | [Anwendungsfall – Burst-Nachricht](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/create-journeys/use-case-burst-message.html?lang=de) | Video | Machen Sie sich mit den Anwendungsfällen für Bust-Messaging vertraut. Erfahren Sie, wie Sie eine Journey für Burst-Nachrichten konfigurieren und welche Best Practices zur Anwendung kommen. |
+
+{style=&quot;table-layout:auto&quot;}
+
+### Weitere Ressourcen für Journey Optimizer
+
+[Hilfe-Center](https://experienceleague.adobe.com/docs/journey-optimizer/using/ajo-home.html?lang=de) – [Versionshinweise](https://experienceleague.adobe.com/docs/journey-optimizer/using/whats-new/release-notes.html) – [Anleitungsvideos](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/overview.html?lang=de)
+
 ### Journey Orchestration {#journey-orch}
 
 Funktionen, Fehlerbehebungen und neue Hilfeinhalte für die Journey Orchestration.
@@ -219,38 +251,6 @@ Weitere Informationen finden Sie unter [Versionshinweise zur Journey Orchestrati
 #### Weitere Ressourcen zu [!UICONTROL Offer Decisioning]
 
 [Hilfe-Center](https://experienceleague.adobe.com/docs/offer-decisioning/using/offer-decisioning-home.html?lang=de) – [Versionshinweise](https://experienceleague.adobe.com/docs/offer-decisioning/using/new/release-notes.html?lang=de#new) – [Anleitungsvideos](https://experienceleague.adobe.com/docs/offer-decisioning-learn/tutorials/overview.html?lang=de) – [Neueste Aktualisierungen der Dokumentation](https://experienceleague.adobe.com/docs/offer-decisioning/using/new/documentation-updates.html?lang=de)
-
-### Adobe Mobile SDK
-
-Siehe [Versionshinweise und Änderungsprotokolle](https://aep-sdks.gitbook.io/docs/release-notes) für die Mobile SDKs von Adobe Experience Platform.
-
-## ![Symbol](/assets/experience_platform_appicon_24.png) Journey Optimizer {#journey-opt}
-
-**August 2021** Zu den Aktualisierungen bei Journey Optimizer gehören:
-
-| Funktion | Beschreibung |
-| -----------| ---------- |
-| [!UICONTROL Optimierung des Versandzeitpunkts] | Senden Sie mit Adobe Journey Optimizer Ihre Push-Benachrichtigung oder E-Mail automatisch zum besten Zeitpunkt für jeden Kunden. |
-| Nutzen von Schemabeziehungen | Sie können jetzt beim Konfigurieren eines Geschäftsereignisses Beziehungen zwischen Schemas nutzen. |
-| [!UICONTROL Zeitraum für weitere Zustellversuche] | Sie können jetzt den Zeitraum für weitere Zustellversuche pro Voreinstellung definieren, um sicherzustellen, dass keine weiteren Zustellversuche ausgeführt werden, wenn sie nicht mehr benötigt werden. |
-| [!UICONTROL Unterdrückungsliste] | Das Hinzufügen von E-Mail-Adressen und Domains zur Unterdrückungsliste ist jetzt in der Benutzeroberfläche entweder einzeln oder im Bulk-Modus durch einen CSV-Datei-Upload möglich. |
-
-Weitere Informationen finden Sie unter [Journey Optimizer – Versionshinweise](https://experienceleague.adobe.com/docs/journey-optimizer/using/whats-new/release-notes.html?lang=de).
-
-#### Neue Journey Optimizer-Tutorials und -Kurse {#tutorials-ajo}
-
-| Veröffentlicht | Name | Typ | Beschreibung |
-| -----------| ---------- | ---------- | ---------- |
-| August 2021 | [Einführung in das Erstellen einer Journey](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/create-journeys/introduction-to-building-a-journey.html?lang=de) | Video | Machen Sie sich mit den Grundlagen zum Erstellen einer Journey in der Journey-Arbeitsfläche vertraut. |
-| August 2021 | [Einrichten von Kundenprofildaten – Übersicht](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/data-configuration/set-up-data-overview.html?lang=de) | Video | Erfahren Sie mehr über Echtzeit-Kundenprofildaten und die erforderlichen Schritte zum Einrichten von Kundenprofildaten für Journey Optimizer. |
-| August 2021 | [Zuordnen von Identitäten](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/data-configuration/map-identities.html?lang=de) | Video | Erfahren Sie, wie und wann ein Schemafeld als Identität bezeichnet wird, wie ein Namespace erstellt wird, wann eine Identität als primär festgelegt wird und wie Identitätsdaten aufgenommen und überprüft werden. |
-| August 2021 | [Anwendungsfall – Burst-Nachricht](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/create-journeys/use-case-burst-message.html?lang=de) | Video | Machen Sie sich mit den Anwendungsfällen für Bust-Messaging vertraut. Erfahren Sie, wie Sie eine Journey für Burst-Nachrichten konfigurieren und welche Best Practices zur Anwendung kommen. |
-
-{style=&quot;table-layout:auto&quot;}
-
-### Weitere Ressourcen für Journey Optimizer
-
-[Hilfe-Center](https://experienceleague.adobe.com/docs/journey-optimizer/using/ajo-home.html?lang=de) – [Versionshinweise](https://experienceleague.adobe.com/docs/journey-optimizer/using/whats-new/release-notes.html) – [Anleitungsvideos](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/overview.html?lang=de)
 
 ## ![Symbol](/assets/aem.png) Experience Manager {#aem}
 
