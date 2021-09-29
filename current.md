@@ -6,7 +6,7 @@ last-update: September 2021
 author: mfrei
 mini-toc-levels: 1
 exl-id: bcbdba6a-9e24-4f84-97ca-65c24ef45707
-source-git-commit: 9ab0cd435039085791c186a439f16954c317c2df
+source-git-commit: e12356a1860ce775f703426a7bf7e883ad69e404
 workflow-type: tm+mt
 source-wordcount: '6533'
 ht-degree: 99%
@@ -206,8 +206,6 @@ Funktionen, Fehlerbehebungen und neue Hilfeinhalte für die Journey Orchestratio
 
 Weitere Informationen finden Sie unter [Versionshinweise zur Journey Orchestration](https://experienceleague.adobe.com/docs/journeys/using/release-notes/release-notes.html?lang=de).
 
-{style=&quot;table-layout:auto&quot;}
-
 #### Weitere Ressourcen für Journey Orchestration
 
 [Hilfe-Center](https://experienceleague.adobe.com/docs/journeys/using/journey-orchestration-home.html?lang=de) – [Versionshinweise](https://experienceleague.adobe.com/docs/journeys/using/release-notes/release-notes.html) – [Anleitungsvideos](https://experienceleague.adobe.com/docs/journey-orchestration-learn/tutorials/understanding-journey-orchestration.html?lang=de) – [Neueste Aktualisierungen der Dokumentation](https://experienceleague.adobe.com/docs/journeys/using/release-notes/documentation-updates.html?lang=de)
@@ -247,6 +245,8 @@ Weitere Informationen finden Sie unter [Journey Optimizer – Versionshinweise](
 | August 2021 | [Einrichten von Kundenprofildaten – Übersicht](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/data-configuration/set-up-data-overview.html?lang=de) | Video | Erfahren Sie mehr über Echtzeit-Kundenprofildaten und die erforderlichen Schritte zum Einrichten von Kundenprofildaten für Journey Optimizer. |
 | August 2021 | [Zuordnen von Identitäten](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/data-configuration/map-identities.html?lang=de) | Video | Erfahren Sie, wie und wann ein Schemafeld als Identität bezeichnet wird, wie ein Namespace erstellt wird, wann eine Identität als primär festgelegt wird und wie Identitätsdaten aufgenommen und überprüft werden. |
 | August 2021 | [Anwendungsfall – Burst-Nachricht](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/create-journeys/use-case-burst-message.html?lang=de) | Video | Machen Sie sich mit den Anwendungsfällen für Bust-Messaging vertraut. Erfahren Sie, wie Sie eine Journey für Burst-Nachrichten konfigurieren und welche Best Practices zur Anwendung kommen. |
+
+{style=&quot;table-layout:auto&quot;}
 
 ### Weitere Ressourcen für Journey Optimizer
 
