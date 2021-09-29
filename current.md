@@ -6,10 +6,10 @@ last-update: September 2021
 author: mfrei
 mini-toc-levels: 1
 exl-id: bcbdba6a-9e24-4f84-97ca-65c24ef45707
-source-git-commit: dfec28cdcc99e9f8840e0eb1dec5c721775d65b8
+source-git-commit: 9ab0cd435039085791c186a439f16954c317c2df
 workflow-type: tm+mt
 source-wordcount: '6533'
-ht-degree: 100%
+ht-degree: 99%
 
 ---
 
@@ -206,15 +206,6 @@ Funktionen, Fehlerbehebungen und neue Hilfeinhalte für die Journey Orchestratio
 
 Weitere Informationen finden Sie unter [Versionshinweise zur Journey Orchestration](https://experienceleague.adobe.com/docs/journeys/using/release-notes/release-notes.html?lang=de).
 
-#### Neue Tutorials und Kurse zu Journey Orchestration {#tutorials-ajo}
-
-| Veröffentlicht | Name | Typ | Beschreibung |
-| -----------| ---------- | ---------- | ---------- |
-| August 2021 | [Einführung in das Erstellen einer Journey](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/create-journeys/introduction-to-building-a-journey.html?lang=de) | Video | Machen Sie sich mit den Grundlagen zum Erstellen einer Journey in der Journey-Arbeitsfläche vertraut. |
-| August 2021 | [Einrichten von Kundenprofildaten – Übersicht](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/data-configuration/set-up-data-overview.html?lang=de) | Video | Erfahren Sie mehr über Echtzeit-Kundenprofildaten und die erforderlichen Schritte zum Einrichten von Kundenprofildaten für Journey Optimizer. |
-| August 2021 | [Zuordnen von Identitäten](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/data-configuration/map-identities.html?lang=de) | Video | Erfahren Sie, wie und wann ein Schemafeld als Identität bezeichnet wird, wie ein Namespace erstellt wird, wann eine Identität als primär festgelegt wird und wie Identitätsdaten aufgenommen und überprüft werden. |
-| August 2021 | [Anwendungsfall – Burst-Nachricht](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/create-journeys/use-case-burst-message.html?lang=de) | Video | Machen Sie sich mit den Anwendungsfällen für Bust-Messaging vertraut. Erfahren Sie, wie Sie eine Journey für Burst-Nachrichten konfigurieren und welche Best Practices zur Anwendung kommen. |
-
 {style=&quot;table-layout:auto&quot;}
 
 #### Weitere Ressourcen für Journey Orchestration
@@ -247,6 +238,15 @@ Siehe [Versionshinweise und Änderungsprotokolle](https://aep-sdks.gitbook.io/do
 | [!UICONTROL Unterdrückungsliste] | Das Hinzufügen von E-Mail-Adressen und Domains zur Unterdrückungsliste ist jetzt in der Benutzeroberfläche entweder einzeln oder im Bulk-Modus durch einen CSV-Datei-Upload möglich. |
 
 Weitere Informationen finden Sie unter [Journey Optimizer – Versionshinweise](https://experienceleague.adobe.com/docs/journey-optimizer/using/whats-new/release-notes.html?lang=de).
+
+#### Neue Journey Optimizer-Tutorials und -Kurse {#tutorials-ajo}
+
+| Veröffentlicht | Name | Typ | Beschreibung |
+| -----------| ---------- | ---------- | ---------- |
+| August 2021 | [Einführung in das Erstellen einer Journey](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/create-journeys/introduction-to-building-a-journey.html?lang=de) | Video | Machen Sie sich mit den Grundlagen zum Erstellen einer Journey in der Journey-Arbeitsfläche vertraut. |
+| August 2021 | [Einrichten von Kundenprofildaten – Übersicht](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/data-configuration/set-up-data-overview.html?lang=de) | Video | Erfahren Sie mehr über Echtzeit-Kundenprofildaten und die erforderlichen Schritte zum Einrichten von Kundenprofildaten für Journey Optimizer. |
+| August 2021 | [Zuordnen von Identitäten](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/data-configuration/map-identities.html?lang=de) | Video | Erfahren Sie, wie und wann ein Schemafeld als Identität bezeichnet wird, wie ein Namespace erstellt wird, wann eine Identität als primär festgelegt wird und wie Identitätsdaten aufgenommen und überprüft werden. |
+| August 2021 | [Anwendungsfall – Burst-Nachricht](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/create-journeys/use-case-burst-message.html?lang=de) | Video | Machen Sie sich mit den Anwendungsfällen für Bust-Messaging vertraut. Erfahren Sie, wie Sie eine Journey für Burst-Nachrichten konfigurieren und welche Best Practices zur Anwendung kommen. |
 
 ### Weitere Ressourcen für Journey Optimizer
 
