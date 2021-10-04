@@ -6,9 +6,9 @@ last-update: October 2021
 author: mfrei
 mini-toc-levels: 1
 exl-id: bcbdba6a-9e24-4f84-97ca-65c24ef45707
-source-git-commit: e3a7e1b80d25a3b9625ca0ee31a07bae674eda6f
+source-git-commit: bee65444e8ef1c12779c991fa9e199d93b8028f0
 workflow-type: tm+mt
-source-wordcount: '5278'
+source-wordcount: '5361'
 ht-degree: 39%
 
 ---
@@ -48,12 +48,12 @@ Benötigen Sie Hilfe? Besuchen Sie [Adobe Experience League](https://experiencel
 
 [!DNL Experience League]-Live-Ereignisse sind Diskussionen mit Adobe-Experten und wichtigen Gästen, die maßgeblich dazu beitragen, Ihnen die Adobe-Technik zu bringen. Sehen Sie sich folgenden Zeitplan an und nehmen Sie an der Live-Schaltung teil oder rufen Sie die zuvor aufgezeichneten Ereignisse ab.
 
-| Ereignisdatum | Ereignisname | Typ | Beschreibung |
-| -----------| ---------- | ---------- | ---------- |
-| 21. Oktober 2021 | TBD | Live-Videoereignis | Details werden demnächst angezeigt. |
-| 23. September 2021 | [Expertentipps für eine erfolgreiche Kampagne zum Jahresende](https://www.youtube.com/watch?v=bsU1lAv0xes) | Live-Videoereignis | So wie es nie zu früh ist, um mit einem Urlaubseinkauf zu beginnen, ist es nie zu früh, um mit der Planung einer sehr erfolgreichen Marketing-Kampagne für die Feiertage zum Jahresende zu beginnen. Mit Adobe Campaign können Sie Kampagnen entwerfen, planen und ausführen, die alle Urlaubswünsche Ihres Unternehmens erfüllen.<br>Aber kennen Sie alle Tipps für Kampagnen, die das Jahr mit einem Knall beenden? Treten Sie Sandra bei, um eine Live-Diskussion mit drei Experten aus der Adobe zu führen, die über genügend kollektives Know-how in diesem Bereich verfügen. |
-| 26. August 2021 | [Machen Sie Ihr nächstes Zielgruppensegment intelligenter als je zuvor](https://experienceleague.adobe.com/docs/experience-league-live-events/events/episodes/exl-live-episode-02.html?lang=de) | Ereignisaufzeichnung | Der Erfolg jeder guten Marketing-Kampagne hängt von einer präzisen Bestimmung Ihrer Zielgruppe ab. Mit dem neuen [!UICONTROL Segment Builder] von Adobe Experience Platform können Sie Ihr nächstes Zielgruppensegment anhand von Profildaten und zeitbasiertem Benutzerverhalten kanalübergreifend erstellen. Es gibt keine bessere Möglichkeit, um mit Ihren Nachrichten die Menschen zu erreichen, die sie am dringendsten hören müssen. |
-| 29. Juli 2021 | [Meine drei beliebtesten Implementierungstipps für Adobe Analytics](https://experienceleague.adobe.com/docs/experience-league-live-events/events/episodes/exl-live-episode-01.html?lang=de) | Ereignisaufzeichnung | Sie haben ihn beim Summit auf der Bühne gesehen. Sie haben ihn bei Adobe Insider Tours erlebt, wo er Expertentipps vortrug. Möglicherweise haben Sie sogar mit ihm zusammen an Ihrer eigenen Adobe Analytics-Implementierung gearbeitet. Nun bringt Eric Matisoff seine drei beliebtesten Implementierungstipps für Adobe Analytics in diese exklusive Experience League Live-Diskussion ein. |
+| Ereignisdatum | Zeit | Ereignisname | Typ | Beschreibung |
+| -----------| ---------- | ---------- | ---------- |---------- |
+| 21. Oktober 2021 | 23.00 Uhr (EST) | [Wer hat darauf geklickt? Erweiterte Berichterstellung zu Link-Klicks mit Adobe Analytics](https://www.youtube.com/channel/UCN-7ZEctit8Qu01BWeHQ0Fw) | Live-Video-Ereignis | Die Berichterstattung über Benutzerinteraktionen mit Ihren Web- oder mobilen Eigenschaften ist ein wichtiges Element zum Verständnis der Journey Ihres Kunden. Mit Adobe Analytics können Sie wissen, wer, was, warum und wo von jedem Klick in Ihrer Anwendung. Erfahren Sie von Adobe Analytics-Experten die wichtigsten Tipps zur Verwendung von Activity Map-Classifications und benutzerdefinierter Attribution, um die Benutzerinteraktion besser zu verstehen. |
+| 23. September 2021 | On Demand | [Expertentipps für eine erfolgreiche Kampagne zum Jahresende](https://www.youtube.com/watch?v=bsU1lAv0xes) | Live-Videoereignis | So wie es nie zu früh ist, um mit einem Urlaubseinkauf zu beginnen, ist es nie zu früh, um mit der Planung einer sehr erfolgreichen Marketing-Kampagne für die Feiertage zum Jahresende zu beginnen. Mit Adobe Campaign können Sie Kampagnen entwerfen, planen und ausführen, die alle Urlaubswünsche Ihres Unternehmens erfüllen.<br>Aber kennen Sie alle Tipps für Kampagnen, die das Jahr mit einem Knall beenden? Treten Sie Sandra bei, um eine Live-Diskussion mit drei Experten aus der Adobe zu führen, die über genügend kollektives Know-how in diesem Bereich verfügen. |
+| 26. August 2021 | On Demand | [Machen Sie Ihr nächstes Zielgruppensegment intelligenter als je zuvor](https://experienceleague.adobe.com/docs/experience-league-live-events/events/episodes/exl-live-episode-02.html?lang=de) | Ereignisaufzeichnung | Der Erfolg jeder guten Marketing-Kampagne hängt von einer präzisen Bestimmung Ihrer Zielgruppe ab. Mit dem neuen [!UICONTROL Segment Builder] von Adobe Experience Platform können Sie Ihr nächstes Zielgruppensegment anhand von Profildaten und zeitbasiertem Benutzerverhalten kanalübergreifend erstellen. Es gibt keine bessere Möglichkeit, um mit Ihren Nachrichten die Menschen zu erreichen, die sie am dringendsten hören müssen. |
+| 29. Juli 2021 | On Demand | [Meine drei beliebtesten Implementierungstipps für Adobe Analytics](https://experienceleague.adobe.com/docs/experience-league-live-events/events/episodes/exl-live-episode-01.html?lang=de) | Ereignisaufzeichnung | Sie haben ihn beim Summit auf der Bühne gesehen. Sie haben ihn bei Adobe Insider Tours erlebt, wo er Expertentipps vortrug. Möglicherweise haben Sie sogar mit ihm zusammen an Ihrer eigenen Adobe Analytics-Implementierung gearbeitet. Nun bringt Eric Matisoff seine drei beliebtesten Implementierungstipps für Adobe Analytics in diese exklusive Experience League Live-Diskussion ein. |
 
 {style=&quot;table-layout:auto&quot;}
 
