@@ -6,9 +6,9 @@ last-update: October 2021
 author: mfrei
 mini-toc-levels: 1
 exl-id: bcbdba6a-9e24-4f84-97ca-65c24ef45707
-source-git-commit: 5d2897fadd10e663694a27b753039992b071559e
+source-git-commit: 2ad6cb4ae1ae0c9a9414df7c1360a3d4d428f1e5
 workflow-type: tm+mt
-source-wordcount: '5262'
+source-wordcount: '5271'
 ht-degree: 40%
 
 ---
@@ -346,7 +346,7 @@ Neueste Tutorials und Kurse für Adobe Campaign.
 | Oktober 2021 | [Verwenden von SOAP-APIs in Workflows - Einführung](https://experienceleague.adobe.com/docs/campaign-learn/use-soap-apis/introduction.html?lang=en) | Tutorial | Erfahren Sie, wie Sie Adobe Campaign Soap-APIs verwenden und einen erweiterten Versand-Workflow erstellen, der auf den über die API empfangenen Daten basiert. |
 | Oktober 2021 | [Ereignisse erstellen](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/journey-configuration/create-events.html?lang=en) | Tutorial | Erfahren Sie, wie Sie ein Ereignis konfigurieren, den Streaming-Endpunkt und die Payload für ein Ereignis angeben. |
 | Oktober 2021 | [Konfigurieren von Datenquellen](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/journey-configuration/configure-data-sources.html?lang=en) | Tutorial | Erfahren Sie, was eine Datenquelle ist und wie Sie Experience Platform und externe Datenquellen konfigurieren. |
-| Oktober 2021 | [Anwendungsfall - Fehlermeldungen](lihttps://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/create-journeys/use-case-burst-message.html?lang=ennk) | Tutorial | Machen Sie sich mit den Anwendungsfällen für Bust-Messaging vertraut. Erfahren Sie, wie Sie eine Journey für Burst-Nachrichten konfigurieren und welche Best Practices zur Anwendung kommen. |
+| Oktober 2021 | [Anwendungsfall - Fehlermeldungen](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/create-journeys/use-case-burst-message.html?lang=en) | Tutorial | Machen Sie sich mit den Anwendungsfällen für Bust-Messaging vertraut. Erfahren Sie, wie Sie eine Journey für Burst-Nachrichten konfigurieren und welche Best Practices zur Anwendung kommen. |
 
 {style=&quot;table-layout:auto&quot;}
 
