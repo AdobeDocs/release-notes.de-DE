@@ -6,9 +6,9 @@ last-update: October 2021
 author: mfrei
 mini-toc-levels: 1
 exl-id: bcbdba6a-9e24-4f84-97ca-65c24ef45707
-source-git-commit: 2ad6cb4ae1ae0c9a9414df7c1360a3d4d428f1e5
+source-git-commit: 614e6d1d0f003ed788aafd806d25afdf3cd723e9
 workflow-type: tm+mt
-source-wordcount: '5271'
+source-wordcount: '5278'
 ht-degree: 40%
 
 ---
@@ -23,7 +23,7 @@ ht-degree: 40%
 >
 >Abonnieren Sie das monatliche [Adobe Priority Product Update](https://www.adobe.com/subscription/priority-product-update.html), um E-Mail-Benachrichtigungen über Aktualisierungen dieser Seite zu erhalten. Diese Seite wird den ganzen Monat über gepflegt. Informieren Sie sich daher regelmäßig über die neuesten Updates zu Adobe Unternehmensprodukten und der Experience League-Dokumentation.
 
-Letzte Aktualisierung: **1. Oktober 2021**
+Letzte Aktualisierung: **4. Oktober 2021**
 
 * [[!DNL Experience League]-Live-Ereignisse](#events)
 * [[!DNL Experience Cloud Central Interface Components] und Administration](#ecloud)
@@ -50,6 +50,7 @@ Benötigen Sie Hilfe? Besuchen Sie [Adobe Experience League](https://experiencel
 
 | Ereignisdatum | Ereignisname | Typ | Beschreibung |
 | -----------| ---------- | ---------- | ---------- |
+| 21. Oktober 2021 | TBD | Live-Videoereignis | Details werden demnächst angezeigt. |
 | 23. September 2021 | [Expertentipps für eine erfolgreiche Kampagne zum Jahresende](https://www.youtube.com/watch?v=bsU1lAv0xes) | Live-Videoereignis | So wie es nie zu früh ist, um mit einem Urlaubseinkauf zu beginnen, ist es nie zu früh, um mit der Planung einer sehr erfolgreichen Marketing-Kampagne für die Feiertage zum Jahresende zu beginnen. Mit Adobe Campaign können Sie Kampagnen entwerfen, planen und ausführen, die alle Urlaubswünsche Ihres Unternehmens erfüllen.<br>Aber kennen Sie alle Tipps für Kampagnen, die das Jahr mit einem Knall beenden? Treten Sie Sandra bei, um eine Live-Diskussion mit drei Experten aus der Adobe zu führen, die über genügend kollektives Know-how in diesem Bereich verfügen. |
 | 26. August 2021 | [Machen Sie Ihr nächstes Zielgruppensegment intelligenter als je zuvor](https://experienceleague.adobe.com/docs/experience-league-live-events/events/episodes/exl-live-episode-02.html?lang=de) | Ereignisaufzeichnung | Der Erfolg jeder guten Marketing-Kampagne hängt von einer präzisen Bestimmung Ihrer Zielgruppe ab. Mit dem neuen [!UICONTROL Segment Builder] von Adobe Experience Platform können Sie Ihr nächstes Zielgruppensegment anhand von Profildaten und zeitbasiertem Benutzerverhalten kanalübergreifend erstellen. Es gibt keine bessere Möglichkeit, um mit Ihren Nachrichten die Menschen zu erreichen, die sie am dringendsten hören müssen. |
 | 29. Juli 2021 | [Meine drei beliebtesten Implementierungstipps für Adobe Analytics](https://experienceleague.adobe.com/docs/experience-league-live-events/events/episodes/exl-live-episode-01.html?lang=de) | Ereignisaufzeichnung | Sie haben ihn beim Summit auf der Bühne gesehen. Sie haben ihn bei Adobe Insider Tours erlebt, wo er Expertentipps vortrug. Möglicherweise haben Sie sogar mit ihm zusammen an Ihrer eigenen Adobe Analytics-Implementierung gearbeitet. Nun bringt Eric Matisoff seine drei beliebtesten Implementierungstipps für Adobe Analytics in diese exklusive Experience League Live-Diskussion ein. |
@@ -302,7 +303,7 @@ Versionshinweise und andere Links zu Versionsinformationen für Experience Manag
 * [[!DNL Experience Manager as a Cloud Service]  Versionshinweise](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/release-notes/release-notes/release-notes-current.html?lang=de)
 * [[!DNL Experience Manager as a Cloud Service] Versionsinformationen](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/release-notes/home.html?lang=de)
 * [[!DNL Experience Manager Cloud Manager]  Versionshinweise](https://experienceleague.adobe.com/docs/experience-manager-cloud-manager/using/release-notes/release-notes-current.html?lang=de)
-* [Versionshinweise zum Dienst für die automatische Formularkonversion](https://experienceleague.adobe.com/docs/aem-forms-automated-conversion-service/using/release-notes.html?lang=de)
+* [Versionshinweise zum Service für die automatische Formularkonversion](https://experienceleague.adobe.com/docs/aem-forms-automated-conversion-service/using/release-notes.html?lang=de)
 * [Versionshinweise für Experience Manager 6.5 Service Pack](https://experienceleague.adobe.com/docs/experience-manager-65/release-notes/service-pack/sp-release-notes.html?lang=de)
 * [Versionshinweise für Experience Manager 6.4 Cumulative Fix Pack](https://experienceleague.adobe.com/docs/experience-manager-64/release-notes/cfp-release-notes.html?lang=de)
 * [[!DNL Experience Manager Assets Dynamic Media]  Versionshinweise](https://experienceleague.adobe.com/docs/dynamic-media-developer-resources/release-notes/s7rn2017.html?lang=de)
