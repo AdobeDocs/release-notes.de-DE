@@ -6,9 +6,9 @@ last-update: October 2021
 author: mfrei
 mini-toc-levels: 1
 exl-id: bcbdba6a-9e24-4f84-97ca-65c24ef45707
-source-git-commit: f0bc233f66b61333fee0cf07f816918d61c0776e
+source-git-commit: 7cf9cf52da1afbbad7f5457077759b127a2e2312
 workflow-type: tm+mt
-source-wordcount: '5394'
+source-wordcount: '5405'
 ht-degree: 39%
 
 ---
@@ -78,7 +78,7 @@ Weitere Videos finden Sie im [Adobe Experience League-Kanal](https://www.youtube
 
 ## ![Symbol](/assets/adobe.png) [!DNL Adobe System Status] {#status}
 
-[!DNL Adobe System Status] liefert detaillierte Informationen, Statusaktualisierungen und E-Mail-Benachrichtigungen zu Ausfällen, Störungen und Wartungsarbeiten von Adobe-Produkten und -Diensten. Weitere Informationen dazu erhalten Sie unter [status.adobe.com](https://status.adobe.com/).
+[!DNL Adobe System Status] liefert detaillierte Informationen, Statusaktualisierungen und E-Mail-Benachrichtigungen zu Ausfällen, Störungen und Wartungsarbeiten von Adobe-Produkten und -Diensten. Weitere Informationen dazu erhalten Sie unter [status.adobe.com](https://status.adobe.com/de).
 
 (Die neuesten Versionsinformationen zu [!DNL Adobe System Status] finden Sie in den Versionshinweisen vom [21. Mai 2020](https://experienceleague.adobe.com/docs/release-notes/experience-cloud/previous/2020/05212020.html?lang=de).)
 
@@ -109,7 +109,7 @@ Release-Datum: **7. Oktober 2021**
 
 | Funktion | Beschreibung | [Allgemeine Verfügbarkeit](https://experienceleague.adobe.com/docs/analytics/technotes/releases.html?lang=en) – geplantes Datum |
 | ----------- | ---------- | ----- |
-| Report Builder-Support | Report Builder ist ein Add-in für Microsoft® [!DNL Excel], mit dem Sie benutzerspezifische Berichte einfach erstellen, bearbeiten und aktualisieren können, indem Sie Customer Journey Analytics-Daten verwenden. Mit Report Builder und Excel können Sie die einfache, aber flexible Drag &amp; Drop-Benutzeroberfläche verwenden, um einfach komplexe Datenanforderungen zu erstellen. Mit Report Builder für Customer Journey Analytics können Sie:<ul><li>Referenzieren Sie vorhandene Arbeitsblattzellen, um die richtige Zeilenreihenfolge, den richtigen Datumsbereich oder den richtigen Filter zu erhalten.</li><li>Erstellen benutzerdefinierter Datumswerte mit Kalender, Zellreferenzen oder Datumsmetrik</li><li>Entwerfen Sie Ihre Tabellen und Visualisierungen mit den üblichen Excel-Formatierungswerkzeugen</li><li>Verfügbar in macOS, Microsoft 365 für das Web und Microsoft Windows</li></ul> | 7. Oktober 2021 |
+| Report Builder-Support | Report Builder ist ein Add-in für Microsoft® [!DNL Excel], mit dem Sie benutzerspezifische Berichte einfach erstellen, bearbeiten und aktualisieren können, indem Sie Customer Journey Analytics-Daten verwenden. Mit Report Builder und Excel können Sie die einfache, aber flexible Drag &amp; Drop-Benutzeroberfläche verwenden, um einfach komplexe Datenanforderungen zu erstellen. Mit Report Builder für Customer Journey Analytics können Sie:<ul><li>Referenzieren Sie vorhandene Arbeitsblattzellen, um die richtige Zeilenreihenfolge, den richtigen Datumsbereich oder den richtigen Filter zu erhalten.</li><li>Erstellen benutzerdefinierter Datumswerte mit Kalender, Zellreferenzen oder Datumsmetrik</li><li>Entwerfen Sie Ihre Tabellen und Visualisierungen mit den üblichen Excel-Formatierungswerkzeugen</li><li>Verfügbar für Excel unter macOS, Microsoft 365 für das Web und Microsoft Windows</li></ul>[Weitere Informationen](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-reportbuilder/report-buider-overview.html#) | 7. Oktober 2021 |
 | Visualisierungen für Analytics-Dashboards | Analytics [!UICONTROL Dashboards] führt drei neue Visualisierungen ein, um Führungskräften und Entscheidungsträgern ein noch besseres Überblick über ihre Daten zu vermitteln. Die neuen Balkendiagramme für Doppel-, Linien- und horizontale Balken erleichtern die Anzeige von Daten für einzelne Dimensionselemente, ohne dass eine Detailansicht geöffnet werden muss. [Weitere Informationen](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-dashboards/create-scorecard.html?lang=en#apply-visualizations) | 7. Oktober 2021 |
 | Customer Journey Analytics Audit Logs-API | Über den API-Endpunkt [Auditprotokoll](https://adobe.io/cja-apis/docs/endpoints/auditlogs/) können Sie Auditprotokolldaten von Adobe anfordern. Es ist ein wichtiger Teil der Sicherheitskonformität und für die Prüfung von Daten oder Benutzeraktionen. | 7. Oktober 2021 |
 | Quick [!UICONTROL Filter Builder] | Ermöglicht es Geschäftsbenutzern, einfache Segmente in einem vereinfachten Inline-Projekt-Workflow schnell anzuwenden. Sie müssen nicht zum [!UICONTROL Filter Builder] wechseln. [Weitere Informationen](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-components/cja-filters/quick-filters.html?lang=en) | 21. Oktober 2021 |
@@ -309,7 +309,7 @@ Versionshinweise und andere Links zu Versionsinformationen für Experience Manag
 * [[!DNL Experience Manager Assets Dynamic Media]  Versionshinweise](https://experienceleague.adobe.com/docs/dynamic-media-developer-resources/release-notes/s7rn2017.html?lang=de)
 * [[!DNL Experience Manager Brand Portal]  Versionshinweise](https://experienceleague.adobe.com/docs/experience-manager-brand-portal/using/introduction/brand-portal-release-notes.html?lang=de)
 * [Versionshinweise zum Experience Manager-Desktop-Programm ](https://experienceleague.adobe.com/docs/experience-manager-desktop-app/using/release-notes.html?lang=de)
-* [[!DNL Experience Manager Dispatcher]  Versionshinweise für](https://experienceleague.adobe.com/docs/experience-manager-dispatcher/using/getting-started/release-notes.html?lang=de)
+* [[!DNL Experience Manager Dispatcher]  Versionshinweise](https://experienceleague.adobe.com/docs/experience-manager-dispatcher/using/getting-started/release-notes.html?lang=de)
 * [Versionshinweise zu Adobe Primetime](https://experienceleague.adobe.com/docs/primetime/release-notes/home.html?lang=de)
 * [Versionshinweise zu Livefyre](https://experienceleague.adobe.com/docs/livefyre/using/release-notes/c-rn.html?lang=de)
 
