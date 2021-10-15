@@ -6,9 +6,9 @@ last-update: October 2021
 author: mfrei
 mini-toc-levels: 1
 exl-id: bcbdba6a-9e24-4f84-97ca-65c24ef45707
-source-git-commit: d2d02b2130c11f1971220646ac19f4fa6f0ab5da
+source-git-commit: 506c543d97a19bf88e7ba767c82893b02704ea8b
 workflow-type: tm+mt
-source-wordcount: '5553'
+source-wordcount: '5631'
 ht-degree: 38%
 
 ---
@@ -349,7 +349,7 @@ Neueste Tutorials und Kurse für Adobe Campaign.
 | Oktober 2021 | [Erstellen erweiterter Kampagnen mit Adobe Campaign V8 für Geschäftsbenutzer](https://experienceleague.adobe.com/?recommended=Campaign-U-1.2021.1.v8) | Kurs | Erfahren Sie, wie Sie erweiterte Marketingkampagnen mit Adobe Campaign V8 konfigurieren und ausführen. Erfahren Sie mehr über die Voraussetzungen, erstellen und konfigurieren Sie erweiterte Kampagnen, Sendungen und verwalten Sie Abonnements. |
 | Oktober 2021 | [Verwenden von SOAP-APIs in Workflows - Einführung](https://experienceleague.adobe.com/docs/campaign-learn/use-soap-apis/introduction.html?lang=en) | Tutorial | Erfahren Sie, wie Sie Adobe Campaign Soap-APIs verwenden und einen erweiterten Versand-Workflow erstellen, der auf den über die API empfangenen Daten basiert. |
 | Oktober 2021 | [Ereignisse erstellen](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/journey-configuration/create-events.html?lang=en) | Tutorial | Erfahren Sie, wie Sie ein Ereignis konfigurieren, den Streaming-Endpunkt und die Payload für ein Ereignis angeben. |
-| Oktober 2021 | [Konfigurieren von Datenquellen](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/journey-configuration/configure-data-sources.html?lang=en) | Tutorial | Erfahren Sie, was eine Datenquelle ist und wie Sie Experience Platform und externe Datenquellen konfigurieren. |
+| Oktober 2021 | [Konfigurieren von Datenquellen](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/journey-configuration/configure-data-sources.html?lang=en) | Tutorial | Erfahren Sie, was eine Datenquelle ist, und lernen Sie, wie Sie Experience Platform- und externe Datenquellen konfigurieren. |
 | Oktober 2021 | [Anwendungsfall - Fehlermeldungen](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/create-journeys/use-case-burst-message.html?lang=en) | Tutorial | Machen Sie sich mit den Anwendungsfällen für Bust-Messaging vertraut. Erfahren Sie, wie Sie eine Journey für Burst-Nachrichten konfigurieren und welche Best Practices zur Anwendung kommen. |
 
 {style=&quot;table-layout:auto&quot;}
@@ -370,22 +370,21 @@ Versionshinweise für [!DNL Adobe Advertising Cloud].
 
 ### Neue Funktionen in Version [!DNL Advertising Cloud DSP] {#adcloud-dsp}
 
-Zuletzt aktualisiert: **28. September 2021**
+Zuletzt aktualisiert: **7. Oktober 2021**
 
 | Funktion | Beschreibung |
 | ------- | ----------- |
-| Ansichten der Kampagnenverwaltung | Eine Spalte &quot;[!UICONTROL Erstellungsdatum]&quot;ist jetzt in benutzerdefinierten Spaltensätzen für die Ansichten [!UICONTROL Kampagnen], [!UICONTROL Pakete], [!UICONTROL Platzierungen] und [!UICONTROL Anzeigen] verfügbar. Sie können auch die Ansichten [!UICONTROL Platzierungen] und [!UICONTROL Anzeigen] nach [!UICONTROL Erstellungsdatum] filtern. |
-| Programmgarantierte Vereinbarungen | (Version vom 8. September) Sie können jetzt das [!UICONTROL Max. Angebot] für die Standardplatzierung für einen programmgesteuerten garantierten (PG) Deal bearbeiten. Da jedoch PG-Angebote immer einen festen CPM haben, sollten nur internationale Kunden das [!UICONTROL Max. Angebot] bearbeiten, um Währungswechselgebühren zu berücksichtigen. |
-|  | (Version vom 8. September) Benutzer mit der Berechtigung &quot;[!DNL FreeWheel Programmatic Guaranteed]&quot;können jetzt eine Anzeige an [!DNL FreeWheel Programmatic Creative API] aus der [!UICONTROL Anzeigen]-Ansicht oder aus der [!UICONTROL Platzierungen]-Ansicht senden. Sie können eine Anzeige weiterhin über die Ansicht [!UICONTROL Angebote] senden. |
+| Dokumentation | Alle [DSP und andere Advertising Cloud-Dokumentationen](https://experienceleague.adobe.com/docs/advertising-cloud.html) auf [!DNL Experience League] werden jetzt maschinell in alle verfügbaren Sprachen übersetzt. Um die angezeigte Sprache zu ändern, verwenden Sie das Menü &quot;Sprache ändern&quot; unten links auf jeder Seite. |
 
 {style=&quot;table-layout:auto&quot;}
 
 ### Neue Funktionen in Version [!DNL Advertising Cloud Search] {#adcloud-search}
 
-Zuletzt aktualisiert: **28. September 2021**
+Zuletzt aktualisiert: **7. Oktober 2021**
 
 | Funktion | Beschreibung |
 | ------- | ----------- |
+| [!UICONTROL Berichte],  [!UICONTROL Benachrichtigungszentrum] | (Version vom 9. Oktober) Alle E-Mail-Benachrichtigungen für Berichte, die Advertising Cloud Search sendet, wenn ein benutzerdefinierter oder terminierter Bericht abgeschlossen wurde oder fehlgeschlagen ist, werden jetzt von [!UICONTROL Notification Center] verarbeitet. E-Mail-Benachrichtigungen und Webbenachrichtigungen sind standardmäßig für Berichte aktiviert, Sie können aber optional die Benachrichtigungseinstellungen ändern. Mit dieser Änderung:<ul><li>E-Mail-Empfänger sind auf Benutzer beschränkt, die registrierte, authentifizierte Benutzer von Advertising Cloud Search sind und Zugriff auf das Advertiser-Konto haben. Dadurch wird sichergestellt, dass keine vertraulichen Daten an nicht autorisierte Benutzer gesendet werden.</li><li>Format und Inhalt der E-Mail verwenden die Vorlage [!UICONTROL Notification Center] , die weitere Details zum Bericht enthält und direkte Download-Links für alle Berichtsformate enthält.</li><li>Berichtsbenachrichtigungen sind ein neuer Benachrichtigungstyp mit eigenen Benachrichtigungseinstellungen in [!UICONTROL Notification Center].</li></ul>Wenn Sie zum Abrufen von Berichten aus E-Mail-Benachrichtigungen eine Automatisierung verwenden, müssen Sie möglicherweise die Filterlogik aktualisieren, um die Kontinuität des Prozesses sicherzustellen. |
 | Werbeeinblicke | Zusätzliche Einblicke sind im Beta-Modus verfügbar. |
 
 {style=&quot;table-layout:auto&quot;}
