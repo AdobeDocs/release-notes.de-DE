@@ -9,7 +9,7 @@ exl-id: null
 source-git-commit: 99bb9c88f2aa8b9f62cf2f088671fe60c1e684ab
 workflow-type: tm+mt
 source-wordcount: '4131'
-ht-degree: 60%
+ht-degree: 64%
 
 ---
 
@@ -54,7 +54,7 @@ Benötigen Sie Hilfe? Besuchen Sie [Adobe Experience League](https://experiencel
 | Ereignisdatum | Zeit | Ereignisname | Typ | Beschreibung |
 | -----------| ---------- | ---------- | ---------- |---------- |
 | 21. Oktober 2021 | Auf Abruf | [Wer hat darauf geklickt? Erweiterte Berichterstellung zu Link-Klicks mit Adobe Analytics](https://experienceleague.adobe.com/docs/experience-league-live-events/events/overview.html?lang=en) | Live-Videoereignis | Die Berichterstattung über Benutzerinteraktionen mit Ihren Web- oder mobilen Eigenschaften ist ein wichtiges Element zum Verständnis der Journey Ihres Kunden. Mit Adobe Analytics können Sie zu jedem Klick in Ihrer Anwendung wissen, wer, was, warum und wo. Erfahren Sie von Adobe Analytics-Experten die wichtigsten Tipps zur Verwendung von Activity Map-Klassifikationen und benutzerdefinierter Attribution, um die Benutzerinteraktion besser zu verstehen. |
-| 4. Oktober 2021 | Auf Abruf | [Adobe-Entwickler live](https://experienceleague.adobe.com/docs/adobe-developers-live-events/events/2021/oct2021/overview.html?lang=en) | Video | Sie haben das Ereignis verpasst oder nach einer Wiederholung einer bestimmten Sitzung gesucht? Finde sie auf der Experience League. Developers Live präsentiert die neuesten technischen Fortschritte und Entwickler-Tools, die Design, Content-Erstellungs-Workflows, Document Services und Customer Experience Management branchenübergreifend unterstützen. Sehen Sie sich die Keynote-Adresse an, erfahren Sie mehr über Analytics-APIs, die Client-Datenschicht, Open-Source-Projekte in der Adobe I/O und vieles mehr. |
+| 4. Oktober 2021 | Auf Abruf | [Adobe Developers Live](https://experienceleague.adobe.com/docs/adobe-developers-live-events/events/2021/oct2021/overview.html?lang=de) | Video | Sie haben das Ereignis verpasst oder nach einer Wiederholung einer bestimmten Sitzung gesucht? Finde sie auf der Experience League. Developers Live präsentiert die neuesten technischen Fortschritte und Entwickler-Tools, die Design, Content-Erstellungs-Workflows, Document Services und Customer Experience Management branchenübergreifend unterstützen. Sehen Sie sich die Keynote-Adresse an, erfahren Sie mehr über Analytics-APIs, die Client-Datenschicht, Open-Source-Projekte in der Adobe I/O und vieles mehr. |
 
 {style=&quot;table-layout:auto&quot;}
 
@@ -381,7 +381,7 @@ Zuletzt aktualisiert: **7. Oktober 2021**
 
 | Funktion | Beschreibung |
 | ------- | ----------- |
-| Dokumentation | Alle [DSP und andere Advertising Cloud-Dokumentation](https://experienceleague.adobe.com/docs/advertising-cloud.html) on [!DNL Experience League] ist nun maschinell in alle verfügbaren Sprachen übersetzt. Um die angezeigte Sprache zu ändern, verwenden Sie das Menü &quot;Sprache ändern&quot; unten links auf jeder Seite. |
+| Dokumentation | Alle [DSP und andere Advertising Cloud-Dokumentation](https://experienceleague.adobe.com/docs/advertising-cloud.html?lang=de) on [!DNL Experience League] ist nun maschinell in alle verfügbaren Sprachen übersetzt. Um die angezeigte Sprache zu ändern, verwenden Sie das Menü „Sprache ändern“ links unten auf jeder Seite. |
 
 {style=&quot;table-layout:auto&quot;}
 
@@ -391,7 +391,7 @@ Zuletzt aktualisiert: **7. Oktober 2021**
 
 | Funktion | Beschreibung |
 | ------- | ----------- |
-| [!UICONTROL Berichte], [!UICONTROL Benachrichtigungszentrum] | (Version vom 9. Oktober) Alle E-Mail-Benachrichtigungen für Berichte, die Advertising Cloud Search sendet, wenn ein benutzerdefinierter oder terminierter Bericht abgeschlossen wurde oder fehlgeschlagen ist, werden jetzt von [!UICONTROL Benachrichtigungszentrum]. E-Mail-Benachrichtigungen und Webbenachrichtigungen sind standardmäßig für Berichte aktiviert, Sie können aber optional die Benachrichtigungseinstellungen ändern. Mit dieser Änderung:<ul><li>E-Mail-Empfänger sind auf registrierte, authentifizierte Benutzer von Advertising Cloud Search beschränkt und haben Zugriff auf das Advertiser-Konto. Diese Funktion stellt sicher, dass keine vertraulichen Daten an nicht autorisierte Benutzer gesendet werden.</li><li>Format und Inhalt der E-Mail verwenden die [!UICONTROL Benachrichtigungszentrum] -Vorlage, die weitere Details zum Bericht enthält und direkte Download-Links für alle Berichtsformate enthält.</li><li>Berichtsbenachrichtigungen sind ein neuer Benachrichtigungstyp mit eigenen Benachrichtigungseinstellungen in [!UICONTROL Benachrichtigungszentrum].</li></ul>Wenn Sie zum Abrufen von Berichten aus E-Mail-Benachrichtigungen eine Automatisierung verwenden, müssen Sie möglicherweise die Filterlogik aktualisieren, um die Kontinuität des Prozesses sicherzustellen. |
+| [!UICONTROL Berichte], [!UICONTROL Benachrichtigungszentrum] | (Version 9. Oktober) Alle E-Mail-Benachrichtigungen für Berichte, die Advertising Cloud Search sendet, wenn ein benutzerspezifischer oder terminierter Bericht abgeschlossen wurde oder fehlgeschlagen ist, werden nun vom [!UICONTROL Benachrichtigungszentrum] bearbeitet. E-Mail-Benachrichtigungen und Web-Benachrichtigungen sind standardmäßig für Berichte aktiviert, Sie können jedoch optional die Benachrichtigungseinstellungen ändern. Mit dieser Änderung gilt:<ul><li>E-Mail-Empfänger sind auf registrierte, authentifizierte Benutzer von Advertising Cloud Search beschränkt und haben Zugriff auf das Advertiser-Konto. Diese Funktion stellt sicher, dass keine vertraulichen Daten an nicht autorisierte Benutzer gesendet werden.</li><li>Format und Inhalt der E-Mail basieren auf der Vorlage aus dem [!UICONTROL Benachrichtigungszentrum], die weitere Details zum Bericht und direkte Downloadlinks für alle Berichtsformate enthält.</li><li>Berichtsbenachrichtigungen sind ein neuer Benachrichtigungstyp mit eigenen Benachrichtigungs-Einstellungen im [!UICONTROL Benachrichtigungszentrum].</li></ul>Wenn Sie automatisierte Berichte aus E-Mail-Benachrichtigungen abrufen, müssen Sie die Filterlogik möglicherweise aktualisieren, um die Prozesskontinuität sicherzustellen. |
 | Werbeeinblicke | Weitere Einblicke sind im Beta-Modus verfügbar. |
 
 {style=&quot;table-layout:auto&quot;}
