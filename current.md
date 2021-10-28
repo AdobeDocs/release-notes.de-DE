@@ -6,10 +6,10 @@ last-update: November 2021
 author: mfrei
 mini-toc-levels: 1
 exl-id: null
-source-git-commit: 99bb9c88f2aa8b9f62cf2f088671fe60c1e684ab
+source-git-commit: ed5f9c6b35b65bab0c26887788e2232a0e9a6ab5
 workflow-type: tm+mt
-source-wordcount: '4131'
-ht-degree: 64%
+source-wordcount: '4147'
+ht-degree: 63%
 
 ---
 
@@ -124,7 +124,7 @@ Release-Datum: **28. Oktober 2021**
 | [!UICONTROL Mit Medienwiedergabe verbrachte Zeit] | Mit Adobe Streaming-Medienwiedergabe [!UICONTROL verbrachte Zeit] bietet wertvolle Einblicke in die Interaktion mit Betrachtern und ermöglicht es Medienunternehmen, tiefere, detailliertere Einblicke mit der minütigen Benutzerinteraktion durch erweiterte Zeitanalysen mit Tageszeiteneinteilungs-Funktionen zu gewinnen. Sie können feststellen, wie viel Zeit mit der Anzeige Ihrer Medien-Streams zu einem bestimmten Zeitpunkt verbracht wurde. Sie können die Wiedergabedauer nach verschiedenen Granularitäten aufteilen, einschließlich der neuen Granularitäten 5 Minuten, 15 Minuten und 30 Minuten. [Weitere Informationen](https://experienceleague.adobe.com/docs/media-analytics/using/media-reports/media-workspace-panels/media-playback-time-spent.html?lang=de) | 18. Oktober 2021 |
 | Quick [!UICONTROL Segment Builder] | Ermöglicht es Business-Anwendern, Standardsegmente in einem vereinfachten Inline-Projekt-Workflow schnell zu nutzen. Sie müssen nicht zu [!UICONTROL Segment Builder] wechseln. [Weitere Informationen](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/components/segments/quick-segments.html?lang=de) | 21. Oktober 2021 |
 | Verbesserungen bei der Suche in der linken Leiste in Analysis Workspace | Suche in der linken Leiste 1) priorisiert exakte Übereinstimmungen über weit gefassten Übereinstimmungen und berücksichtigt zusätzlich weiterhin Neuigkeit und Relevanz der Komponenten. 2) Es werden übereinstimmende Zeichen hervorgehoben, um Suchergebnisse leichter verständlich zu machen. 3) Klassifizierungen, die sich auf eine Dimension beziehen, lassen sich leichter finden. 4) Schließlich wird die Suche mit Platzhaltern (`*`) unterstützt, sodass bestimmte benötigte Komponenten leichter gefunden werden können. Hinweis: Die Suche mit Platzhalter funktioniert noch nicht auf der Dimensionselement-Ebene. | 21. Oktober 2021 |
-| Analysis Workspace Dark Theme | Dunkles Design ist als Anzeigeoption verfügbar. | 21. Oktober 2021 |
+| Dunkles Thema | [Dunkles Design ist als Anzeigeoption verfügbar.](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/user-preferences.html?lang=en#dark-theme) | 21. Oktober 2021 |
 
 {style=&quot;table-layout:auto&quot;}
 
@@ -135,7 +135,7 @@ Release-Datum: **28. Oktober 2021**
 | Datumsbereiche auf Minutenebene in Analysis Workspace | Sie können einen Datumsbereich auf Minutenebene unter den erweiterten Einstellungen Ihres Bedienfeldkalenders oder beim Erstellen eines benutzerdefinierten Datumsbereichs anwenden. Wenn Sie Berichte zu einem Datumsbereich erstellen, der viele Tage umfasst, gilt die Startzeit für den ersten Tag und die Endzeit für den letzten Tag in Ihrem Bereich. | 18. Oktober 2021 |
 | Quick [!UICONTROL Filter Builder] | Ermöglicht es Business-Anwendern, Standardsegmente in einem vereinfachten Inline-Projekt-Workflow schnell zu nutzen. Sie müssen nicht zum [!UICONTROL Filter Builder] wechseln. [Weitere Informationen](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-components/cja-filters/quick-filters.html) | 21. Oktober 2021 |
 | Verbesserungen bei der Suche in der linken Leiste in Analysis Workspace | Suche in der linken Leiste 1) priorisiert exakte Übereinstimmungen über weit gefassten Übereinstimmungen und berücksichtigt zusätzlich weiterhin Neuigkeit und Relevanz der Komponenten. 2) Es werden übereinstimmende Zeichen hervorgehoben, um Suchergebnisse leichter verständlich zu machen. 3) Klassifizierungen, die sich auf eine Dimension beziehen, lassen sich leichter finden. 4) Schließlich wird die Suche mit Platzhaltern (`*`) unterstützt, sodass bestimmte benötigte Komponenten leichter gefunden werden können. Hinweis: Die Suche mit Platzhalter funktioniert noch nicht auf der Dimensionselement-Ebene. | 21. Oktober 2021 |
-| Analysis Workspace Dark Theme | Dunkles Design ist als Anzeigeoption verfügbar. | 21. Oktober 2021 |
+| Dunkles Thema | [Dunkles Design ist als Anzeigeoption verfügbar.](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-workspace/user-preferences.html?lang=en#dark-theme) | 21. Oktober 2021 |
 | Lookback-Fenster für die Dimensionszuordnung | Ein Rückblickfenster von bis zu 90 Tagen wird der Dimensionszuordnungseinstellung unter &quot;Persistenz&quot;in der Konfiguration Datenansichten hinzugefügt. [Weitere Informationen](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-dataviews/component-settings/persistence.html) | 28. Oktober 2021 |
 
 {style=&quot;table-layout:auto&quot;}
