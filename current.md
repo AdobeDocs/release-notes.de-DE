@@ -6,10 +6,10 @@ last-update: November 2021
 author: mfrei
 mini-toc-levels: 1
 exl-id: null
-source-git-commit: 4dfe2c2ab39fe82b40fc87e289d2c55c6ccc6735
+source-git-commit: 88923d059ec73215facae2efc1888b07b2e60fc7
 workflow-type: tm+mt
-source-wordcount: '4456'
-ht-degree: 59%
+source-wordcount: '4513'
+ht-degree: 58%
 
 ---
 
@@ -53,6 +53,7 @@ Benötigen Sie Hilfe? Besuchen Sie [Adobe Experience League](https://experiencel
 
 | Ereignisdatum | Zeit | Ereignisname | Typ | Beschreibung |
 | -----------| ---------- | ---------- | ---------- |---------- |
+| 18. November 2021 | TBA | Schnellere Site-Erstellung in Experience Manager | Live-Videoereignis | Experience Manager Sites bietet mehrere Funktionen, um die Bereitstellung eines überzeugenden Web-Erlebnisses zu beschleunigen. Erfahren Sie, wie Sie mit einem Ansatz mit niedriger Code eine Site in Adobe Experience Manager erstellen können, indem Sie eine vordefinierte Site-Vorlage verwenden. Weitere Infos! |
 | 21. Oktober 2021 | Auf Abruf | [Wer hat darauf geklickt? Erweiterte Berichterstellung zu Link-Klicks mit Adobe Analytics](https://experienceleague.adobe.com/docs/experience-league-live-events/events/overview.html?lang=en) | Live-Videoereignis | Die Berichterstattung über Benutzerinteraktionen mit Ihren Web- oder mobilen Eigenschaften ist ein wichtiges Element zum Verständnis der Journey Ihres Kunden. Mit Adobe Analytics können Sie zu jedem Klick in Ihrer Anwendung wissen, wer, was, warum und wo. Erfahren Sie von Adobe Analytics-Experten die wichtigsten Tipps zur Verwendung von Activity Map-Klassifikationen und benutzerdefinierter Attribution, um die Benutzerinteraktion besser zu verstehen. |
 | 4. Oktober 2021 | Auf Abruf | [Adobe Developers Live](https://experienceleague.adobe.com/docs/adobe-developers-live-events/events/2021/oct2021/overview.html?lang=de) | Video | Sie haben das Ereignis verpasst oder nach einer Wiederholung einer bestimmten Sitzung gesucht? Finde sie auf der Experience League. Developers Live präsentiert die neuesten technischen Fortschritte und Entwickler-Tools, die Design, Content-Erstellungs-Workflows, Document Services und Customer Experience Management branchenübergreifend unterstützen. Sehen Sie sich die Keynote-Adresse an, erfahren Sie mehr über Analytics-APIs, die Client-Datenschicht, Open-Source-Projekte in der Adobe I/O und vieles mehr. |
 
