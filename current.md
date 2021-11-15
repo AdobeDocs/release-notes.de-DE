@@ -9,7 +9,7 @@ exl-id: null
 source-git-commit: 88923d059ec73215facae2efc1888b07b2e60fc7
 workflow-type: tm+mt
 source-wordcount: '4513'
-ht-degree: 90%
+ht-degree: 100%
 
 ---
 
@@ -31,7 +31,7 @@ Letzte Aktualisierung: **28. Oktober 2021**
 * [[!DNL Experience Cloud Central Interface Components] und Administration](#ecloud)
 * [[!UICONTROL Adobe-Systemstatus]](#status)
 * [[!DNL Adobe Experience Platform]](#platform)
-* [[!DNL Adobe Analytics]](#analytics) und [Customer Journey Analytics](#cust-journey) 
+* [[!DNL Adobe Analytics]](#analytics) und [Customer Journey Analytics](#cust-journey)
 * [[!DNL Adobe Audience Manager]](#aam)
 * [[!DNL Adobe Experience Manager]](#aem)
 * [[!DNL Adobe Commerce]](#magento)
@@ -49,11 +49,11 @@ Benötigen Sie Hilfe? Besuchen Sie [Adobe Experience League](https://experiencel
 
 ## ![Icon](/assets/experience-league.png) [!DNL Experience League] Live-Ereignisse {#events}
 
-[Experience League-Live-Events](https://experienceleague.adobe.com/docs/experience-league-live-events/events/overview.html?lang=de) beinhalten Diskussionen mit Adobe-Experten und speziellen Gästen, die maßgeblich an der Entwicklung der Adobe-Technologie beteiligt sind. Sehen Sie sich folgenden Zeitplan an und nehmen Sie an der Live-Schaltung teil oder rufen Sie die zuvor aufgezeichneten Ereignisse ab.
+[Experience League-Live-Ereignisse](https://experienceleague.adobe.com/docs/experience-league-live-events/events/overview.html?lang=de) beinhalten Diskussionen mit Adobe-Experten und speziellen Gästen, die maßgeblich an der Entwicklung der Adobe-Technologie beteiligt sind. Sehen Sie sich folgenden Zeitplan an und nehmen Sie an der Live-Schaltung teil oder rufen Sie die zuvor aufgezeichneten Ereignisse ab.
 
 | Ereignisdatum | Zeit | Ereignisname | Typ | Beschreibung |
 | -----------| ---------- | ---------- | ---------- |---------- |
-| 18. November 2021 | TBA | Schnellere Site-Erstellung in Experience Manager | Live-Videoereignis | Experience Manager Sites bietet mehrere Funktionen, um die Bereitstellung eines überzeugenden Web-Erlebnisses zu beschleunigen. Erfahren Sie, wie Sie mit einem Ansatz mit niedriger Code eine Site in Adobe Experience Manager erstellen können, indem Sie eine vordefinierte Site-Vorlage verwenden. Weitere Infos! |
+| 18. November 2021 | TBA | Schnellere Site-Erstellung in Experience Manager | Live-Videoereignis | Experience Manager Sites bietet mehrere Funktionen, um die Bereitstellung eines überzeugenden Web-Erlebnisses zu beschleunigen. Hier erfahren Sie, wie Sie mithilfe einer vordefinierten Site-Vorlage eine Site in Adobe Experience Manager mit einem Low-Code-Ansatz erstellen können. Weitere Infos bald! |
 | 21. Oktober 2021 | Auf Abruf | [Wer hat darauf geklickt? Erweiterte Berichterstellung zu Link-Klicks mit Adobe Analytics](https://experienceleague.adobe.com/docs/experience-league-live-events/events/overview.html?lang=en) | Live-Videoereignis | Die Berichterstattung über Benutzerinteraktionen mit Ihren Web- oder mobilen Eigenschaften ist ein wichtiges Element zum Verständnis der Journey Ihres Kunden. Mit Adobe Analytics können Sie zu jedem Klick in Ihrer Anwendung wissen, wer, was, warum und wo. Erfahren Sie von Adobe Analytics-Experten die wichtigsten Tipps zur Verwendung von Activity Map-Klassifikationen und benutzerdefinierter Attribution, um die Benutzerinteraktion besser zu verstehen. |
 | 4. Oktober 2021 | Auf Abruf | [Adobe Developers Live](https://experienceleague.adobe.com/docs/adobe-developers-live-events/events/2021/oct2021/overview.html?lang=de) | Video | Sie haben das Event verpasst oder suchen nach der Aufzeichnung einer bestimmten Sitzung? Sie finden sie auf der Experience League-Plattform. Developers Live präsentiert die neuesten technischen Fortschritte und Entwickler-Tools, die das Design, Workflows zur Inhaltserstellung, Dokumenten-Services und das Customer Experience Management in verschiedenen Branchen ermöglichen. Sehen Sie sich die Keynote an, erfahren Sie mehr über Analytics-APIs, Client Data Layer, Adobe I/O-Open-Source-Projekte und vieles mehr. |
 
@@ -125,7 +125,7 @@ Release-Datum: **28. Oktober 2021**
 | [!UICONTROL Mit Medienwiedergabe verbrachte Zeit] | Mit Adobe Streaming-Medienwiedergabe [!UICONTROL verbrachte Zeit] bietet wertvolle Einblicke in die Interaktion mit Betrachtern und ermöglicht es Medienunternehmen, tiefere, detailliertere Einblicke mit der minütigen Benutzerinteraktion durch erweiterte Zeitanalysen mit Tageszeiteneinteilungs-Funktionen zu gewinnen. Sie können feststellen, wie viel Zeit mit der Anzeige Ihrer Medien-Streams zu einem bestimmten Zeitpunkt verbracht wurde. Sie können die Wiedergabedauer nach verschiedenen Granularitäten unterteilen, einschließlich der neuen Granularitäten von 5, 15 und 30 Minuten. [Weitere Informationen](https://experienceleague.adobe.com/docs/media-analytics/using/media-reports/media-workspace-panels/media-playback-time-spent.html?lang=de) | 18. Oktober 2021 |
 | Quick [!UICONTROL Segment Builder] | Ermöglicht es Business-Anwendern, Standardsegmente in einem vereinfachten Inline-Projekt-Workflow schnell zu nutzen. Sie müssen nicht zu [!UICONTROL Segment Builder] wechseln. [Weitere Informationen](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/components/segments/quick-segments.html?lang=de) | 21. Oktober 2021 |
 | Verbesserungen bei der Suche in der linken Leiste in Analysis Workspace | 1) Bei der Suche in der linken Leiste werden exakte Übereinstimmungen vor weit gefassten Übereinstimmungen priorisiert, zusätzlich zur weiteren Berücksichtigung von Neuigkeit und Relevanz der Komponenten. 2) Es werden übereinstimmende Zeichen hervorgehoben, um Suchergebnisse leichter verständlich zu machen. 3) Klassifizierungen, die sich auf eine Dimension beziehen, lassen sich leichter finden. 4) Schließlich wird die Suche mit Platzhaltern (`*`) unterstützt, sodass bestimmte benötigte Komponenten leichter gefunden werden können. Hinweis: Die Suche mit Platzhalter funktioniert noch nicht auf der Dimensionselement-Ebene. | 21. Oktober 2021 |
-| Dunkles Thema | [Dunkles Design ist als Anzeigeoption verfügbar.](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/user-preferences.html?lang=en#dark-theme) | 21. Oktober 2021 |
+| Dunkles Thema | [Dunkles Design](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/user-preferences.html?lang=de#dark-theme) ist als Anzeigeoption verfügbar. | 21. Oktober 2021 |
 
 {style=&quot;table-layout:auto&quot;}
 
@@ -136,12 +136,12 @@ Release-Datum: **28. Oktober 2021**
 | Datumsbereiche auf Minutenebene in Analysis Workspace | Sie können unter den erweiterten Einstellungen Ihres Bedienfeldkalenders oder beim Erstellen eines benutzerdefinierten Datumsbereichs einen Datumsbereich auf Minutenebene anwenden. Wenn Sie Berichte zu einem Datumsbereich erstellen, der mehrere Tage umfasst, ist der Startzeitpunkt der erste Tag und der Endzeitpunkt der letzte Tag in Ihrem Bereich. | 18. Oktober 2021 |
 | Quick [!UICONTROL Filter Builder] | Ermöglicht es Business-Anwendern, Standardsegmente in einem vereinfachten Inline-Projekt-Workflow schnell zu nutzen. Sie müssen nicht zum [!UICONTROL Filter Builder] wechseln. [Weitere Informationen](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-components/cja-filters/quick-filters.html?lang=de) | 21. Oktober 2021 |
 | Verbesserungen bei der Suche in der linken Leiste in Analysis Workspace | 1) Bei der Suche in der linken Leiste werden exakte Übereinstimmungen vor weit gefassten Übereinstimmungen priorisiert, zusätzlich zur weiteren Berücksichtigung von Neuigkeit und Relevanz der Komponenten. 2) Es werden übereinstimmende Zeichen hervorgehoben, um Suchergebnisse leichter verständlich zu machen. 3) Klassifizierungen, die sich auf eine Dimension beziehen, lassen sich leichter finden. 4) Schließlich wird die Suche mit Platzhaltern (`*`) unterstützt, sodass bestimmte benötigte Komponenten leichter gefunden werden können. Hinweis: Die Suche mit Platzhalter funktioniert noch nicht auf der Dimensionselement-Ebene. | 21. Oktober 2021 |
-| Dunkles Thema | [Dunkles Design ist als Anzeigeoption verfügbar.](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-workspace/user-preferences.html?lang=en#dark-theme) | 21. Oktober 2021 |
+| Dunkles Thema | [Dunkles Design](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-workspace/user-preferences.html?lang=de#dark-theme) ist als Anzeigeoption verfügbar. | 21. Oktober 2021 |
 | Lookback-Fenster für die Dimensionszuordnung | In der Einstellung der Dimensionszuordnung wurde bei der Datenansichten-Konfiguration unter „Persistenz“ ein Lookback-Fenster von bis zu 90 Tagen hinzugefügt. [Weitere Informationen](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-dataviews/component-settings/persistence.html?lang=de) | 28. Oktober 2021 |
 
 {style=&quot;table-layout:auto&quot;}
 
-### Fehlerbehebungen in Adobe Analytics  {#aa-fixes}
+### Fehlerbehebungen in Adobe Analytics {#aa-fixes}
 
 * Es wurde ein Problem behoben, durch das Warnhinweise im Warnhinweis-Manager nicht gelöscht werden konnten. (AN-270656)
 * Es wurde ein Problem behoben, bei dem Data Warehouse-Anfragen zeitweise fehlschlugen. (AN-273713, AN-272790)
@@ -163,7 +163,7 @@ AN-270649
 
 ### Wichtige Hinweise für [!DNL Analytics]-Administratoren {#aa-notices}
 
-| Hinweis | Hinzugefügt  oder aktualisiert am | Beschreibung |
+| Hinweis | Hinzugefügt oder aktualisiert am | Beschreibung |
 | ----------- | ---------- | ---------- |
 | Ende der Nutzungsdauer von drei Analytics-API-Services | 16. September 2021 | Am **20. Oktober 2021** erreichen die folgenden Analytics Legacy-API-Services das Ende ihrer Nutzungsdauer und werden eingestellt. Alle aktuellen Integrationen, die mit diesen Services erstellt wurden, funktionieren seit diesem Tag nicht mehr.<ul><li>1.3 Analytics-APIs</li><li>1.4 SOAP Analytics-APIs</li><li>Legacy-OAuth-Authentifizierung (OAuth und JWT)</li></ul>Adobe hat ein Dokument [Häufig gestellte Fragen (FAQ) zum Ende der Nutzungsdauer (EOL) der Legacy-API](https://github.com/AdobeDocs/analytics-1.4-apis/blob/master/docs/APIEOL.md?mv=email) bereitgestellt, das Ihre Fragen beantworten und Anleitungen zum weiteren Vorgehen geben soll. API-Integrationen, die diese Dienste nutzen, können zu den [Analytics-REST-APIs 1.4](https://github.com/AdobeDocs/analytics-1.4-apis?mv=email) oder den [Analytics-APIs 2.0](https://github.com/AdobeDocs/analytics-2.0-apis?mv=email) migrieren. Ältere OAuth-Konten können zu einem [Adobe I/O](https://developer.adobe.com/console) Analytics-Integrationskonto migriert werden, das für den Zugriff auf sowohl Analytics-APIs 1.4 als auch Analytics-APIs 2.0 verwendet werden kann. |
 | Ende der Nutzungsdauer (EOL) für die vollständige Verarbeitung in Data Sources | 18. Oktober 2021 | Am **31. Januar 2022** beendet Adobe die vollständige Verarbeitung, mit der Benutzer Offline-Trefferdaten in Analytics aufnehmen können. Diese Funktion ist über die [Bulk Data Insertion-API](https://www.adobe.io/apis/experiencecloud/analytics/docs.html#!AdobeDocs/analytics-2.0-apis/master/bdia.md) verfügbar. [Weitere Informationen](https://experienceleague.adobe.com/docs/analytics/import/data-sources/data-types-and-categories/datasrc-fullproc-eol.html?lang=de ) |
@@ -282,7 +282,7 @@ Versionshinweise zu Adobe Commerce finden Sie unter den folgenden Links:
 
 ## ![Symbol](/assets/target.png) [!DNL Target] {#target}
 
-Letzte Aktualisierung: **Mittwoch, 20. Oktober 2021**
+Letzte Aktualisierung: **20. Oktober 2021**
 
 Die aktuellen Versionsinformationen finden Sie in den [[!DNL Target] Versionshinweisen](https://experienceleague.adobe.com/docs/target/using/release-notes/target-release-notes.html?lang=de).
 
@@ -316,7 +316,7 @@ Neueste Tutorials und Kurse für Adobe Campaign.
 * Adobe Campaign Version 8: [Dokumentation](https://experienceleague.adobe.com/docs/campaign/campaign-v8/campaign-home.html?lang=de) – [Versionshinweise](https://experienceleague.adobe.com/docs/campaign/campaign-v8/start/whats-new.html?lang=de) – [Implementierungshandbücher](https://experienceleague.adobe.com/docs/campaign/campaign-v8/implement/implement.html?lang=de)
 * Adobe Campaign Standard: [Campaign Standard – Dokumentation](https://experienceleague.adobe.com/docs/campaign-standard/using/campaign-standard-home.html?lang=de) – [Versionshinweise](https://experienceleague.adobe.com/docs/campaign-standard/using/release-notes/release-notes.html) – [Anleitungsvideos](https://experienceleague.adobe.com/docs/campaign-standard-learn/tutorials/overview.html?lang=de) – [Versionsplanung](https://experienceleague.adobe.com/docs/campaign-standard/using/release-notes/release-planning.html?lang=de) – [Neueste Aktualisierungen der Dokumentation](https://experienceleague.adobe.com/docs/campaign-standard/using/documentation-updates.html?lang=de)
 * Adobe Campaign Classic: [Campaign Classic v7 – Dokumentation](https://experienceleague.adobe.com/docs/campaign-classic/using/campaign-classic-home.html?lang=de) – [Versionshinweise](https://experienceleague.adobe.com/docs/campaign-classic/using/release-notes/latest-release.html) – [Anleitungsvideos](https://experienceleague.adobe.com/docs/campaign-classic-learn/tutorials/overview.html?lang=de) – [Neueste Aktualisierungen der Dokumentation](https://experienceleague.adobe.com/docs/campaign-classic/using/documentation-updates.html?lang=de)
-* Control Panel von Adobe Campaign: [Dokumentation](https://experienceleague.adobe.com/docs/control-panel/using/control-panel-home.html?lang=de) – [Versionshinweise](https://experienceleague.adobe.com/docs/control-panel/using/release-notes.html?lang=de)  – Anleitungsvideos für [Campaign Standard](https://experienceleague.adobe.com/docs/campaign-standard-learn/control-panel/control-panel-overview.html?lang=de)/[Campaign Classic](https://experienceleague.adobe.com/docs/campaign-classic-learn/control-panel/control-panel-overview.html?lang=de)
+* Control Panel von Adobe Campaign: [Dokumentation](https://experienceleague.adobe.com/docs/control-panel/using/control-panel-home.html?lang=de) – [Versionshinweise](https://experienceleague.adobe.com/docs/control-panel/using/release-notes.html?lang=de) – Anleitungsvideos für [Campaign Standard](https://experienceleague.adobe.com/docs/campaign-standard-learn/control-panel/control-panel-overview.html?lang=de)/[Campaign Classic](https://experienceleague.adobe.com/docs/campaign-classic-learn/control-panel/control-panel-overview.html?lang=de)
 
 ## ![Symbol](/assets/experience_platform_appicon_24.png) Journey Optimizer {#journey-opt}
 
@@ -332,9 +332,9 @@ Neueste Journey Optimizer-Tutorials:
 
 | Veröffentlicht | Name | Typ | Beschreibung |
 | -----------| ---------- | ---------- | ---------- |
-| Oktober 2021 | [Konfigurieren und Verwalten von Daten in  [!DNL Journey Optimizer]  für Dateningenieure](https://experienceleague.adobe.com/?recommended=JourneyOptimizer-U-1-2021.2&amp;lang=de) | Kurs | Erfahren Sie, wie Sie die für die Journey-Verwaltung in Journey Optimizer erforderlichen Daten konfigurieren und verwalten. |
-| Oktober 2021 | [Erste Schritte mit  [!DNL Journey Optimizer]  für Journey-Administratoren und -Manager](https://experienceleague.adobe.com/?recommended=JourneyOptimizer-U-1-2021.1&amp;lang=de) | Kurs | Erfahren Sie alles, was Sie wissen müssen, um Ihre erste Journey zu erstellen. |
-| Oktober 2021 | [Konfigurieren  [!DNL Journey Optimizer]  für Journey-Administratoren](https://experienceleague.adobe.com/?recommended=JourneyOptimizer-A-1-2021.1&amp;lang=de) | Kurs | Machen Sie sich mit der [!DNL Journey Optimizer]-Architektur und den Integrationspunkten vertraut. Erfahren Sie, wie Sie [!DNL Journey Optimizer] konfigurieren |
+| Oktober 2021 | [Konfigurieren und Verwalten von Daten in [!DNL Journey Optimizer] für Dateningenieure](https://experienceleague.adobe.com/?recommended=JourneyOptimizer-U-1-2021.2&amp;lang=de) | Kurs | Erfahren Sie, wie Sie die für die Journey-Verwaltung in Journey Optimizer erforderlichen Daten konfigurieren und verwalten. |
+| Oktober 2021 | [Erste Schritte mit [!DNL Journey Optimizer] für Journey-Administratoren und -Manager](https://experienceleague.adobe.com/?recommended=JourneyOptimizer-U-1-2021.1&amp;lang=de) | Kurs | Erfahren Sie alles, was Sie wissen müssen, um Ihre erste Journey zu erstellen. |
+| Oktober 2021 | [Konfigurieren [!DNL Journey Optimizer] für Journey-Administratoren](https://experienceleague.adobe.com/?recommended=JourneyOptimizer-A-1-2021.1&amp;lang=de) | Kurs | Machen Sie sich mit der [!DNL Journey Optimizer]-Architektur und den Integrationspunkten vertraut. Erfahren Sie, wie Sie [!DNL Journey Optimizer] konfigurieren |
 
 {style=&quot;table-layout:auto&quot;}
 
@@ -373,17 +373,17 @@ Auf der Seite zu [[!DNL Workfront] Versionen](https://one.workfront.com/s/produc
 
 Versionshinweise für [!DNL Adobe Advertising Cloud].
 
-* [Neue Funktionen [!DNL Advertising Cloud]](#adcloud-all)
+* [Neue Funktionen in [!DNL Advertising Cloud]](#adcloud-all)
 * [Neue Funktionen in Version  [!DNL Advertising Cloud DSP]](#adcloud-dsp)
 * [Neue Funktionen in Version  [!DNL Advertising Cloud Search]](#adcloud-search)
 
-### Neue Funktionen [!DNL Advertising Cloud] {#adcloud-all}
+### Neue Funktionen in[!DNL Advertising Cloud] {#adcloud-all}
 
 Zuletzt aktualisiert: **27. Oktober 2021**
 
 | Funktion | Beschreibung |
 | ------- | ----------- |
-| Analytics für Advertising Cloud | Wenn Ihr Unternehmen von der Verwendung der veralteten Adobe Analytics umschalten möchte `visitorAPI.js` Bibliothek in der Adobe Experience Platform-Bibliothek (`alloy.js`) für die Datenerfassung müssen Sie einige Änderungen vornehmen, um die ID-Zuordnung zu aktivieren. Siehe[Verwenden der [!DNL Last Event Service] JavaScript-Bibliothek mit Adobe Experience Platform [!DNL Web SDK]](https://experienceleague.adobe.com/docs/advertising-cloud/integrations/analytics/planning/web-sdk.html).&quot; |
+| Analytics für Advertising Cloud | Wenn Ihr Unternehmen für die Datenerfassung von der Verwendung der veralteten Adobe Analytics `visitorAPI.js` Bibliothek auf die Adobe Experience Platform-Bibliothek (`alloy.js`) wechseln möchte, müssen Sie einige Änderungen vornehmen, um die ID-Zuordnung zu aktivieren. Siehe „[Verwenden der [!DNL Last Event Service] JavaScript-Bibliothek mit Adobe Experience Platform [!DNL Web SDK]](https://experienceleague.adobe.com/docs/advertising-cloud/integrations/analytics/planning/web-sdk.html?lang=de)“. |
 
 {style=&quot;table-layout:auto&quot;}
 
@@ -393,12 +393,12 @@ Zuletzt aktualisiert: **27. Oktober 2021**
 
 | Funktion | Beschreibung |
 | ------- | ----------- |
-| Benutzerspezifische Berichte | Sie können jetzt [!DNL Amazon S3] und verschiedenen Arten von FTP-Bereitstellungsspeicherorten, genannt *[!DNL report destinations]*, für Ihre benutzerspezifischen Berichte. Nachdem Sie die Berichtsziele konfiguriert haben, können Sie jeden Ihrer neuen benutzerspezifischen Berichte so einrichten, dass er an eine oder mehrere Stellen eines einzelnen Zieltyps oder an E-Mail-Empfänger gesendet wird. Aktualisierungen Ihrer [!DNL Amazon S3] und FTP-Anmeldedaten unterbrechen die Berichtbereitstellung nicht.<br><br>Ihre vorhandenen Berichte werden weiterhin an die angegebenen E-Mail-Empfänger gesendet. Um den Versand an ein anderes Berichtsziel zu konfigurieren, erstellen Sie einen neuen Bericht mit dem neuen Ziel. |
-| [!UICONTROL Pakete], [!UICONTROL Praktika]und [!UICONTROL Anzeigen] views | Wenn Sie Daten für einen einzelnen Tag anzeigen, enthalten die Trenddiagramme jetzt stündliche Daten. Halten Sie den Cursor über einen beliebigen Punkt, um die Daten für diese Stunde anzuzeigen. |
-| [!UICONTROL Platzierungen] | Die Platzierung [!UICONTROL Inspektor] enthält jetzt [!UICONTROL Bestand] -Tab, der alle Angebote und die zugehörigen Metriken für die Platzierung anzeigt. Verwenden Sie die Informationen, um schnell Anpassungen vorzunehmen oder Probleme zu beheben, ohne einen benutzerdefinierten Bericht zu erstellen. |
-| [!UICONTROL Werbeanzeigen] | (Benutzer mit der Berechtigung, Clearcastuhrummern in ihre Anzeigen aufzunehmen) DSP keinen Fehler mehr anzeigen, wenn Sie eine Uhrennummer verwenden, die an eine andere Anzeige angehängt ist. **Hinweis:**  Es empfiehlt sich, für jede Videoanzeige eine eindeutige Uhrennummer zu verwenden. Andernfalls genehmigt der Herausgeber nicht alle Anzeigen. |
-| [!UICONTROL Deal-IDs] | Die [!UICONTROL Angebots-ID] Einstellungen und andere Stellen in der Benutzeroberfläche spiegeln das neue Branding für [!DNL Magnite] SSP:<br><ul><li>SSP &quot;[!DNL Tremor]&quot; ([!DNL Telaria]) jetzt &quot;[!DNL Magnite CTV].&quot;</li><li>In den kommenden Wochen [!DNL Rubicon]&quot; wird geändert zu &quot;[!DNL Magnite DV+],&quot;wobei [!DNL DV+] steht für Anzeige-, Video- und andere Formate wie Audio.</li></ul> |
-| [!DNL Freewheel] programmgesteuerte garantierte Deals | Sie können jetzt den Status der Anzeigen für [!DNL Freewheel] programmgesteuerte garantierte Angebote aus dem [!UICONTROL Anzeigen] anzeigen. Zuvor konnten Sie den Status nur über die [!UICONTROL Angebote] anzeigen. |
+| Benutzerspezifische Berichte | Sie können jetzt [!DNL Amazon S3] und verschiedene Arten von FTP-Bereitstellungsspeicherorten, genannt *[!DNL report destinations]*, für Ihre benutzerspezifischen Berichte erstellen. Nachdem Sie die Berichtsziele konfiguriert haben, können Sie jeden Ihrer neuen benutzerspezifischen Berichte so einrichten, dass er an eine oder mehrere Stellen eines einzelnen Zieltyps oder an E-Mail-Empfänger gesendet wird. Aktualisierungen Ihrer [!DNL Amazon S3]- und FTP-Anmeldedaten unterbrechen die Berichtsbereitstellung nicht.<br><br>Ihre vorhandenen Berichte werden weiterhin an die angegebenen E-Mail-Empfänger gesendet. Um den Versand an ein anderes Berichtsziel zu konfigurieren, erstellen Sie einen neuen Bericht mit dem neuen Ziel. |
+| Ansichten [!UICONTROL Pakete], [!UICONTROL Platzierungen] und [!UICONTROL Werbung] | Wenn Sie Daten für einen einzelnen Tag anzeigen, enthalten die Trenddiagramme nun stündliche Daten. Halten Sie den Cursor über einen beliebigen Punkt, um die Daten für diese Stunde anzuzeigen. |
+| [!UICONTROL Platzierungen] | Die Platzierung [!UICONTROL Inspektor] enthält jetzt eine Registerkarte [!UICONTROL Warenbestand], die alle Angebote und die zugehörigen Metriken für die Platzierung anzeigt. Verwenden Sie die Informationen, um schnell Anpassungen vorzunehmen oder Probleme zu beheben, ohne einen benutzerdefinierten Bericht zu erstellen. |
+| [!UICONTROL Werbeanzeigen] | (Benutzer mit der Berechtigung, Clearcast-Uhrummern in ihre Anzeigen aufzunehmen) DSP zeigt keinen Fehler mehr an, wenn Sie eine Uhrnummer verwenden, die an eine andere Anzeige angehängt ist. **Hinweis:** Es ist Best Practice, für jede Videoanzeige eine eindeutige Uhrnummer zu verwenden. Andernfalls genehmigt der Herausgeber nicht alle Anzeigen. |
+| [!UICONTROL Angebots-IDs] | Die [!UICONTROL Angebots-ID]-Einstellungen und andere Stellen in der Benutzeroberfläche spiegeln das neue Branding für [!DNL Magnite] SSP<br> wider:<ul><li>Das SSP [!DNL Tremor] ([!DNL Telaria]) ist jetzt [!DNL Magnite CTV].</li><li>In den kommenden Wochen wird [!DNL Rubicon] in [!DNL Magnite DV+] geändert, wobei [!DNL DV+] für Anzeige-, Video- und andere Formate wie Audio steht.</li></ul> |
+| Programmgesteuerte garantierte [!DNL Freewheel]-Angebote | Sie können jetzt den Status der Anzeigen für programmgesteuerte garantierte [!DNL Freewheel]-Angebote in der Ansicht [!UICONTROL Anzeigen] finden. Zuvor konnten Sie den Status nur über die Ansicht [!UICONTROL Angebote] überprüfen. |
 
 {style=&quot;table-layout:auto&quot;}
 
