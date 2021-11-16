@@ -6,9 +6,9 @@ last-update: November 2021
 author: mfrei
 mini-toc-levels: 1
 exl-id: null
-source-git-commit: 2877f5206f1baeb4d9ea33529e476bbfe220ac7a
+source-git-commit: 6c7006998126d9e8921d32777ddde423b2f3c863
 workflow-type: tm+mt
-source-wordcount: '4804'
+source-wordcount: '4724'
 ht-degree: 92%
 
 ---
@@ -61,10 +61,11 @@ Zeitpläne und Ereignisse lauten wie folgt:
 
 [Experience League live](https://experienceleague.adobe.com/docs/experience-league-live-events/events/overview.html?lang=de) ist eine Live-Streaming-Show, die vom Experience League-Team produziert wird. Sie können sich mit Produktexperten von Adobe in Verbindung setzen und praktische Tipps, Tricks und Strategien lernen, die Sie mit den Adobe Experience Cloud-Anwendungen anwenden können.
 
+Bevorstehende Ereignisse:
+
 | Ereignisdatum | Zeit | Ereignisname | Typ | Beschreibung |
 | -----------| ---------- | ---------- | ---------- |---------- |
 | 18. November 2021 | 12.00 Uhr (EST) | [Schnellere Live-Schaltung in Adobe Experience Manager](https://www.youtube.com/watch?v=7-Lcw5PejhI) | Live-Videoereignis | Stellen Sie eine funktionsreiche, personalisierte Web-Erfahrung in Tagen ohne Back-End-Entwicklung bereit. Erfahren Sie, wie Sie mithilfe eines vordefinierten [!UICONTROL Site-Vorlage]. Nehmen Sie an einer Live-Präsentation teil und besuchen Sie die Adobe Product Managers Shankari Panchapakesan, Gabriel Walt und Danny Gordon. Sie können sogar eine Live-Codierung sehen! |
-| 21. Oktober 2021 | 12.00 Uhr (EST) | [Wer hat darauf geklickt? Erweiterte Berichterstellung zu Link-Klicks mit Adobe Analytics](https://www.youtube.com/channel/UCN-7ZEctit8Qu01BWeHQ0Fw) | Auf Abruf | Die Berichterstattung über Benutzerinteraktionen mit Ihren Web- oder mobilen Eigenschaften ist ein wichtiges Element zum Verständnis der Journey Ihres Kunden. Mit Adobe Analytics können Sie zu jedem Klick in Ihrer Anwendung wissen, wer, was, warum und wo. Erfahren Sie von Adobe Analytics-Experten die wichtigsten Tipps zur Verwendung von Activity Map-Klassifikationen und benutzerdefinierter Attribution, um die Benutzerinteraktion besser zu verstehen. |
 
 {style=&quot;table-layout:auto&quot;}
 
