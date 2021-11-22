@@ -9,7 +9,7 @@ exl-id: null
 source-git-commit: 6c7006998126d9e8921d32777ddde423b2f3c863
 workflow-type: tm+mt
 source-wordcount: '4724'
-ht-degree: 92%
+ht-degree: 95%
 
 ---
 
@@ -47,44 +47,44 @@ Neueste Aktualisierung: **15. November 2021**
 
 Benötigen Sie Hilfe? Besuchen Sie [Adobe Experience League](https://experienceleague.adobe.com/?lang=de#home), um Produkt- und technische Dokumentation, von Adobe kuratierte Kurse, Video-Tutorials, schnelle Antworten, Community-Einblicke und von Schulungsleitern geführte Kurse zu erhalten.
 
-## ![Symbol](/assets/experience-league.png) [!DNL Experience League] Veranstaltungen {#events}
+## ![Symbol](/assets/experience-league.png) [!DNL Experience League]-Events {#events}
 
-Experience League Events sind ein idealer Ort, um bei der Adobe Antworten von Produktexperten zu erhalten. Folgende Ereignisse sind verfügbar:
+Experience League-Events sind ideal, um von Adobe-Produktexperten Antworten auf Fragen zu erhalten. Folgende Ereignisse sind verfügbar:
 
 * [Experience League live](#exl-live): Live- und On-Demand-Videoereignisse in YouTube
 * [Community-Fragen und -Kaffeepausen](#coffee): Chats mit Produktmanagern im Community-Forum
 * [Live-Adobe für Entwickler](#dev-live): Auf Experience League verfügbare On-Demand-Videoereignisse
 
-Zeitpläne und Ereignisse lauten wie folgt:
+Die Zeitpläne und Events:
 
-### Experience League live{#exl-live}
+### Experience League Live {#exl-live}
 
-[Experience League live](https://experienceleague.adobe.com/docs/experience-league-live-events/events/overview.html?lang=de) ist eine Live-Streaming-Show, die vom Experience League-Team produziert wird. Sie können sich mit Produktexperten von Adobe in Verbindung setzen und praktische Tipps, Tricks und Strategien lernen, die Sie mit den Adobe Experience Cloud-Anwendungen anwenden können.
+[Experience League Live](https://experienceleague.adobe.com/docs/experience-league-live-events/events/overview.html?lang=de) ist eine vom Experience League-Team veranstaltete Live-Streaming-Show. Dort haben Sie Gelegenheit, sich mit Produktexperten von Adobe auszutauschen und praktische Tipps, Tricks und Strategien für die Arbeit mit den Anwendungen rund um Adobe Experience Cloud kennenzulernen.
 
 Bevorstehende Ereignisse:
 
-| Ereignisdatum | Zeit | Ereignisname | Typ | Beschreibung |
+| Datum des Events | Zeit | Name des Events | Typ | Beschreibung |
 | -----------| ---------- | ---------- | ---------- |---------- |
-| 18. November 2021 | 12.00 Uhr (EST) | [Schnellere Live-Schaltung in Adobe Experience Manager](https://www.youtube.com/watch?v=7-Lcw5PejhI) | Live-Videoereignis | Stellen Sie eine funktionsreiche, personalisierte Web-Erfahrung in Tagen ohne Back-End-Entwicklung bereit. Erfahren Sie, wie Sie mithilfe eines vordefinierten [!UICONTROL Site-Vorlage]. Nehmen Sie an einer Live-Präsentation teil und besuchen Sie die Adobe Product Managers Shankari Panchapakesan, Gabriel Walt und Danny Gordon. Sie können sogar eine Live-Codierung sehen! |
+| 18. November 2021 | 12.00 Uhr (EST) | [Schnellere Site-Erstellung in Adobe Experience Manager](https://www.youtube.com/watch?v=7-Lcw5PejhI) | Live-Video-Event | Erstellen Sie personalisierte Web-Erlebnisse mit umfassenden Funktionen in nur wenigen Tagen, ohne auf Entwickler im Backend angewiesen zu sein. Erfahren Sie, wie Sie mithilfe eines vordefinierten [!UICONTROL Site-Vorlage]. Nehmen Sie an einer Live-Präsentation teil und besuchen Sie die Adobe Product Managers Shankari Panchapakesan, Gabriel Walt und Danny Gordon. Möglicherweise erleben Sie sogar eine Live-Codierung! |
 
 {style=&quot;table-layout:auto&quot;}
 
 Frühere Episoden finden Sie unter [Experience League live](https://experienceleague.adobe.com/docs/experience-league-live-events/events/overview.html?lang=en).
 
-### Community-Fragen und -Kaffeepausen{#coffee}
+### Kaffeepause mit Fragen und Antworten der Community {#coffee}
 
-Verbringen Sie eine Stunde mit einem speziellen Gast und stellen Sie Ihre Fragen in Experience League Communities, wo Sie Fragen von Produktexperten zur Adobe bekommen können!
+Verbringen Sie eine Stunde mit einem Special Guest und stellen Sie Ihre Fragen in Experience League-Communitys, wo Ihre Fragen von Produktexperten bei Adobe beantwortet werden!
 
-| Ereignisname | Datum und Uhrzeit | Anwendung | Typ | Beschreibung |
+| Name des Events | Datum und Uhrzeit | Anwendung | Typ | Beschreibung |
 | -----------| ---------- | ---------- | ---------- |---------- |
-| Adobe Target - Einrichtung und Admin-Benutzeroberfläche, A4T-Integration, AEM Integration, allgemeine Benutzeroberfläche  | Mittwoch, 8. Dezember um 8 Uhr PT | Adobe Target | Fragen und Antworten des Forums | Robert Calangiu, Senior Product Manager für Adobe Target, wird ebenfalls in der Adobe Target Community anwesend sein, um direkt mit Ihnen über Ihre Adobe Target-Fragen zu seinen Fachgebieten zu sprechen. <br>[Details](https://experienceleaguecommunities.adobe.com/t5/adobe-target-discussions/at-community-q-amp-a-coffee-break-12-8-21-8am-pt-robert-calangiu/td-p/426697) |
+| Adobe Target - Einrichtung und Admin-Benutzeroberfläche, A4T-Integration, AEM Integration, allgemeine Benutzeroberfläche  | Mittwoch, 8. Dezember um 8 Uhr PT | Adobe Target | Fragen und Antworten des Forums | Robert Calangiu, Senior Product Manager für Adobe Target, wird ebenfalls in der Adobe Target Community anwesend sein, um direkt mit Ihnen über Ihre Adobe Target-Fragen zu seinen Fachgebieten zu sprechen. <br>[Details](https://experienceleaguecommunities.adobe.com/t5/adobe-target-discussions/at-community-q-amp-a-coffee-break-12-8-21-8am-pt-robert-calangiu/td-p/426697?profile.language=de) |
 | Adobe Campaign - Datenimport über andere Anwendungen | Donnerstag, 2. Dezember 2021 @ 8 am PT | Adobe Campaign | Fragen und Antworten des Forums | Datenimport über andere Anwendungen - Best Practices zum Importieren von Daten über SFTP/APIs mithilfe technischer Workflows mit Zariely Garcia, Senior Technical Consultant. <br>[Details](https://forms.office.com/Pages/ResponsePage.aspx?id=Wht7-jR7h0OUrtLBeN7O4UuYOxSr9BdGsLPtk3ITDIdUMFYwT0REQTk5RDZPTjlEWFlSUk1XWTBHVy4u&amp;wdLOR=cEEEC3C73-227C-457C-AA83-44CC08D697B9). |
 
 {style=&quot;table-layout:auto&quot;}
 
-### Live-Adobe für Entwickler{#dev-live}
+### Adobe Developer&#39;s Live {#dev-live}
 
-| Ereignisname | Datum und Uhrzeit | Thema | Typ | Beschreibung |
+| Name des Events | Datum und Uhrzeit | Thema | Typ | Beschreibung |
 | -----------| ---------- | ---------- | ---------- |---------- |
 | 4. bis 5. Oktober 2021 | Auf Abruf | [Adobe Developers Live](https://experienceleague.adobe.com/docs/adobe-developers-live-events/events/2021/oct2021/overview.html?lang=de) | Video | Sie haben das Event verpasst oder suchen nach der Aufzeichnung einer bestimmten Sitzung? Sie finden sie auf der Experience League-Plattform. Developers Live präsentiert die neuesten technischen Fortschritte und Entwickler-Tools, die das Design, Workflows zur Inhaltserstellung, Dokumenten-Services und das Customer Experience Management in verschiedenen Branchen ermöglichen. Sehen Sie sich die Keynote an, erfahren Sie mehr über Analytics-APIs, Client Data Layer, Adobe I/O-Open-Source-Projekte und vieles mehr. |
 
@@ -194,7 +194,7 @@ AN-270649
 
 ### Wichtige Hinweise für [!DNL Analytics]-Administratoren {#aa-notices}
 
-| Hinweis | Hinzugefügt oder aktualisiert am | Beschreibung |
+| Hinweis | Hinzugefügt  oder aktualisiert am | Beschreibung |
 | ----------- | ---------- | ---------- |
 | Ende der Nutzungsdauer von drei Analytics-API-Services | 16. September 2021 | Am **20. Oktober 2021** erreichen die folgenden Analytics Legacy-API-Services das Ende ihrer Nutzungsdauer und werden eingestellt. Alle aktuellen Integrationen, die mit diesen Services erstellt wurden, funktionieren seit diesem Tag nicht mehr.<ul><li>1.3 Analytics-APIs</li><li>1.4 SOAP Analytics-APIs</li><li>Legacy-OAuth-Authentifizierung (OAuth und JWT)</li></ul>Adobe hat ein Dokument [Häufig gestellte Fragen (FAQ) zum Ende der Nutzungsdauer (EOL) der Legacy-API](https://github.com/AdobeDocs/analytics-1.4-apis/blob/master/docs/APIEOL.md?mv=email) bereitgestellt, das Ihre Fragen beantworten und Anleitungen zum weiteren Vorgehen geben soll. API-Integrationen, die diese Dienste nutzen, können zu den [Analytics-REST-APIs 1.4](https://github.com/AdobeDocs/analytics-1.4-apis?mv=email) oder den [Analytics-APIs 2.0](https://github.com/AdobeDocs/analytics-2.0-apis?mv=email) migrieren. Ältere OAuth-Konten können zu einem [Adobe I/O](https://developer.adobe.com/console) Analytics-Integrationskonto migriert werden, das für den Zugriff auf sowohl Analytics-APIs 1.4 als auch Analytics-APIs 2.0 verwendet werden kann. |
 | Ende der Nutzungsdauer (EOL) für die vollständige Verarbeitung in Data Sources | 18. Oktober 2021 | Am **31. Januar 2022** beendet Adobe die vollständige Verarbeitung, mit der Benutzer Offline-Trefferdaten in Analytics aufnehmen können. Diese Funktion ist über die [Bulk Data Insertion-API](https://www.adobe.io/apis/experiencecloud/analytics/docs.html#!AdobeDocs/analytics-2.0-apis/master/bdia.md) verfügbar. [Weitere Informationen](https://experienceleague.adobe.com/docs/analytics/import/data-sources/data-types-and-categories/datasrc-fullproc-eol.html?lang=de ) |
@@ -347,7 +347,7 @@ Neueste Tutorials und Kurse für Adobe Campaign.
 * Adobe Campaign Version 8: [Dokumentation](https://experienceleague.adobe.com/docs/campaign/campaign-v8/campaign-home.html?lang=de) – [Versionshinweise](https://experienceleague.adobe.com/docs/campaign/campaign-v8/start/whats-new.html?lang=de) – [Implementierungshandbücher](https://experienceleague.adobe.com/docs/campaign/campaign-v8/implement/implement.html?lang=de)
 * Adobe Campaign Standard: [Campaign Standard – Dokumentation](https://experienceleague.adobe.com/docs/campaign-standard/using/campaign-standard-home.html?lang=de) – [Versionshinweise](https://experienceleague.adobe.com/docs/campaign-standard/using/release-notes/release-notes.html) – [Anleitungsvideos](https://experienceleague.adobe.com/docs/campaign-standard-learn/tutorials/overview.html?lang=de) – [Versionsplanung](https://experienceleague.adobe.com/docs/campaign-standard/using/release-notes/release-planning.html?lang=de) – [Neueste Aktualisierungen der Dokumentation](https://experienceleague.adobe.com/docs/campaign-standard/using/documentation-updates.html?lang=de)
 * Adobe Campaign Classic: [Campaign Classic v7 – Dokumentation](https://experienceleague.adobe.com/docs/campaign-classic/using/campaign-classic-home.html?lang=de) – [Versionshinweise](https://experienceleague.adobe.com/docs/campaign-classic/using/release-notes/latest-release.html) – [Anleitungsvideos](https://experienceleague.adobe.com/docs/campaign-classic-learn/tutorials/overview.html?lang=de) – [Neueste Aktualisierungen der Dokumentation](https://experienceleague.adobe.com/docs/campaign-classic/using/documentation-updates.html?lang=de)
-* Control Panel von Adobe Campaign: [Dokumentation](https://experienceleague.adobe.com/docs/control-panel/using/control-panel-home.html?lang=de) – [Versionshinweise](https://experienceleague.adobe.com/docs/control-panel/using/release-notes.html?lang=de) – Anleitungsvideos für [Campaign Standard](https://experienceleague.adobe.com/docs/campaign-standard-learn/control-panel/control-panel-overview.html?lang=de)/[Campaign Classic](https://experienceleague.adobe.com/docs/campaign-classic-learn/control-panel/control-panel-overview.html?lang=de)
+* Control Panel von Adobe Campaign: [Dokumentation](https://experienceleague.adobe.com/docs/control-panel/using/control-panel-home.html?lang=de) – [Versionshinweise](https://experienceleague.adobe.com/docs/control-panel/using/release-notes.html?lang=de)  – Anleitungsvideos für [Campaign Standard](https://experienceleague.adobe.com/docs/campaign-standard-learn/control-panel/control-panel-overview.html?lang=de)/[Campaign Classic](https://experienceleague.adobe.com/docs/campaign-classic-learn/control-panel/control-panel-overview.html?lang=de)
 
 ## ![Symbol](/assets/experience_platform_appicon_24.png) Journey Optimizer {#journey-opt}
 
@@ -363,9 +363,9 @@ Neueste Journey Optimizer-Tutorials:
 
 | Veröffentlicht | Name | Typ | Beschreibung |
 | -----------| ---------- | ---------- | ---------- |
-| Oktober 2021 | [Konfigurieren und Verwalten von Daten in [!DNL Journey Optimizer] für Dateningenieure](https://experienceleague.adobe.com/?recommended=JourneyOptimizer-U-1-2021.2&amp;lang=de) | Kurs | Erfahren Sie, wie Sie die für die Journey-Verwaltung in Journey Optimizer erforderlichen Daten konfigurieren und verwalten. |
-| Oktober 2021 | [Erste Schritte mit [!DNL Journey Optimizer] für Journey-Administratoren und -Manager](https://experienceleague.adobe.com/?recommended=JourneyOptimizer-U-1-2021.1&amp;lang=de) | Kurs | Erfahren Sie alles, was Sie wissen müssen, um Ihre erste Journey zu erstellen. |
-| Oktober 2021 | [Konfigurieren [!DNL Journey Optimizer] für Journey-Administratoren](https://experienceleague.adobe.com/?recommended=JourneyOptimizer-A-1-2021.1&amp;lang=de) | Kurs | Machen Sie sich mit der [!DNL Journey Optimizer]-Architektur und den Integrationspunkten vertraut. Erfahren Sie, wie Sie [!DNL Journey Optimizer] konfigurieren |
+| Oktober 2021 | [Konfigurieren und Verwalten von Daten in  [!DNL Journey Optimizer]  für Dateningenieure](https://experienceleague.adobe.com/?recommended=JourneyOptimizer-U-1-2021.2&amp;lang=de) | Kurs | Erfahren Sie, wie Sie die für die Journey-Verwaltung in Journey Optimizer erforderlichen Daten konfigurieren und verwalten. |
+| Oktober 2021 | [Erste Schritte mit  [!DNL Journey Optimizer]  für Journey-Administratoren und -Manager](https://experienceleague.adobe.com/?recommended=JourneyOptimizer-U-1-2021.1&amp;lang=de) | Kurs | Erfahren Sie alles, was Sie wissen müssen, um Ihre erste Journey zu erstellen. |
+| Oktober 2021 | [Konfigurieren  [!DNL Journey Optimizer]  für Journey-Administratoren](https://experienceleague.adobe.com/?recommended=JourneyOptimizer-A-1-2021.1&amp;lang=de) | Kurs | Machen Sie sich mit der [!DNL Journey Optimizer]-Architektur und den Integrationspunkten vertraut. Erfahren Sie, wie Sie [!DNL Journey Optimizer] konfigurieren |
 
 {style=&quot;table-layout:auto&quot;}
 
