@@ -1,6 +1,6 @@
 ---
 title: Neueste Versionshinweise
-description: Hier finden Sie Informationen über die aktuellen Versionshinweise, neue Funktionen und neue Dokumentation für  [!DNL Experience Cloud] -Produkte und -Services. Neue Hilfe und Tutorials zu [!DNL Experience Cloud], [!DNL Creative Cloud for enterprise]und [!DNL Document Cloud].
+description: Hier finden Sie Informationen über die aktuellen Versionshinweise, neue Funktionen und neue Dokumentation für  [!DNL Experience Cloud] -Produkte und -Services. Neue Hilfen und Tutorials zu [!DNL Experience Cloud], [!DNL Creative Cloud for enterprise] und [!DNL Document Cloud].
 doc-type: release notes
 last-update: November 2021
 author: mfrei
@@ -58,7 +58,7 @@ Experience League-Events sind ideal, um von Adobe-Produktexperten Antworten auf 
 
 Die Zeitpläne und Events:
 
-### Experience League Live {#exl-live}
+### Experience League Live{#exl-live}
 
 [Experience League Live](https://experienceleague.adobe.com/docs/experience-league-live-events/events/overview.html?lang=de) ist eine vom Experience League-Team veranstaltete Live-Streaming-Show. Dort haben Sie Gelegenheit, sich mit Produktexperten von Adobe auszutauschen und praktische Tipps, Tricks und Strategien für die Arbeit mit den Anwendungen rund um Adobe Experience Cloud kennenzulernen.
 
@@ -72,7 +72,7 @@ Kommende Events:
 
 Frühere Episoden finden Sie unter [Experience League Live](https://experienceleague.adobe.com/docs/experience-league-live-events/events/overview.html?lang=en).
 
-### Kurze Community-Sessions {#coffee}
+### Kurze Community-Sessions{#coffee}
 
 Verbringen Sie eine Stunde mit einem besonderen Gast und stellen Sie Ihre Fragen in Experience League-Communitys, wo Ihre Fragen von Produktexperten bei Adobe beantwortet werden!
 
@@ -83,7 +83,7 @@ Verbringen Sie eine Stunde mit einem besonderen Gast und stellen Sie Ihre Fragen
 
 {style=&quot;table-layout:auto&quot;}
 
-### Adobe Developer&#39;s Live {#dev-live}
+### Adobe Developer&#39;s Live{#dev-live}
 
 | Name des Events | Datum und Uhrzeit | Thema | Typ | Beschreibung |
 | -----------| ---------- | ---------- | ---------- |---------- |
@@ -195,7 +195,7 @@ AN-270649
 
 ### Wichtige Hinweise für [!DNL Analytics]-Administratoren {#aa-notices}
 
-| Hinweis | Hinzugefügt  oder aktualisiert am | Beschreibung |
+| Hinweis | Hinzugefügt oder aktualisiert am | Beschreibung |
 | ----------- | ---------- | ---------- |
 | EOL für Reports &amp; Analytics | 4. Januar 2022 | effektiv **31. Dezember 2023**, beabsichtigt Adobe, Reports &amp; Analytics und die zugehörigen Berichte und Funktionen einzustellen. Die Berichte, Visualisierungen und zugrunde liegenden Technologien, die Reports &amp; Analytics nutzen, entsprechen nicht mehr den Technologiestandards der Adobe. Die meisten Reports &amp; Analytics-Funktionen sind in [Analysis Workspace](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/home.html?lang=de). Seit der Veröffentlichung von Analysis Workspace im Jahr 2015 wurden die Funktionen und Leistungsmerkmale von Reports &amp; Analytics in Analysis Workspace verschoben, und es wurde ein Schwellenwert für die Workflow-Parität erreicht. [Diese Mitteilung](https://spark.adobe.com/page/6WnF8JK6IRDhf) erläutert den Ablauf des Lebenszyklus. |
 | RDC-Typ „Global + China“ | 22. November 2021 | „Global + China“ ist ein neuer RDC-Typ (Regional Data Collection), der das Routing von Traffic für globale Kunden mithilfe des [!UICONTROL Add-on-Pakets „China Performance Optimization“] vereinfacht. In der Vergangenheit mussten Sie festlegen, ob Daten an den Sammlungsendpunkt „China“ oder an einen der globalen Sammlungsendpunkte weitergeleitet werden sollten. Jetzt können Sie diesen RDC-**Typ** auswählen, damit Adobe den optimalen Sammlungsendpunkt basierend auf der geografischen Lage des Benutzers bestimmen kann. |
@@ -240,7 +240,7 @@ Adobe empfiehlt, die Seite [Experience Manager-Versions-Updates und -Roadmaps](h
 
 ### Videos zur Versionsübersicht
 
-* [Versionsübersicht Dezember 2021](https://video.tv.adobe.com/v/339278) Video über neue Funktionen.
+* [Übersicht über die Version Dezember 2021](https://video.tv.adobe.com/v/339278) Video über neue Funktionen.
 * [Übersicht über die Version Oktober 2021](https://video.tv.adobe.com/v/338253) Video über neue Funktionen.
 * [Übersicht über die Version September 2021](https://video.tv.adobe.com/v/337381) Video über neue Funktionen.
 
@@ -351,7 +351,7 @@ Neueste Tutorials und Kurse für Adobe Campaign.
 * Adobe Campaign Version 8: [Dokumentation](https://experienceleague.adobe.com/docs/campaign/campaign-v8/campaign-home.html?lang=de) – [Versionshinweise](https://experienceleague.adobe.com/docs/campaign/campaign-v8/start/whats-new.html?lang=de) – [Implementierungshandbücher](https://experienceleague.adobe.com/docs/campaign/campaign-v8/implement/implement.html?lang=de)
 * Adobe Campaign Standard: [Campaign Standard – Dokumentation](https://experienceleague.adobe.com/docs/campaign-standard/using/campaign-standard-home.html?lang=de) – [Versionshinweise](https://experienceleague.adobe.com/docs/campaign-standard/using/release-notes/release-notes.html) – [Anleitungsvideos](https://experienceleague.adobe.com/docs/campaign-standard-learn/tutorials/overview.html?lang=de) – [Versionsplanung](https://experienceleague.adobe.com/docs/campaign-standard/using/release-notes/release-planning.html?lang=de) – [Neueste Aktualisierungen der Dokumentation](https://experienceleague.adobe.com/docs/campaign-standard/using/documentation-updates.html?lang=de)
 * Adobe Campaign Classic: [Campaign Classic v7 – Dokumentation](https://experienceleague.adobe.com/docs/campaign-classic/using/campaign-classic-home.html?lang=de) – [Versionshinweise](https://experienceleague.adobe.com/docs/campaign-classic/using/release-notes/latest-release.html) – [Anleitungsvideos](https://experienceleague.adobe.com/docs/campaign-classic-learn/tutorials/overview.html?lang=de) – [Neueste Aktualisierungen der Dokumentation](https://experienceleague.adobe.com/docs/campaign-classic/using/documentation-updates.html?lang=de)
-* Control Panel von Adobe Campaign: [Dokumentation](https://experienceleague.adobe.com/docs/control-panel/using/control-panel-home.html?lang=de) – [Versionshinweise](https://experienceleague.adobe.com/docs/control-panel/using/release-notes.html?lang=de)  – Anleitungsvideos für [Campaign Standard](https://experienceleague.adobe.com/docs/campaign-standard-learn/control-panel/control-panel-overview.html?lang=de)/[Campaign Classic](https://experienceleague.adobe.com/docs/campaign-classic-learn/control-panel/control-panel-overview.html?lang=de)
+* Control Panel von Adobe Campaign: [Dokumentation](https://experienceleague.adobe.com/docs/control-panel/using/control-panel-home.html?lang=de) – [Versionshinweise](https://experienceleague.adobe.com/docs/control-panel/using/release-notes.html?lang=de) – Anleitungsvideos für [Campaign Standard](https://experienceleague.adobe.com/docs/campaign-standard-learn/control-panel/control-panel-overview.html?lang=de)/[Campaign Classic](https://experienceleague.adobe.com/docs/campaign-classic-learn/control-panel/control-panel-overview.html?lang=de)
 
 ## ![Symbol](/assets/experience_platform_appicon_24.png) Journey Optimizer {#journey-opt}
 
@@ -367,9 +367,9 @@ Neueste Journey Optimizer-Tutorials:
 
 | Veröffentlicht | Name | Typ | Beschreibung |
 | -----------| ---------- | ---------- | ---------- |
-| Oktober 2021 | [Konfigurieren und Verwalten von Daten in  [!DNL Journey Optimizer]  für Dateningenieure](https://experienceleague.adobe.com/?recommended=JourneyOptimizer-U-1-2021.2&amp;lang=de) | Kurs | Erfahren Sie, wie Sie die für die Journey-Verwaltung in Journey Optimizer erforderlichen Daten konfigurieren und verwalten. |
-| Oktober 2021 | [Erste Schritte mit  [!DNL Journey Optimizer]  für Journey-Administratoren und -Manager](https://experienceleague.adobe.com/?recommended=JourneyOptimizer-U-1-2021.1&amp;lang=de) | Kurs | Erfahren Sie alles, was Sie wissen müssen, um Ihre erste Journey zu erstellen. |
-| Oktober 2021 | [Konfigurieren  [!DNL Journey Optimizer]  für Journey-Administratoren](https://experienceleague.adobe.com/?recommended=JourneyOptimizer-A-1-2021.1&amp;lang=de) | Kurs | Machen Sie sich mit der [!DNL Journey Optimizer]-Architektur und den Integrationspunkten vertraut. Erfahren Sie, wie Sie [!DNL Journey Optimizer] konfigurieren |
+| Oktober 2021 | [Konfigurieren und Verwalten von Daten in [!DNL Journey Optimizer] für Dateningenieure](https://experienceleague.adobe.com/?recommended=JourneyOptimizer-U-1-2021.2&amp;lang=de) | Kurs | Erfahren Sie, wie Sie die für die Journey-Verwaltung in Journey Optimizer erforderlichen Daten konfigurieren und verwalten. |
+| Oktober 2021 | [Erste Schritte mit [!DNL Journey Optimizer] für Journey-Administratoren und -Manager](https://experienceleague.adobe.com/?recommended=JourneyOptimizer-U-1-2021.1&amp;lang=de) | Kurs | Erfahren Sie alles, was Sie wissen müssen, um Ihre erste Journey zu erstellen. |
+| Oktober 2021 | [Konfigurieren [!DNL Journey Optimizer] für Journey-Administratoren](https://experienceleague.adobe.com/?recommended=JourneyOptimizer-A-1-2021.1&amp;lang=de) | Kurs | Machen Sie sich mit der [!DNL Journey Optimizer]-Architektur und den Integrationspunkten vertraut. Erfahren Sie, wie Sie [!DNL Journey Optimizer] konfigurieren |
 
 {style=&quot;table-layout:auto&quot;}
 
@@ -418,7 +418,7 @@ Zuletzt aktualisiert: **27. Oktober 2021**
 
 | Funktion | Beschreibung |
 | ------- | ----------- |
-| Analytics für Advertising Cloud | Wenn Ihr Unternehmen für die Datenerfassung von der Verwendung der veralteten Adobe Analytics `visitorAPI.js` Bibliothek auf die Adobe Experience Platform-Bibliothek (`alloy.js`) wechseln möchte, müssen Sie einige Änderungen vornehmen, um die ID-Zuordnung zu aktivieren. Siehe „[Verwenden der  [!DNL Last Event Service]  JavaScript-Bibliothek mit Adobe Experience Platform  [!DNL Web SDK]](https://experienceleague.adobe.com/docs/advertising-cloud/integrations/analytics/planning/web-sdk.html?lang=de)“. |
+| Analytics für Advertising Cloud | Wenn Ihr Unternehmen für die Datenerfassung von der Verwendung der veralteten Adobe Analytics `visitorAPI.js` Bibliothek auf die Adobe Experience Platform-Bibliothek (`alloy.js`) wechseln möchte, müssen Sie einige Änderungen vornehmen, um die ID-Zuordnung zu aktivieren. Siehe „[Verwenden der [!DNL Last Event Service] JavaScript-Bibliothek mit Adobe Experience Platform [!DNL Web SDK]](https://experienceleague.adobe.com/docs/advertising-cloud/integrations/analytics/planning/web-sdk.html?lang=de)“. |
 
 {style=&quot;table-layout:auto&quot;}
 
