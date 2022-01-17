@@ -72,7 +72,7 @@ Die Zeitpläne und Events:
 
 Frühere Episoden sind verfügbar unter [Experience League live](https://experienceleague.adobe.com/docs/experience-league-live-events/events/overview.html?lang=en).
 
-### Kurze Community-Sessions{#coffee}
+### Kurze Community-Sessions {#coffee}
 
 Verbringen Sie eine Stunde mit einem speziellen Gast und stellen Sie Ihre Fragen in Experience League Communities. Erhalten Sie Fragen von Produktexperten bei der Adobe!
 
@@ -83,7 +83,7 @@ Verbringen Sie eine Stunde mit einem speziellen Gast und stellen Sie Ihre Fragen
 
 {style=&quot;table-layout:auto&quot;}
 
-### Adobe Developer&#39;s Live{#dev-live}
+### Adobe Developer&#39;s Live {#dev-live}
 
 | Ereignis | Datum und Uhrzeit | Typ | Beschreibung |
 | -----------| ---------- | ---------- |---------- |
@@ -155,7 +155,7 @@ Releasedatum: **19. Januar 2022**
 | Funktion | Beschreibung | Zieldatum |
 | ----------- | ---------- | ----- |
 | [!UICONTROL Persistenz] Optionen für Bindungsdimensionen und Bindungsmetriken | Beim Erstellen oder Bearbeiten einer Datenansicht können Sie die Persistenz einer Dimension an eine andere Dimension oder Metrik binden. Dieses Konzept wird als _Merchandising_ in Reports &amp; Analytics und wird jetzt in CJA unterstützt. [Weitere Informationen](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-dataviews/component-settings/persistence.html#binding-dimension) | 19. Januar 2022 |
-| [!UICONTROL Erste bekannte] und [!UICONTROL Zuletzt bekannt] Zuordnungsmodelle | Diese beiden neuen Zuordnungsmodelle nehmen den ersten oder letzten beobachteten Wert für eine Dimension innerhalb eines bestimmten Persistenzbereichs (Sitzung, Person oder benutzerspezifischer Zeitraum mit Rückblick). Anschließend wenden sie das Zuordnungsmodell auf alle Ereignisse im angegebenen Umfang an. [Weitere Informationen](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-dataviews/component-settings/persistence.html#allocation-settings) | 19. Januar 2022 |
+| [!UICONTROL Erste bekannte] und [!UICONTROL Zuletzt bekannt] Zuordnungsmodelle | These two new allocation models take the first or last observed value for a dimension within a specified persistence scope (session, person, or custom time period with look-back.) Anschließend wenden sie das Zuordnungsmodell auf alle Ereignisse im angegebenen Umfang an. [Weitere Informationen](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-dataviews/component-settings/persistence.html#allocation-settings) | 19. Januar 2022 |
 | [!UICONTROL PersonID] und [!UICONTROL PersonID-Namespace] als Dimensionen | Stellt die `personID` (oder `customerID`, oder die ID, die Sie zum Zusammenführen von Datensätzen in einer Verbindung verwenden) als Dimension in Datenansichten verwenden. Diese Verbesserung erleichtert Ihnen die Einbeziehung der `personID` als Dimension in Ihrer Datenansicht verwenden, indem Sie sie aus der Verbindung heranziehen. [Weitere Informationen](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-dataviews/component-reference.html?lang=en#optional-standard-components) | 19. Januar 2022 |
 
 {style=&quot;table-layout:auto&quot;}
