@@ -6,10 +6,10 @@ last-update: January 2022
 author: mfrei
 mini-toc-levels: 1
 exl-id: bcbdba6a-9e24-4f84-97ca-65c24ef45707
-source-git-commit: e8e9579245a74552a4dc9ee88eb45375162de6e1
+source-git-commit: 1b16256611eb979c223368409f6887d8c6826332
 workflow-type: tm+mt
-source-wordcount: '6416'
-ht-degree: 42%
+source-wordcount: '6587'
+ht-degree: 41%
 
 ---
 
@@ -155,7 +155,7 @@ Releasedatum: **19. Januar 2022**
 | Funktion | Beschreibung | Zieldatum |
 | ----------- | ---------- | ----- |
 | [!UICONTROL Persistenz] Optionen für Bindungsdimensionen und Bindungsmetriken | Beim Erstellen oder Bearbeiten einer Datenansicht können Sie die Persistenz einer Dimension an eine andere Dimension oder Metrik binden. Dieses Konzept wird als _Merchandising_ in Reports &amp; Analytics und wird jetzt in CJA unterstützt. [Weitere Informationen](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-dataviews/component-settings/persistence.html#binding-dimension) | 19. Januar 2022 |
-| [!UICONTROL Erste bekannte] und [!UICONTROL Zuletzt bekannt] Zuordnungsmodelle | These two new allocation models take the first or last observed value for a dimension within a specified persistence scope (session, person, or custom time period with look-back.) Anschließend wenden sie das Zuordnungsmodell auf alle Ereignisse im angegebenen Umfang an. [Weitere Informationen](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-dataviews/component-settings/persistence.html#allocation-settings) | 19. Januar 2022 |
+| [!UICONTROL Erste bekannte] und [!UICONTROL Zuletzt bekannt] Zuordnungsmodelle | Diese beiden neuen Zuordnungsmodelle nehmen den ersten oder letzten beobachteten Wert für eine Dimension innerhalb eines bestimmten Persistenzbereichs (Sitzung, Person oder benutzerspezifischer Zeitraum mit Rückblick). Anschließend wenden sie das Zuordnungsmodell auf alle Ereignisse im angegebenen Umfang an. [Weitere Informationen](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-dataviews/component-settings/persistence.html#allocation-settings) | 19. Januar 2022 |
 | [!UICONTROL PersonID] und [!UICONTROL PersonID-Namespace] als Dimensionen | Stellt die `personID` (oder `customerID`, oder die ID, die Sie zum Zusammenführen von Datensätzen in einer Verbindung verwenden) als Dimension in Datenansichten verwenden. Diese Verbesserung erleichtert Ihnen die Einbeziehung der `personID` als Dimension in Ihrer Datenansicht verwenden, indem Sie sie aus der Verbindung heranziehen. [Weitere Informationen](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-dataviews/component-reference.html?lang=en#optional-standard-components) | 19. Januar 2022 |
 
 {style=&quot;table-layout:auto&quot;}
@@ -289,6 +289,28 @@ Adobe empfiehlt, die Seite [Experience Manager-Versions-Updates und -Roadmaps](h
 
 
 
+
+### Community
+
+* **Experience Manager-GEMs-Webinar - Experience Manager as a Cloud Service** | Überprüfung 2021 und Aussichten 2022
+
+   **Datum**: Dienstag, 25. Januar 2022
+   **Zeit**: 8:00 Uhr PST oder 17:00 Uhr MEZ oder 21:30 Uhr IST
+   **Dauer**: 60 Minuten
+   **Kosten**: Kostenlos!
+
+   * [Hier registrieren](https://adobe.ly/3tAh3OC)
+   * [Fragen stellen](https://adobe.ly/3zJrS0f)
+
+* [Ankündigung der EU-Mitglieder des Jahres 2021](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-manager/announcing-community-members-of-the-year-2021/td-p/436782)
+
+   Wir möchten allen, die an [Experience Manager-Community](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-manager/ct-p/adobe-experience-manager-community) 2021 und half anderen bei ihren Problemen.
+
+   Jedes Jahr ehrt die Experience Cloud Community die Mitglieder, die über den Dienst hinausgehen, und leistet anderen mit dem EG-Mitglied des Jahres eine unglaubliche Unterstützung. In Anerkennung der öffentlichen Bemühungen geben wir hier an [@Asutosh_Jena_](https://experienceleaguecommunities.adobe.com/t5/user/viewprofilepage/user-id/7532759)  und [@Vijayalakshmi_S](https://experienceleaguecommunities.adobe.com/t5/user/viewprofilepage/user-id/11077056) als Mitglieder der Gemeinschaft des Jahres 2021.
+
+* [Experience League Content für Januar 2022](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-manager/experience-league-content-for-month-of-january-2022/td-p/437137)
+
+   [Liste aller in der Experience League veröffentlichten Experience Manager-Inhalte](https://adobe.ly/3tuGuRH)
 
 ### Neue Experience Manager-Kurse und -Tutorials {#tutorials-aem}
 
