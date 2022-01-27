@@ -6,9 +6,9 @@ last-update: January 2022
 author: mfrei
 mini-toc-levels: 1
 exl-id: bcbdba6a-9e24-4f84-97ca-65c24ef45707
-source-git-commit: 3ecd5dfeeee5692b7fb5c5fa4dcac497b3c49ce0
+source-git-commit: e50b1d99621d2a32597e7a28c1602decef814ead
 workflow-type: tm+mt
-source-wordcount: '6573'
+source-wordcount: '6590'
 ht-degree: 98%
 
 ---
@@ -135,7 +135,6 @@ Siehe [Versionshinweise und Änderungsprotokolle](https://aep-sdks.gitbook.io/do
 Veröffentlichungsdatum: **19. Januar 2022**
 
 * [Neue Funktionen in Adobe Analytics](#aa-features)
-* [Neue Funktionen in Customer Journey Analytics](#cust-journey)
 * [Fehlerbehebungen in Adobe Analytics](#aa-fixes)
 * [Wichtige Hinweise für Analytics-Administratoren](#aa-notices)
 * [Analytics-Kurse und -Tutorials](#tutorials-analytics)
@@ -148,18 +147,6 @@ Veröffentlichungsdatum: **19. Januar 2022**
 | K. A. |  | Siehe [Allgemeine Verfügbarkeit](https://experienceleague.adobe.com/docs/analytics/technotes/releases.html?lang=de) |
 
 {style=&quot;table-layout:auto&quot;}
-
-### Neue Funktionen in Customer Journey Analytics {#cust-journey}
-
-| Funktion | Beschreibung | Zieldatum |
-| ----------- | ---------- | ----- |
-| [!UICONTROL Persistenz]-Optionen für Binding-Dimensionen und Binding-Metriken | Beim Erstellen oder Bearbeiten einer Datenansicht können Sie die Persistenz einer Dimension an eine andere Dimension oder Metrik binden. Dieses Konzept wird in Reports &amp; Analytics als _Merchandising_ bezeichnet und jetzt in Customer Journey Analytics unterstützt. [Weitere Informationen](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-dataviews/component-settings/persistence.html?lang=de#binding-dimension) | 19. Januar 2022 |
-| Die Zuordnungsmodelle [!UICONTROL Erster bekannter] und [!UICONTROL Letzter bekannter] | Diese beiden neuen Zuordnungsmodelle nehmen den ersten oder letzten beobachteten Wert für eine Dimension innerhalb eines bestimmten Persistenzbereichs (Sitzung, Person oder benutzerspezifischer Zeitraum mit Rückblick). Anschließend wenden sie das Zuordnungsmodell auf alle Ereignisse im angegebenen Bereich an. [Weitere Informationen](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-dataviews/component-settings/persistence.html?lang=de#allocation-settings) | 19. Januar 2022 |
-| [!UICONTROL PersonID] und [!UICONTROL PersonID-Namespace] als Dimensionen | Zeigt die `personID` (oder `customerID` bzw. die ID, die Sie zum Zusammenführen von Datensätzen in einer Verbindung verwenden) als Dimension in Datenansichten. Diese Verbesserung erleichtert Ihnen die Einbeziehung der `personID` als Dimension in Ihrer Datenansicht, indem Sie sie aus der Verbindung heranziehen. [Weitere Informationen](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-dataviews/component-reference.html?lang=de#optional-standard-components) | 19. Januar 2022 |
-
-{style=&quot;table-layout:auto&quot;}
-
-Versionsinformationen finden Sie unter [Allgemeine Verfügbarkeit](https://experienceleague.adobe.com/docs/analytics/technotes/releases.html?lang=de).
 
 ### Fehlerbehebungen in Adobe Analytics und Customer Journey Analytics {#aa-fixes}
 
@@ -175,7 +162,7 @@ Versionsinformationen finden Sie unter [Allgemeine Verfügbarkeit](https://exper
 * Es wurde ein Problem behoben, bei dem terminierte Berichte aufgrund der Sommerzeit vorzeitig gesendet wurden. (AN-276410; AN-276305)
 * Es wurde ein Problem behoben, bei dem der Projekt-Download im `.csv`-Format in Workspace fehlschlug. (AN-275834)
 
-#### Zusätzliche Fehlerbehebungen in Adobe Analytics und Customer Journey Analytics
+#### Weitere Fehlerbehebungen in Adobe Analytics
 
 AN-253294; AN-254976; AN-255377; AN-255561; AN-258550; AN-259336; AN-263935; AN-265094; AN-269441; AN-269486; AN-269855; AN-271166; AN-271588; AN-272088; AN-272249; AN-272859; AN-272873; AN-272885; AN-273229; AN-273913; AN-274237; AN-274472; AN-274491; AN-274619; AN-274766; AN-275248; AN-275259; AN-275271; AN-275315; AN-275388; AN-275418; AN-275597; AN-275643; AN-275650; AN-275651; AN-275675; AN-275682; AN-275704; AN-275711; AN-275796; AN-275834; AN-275923; AN-275941; AN-276044; AN-276125; AN-276157; AN-276397; AN-276597; AN-276789; AN-276834; AN-276861; AN-276870; AN-276963; AN-276975; AN-277000; AN-277044; AN-277093; AN-277200; AN-277215; AN-277271; AN-277281; AN-277362; AN-277419; AN-277492; AN-277498; AN-277533; AN-277619; AN-277675; AN-277681; AN-277767; AN-277805; AN-277810; AN-277818; AN-277875; AN-277933; AN-277988; AN-278105; AN-278115; AN-278122; AN-278192; AN-278407; AN-278437; AN-278559; AN-278604; AN-278610; AN-278709; AN-278835; AN-278849; AN-278881; AN-279067; AN-279103; AN-279111; AN-279219; AN-279237; AN-279312
 
@@ -218,6 +205,28 @@ Neue Videos, Tutorials oder Kurse, die für Adobe Analytics veröffentlicht wurd
 ### Analytics-Hilferessourcen
 
 * [Adobe Analytics-Produktdokumentation und Tutorials](https://experienceleague.adobe.com/docs/analytics.html?lang=de)
+
+## [!DNL Customer Journey Analytics] {#cja}
+
+* [Neue Funktionen in Customer Journey Analytics](#cust-journey)
+
+Veröffentlichungsdatum: **19. Januar 2022**
+
+### Neue Funktionen in Customer Journey Analytics {#cust-journey}
+
+| Funktion | Beschreibung | Zieldatum |
+| ----------- | ---------- | ----- |
+| [!UICONTROL Persistenz]-Optionen für Binding-Dimensionen und Binding-Metriken | Beim Erstellen oder Bearbeiten einer Datenansicht können Sie die Persistenz einer Dimension an eine andere Dimension oder Metrik binden. Dieses Konzept wird in Reports &amp; Analytics als _Merchandising_ bezeichnet und jetzt in Customer Journey Analytics unterstützt. [Weitere Informationen](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-dataviews/component-settings/persistence.html?lang=de#binding-dimension) | 19. Januar 2022 |
+| Die Zuordnungsmodelle [!UICONTROL Erster bekannter] und [!UICONTROL Letzter bekannter] | Diese beiden neuen Zuordnungsmodelle nehmen den ersten oder letzten beobachteten Wert für eine Dimension innerhalb eines bestimmten Persistenzbereichs (Sitzung, Person oder benutzerspezifischer Zeitraum mit Rückblick). Anschließend wenden sie das Zuordnungsmodell auf alle Ereignisse im angegebenen Bereich an. [Weitere Informationen](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-dataviews/component-settings/persistence.html?lang=de#allocation-settings) | 19. Januar 2022 |
+| [!UICONTROL PersonID] und [!UICONTROL PersonID-Namespace] als Dimensionen | Zeigt die `personID` (oder `customerID` bzw. die ID, die Sie zum Zusammenführen von Datensätzen in einer Verbindung verwenden) als Dimension in Datenansichten. Diese Verbesserung erleichtert Ihnen die Einbeziehung der `personID` als Dimension in Ihrer Datenansicht, indem Sie sie aus der Verbindung heranziehen. [Weitere Informationen](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-dataviews/component-reference.html?lang=de#optional-standard-components) | 19. Januar 2022 |
+
+{style=&quot;table-layout:auto&quot;}
+
+Versionsinformationen finden Sie unter [Allgemeine Verfügbarkeit](https://experienceleague.adobe.com/docs/analytics/technotes/releases.html?lang=de).
+
+### Analytics-Hilferessourcen
+
+* [Dokumentation zu Customer Journey Analytics](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-landing.html?lang=en)
 
 ## ![Symbol](/assets/audience-manager.png) Audience Manager {#aam}
 
