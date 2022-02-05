@@ -6,10 +6,10 @@ last-update: January 2022
 author: mfrei
 mini-toc-levels: 1
 exl-id: bcbdba6a-9e24-4f84-97ca-65c24ef45707
-source-git-commit: c73e91e379acb34734b4ed3a1d267688ea3f1222
+source-git-commit: 9e16facc25424bb8ce23e35230b7503195cf1a3d
 workflow-type: tm+mt
-source-wordcount: '6611'
-ht-degree: 99%
+source-wordcount: '6534'
+ht-degree: 98%
 
 ---
 
@@ -527,12 +527,11 @@ Zuletzt aktualisiert: **27. Oktober 2021**
 
 ### Neue Funktionen in Version [!DNL Advertising Cloud Search] {#adcloud-search}
 
-Zuletzt aktualisiert: **7. Oktober 2021**
+Zuletzt aktualisiert: **4. Februar 2022**
 
 | Funktion | Beschreibung |
 | ------- | ----------- |
-| [!UICONTROL Berichte], [!UICONTROL Benachrichtigungszentrum] | (Version 9. Oktober) Alle E-Mail-Benachrichtigungen für Berichte, die Advertising Cloud Search sendet, wenn ein benutzerspezifischer oder terminierter Bericht abgeschlossen wurde oder fehlgeschlagen ist, werden nun vom [!UICONTROL Benachrichtigungszentrum] bearbeitet. E-Mail-Benachrichtigungen und Web-Benachrichtigungen sind standardmäßig für Berichte aktiviert, Sie können jedoch optional die Benachrichtigungseinstellungen ändern. Mit dieser Änderung gilt:<ul><li>E-Mail-Empfänger sind auf Benutzer beschränkt, die registrierte, authentifizierte Benutzer von Advertising Cloud Search sind und Zugriff auf das Advertiser-Konto haben. Durch diese Funktion wird sichergestellt, dass keine vertraulichen Daten an nicht autorisierte Benutzer gesendet werden.</li><li>Format und Inhalt der E-Mail basieren auf der Vorlage aus dem [!UICONTROL Benachrichtigungszentrum], die weitere Details zum Bericht und direkte Downloadlinks für alle Berichtsformate enthält.</li><li>Berichtsbenachrichtigungen sind ein neuer Benachrichtigungstyp mit eigenen Benachrichtigungs-Einstellungen im [!UICONTROL Benachrichtigungszentrum].</li></ul>Wenn Sie automatisierte Berichte aus E-Mail-Benachrichtigungen abrufen, müssen Sie die Filterlogik möglicherweise aktualisieren, um die Prozesskontinuität sicherzustellen. |
-| Werbeeinblicke | Weitere Einblicke sind im Beta-Modus verfügbar. |
+| [!UICONTROL Bulksheets], [!UICONTROL Benachrichtigungszentrum] | (Version vom 22. Januar) Alle E-Mail-Benachrichtigungen für Bulksheets, die Advertising Cloud Search sendet, wenn ein Bulksheet-Vorgang abgeschlossen oder fehlgeschlagen ist, werden jetzt von [!UICONTROL Benachrichtigungszentrum].<br><br>[!UICONTROL Bulksheets] ist ein neuer Benachrichtigungstyp mit eigenen Benachrichtigungseinstellungen in [!UICONTROL Benachrichtigungszentrum]. E-Mail-Benachrichtigungen und Webbenachrichtigungen sind standardmäßig aktiviert, Sie können aber optional die Benachrichtigungseinstellungen ändern.<br><br>Format und Inhalt von E-Mail-Benachrichtigungen verwenden die [!UICONTROL Benachrichtigungszentrum] und enthält einen direkten Download-Link für die zugehörige Bulksheet-Datei oder Fehlerdatei. |
 
 {style=&quot;table-layout:auto&quot;}
 
