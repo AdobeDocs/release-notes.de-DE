@@ -4,9 +4,9 @@ description: Experience Cloud – Versionshinweise
 doc-type: release notes
 last-update: June 2021
 author: mfrei
-source-git-commit: b83f085d9fca7c4ae2b3519d32033a03aec28026
+source-git-commit: e415b562703712157d907d3e3995ff5adad4db1e
 workflow-type: tm+mt
-source-wordcount: '725'
+source-wordcount: '716'
 ht-degree: 93%
 
 ---
@@ -30,9 +30,9 @@ Neueste Aktualisierung: **September 2021**
 
 * [Live-Ereignisse der Experience League](#events)
 * [Zentrale Schnittstellenkomponenten von Experience Cloud](#ecloud)
+* [Adobe-Systemstatus](#status)
 * [Experience Platform](#platform)
 * [Experience Platform Application Services](#services)
-* [Adobe-Systemstatus](#status)
 * [Journey Optimizer](#journey-opt)
 * [[!DNL Analytics]](#analytics) und [Customer Journey Analytics](#cust-journey)
 * [[!DNL Audience Manager]](#aam)
@@ -50,17 +50,11 @@ Neueste Aktualisierung: **September 2021**
 
 Funktionen und Fehlerbehebungen
 
-Siehe [Systemstatus von Adobe](https://status.adobe.com/).
+Siehe [Systemstatus von Adobe](https://status.adobe.com/de).
 
 ## ![Symbol](/assets/ec_appicon_24.png) Zentrale Komponenten der Experience Cloud-UI {#ecloud}
 
 Die zentralen Komponenten der Experience Cloud-UI umfassen Aktualisierungen, die über die Kopfzeile des Produkts aufgerufen werden können, darunter Selbsthilfe, Suche oder Voreinstellungen für Benutzerkonten. Dort finden sich auch Aktualisierungen zu Personen, dem Places-Service (ehemals Location-Service) und der Produktverwaltung.
-
-| Funktion | Datum | Beschreibung |
-| ------- | ------- | -------|
-| Funktion | September 2021 | Beschreibung |
-
-{style=&quot;table-layout:auto&quot;}
 
 ### [!UICONTROL Hauptdienste] {#core-services}
 
@@ -232,11 +226,11 @@ Text
 
 Adobe Campaign bietet die Möglichkeit, direkte Nachrichten über Online- und Offline-Marketing-Kanäle intuitiv und automatisiert zu übermitteln. Sie können nun vorhersagen, was Ihre Kunden wünschen, und ihnen Erlebnisse bieten, die Sie anhand ihrer Gewohnheiten und Vorlieben ermittelt haben.
 
-### Zusätzliche Ressourcen
+### Weitere Ressourcen
 
 Text
 
-## Werbung {#adcloud}
+## Adobe Advertising {#adcloud}
 
 | Funktion | Beschreibung |
 | ------- | ------- |
@@ -263,7 +257,7 @@ Marketo Engage ist eine Komplettlösung für das Leadmanagement. B2B-Marketer k�
 
 Versionsdatum: 21. Februar 2020
 
-* **Microsoft® Dynamics  _Inhaber in Microsoft®_  Flow Action ändern:** Ändern Sie einen Lead- oder Kontaktinhaber direkt aus Marketo Engage.
+* **Microsoft® Dynamics _Inhaber in Microsoft® wechseln_ Flussaktion:** Ändern Sie einen Lead- oder Kontaktinhaber direkt aus Marketo Engage.
 * **Verbesserungen bei API-Aufrufen:**
    * APIs für die Benutzerverwaltung
    * APIs für benutzerdefiniertes Objektschema
