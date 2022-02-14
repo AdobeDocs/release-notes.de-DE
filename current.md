@@ -6,7 +6,7 @@ last-update: February 2022
 author: mfrei
 mini-toc-levels: 1
 exl-id: bcbdba6a-9e24-4f84-97ca-65c24ef45707
-source-git-commit: e9a119ac8351d6431039b1e0387db1d4875a91bb
+source-git-commit: 85a73da3f5957c5d073d9b0018d1758f14432252
 workflow-type: tm+mt
 source-wordcount: '4933'
 ht-degree: 50%
@@ -96,7 +96,7 @@ Releasedatum: **16. November 2021**
 
 **Neuigkeiten**
 
-* Der Status der Adobe meldet nun Vorfälle auf Produktebene. Die Status-Cloud- und -Produktseiten haben einen neuen Look und erweiterte Filter, die auf der Berichterstattung auf Produktebene zu Vorfällen basieren. Dies erleichtert Ihnen das Verständnis der Auswirkungen Ihres Produkts auf [status.adobe.com](https://status.adobe.com/) und in Ihren E-Mail-Benachrichtigungen. Wenn Sie noch kein Abonnement haben, verwenden Sie diesen Link, um Ihre persönlichen Abonnementvoreinstellungen einzurichten. [https://status.adobe.com/proactive-notifications/manage](https://status.adobe.com/proactive-notifications/manage)
+* Der Status der Adobe meldet nun Vorfälle auf Produktebene. Die Status-Cloud- und -Produktseiten haben einen neuen Look und erweiterte Filter, die auf der Berichterstattung auf Produktebene zu Vorfällen basieren. Dies erleichtert Ihnen das Verständnis der Auswirkungen Ihres Produkts auf [status.adobe.com](https://status.adobe.com/) und in Ihren E-Mail-Benachrichtigungen. Wenn Sie noch kein Abonnement haben, verwenden Sie diesen Link, um Ihre persönlichen Abonnementvoreinstellungen einzurichten. [https://status.adobe.com/proactive-notifications/manage](https://status.adobe.com/proactive-notifications/manage).
 
 * Die Status-Startseite ist jetzt mit Ereignissen personalisiert, die anhand Ihrer Berechtigungen und Produktanmeldungen gefiltert wurden. Bitte überprüfen Sie es unter **status.adobe.com** > **[!UICONTROL My Events]** Registerkarte.
 
