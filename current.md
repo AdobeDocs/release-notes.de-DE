@@ -6,9 +6,9 @@ last-update: February 2022
 author: mfrei
 mini-toc-levels: 1
 exl-id: bcbdba6a-9e24-4f84-97ca-65c24ef45707
-source-git-commit: 85a73da3f5957c5d073d9b0018d1758f14432252
+source-git-commit: 10b5876c8ea0e21f0e10ea36165c0e3f1dab9665
 workflow-type: tm+mt
-source-wordcount: '4933'
+source-wordcount: '4940'
 ht-degree: 50%
 
 ---
@@ -19,7 +19,7 @@ ht-degree: 50%
 
 Als Experience Maker beginnt Ihr Weg zum Erfolg mit [Adobe Experience League](https://experienceleague.adobe.com/?lang=en#home). Hier finden Sie eine umfangreiche Dokumentationsbibliothek, selbstgeleitete Tutorials, Anleitungsvideos und Kurse für alle Ebenen und Rollen, eine Online-Community mit Peers und Unterstützung von Experten, wenn Sie sie benötigen.
 
-Bereit zum Einstieg? [Nehmen Sie ein 5-minütiges Quiz und gewinnen Sie](https://exploreadobe.com/experience-league-quiz/)!
+Bereit zum Einstieg? [Nehmen Sie ein 5-minütiges Quiz und gewinnen Sie](https://exploreadobe.com/experience-league-quiz/?sdid=4NM897N2&amp;mv=email&amp;mv2=nslsp)!
 
 >[!NOTE]
 >
