@@ -6,9 +6,9 @@ last-update: February 2022
 author: mfrei
 mini-toc-levels: 1
 exl-id: bcbdba6a-9e24-4f84-97ca-65c24ef45707
-source-git-commit: 10b5876c8ea0e21f0e10ea36165c0e3f1dab9665
+source-git-commit: f4b652db4759a65f38afe0fbd6dca07301875277
 workflow-type: tm+mt
-source-wordcount: '4940'
+source-wordcount: '4963'
 ht-degree: 50%
 
 ---
@@ -357,7 +357,7 @@ Versionshinweise zu Adobe Commerce finden Sie unter den folgenden Links:
 | -----------| ---------- | ---------- | ---------- |
 | Februar 2022 | [Adobe Commerce/Magento Open Source aktualisieren](https://experienceleague.adobe.com/docs/commerce-operations/upgrade-guide/overview.html) | Benutzerhandbuch | Rufen Sie alle erforderlichen Hilfen ab, um mit dem Upgrade-Prozess fortzufahren. |
 | Februar 2022 | [Adobe Commerce 2.4 Upgrade-Workshop](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/upgrade-workshop.html?lang=en) | Video | Erfahren Sie mehr über die Schritte und Best Practices, die bei der Vorbereitung des nächsten Upgrades auf 2.4.4 oder höher ausgeführt werden sollten. |
-| Februar 2022 | [Verwenden des Upgrade-Kompatibilitätstools auf PHPStorm](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/uct-phpstorm.html?lang=en) | Video | Erfahren Sie, wie Sie die `PhpStorm` plugin |
+| Februar 2022 | [Verwenden des Upgrade-Kompatibilitäts-Tools auf PhpStorm](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/uct-phpstorm.html?lang=en) | Video | Erfahren Sie, wie Sie die `PhpStorm` plugin |
 
 {style=&quot;table-layout:auto&quot;}
 
@@ -473,10 +473,11 @@ Zuletzt aktualisiert: **27. Oktober 2021**
 
 ### Neue Funktionen in Version [!DNL Advertising Cloud Search] {#adcloud-search}
 
-Zuletzt aktualisiert: **4. Februar 2022**
+Zuletzt aktualisiert: **16. Februar 2022**
 
 | Funktion | Beschreibung |
 | ------- | ----------- |
+| [!UICONTROL Kampagnen], [!UICONTROL Bulksheets] | (Version vom 22. Januar) ([!DNL Microsoft Advertising accounts]) Sie können jetzt responsive Suchanzeigen (RSAs) aus der [!UICONTROL Kampagnen] > [!UICONTROL Anzeigen] Ansicht und von [!UICONTROL Kampagnen] > [!UICONTROL Bulksheets]. |
 | [!UICONTROL Bulksheets], [!UICONTROL Benachrichtigungszentrum] | (Version vom 22. Januar) Alle E-Mail-Benachrichtigungen für Bulksheets, die Advertising Cloud Search sendet, wenn ein Bulksheet-Vorgang abgeschlossen oder fehlgeschlagen ist, werden jetzt von [!UICONTROL Benachrichtigungszentrum].<br><br>[!UICONTROL Bulksheets] ist ein neuer Benachrichtigungstyp mit eigenen Benachrichtigungseinstellungen in [!UICONTROL Benachrichtigungszentrum]. E-Mail-Benachrichtigungen und Webbenachrichtigungen sind standardmäßig aktiviert, Sie können aber optional die Benachrichtigungseinstellungen ändern.<br><br>Format und Inhalt von E-Mail-Benachrichtigungen verwenden die [!UICONTROL Benachrichtigungszentrum] und enthält einen direkten Download-Link für die zugehörige Bulksheet-Datei oder Fehlerdatei. |
 
 {style=&quot;table-layout:auto&quot;}
