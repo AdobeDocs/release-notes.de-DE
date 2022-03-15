@@ -6,10 +6,10 @@ last-update: February 2022
 author: mfrei
 mini-toc-levels: 1
 exl-id: bcbdba6a-9e24-4f84-97ca-65c24ef45707
-source-git-commit: f4b652db4759a65f38afe0fbd6dca07301875277
-workflow-type: ht
-source-wordcount: '4963'
-ht-degree: 100%
+source-git-commit: f32c9dd135c9447ce452b513c69763107ebae429
+workflow-type: tm+mt
+source-wordcount: '4968'
+ht-degree: 99%
 
 ---
 
@@ -84,7 +84,7 @@ Experience League-Events sind ideal, um von Adobe-Produktexperten Antworten auf 
 
 | Event | Datum und Uhrzeit | Typ | Beschreibung |
 | -----------| ---------- | ---------- |---------- |
-| [Adobe [!DNL Developers Live]](https://experienceleague.adobe.com/docs/adobe-developers-live-events/events/2021/oct2021/overview.html?lang=de) | Auf Abruf | Video | [!DNL Developers Live] präsentiert die neuesten technischen Fortschritte und Entwickler-Tools, die das Design, Workflows zur Inhaltserstellung, Dokumenten-Services und das Customer Experience Management in verschiedenen Branchen ermöglichen. Sehen Sie sich die Keynote an, erfahren Sie mehr über Analytics-APIs, Client Data Layer, Adobe I/O-Open-Source-Projekte und vieles mehr. |
+| [Adobe [!DNL Developers Live]](https://experienceleague.adobe.com/docs/adobe-developers-live-events/events/2021/oct2021/overview.html?lang=en) | Auf Abruf | Video | [!DNL Developers Live] präsentiert die neuesten technischen Fortschritte und Entwickler-Tools, die das Design, Workflows zur Inhaltserstellung, Dokumenten-Services und das Customer Experience Management in verschiedenen Branchen ermöglichen. Sehen Sie sich die Keynote an, erfahren Sie mehr über Analytics-APIs, Client Data Layer, Adobe I/O-Open-Source-Projekte und vieles mehr. |
 
 {style=&quot;table-layout:auto&quot;}
 
@@ -96,7 +96,7 @@ Versionsdatum: **16. November 2021**
 
 **Neue Funktionen**
 
-* Adobe Status meldet nun Vorfälle auf Produktebene. Die Status-Cloud- und -Produktseiten haben einen neuen Look und erweiterte Filter für das Produkt-Reporting zu Vorfällen. Dadurch können Sie leichter die Auswirkungen auf Ihr Produkt auf [status.adobe.com](https://status.adobe.com/de) und in Ihren E-Mail-Benachrichtigungen feststellen. Wenn Sie noch kein Abonnement haben, verwenden Sie diesen Link, um Ihre persönlichen Abonnementvoreinstellungen einzurichten: [https://status.adobe.com/de/proactive-notifications/manage](https://status.adobe.com/de/proactive-notifications/manage).
+* Adobe Status meldet nun Vorfälle auf Produktebene. Die Status-Cloud- und -Produktseiten haben einen neuen Look und erweiterte Filter für das Produkt-Reporting zu Vorfällen. Dadurch können Sie leichter die Auswirkungen auf Ihr Produkt auf [status.adobe.com](https://status.adobe.com/) und in Ihren E-Mail-Benachrichtigungen feststellen. Wenn Sie noch kein Abonnement haben, verwenden Sie diesen Link, um Ihre persönlichen Abonnementvoreinstellungen einzurichten: [https://status.adobe.com/de/proactive-notifications/manage](https://status.adobe.com/de/proactive-notifications/manage).
 
 * Die Status-Startseite ist jetzt mit Ereignissen personalisiert, die anhand Ihrer Berechtigungen und Produktabonnements gefiltert wurden. Gehen Sie zum Überprüfen zur Registerkarte **status.adobe.com** > **[!UICONTROL My Events]**.
 
@@ -284,7 +284,7 @@ Nachfolgend sind die im vergangenen Monat neu veröffentlichten Videos, Tutorial
 | ------| ------| ----- | -----| ----|
 | Februar 2022 | [Service-Anmeldeinformationen erstellen](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/forms/doc-gen-formscs/service-credentials.html?lang=de) | Video | Erfahren Sie, wie Sie Service-Anmeldeinformationen erstellen, um eine sichere Authentifizierung für Ihre Integrationen mit Adobe Experience Manager as a Cloud Service zu gewährleisten. | AEM Forms CS |
 | Februar 2022 | [Erstellen eines JSON Web Token (JWT)](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/forms/doc-gen-formscs/create-jwt.html?lang=de) | Artikel | Erfahren Sie mehr über JSON Web Tokens, eine offene, branchenübliche RFC-7519-Methode zur sicheren Darstellung von Ansprüchen zwischen zwei Parteien. `JWT.io`-Bibliotheken werden in diesem Beispiel zum Generieren des JWT verwendet. | AEM Forms CS |
-| Februar 2022 | [Austauschen von JWT gegen Zugriffs-Token](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/forms/doc-gen-formscs/create-access-token.html?lang=de) | Artikel | Das im Schritt [Erstellen eines JSON Web Token (JWT)](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/forms/doc-gen-formscs/create-jwt.html?lang=de) erstellte JWT wird mit Adobe IMS-APIs gegen ein Zugriffs-Token ausgetauscht, über das dann auf AEM as a Cloud Service zugegriffen werden kann. Erfahren Sie, wie Sie ein Zugriffs-Token anfordern, um eine POST-Anfrage mit JWT, client_id und client_secret an den IMS-Authentifizierungs-Service zu senden. | AEM Forms CS |
+| Februar 2022 | [Austauschen von JWT gegen Zugriffs-Token](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/forms/doc-gen-formscs/create-access-token.html?lang=de) | Artikel | Das im Schritt [Erstellen eines JSON Web Token (JWT)](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/forms/doc-gen-formscs/create-jwt.html) erstellte JWT wird mit Adobe IMS-APIs gegen ein Zugriffs-Token ausgetauscht, über das dann auf AEM as a Cloud Service zugegriffen werden kann. Erfahren Sie, wie Sie ein Zugriffs-Token anfordern, um eine POST-Anfrage mit JWT, client_id und client_secret an den IMS-Authentifizierungs-Service zu senden. | AEM Forms CS |
 | Februar 2022 | [Einbetten von Schriftarten in generierte PDF-Dateien](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/forms/developing-for-cloud-service/intellij-set-up.html?lang=de#add-the-fonts-module) | Artikel | Erfahren Sie, wie Sie [!DNL IntelliJ] Community Edition installieren. | AEM Forms CS |
 | Februar 2022 | [Durchführen des POST-Aufrufs](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/forms/doc-gen-formscs/merge-data-with-template.html?lang=de) | Video | Erfahren Sie, wie Sie mit den erforderlichen Parametern einen HTTP-POST-Aufruf an den Endpunkt durchführen. Die Vorlage und die Datendateien werden als Ressourcendateien bereitgestellt. | Forms CS |
 | Februar 2022 | [Migration vom alten AEM-Archetyp](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/forms/developing-for-cloud-service/updating-project-archetype.html?lang=de) | Video | Beschreibung | Forms CS |
@@ -318,7 +318,7 @@ Die nachfolgend aufgeführten Seiten umfassen alle Versionshinweise zu Experienc
 * [Experience Manager 6.4 – Training und Support, Startseite](https://experienceleague.adobe.com/docs/experience-manager-64.html?lang=de)
 * [Experience Manager 6.3 – Training und Support, Startseite](https://experienceleague.adobe.com/docs/experience-manager-release-information/aem-release-updates/previous-updates/aem-previous-versions.html?lang=de)
 * [Experience Manager 6.2 – Training und Support, Startseite](https://experienceleague.adobe.com/docs/experience-manager-release-information/aem-release-updates/previous-updates/aem-previous-versions.html?lang=de#previous-updates)
-* [Ältere Versionen der Dokumentation zu Experience Manager](https://experienceleague.adobe.com/docs/experience-manager-release-information/aem-release-updates/previous-updates/aem-previous-versions.html?lang=de#previous-updates)
+* [Ältere Versionen der Dokumentation zu Experience Manager](https://experienceleague.adobe.com/docs/experience-manager-release-information/aem-release-updates/previous-updates/aem-previous-versions.html?lang=en#previous-updates)
 * [Startseite der Hilfe zu Dynamic Media Classic](https://experienceleague.adobe.com/docs/dynamic-media-classic/using/home.html?lang=de)
 * [Experience Manager-Dokumentation: Neueste Aktualisierungen](https://experienceleague.adobe.com/docs/experience-manager-release-information/aem-release-updates/doc-updates/documentation-updates.html?lang=de#aem-as-a-cloud-service)
 
@@ -394,8 +394,8 @@ Neue Videos, Tutorials oder Kurse, die für Adobe Campaign veröffentlicht wurde
 ### Hilferessourcen für Campaign
 
 * Adobe Campaign Version 8: [Dokumentation](https://experienceleague.adobe.com/docs/campaign/campaign-v8/campaign-home.html?lang=de) – [Versionshinweise](https://experienceleague.adobe.com/docs/campaign/campaign-v8/start/whats-new.html?lang=de) – [Implementierungshandbücher](https://experienceleague.adobe.com/docs/campaign/campaign-v8/implement/implement.html?lang=de)
-* Adobe Campaign Standard: [Campaign Standard – Dokumentation](https://experienceleague.adobe.com/docs/campaign-standard/using/campaign-standard-home.html?lang=de) – [Versionshinweise](https://experienceleague.adobe.com/docs/campaign-standard/using/release-notes/release-notes.html?lang=de) – [Anleitungsvideos](https://experienceleague.adobe.com/docs/campaign-standard-learn/tutorials/overview.html?lang=de) – [Versionsplanung](https://experienceleague.adobe.com/docs/campaign-standard/using/release-notes/release-planning.html?lang=de) – [Neueste Aktualisierungen der Dokumentation](https://experienceleague.adobe.com/docs/campaign-standard/using/documentation-updates.html?lang=de)
-* Adobe Campaign Classic: [Campaign Classic v7 – Dokumentation](https://experienceleague.adobe.com/docs/campaign-classic/using/campaign-classic-home.html?lang=de) – [Versionshinweise](https://experienceleague.adobe.com/docs/campaign-classic/using/release-notes/latest-release.html?lang=de) – [Anleitungsvideos](https://experienceleague.adobe.com/docs/campaign-classic-learn/tutorials/overview.html?lang=de) – [Neueste Aktualisierungen der Dokumentation](https://experienceleague.adobe.com/docs/campaign-classic/using/documentation-updates.html?lang=de)
+* Adobe Campaign Standard: [Campaign Standard – Dokumentation](https://experienceleague.adobe.com/docs/campaign-standard/using/campaign-standard-home.html?lang=de) – [Versionshinweise](https://experienceleague.adobe.com/docs/campaign-standard/using/release-notes/release-notes.html) – [Anleitungsvideos](https://experienceleague.adobe.com/docs/campaign-standard-learn/tutorials/overview.html?lang=de) – [Versionsplanung](https://experienceleague.adobe.com/docs/campaign-standard/using/release-notes/release-planning.html?lang=de) – [Neueste Aktualisierungen der Dokumentation](https://experienceleague.adobe.com/docs/campaign-standard/using/documentation-updates.html?lang=de)
+* Adobe Campaign Classic: [Campaign Classic v7 – Dokumentation](https://experienceleague.adobe.com/docs/campaign-classic/using/campaign-classic-home.html?lang=de) – [Versionshinweise](https://experienceleague.adobe.com/docs/campaign-classic/using/release-notes/latest-release.html) – [Anleitungsvideos](https://experienceleague.adobe.com/docs/campaign-classic-learn/tutorials/overview.html?lang=de) – [Neueste Aktualisierungen der Dokumentation](https://experienceleague.adobe.com/docs/campaign-classic/using/documentation-updates.html?lang=de)
 * Control Panel von Adobe Campaign: [Dokumentation](https://experienceleague.adobe.com/docs/control-panel/using/control-panel-home.html?lang=de) – [Versionshinweise](https://experienceleague.adobe.com/docs/control-panel/using/release-notes.html?lang=de)  – Anleitungsvideos für [Campaign Standard](https://experienceleague.adobe.com/docs/campaign-standard-learn/control-panel/control-panel-overview.html?lang=de)/[Campaign Classic](https://experienceleague.adobe.com/docs/campaign-classic-learn/control-panel/control-panel-overview.html?lang=de)
 
 ## ![Symbol](/assets/experience_platform_appicon_24.png) Adobe Journey Optimizer {#journey-opt}
@@ -408,8 +408,8 @@ Erfahren Sie mehr über die neuesten Funktionen, Verbesserungen und Fehlerbehebu
 
 ### Weitere Ressourcen zu [!DNL Journey Optimizer]
 
-* [Dokumentation zu Journey Optimizer](https://experienceleague.adobe.com/docs/journey-optimizer/using/ajo-home.html?lang=de) – [Versionshinweise](https://experienceleague.adobe.com/docs/journey-optimizer/using/whats-new/release-notes.html?lang=de) – [Anleitungsvideos](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/overview.html?lang=de)
-* [Dokumentation zum Entscheidungs-Management](https://experienceleague.adobe.com/docs/journey-optimizer/using/offer-decisioniong/get-started-decision/starting-offer-decisioning.html?lang=de) – [Versionshinweise](https://experienceleague.adobe.com/docs/journey-optimizer/using/whats-new/release-notes.html?lang=de) – [Anleitungsvideos](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/decision-management-configuration/introduction-to-offer-decisioning.html?lang=de) – [Neueste Aktualisierungen der Dokumentation](https://experienceleague.adobe.com/docs/journey-optimizer/using/whats-new/documentation-updates.html?lang=de)
+* [Dokumentation zu Journey Optimizer](https://experienceleague.adobe.com/docs/journey-optimizer/using/ajo-home.html?lang=de) – [Versionshinweise](https://experienceleague.adobe.com/docs/journey-optimizer/using/whats-new/release-notes.html) – [Anleitungsvideos](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/overview.html?lang=de)
+* [Dokumentation zum Entscheidungs-Management](https://experienceleague.adobe.com/docs/journey-optimizer/using/offer-decisioniong/get-started-decision/starting-offer-decisioning.html?lang=de) – [Versionshinweise](https://experienceleague.adobe.com/docs/journey-optimizer/using/whats-new/release-notes.html) – [Anleitungsvideos](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/decision-management-configuration/introduction-to-offer-decisioning.html?lang=de) – [Neueste Aktualisierungen der Dokumentation](https://experienceleague.adobe.com/docs/journey-optimizer/using/whats-new/documentation-updates.html?lang=de)
 
 ## ![Symbol](/assets/experience_platform_appicon_24.png) [!DNL Adobe Journey Orchestration] {#journey-orch}
 
@@ -421,7 +421,7 @@ Erfahren Sie mehr über die neuesten Funktionen, Verbesserungen und Fehlerbehebu
 
 #### Weitere Ressourcen zu [!DNL Journey Orchestration]
 
-* [Dokumentation zu Journey Orchestration](https://experienceleague.adobe.com/docs/journeys/using/journey-orchestration-home.html?lang=de) – [Versionshinweise](https://experienceleague.adobe.com/docs/journeys/using/release-notes/release-notes.html?lang=de) – [Anleitungsvideos](https://experienceleague.adobe.com/docs/journey-orchestration-learn/tutorials/understanding-journey-orchestration.html?lang=de) – [Neueste Aktualisierungen der Dokumentation](https://experienceleague.adobe.com/docs/journeys/using/release-notes/documentation-updates.html?lang=de)
+* [Dokumentation zu Journey Orchestration](https://experienceleague.adobe.com/docs/journeys/using/journey-orchestration-home.html?lang=de) – [Versionshinweise](https://experienceleague.adobe.com/docs/journeys/using/release-notes/release-notes.html) – [Anleitungsvideos](https://experienceleague.adobe.com/docs/journey-orchestration-learn/tutorials/understanding-journey-orchestration.html?lang=de) – [Neueste Aktualisierungen der Dokumentation](https://experienceleague.adobe.com/docs/journeys/using/release-notes/documentation-updates.html?lang=de)
 
 ## ![Symbol](/assets/marketo.png) [!DNL Adobe Marketo Engage] {#marketo}
 
@@ -486,7 +486,9 @@ Zuletzt aktualisiert: **16. Februar 2022**
 
 | Veröffentlicht | Name | Typ | Beschreibung |
 | -----------| ---------- | ---------- | ---------- |
-| Januar 2022 | [Advertising Cloud-Tutorials](https://experienceleague.adobe.com/docs/advertising-cloud-learn/tutorials/dsp/intro.html?lang=de) | Videos | Es stehen fünf neue Video-Tutorials zu Advertising Cloud DSP zur Verfügung. |
+| 17. Februar 2022 | Advertising Cloud-Tutorials | Videos | Ein neues Video-Tutorial zu &quot;[Erstellen einer standardmäßigen Anzeigeplatzierung](https://experienceleague.adobe.com/docs/advertising-cloud-learn/tutorials/dsp/placement-create.html)&quot; ist verfügbar. |
+
+{style=&quot;table-layout:auto&quot;}
 
 ## ![Symbol](/assets/document-cloud-24.png) Adobe Document Cloud {#doc-cloud}
 
