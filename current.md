@@ -6,10 +6,10 @@ last-update: March 2022
 author: mfrei
 mini-toc-levels: 1
 exl-id: bcbdba6a-9e24-4f84-97ca-65c24ef45707
-source-git-commit: e0d19d7aa41529dd32231cc2975eb5b03b7c8956
+source-git-commit: c99f4d0cb202a3abbc0db601371e84adba591f40
 workflow-type: tm+mt
-source-wordcount: '5786'
-ht-degree: 50%
+source-wordcount: '5681'
+ht-degree: 49%
 
 ---
 
@@ -69,14 +69,6 @@ Experience League-Events sind ein idealer Ort, um bei der Adobe zu lernen, zu in
 [!DNL Adobe System Status] liefert detaillierte Informationen, Statusaktualisierungen und E-Mail-Benachrichtigungen zu Ausfällen, Störungen und Wartungsarbeiten von Adobe-Produkten und -Diensten. Weitere Informationen dazu erhalten Sie unter [status.adobe.com](https://status.adobe.com/de).
 
 ## ![Symbol](/assets/ec_appicon_24.png) Experience Cloud - zentrale Schnittstellenkomponenten und Administration {#ecloud}
-=======
-Versionsdatum: **16. November 2021**
-
-**Neue Funktionen**
-
-* Adobe Status meldet nun Vorfälle auf Produktebene. Die Status-Cloud- und -Produktseiten haben einen neuen Look und erweiterte Filter für das Produkt-Reporting zu Vorfällen. Dadurch können Sie leichter die Auswirkungen auf Ihr Produkt auf [status.adobe.com](https://status.adobe.com/) und in Ihren E-Mail-Benachrichtigungen feststellen. Wenn Sie noch kein Abonnement haben, verwenden Sie diesen Link, um Ihre persönlichen Abonnementvoreinstellungen einzurichten: [https://status.adobe.com/de/proactive-notifications/manage](https://status.adobe.com/de/proactive-notifications/manage).
-
-* Die Status-Startseite ist jetzt mit Ereignissen personalisiert, die anhand Ihrer Berechtigungen und Produktabonnements gefiltert wurden. Gehen Sie zum Überprüfen zur Registerkarte **status.adobe.com** > **[!UICONTROL My Events]**.
 
 Experience Cloud [Komponenten der zentralen Benutzeroberfläche](https://experienceleague.adobe.com/docs/core-services/interface/experience-cloud.html?lang=de) enthält Funktionen, die auf der Startseite und der beständigen Produktheader verfügbar sind. Zu diesen Funktionen gehören Benutzerprofileinstellungen, Voreinstellungen und Suchen. Hilfe finden Sie auch in den Bereichen Benutzer- und Produktverwaltung, Kundenattribute und Experience Cloud-Zielgruppen.
 
