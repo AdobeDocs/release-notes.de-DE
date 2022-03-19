@@ -6,7 +6,7 @@ last-update: March 2022
 author: mfrei
 mini-toc-levels: 1
 exl-id: bcbdba6a-9e24-4f84-97ca-65c24ef45707
-source-git-commit: deda4aee7483e0ea77a31f1e71016306fbb17473
+source-git-commit: e0d19d7aa41529dd32231cc2975eb5b03b7c8956
 workflow-type: tm+mt
 source-wordcount: '5786'
 ht-degree: 50%
@@ -55,7 +55,7 @@ Benötigen Sie Hilfe? Besuchen Sie [Adobe Experience League](https://experiencel
 Experience League-Events sind ein idealer Ort, um bei der Adobe zu lernen, zu interagieren und Antworten von Produktexperten zu erhalten!
 
 | Event | Typ | Beschreibung |
-| -----------|---------- | ---|
+| -----------|---------- | ----|
 | [Experience League LIVE ](https://experienceleague.adobe.com/docs/experience-league-live-events/events/overview.html?lang=de) | Live- und On-Demand-Video | Eine Live-Streaming-Show des Experience League-Teams. Dort haben Sie Gelegenheit, sich mit Produktexperten von Adobe auszutauschen und praktische Tipps, Tricks und Strategien für die Arbeit mit den Programmen rund um Adobe Experience Cloud kennenzulernen.<br> [Details und vergangene Ereignisse](https://experienceleague.adobe.com/docs/experience-league-live-events/events/overview.html?lang=en) |
 | [AEM Gems](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-manager/aem-gems-build-sites-faster-with-aem-headless-and-app-builder/m-p/440205#M31629) | Adobe Live-Webinar | Schnelles Bootstrap und Bereitstellen von Einzelseiten-Apps (SPA) mithilfe von Adobe [!UICONTROL App Builder] Workflows und Tools ohne herkömmliche Experience Manager-Fähigkeiten wie Java™ und Sling erforderlich sind. Mit Experience Manager Headless können Marketing-Experten und Entwickler jeweils über das Know-how in ihrer eigenen Domäne verfügen - Entwickler steuern das gesamte Anwendungsframework, die Formatierung und das Routing, während Marketingexperten den Inhalt und die Darstellung bestimmen.<br>**Datum:** Mittwoch, 23. März - [Details und Registrierung](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-manager/aem-gems-build-sites-faster-with-aem-headless-and-app-builder/m-p/440205#M31629) |
 | [Adobe Analytics: Aussagekräftige Geschichten mit Daten erzählen](https://engage.adobe.com/adobe-analytics-telling-impactful-stories.html?s_rtid=7015Y0%5b%E2%80%A6%5d15Y000003A5SbQAK&amp;sfid=&amp;acctid=&amp;ecp=&amp;sdid=JCNCWJFP&amp;mv=display) | Adobe Live-Webinar | Das Erzählen von Daten ist gut, wenn es um ein Gleichgewicht von Kunst und Wissenschaft geht. Warum also übertechnisch? Adobe Analytics-Meister Amy Ard diskutiert drei Teile, die darauf abzielen, Ihr Datengeschichten zu erzählen, ohne die Kreativität zu beeinträchtigen:<ul><li>Ermitteln der Gelegenheit oder des Problems</li><li>Durch Daten erklären</li><li>Lösung anbieten</li></ul>**Datum:** Donnerstag, 31. März - [Details und Registrierung](https://engage.adobe.com/adobe-analytics-telling-impactful-stories.html?s_rtid=7015Y0%5b...%5d15Y000003A5SbQAK&amp;sfid=&amp;acctid=&amp;ecp=&amp;sdid=JCNCWJFP&amp;mv=display) |
