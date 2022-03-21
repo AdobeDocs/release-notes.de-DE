@@ -6,9 +6,9 @@ last-update: March 2022
 author: mfrei
 mini-toc-levels: 1
 exl-id: bcbdba6a-9e24-4f84-97ca-65c24ef45707
-source-git-commit: 3f75b897e739d296d4b69d0f85d50ef4fa661ff0
+source-git-commit: 06f9e80782bf7c1f34feda8ab39e6832d76f0bc1
 workflow-type: tm+mt
-source-wordcount: '5702'
+source-wordcount: '5696'
 ht-degree: 49%
 
 ---
@@ -116,7 +116,7 @@ Siehe [Versionshinweise und Änderungsprotokolle](https://aep-sdks.gitbook.io/do
 
 Veröffentlichungsdatum: **23. März 2022**
 
-* Adobe Analytics [Versionshinweise](https://experienceleague.adobe.com/docs/analytics/release-notes/latest.html?lang=de) (**neuer Speicherort**) (Überprüfer, navigieren Sie zu `https://experienceleague.adobe.com/docs/analytics/release-notes/latest.html?lang=en`)
+* [Versionshinweise](https://experienceleague.adobe.com/docs/analytics/release-notes/latest.html?lang=de) zu Adobe Analytics (**neuer Speicherort**)
 * [Produktdokumentation und Tutorials](https://experienceleague.adobe.com/docs/analytics.html?lang=de) zu Adobe Analytics
 
 ### AppMeasurement {#appm}
@@ -146,7 +146,7 @@ Neue Videos, Tutorials oder Kurse, die für Adobe Analytics veröffentlicht wurd
 
 Veröffentlichungsdatum: **23. März 2022**
 
-* Customer Journey Analytics [Versionshinweise](https://experienceleague.adobe.com/docs/analytics-platform/using/releases/latest.html?lang=de)  (**neuer Speicherort**) (Überprüfer, navigieren Sie zu `https://experienceleague.adobe.com/docs/analytics-platform/using/releases/latest.html?lang=en`)
+* [Versionshinweise](https://experienceleague.adobe.com/docs/analytics-platform/using/releases/latest.html?lang=de) zu Customer Journey Analytics (**neuer Speicherort**)
 * [Produktdokumentation und Tutorials](https://experienceleague.adobe.com/docs/customer-journey-analytics.html?lang=de) zu Customer Journey Analytics
 
 ## ![Symbol](/assets/audience-manager.png) Audience Manager {#aam}
