@@ -6,9 +6,9 @@ last-update: March 2022
 author: mfrei
 mini-toc-levels: 1
 exl-id: bcbdba6a-9e24-4f84-97ca-65c24ef45707
-source-git-commit: b3dc987d687b4feb7a5108bf5949ffd8e15f1211
+source-git-commit: 88d7c6385f680dba693d856585679c517589441d
 workflow-type: tm+mt
-source-wordcount: '5848'
+source-wordcount: '5828'
 ht-degree: 94%
 
 ---
@@ -180,7 +180,7 @@ Adobe empfiehlt, die Seite [Experience Manager-Versions-Updates und -Roadmaps](h
 
 * **Experience Manager as a Cloud Service**
 
-   Beobachten Sie die [Video Versionsübersicht im März 2022](https://video.tv.adobe.com/v/341465) für eine Zusammenfassung der Funktionen, die in der Version 2022.3.0 (März 2022) hinzugefügt wurden. Ab dem Video in diesem Monat hat Adobe lokalisierte Untertitel in Französisch (FR), Deutsch (DE) und Japanisch (JP) aktiviert.
+   Beobachten Sie die [Video Versionsübersicht im März 2022](https://video.tv.adobe.com/v/341465) für eine Zusammenfassung der Funktionen, die in der Version 2022.3.0 (März 2022) hinzugefügt wurden. <!-- Beginning with the video this month, Adobe has enabled localized closed captioning in French (FR), German (DE) and Japanese (JP). -->
 
    * [Video mit einer Übersicht über die Version vom Januar 2022](https://video.tv.adobe.com/v/340120) zu neuen Funktionen.
    * [Video mit der Übersicht über die Version Dezember 2021](https://video.tv.adobe.com/v/339278) im Hinblick auf neue Funktionen.
