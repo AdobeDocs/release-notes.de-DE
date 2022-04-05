@@ -6,10 +6,10 @@ last-update: March 2022
 author: mfrei
 mini-toc-levels: 1
 exl-id: bcbdba6a-9e24-4f84-97ca-65c24ef45707
-source-git-commit: fa2627b8bdd7e9b9f4159b366767c30f46721369
+source-git-commit: b3dc987d687b4feb7a5108bf5949ffd8e15f1211
 workflow-type: tm+mt
-source-wordcount: '5815'
-ht-degree: 96%
+source-wordcount: '5848'
+ht-degree: 94%
 
 ---
 
@@ -25,9 +25,9 @@ Bereit zum Einstieg? [Machen Sie ein 5-minütiges Quiz und gewinnen Sie](https:/
 >
 >Um monatliche E-Mail-Benachrichtigungen über Aktualisierungen auf dieser Seite zu erhalten, abonnieren Sie das [Adobe Priority Product Update](https://www.adobe.com/subscription/priority-product-update.html). Schauen Sie regelmäßig wieder vorbei, um über die Entwicklung bei Experience League auf dem Laufenden zu bleiben.
 
-Neueste Aktualisierung: **1. April 2022**
+Neueste Aktualisierung: **5. April 2022**
 
-* [[!DNL Experience League] events](#events) (**1. April**)
+* [[!DNL Experience League] events](#events) (**April 5** - AEM Gems-Neustart)
 * [[!DNL Adobe System Status]](#status)
 * [Experience Cloud – Zentrale Komponenten der Benutzeroberfläche und Verwaltung](#ecloud)
 * [[!DNL Adobe Experience Platform]](#platform)
@@ -54,12 +54,14 @@ Benötigen Sie Hilfe? Besuchen Sie [Adobe Experience League](https://experiencel
 
 Experience League-Events sind ideal, um zu lernen, Kontakte zu knüpfen und von Adobe-Produktexperten Antworten auf Fragen zu erhalten!
 
+Aktualisiert **5. April 2022**
+
 | Event | Typ | Beschreibung |
 | -----------|---------- | ----|
+| [AEM Gems](https://experienceleague.adobe.com/docs/experience-manager-gems-events/gems/overview.html?lang=en) | Adobe Live-Webinar | AEM Gems Updates für 2022 sind verfügbar! AEM Gems ist eine von Experten der Adobe bereitgestellte Reihe technischer Vertiefungen zu Adobe Experience Manager. <br>Die neuesten AEM Gems finden Sie unter [Adobe Experience Manager as a Cloud Service: Überprüfung 2021 und Ausblick 2022](https://experienceleague.adobe.com/docs/experience-manager-gems-events/gems/gems2022/aemcloudservice-2021-review-and-outlook.html?lang=en) und [Schnellere Erstellung von Sites mit AEM Headless und App Builder](https://experienceleague.adobe.com/docs/experience-manager-gems-events/gems/gems2022/build-sites-faster-with-headless-and-appbuilder.html?lang=en).<br>Besuchen Sie diese Versionshinweise häufig oder abonnieren Sie die [Adobe Priority Product Update](https://www.adobe.com/subscription/priority-product-update.html) , um über AEM Gems und andere Experience Leaguen zu informieren. |
 | [Experience Makers – The Skill Exchange for Adobe Workfront](https://events.bizzabo.com/385867?promo=CustomerM&amp;tr=true) | Adobe Live-Webinar | Wir freuen uns, die erste Ausgabe der _Experience Maker - Der Qualifikationsaustausch für Adobe Workfront_. <br>Diese kostenlose, dreistündige digitale Lernveranstaltung konzentriert sich ausschließlich auf Workfront. Sie können Fragen an Experten und Kollegen stellen, die das Arbeitsmanagement am besten kennen. Egal ob Workfront für Sie neu ist oder Sie schon ein erfahrener Nutzer sind, wir haben für jeden etwas zu bieten.<br>**Datum:** Mittwoch, 13. April um 9:00 Uhr - 12:00 PDT. [Details und Registrierung](https://events.bizzabo.com/385867?promo=CustomerM&amp;tr=true): Adobe empfiehlt, sich selbst dann zu registrieren, wenn Sie nicht teilnehmen können, sodass Sie den Zugriff auf On-Demand-Aufnahmen erhalten. |
 | [Adobe Workfront-Systemadministratorgrundlagen: Entwerfen eines idealen Benutzererlebnisses](https://webinars.on24.com/adobe_workfront/AdminEssentialsUserExp?partnerref=field) | Adobe Live-Webinar | Treffen Sie sich mit Mary Ann Erickson, Customer Success Manager bei Adobe Workfront, und Steve Enos, Creative Operations Analyst bei Liberty Mutual Insurance, um herauszufinden, wie Sie ein ideales Benutzererlebnis gestalten können. <br>**Datum:** Mittwoch, 27. April. Zeit: 8:00 Uhr PDT / 16:00 pm UK. <br>[Details und Registrierung](https://webinars.on24.com/adobe_workfront/AdminEssentialsUserExp?partnerref=field) |
 | [Experience League LIVE ](https://experienceleague.adobe.com/docs/experience-league-live-events/events/overview.html?lang=de) | Live- und On-demand-Video | Eine vom Experience League-Team veranstaltete live gestreamte Veranstaltung. Dort haben Sie Gelegenheit, sich mit Produktexperten von Adobe auszutauschen und praktische Tipps, Tricks und Strategien für die Arbeit mit den Programmen rund um Adobe Experience Cloud kennenzulernen.<br> [Details und bisherige Events](https://experienceleague.adobe.com/docs/experience-league-live-events/events/overview.html?lang=en) |
-| [AEM Gems](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-manager/aem-gems-build-sites-faster-with-aem-headless-and-app-builder/m-p/440205#M31629) | Adobe Live-Webinar | Stellen Sie im Handumdrehen Single Page Apps (SPA) mithilfe der Workflows und Tools in Adobe [!UICONTROL App Builder] bereit, ohne dass Sie dafür die üblichen Experience Manager-Fähigkeiten wie Java™ und Sling benötigen. Mit Experience Manager Headless arbeiten Marketing-Experten und Entwickler jeweils in ihrem eigenen Fachbereich: Entwickler steuern das Programm-Framework, die Formatierung und das Routing, während Marketing-Experten den Inhalt und dessen Darstellung definieren.<br>**Datum:** Mittwoch, 23. März – [Details und Registrierung](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-manager/aem-gems-build-sites-faster-with-aem-headless-and-app-builder/m-p/440205#M31629) |
 | [Adobe Analytics: Mit Daten aussagekräftige Geschichten erzählen](https://engage.adobe.com/adobe-analytics-telling-impactful-stories.html?s_rtid=7015Y0%5b%E2%80%A6%5d15Y000003A5SbQAK&amp;sfid=&amp;acctid=&amp;ecp=&amp;sdid=JCNCWJFP&amp;mv=display) | Adobe Live-Webinar | Das Storytelling mit Daten ist dann gut, wenn es ein Gleichgewicht zwischen Kunst und Wissenschaft darstellt. Warum es also übermäßig technisch gestalten? Amy Ard, Expertin für Adobe Analytics, erläutert drei Elemente, die Ihnen bei Ihrem Daten-Storytelling helfen sollen, ohne die Kreativität einzuschränken:<ul><li>Identifizieren der Chance oder des Problems</li><li>Erklären mithilfe von Daten</li><li>Anbieten einer Lösung</li></ul>**Datum:** Donnerstag, 31. März – [Details und Registrierung](https://engage.adobe.com/adobe-analytics-telling-impactful-stories.html?s_rtid=7015Y0%5b…%5d15Y000003A5SbQAK&amp;sfid=&amp;acctid=&amp;ecp=&amp;sdid=JCNCWJFP&amp;mv=display) |
 | [Adobe [!DNL Developers Live]](https://experienceleague.adobe.com/docs/adobe-developers-live-events/events/2021/oct2021/overview.html?lang=de) | Video | [!DNL Developers Live] präsentiert die neuesten technischen Fortschritte und Entwickler-Tools, die das Design, Workflows zur Inhaltserstellung, Dokumenten-Services und das Customer Experience Management in verschiedenen Branchen ermöglichen. Sehen Sie sich die Keynote-Adresse an, erfahren Sie mehr über Analytics-APIs, die Client-Datenschicht, Open-Source-Adobe Developer-Projekte und vieles mehr. |
 
@@ -531,7 +533,7 @@ Unter [Creative Cloud für Unternehmen – Tutorials](https://experienceleague.a
 
 ## ![Symbol](/assets/experience-league.png) Customer Data Management - Voices {#voices}
 
-[Customer Data Management - Voices](https://experienceleague.adobe.com/docs/customer-data-management-voices-events/events/overview.html?lang=de) bietet eine Sammlung von Informationsmaterialien für technische Experten und Marketing-Spezialisten im Kundendaten-Management. Hier finden Sie Tutorials sowie die Möglichkeit, von Berufskollegen zu hören, sich inspirieren zu lassen und sich über Entwicklungen im Bereich MarTech zu informieren. Keine Registrierung erforderlich, einfach klicken und beobachten.
+[Customer Data Management - Voices](https://experienceleague.adobe.com/docs/customer-data-management-voices-events/events/overview.html?lang=en) bietet eine Sammlung von Informationsmaterialien für technische Experten und Marketing-Spezialisten im Kundendaten-Management. Hier finden Sie Tutorials sowie die Möglichkeit, von Berufskollegen zu hören, sich inspirieren zu lassen und sich über Entwicklungen im Bereich MarTech zu informieren. Keine Registrierung erforderlich, einfach klicken und beobachten.
 
 ## ![Symbol](/assets/experience-league.png) Digital Experience Blueprints {#blueprints}
 
