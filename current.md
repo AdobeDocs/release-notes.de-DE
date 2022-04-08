@@ -6,10 +6,10 @@ last-update: March 2022
 author: mfrei
 mini-toc-levels: 1
 exl-id: bcbdba6a-9e24-4f84-97ca-65c24ef45707
-source-git-commit: 88d7c6385f680dba693d856585679c517589441d
+source-git-commit: bbdac176cdaed65d6312a1274551d8da517764c6
 workflow-type: tm+mt
-source-wordcount: '5828'
-ht-degree: 95%
+source-wordcount: '5956'
+ht-degree: 92%
 
 ---
 
@@ -25,7 +25,7 @@ Bereit zum Einstieg? [Machen Sie ein 5-minütiges Quiz und gewinnen Sie](https:/
 >
 >Um monatliche E-Mail-Benachrichtigungen über Aktualisierungen auf dieser Seite zu erhalten, abonnieren Sie das [Adobe Priority Product Update](https://www.adobe.com/subscription/priority-product-update.html). Schauen Sie regelmäßig wieder vorbei, um über die Entwicklung bei Experience League auf dem Laufenden zu bleiben.
 
-Neueste Aktualisierung: **5. April 2022**
+Neueste Aktualisierung: **7. April 2022**
 
 * [[!DNL Experience League] events](#events) (**April 5** - AEM Gems-Neustart)
 * [[!DNL Adobe System Status]](#status)
@@ -483,14 +483,15 @@ Last updated: **October 27, 2021**
 
 ### Neue Funktionen in [!DNL Advertising Cloud Search] {#adcloud-search}
 
-Zuletzt aktualisiert am **14. März 2022** für die Version vom 12. März
+Zuletzt aktualisiert: **7. April 2022**
 
 | Funktion | Beschreibung |
 | ------- | ----------- |
-| [!UICONTROL Portfolios] | Die Hybridoptimierung ist standardmäßig auf Kampagnenebene verfügbar. Sie können jetzt optional die Hybridoptimierung auf Anzeigengruppenebene aktivieren, für die die Optimierungsfunktion [!DNL Google] CPA- oder ROAS-Ziele festlegt, um die Leistung genauer steuern zu können.<br>Bei jedem Portfolio müssen Sie vor dessen Start einen Lernzeitraum einräumen, um sicherzustellen, dass es über eine ausreichende Modellabdeckung verfügt. Wenn Sie ein hybrides Portfolio von der Optimierung auf Kampagnenebene auf die Optimierung auf Anzeigengruppenebene ändern, legen Sie für das Portfolio für etwa zwei Wochen den aktiven Status fest. Dadurch wird sichergestellt, dass die Optimierungsfunktion genügend Zeit hat, über die enthaltenen Anzeigengruppen zu lernen und Ziele zu generieren.<br>Um die Optimierung auf Anzeigengruppenebene zu unterstützen, können benutzerdefinierte Simulationen jetzt anzeigengruppenspezifische Ergebnisse enthalten. Führen Sie eine benutzerdefinierte Simulation mit Ergebnissen auf Anzeigengruppenebene durch, bevor Sie ein hybrides Portfolio mit einer Optimierung auf Anzeigengruppenebene starten. |
-| [!UICONTROL Portfolios] <br> [!UICONTROL Kampagnen] | (Beta-Funktion, [!DNL Microsoft® Advertising]-Kampagnen) – Sie können jetzt Suchkampagnen so konfigurieren, dass sie die Angebotsstrategie [!UICONTROL Maximieren von Konversionen] verwenden, und optional die maximalen Kosten pro Klick festlegen.<br>Wenn Sie bereits die Beta-Version der Hybridoptimierung für andere automatische Angebotsstrategien nutzen, haben Sie automatisch Zugriff auf die Strategie [!UICONTROL Maximieren von Konversionen], und Sie können Kampagnen mit der Strategie [!UICONTROL Maximieren von Konversionen] in Hybrid-Portfolios aufnehmen. Um diese Strategie in einem hybriden Portfolio zu verwenden, müssen Sie das Hochladen von Advertising Cloud Search-Zielen auf [!DNL Microsoft® Ads] aktivieren. Wenn Sie die Betaversion noch nicht verwenden und an der Beta-Phase teilnehmen möchten, wenden Sie sich an Ihren [!DNL Adobe] Account Manager. |
-| Campaign-[!UICONTROL Zielgruppen]<br><br>Campaign-[!UICONTROL Bulksheets] | ([!DNL Microsoft® Advertising]-Kampagnen) – Sie können jetzt jede beliebige Ihrer [!DNL Microsoft® Advertising]-Zielgruppen (außer marktinterne Zielgruppen) als Zielgruppen auf Kampagnenebene oder auf [!UICONTROL Anzeigengruppen]-Ebene verwenden. Zuvor konnten Sie sie nur als Zielgruppen auf [!UICONTROL Anzeigengruppen]-Ebene verwenden. |
-| Campaign-[!UICONTROL Zielgruppen] | (Beta-Funktion, [!DNL Microsoft® Advertising]-Konten, die für den [!UICONTROL Kundenabgleich] in Frage kommen) Sie können jetzt Zielgruppen für den Kundenabgleich erstellen und verwalten, indem Sie CSV-Dateien mit E-Mail-Adressen hochladen. Die Daten müssen mit dem SHA-256-Algorithmus gehasht werden. |
+| [!UICONTROL Kampagnen]<br><br>[!UICONTROL Werbeeinblicke] | (7. April) [!DNL Google Ads] Konten) Advertising Cloud Search führt alle API-Aufrufe aus der veralteten Version um [!DNL Google AdWords API] bis spätestens [!DNL Google Ads API]. Zum neuen [!DNL Google Ads API] wird die Kontinuität mit den vorhandenen Funktionen gewährleisten und den Zugriff auf [!DNL Google’s] latest [!DNL Ads] Funktionen.<br><br>Einige Funktionen wurden noch nicht auf die neue API aktualisiert und sind vorübergehend nicht verfügbar:<ul><li>Positionserweiterungen:<ul>Positionserweiterungen sind nicht in der [!UICONTROL Erweiterungen] anzeigen.</li><li>Sie können keine Erweiterung erstellen.</li><li>Filter für Standorte funktionieren nicht.</li></li></ul><li>[!UICONTROL Werbeeinblicke]: Die [!UICONTROL Verlust der Impression-Freigabe] und [!UICONTROL Beta-Abfrage-Cross-Matching] Analysen sind ab dem 11. April nicht verfügbar.</li></ul>Wir gehen davon aus, dass die Standorterweiterungskapazitäten bis Ende April wiederhergestellt sein werden. Sobald wir feststellen, wann die betroffenen [!UICONTROL Werbeeinblicke] -Module auch wiederhergestellt werden können, senden wir eine Aktualisierung mit dem geschätzten Datum. |
+| [!UICONTROL Portfolios] | (Version vom 12. März) Standardmäßig ist die Hybridoptimierung auf Kampagnenebene verfügbar. Sie können jetzt optional die Hybridoptimierung auf Anzeigengruppenebene aktivieren, für die die Optimierungsfunktion [!DNL Google] CPA- oder ROAS-Ziele festlegt, um die Leistung genauer steuern zu können.<br>Bei jedem Portfolio müssen Sie vor dessen Start einen Lernzeitraum einräumen, um sicherzustellen, dass es über eine ausreichende Modellabdeckung verfügt. Wenn Sie ein hybrides Portfolio von der Optimierung auf Kampagnenebene auf die Optimierung auf Anzeigengruppenebene ändern, legen Sie für das Portfolio für etwa zwei Wochen den aktiven Status fest. Dadurch wird sichergestellt, dass die Optimierungsfunktion genügend Zeit hat, über die enthaltenen Anzeigengruppen zu lernen und Ziele zu generieren.<br>Um die Optimierung auf Anzeigengruppenebene zu unterstützen, können benutzerdefinierte Simulationen jetzt anzeigengruppenspezifische Ergebnisse enthalten. Führen Sie eine benutzerdefinierte Simulation mit Ergebnissen auf Anzeigengruppenebene durch, bevor Sie ein hybrides Portfolio mit einer Optimierung auf Anzeigengruppenebene starten. |
+| [!UICONTROL Portfolios] <br> [!UICONTROL Kampagnen] | (Version Match 12; Beta-Funktion für [!DNL Microsoft® Advertising] campaigns) - Sie können jetzt Suchkampagnen konfigurieren, um die [!UICONTROL Maximieren von Konversionen] Angebotsstrategie und optional Festlegung von maximalen Kosten pro Klick.<br>Wenn Sie bereits die Beta-Version der Hybridoptimierung für andere automatische Angebotsstrategien nutzen, haben Sie automatisch Zugriff auf die Strategie [!UICONTROL Maximieren von Konversionen], und Sie können Kampagnen mit der Strategie [!UICONTROL Maximieren von Konversionen] in Hybrid-Portfolios aufnehmen. Um diese Strategie in einem hybriden Portfolio zu verwenden, müssen Sie das Hochladen von Advertising Cloud Search-Zielen auf [!DNL Microsoft® Ads] aktivieren. Wenn Sie die Betaversion noch nicht verwenden und an der Beta-Phase teilnehmen möchten, wenden Sie sich an Ihren [!DNL Adobe] Account Manager. |
+| Campaign-[!UICONTROL Zielgruppen]<br><br>Campaign-[!UICONTROL Bulksheets] | (Version vom 12. März) [!DNL Microsoft® Advertising] Kampagnen) - Sie können jetzt eine Ihrer [!DNL Microsoft® Advertising] Zielgruppen außer marktinternen Zielgruppen als Zielgruppen auf Kampagnenebene oder [!UICONTROL adgroup]-Ziele. Zuvor konnten Sie sie nur als Zielgruppen auf [!UICONTROL Anzeigengruppen]-Ebene verwenden. |
+| Campaign-[!UICONTROL Zielgruppen] | (Version vom 12. März) Beta-Funktion für [!DNL Microsoft® Advertising] Konten, die [!UICONTROL Kundenabgleich]) Sie können jetzt Zielgruppen für die Kundenabstimmung erstellen und verwalten, indem Sie CSV-Dateien mit E-Mail-Adressen hochladen. Die Daten müssen mit dem SHA-256-Algorithmus gehasht werden. |
 
 {style=&quot;table-layout:auto&quot;}
 
