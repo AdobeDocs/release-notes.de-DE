@@ -6,10 +6,10 @@ last-update: April 2022
 author: mfrei
 mini-toc-levels: 2
 exl-id: bcbdba6a-9e24-4f84-97ca-65c24ef45707
-source-git-commit: 68df02857374608feb9ae1c848b6ca1357d73382
+source-git-commit: cdf35cca137c192dfc32398565b693e4843b6418
 workflow-type: tm+mt
-source-wordcount: '6428'
-ht-degree: 94%
+source-wordcount: '6061'
+ht-degree: 90%
 
 ---
 
@@ -25,7 +25,7 @@ Bereit zum Einstieg? [Machen Sie ein 5-minütiges Quiz und gewinnen Sie](https:/
 >
 >Um monatliche E-Mail-Benachrichtigungen über Aktualisierungen auf dieser Seite zu erhalten, abonnieren Sie das [Adobe Priority Product Update](https://www.adobe.com/subscription/priority-product-update.html). Schauen Sie regelmäßig wieder vorbei, um über die Entwicklung bei Experience League auf dem Laufenden zu bleiben.
 
-Neueste Aktualisierung: **22. April 2022**
+Neueste Aktualisierung: **11. Mai 2022**
 
 * [[!DNL Experience League]-Events](#events)
 * [[!DNL Adobe System Status]](#status)
@@ -55,20 +55,16 @@ Benötigen Sie Hilfe? Besuchen Sie [Adobe Experience League](https://experiencel
 
 Experience League-Events sind ideal, um zu lernen, Kontakte zu knüpfen und von Adobe-Produktexperten Antworten auf Fragen zu erhalten!
 
-Aktualisiert **am 5. April 2022**
+Aktualisiert: **11. Mai 2022**
 
 | Event | Typ | Beschreibung |
 | -----------|---------- | ----|
+| Ereignis | Typ | Beschreibung |
+| — | — | — |
+| [Push-Benachrichtigungen mit Journey Optimizer - So konfigurieren Sie Ihre Mobile App einfach für Push-Benachrichtigungen](https://www.youtube.com/watch?v=t36Xjhukmro) | Experience League LIVE  | Erfahren Sie mehr über die gängigen Anwendungsfälle für Push-Benachrichtigungen mit Adobe Journey Optimizer und lernen Sie die technischen Details zum Konfigurieren einer App für Push-Benachrichtigungen mit Adobe Experience Platform kennen. <br>**Datum:** 12. Mai 2022 @ 9:30 PDT<br>[Terminieren und vergangene Ereignisse](https://experienceleague.adobe.com/docs/experience-league-live-events/events/overview.html?lang=de) |
+| [Adobe Target-Community](https://experienceleaguecommunities.adobe.com/t5/adobe-target-discussions/at-community-q-amp-a-coffee-break-4-27-22-8am-pt-jim-mctiernan/m-p/446940?profile.language=de#M3096) | Kaffeepause mit Fragen und Antworten | Brent Kostak und Drew Burns vom Adobe Target-Produktteam werden Ihre Adobe Target-Fragen zu freigegebenen Zielgruppen, Real-Time CDP, Erstanbieterdaten, End-to-End-Personalisierungs-Workflows und mehr beantworten.<br>Aktuelle Informationen ansehen [Webinar zur Echtzeit-Personalisierung](https://experienceleaguecommunities.adobe.com/t5/adobe-target-discussions/upcoming-webinar-4-28-22-real-time-personalization-with-adobe/td-p/449012) und richten Sie Ihre Folgefragen an die Experten zu [Kaffeepause](https://adobe.ly/3MyiDHa) in der Adobe Target Community!<br>**Datum:** 25. Mai 2022 @ 8.00 Uhr PDT<br>[Details und Registrierung](https://adobe.ly/3MyiDHa) |
+| [Adobe [!DNL Developers Live]: Handel](https://experienceleague.adobe.com/docs/adobe-developers-live-events/events/2022/feb2022/overview.html?lang=en) | On-Demand-Videos | _Adobe Developers Live: Commerce 2022_ bringt Entwickler und Erlebnisentwickler mit unterschiedlichem Hintergrund und einem einzigartigen Zweck zusammen - um unglaubliche End-to-End-Erlebnisse zu schaffen. Diese eintägige virtuelle Konferenz bietet wichtige Commerce- und Open Source-Entwickleraktualisierungen, technische Sitzungen, Community-Netzwerkmöglichkeiten und mehr. |
 | [Adobe Summit 2022](https://business.adobe.com/summit/adobe-summit.html) | On-Demand-Sitzungen | Erfahren Sie von Adobe-Führungskräften sowie Ryan Reynolds, Rosalind Brewer, CEO von Walgreens Boots Alliance Inc, John Donahoe, CEO von NIKE Inc. und Gail J. McGovern, CEO des amerikanischen Roten Kreuzes, warum Customer Experiences die Währung unserer digitalen Wirtschaft sind.<br>Erkunden Sie die [On-Demand-Sitzungen](https://business.adobe.com/summit/2022/sessions.html) von Adobe Summit 2022. |
-| [AEM from Headful to Headless (and everything in between)](https://www.youtube.com/watch?v=idByz7WrhbQ) | Experience League LIVE  | Moderator Danny Gordon und seine Gäste Amol Anand, Sachin Mali und Sean Steimer erläutern die häufigsten Implementierungen von Adobe Experience Manager Sites. <br>**Datum:** 21. April 2022 @ 9 h PDT<br>[Zeitplan und vergangene Events](https://experienceleague.adobe.com/docs/experience-league-live-events/events/overview.html?lang=de) |
-| [How do I handle all these audiences?](https://www.youtube.com/watch?v=I8HKFkx16-E) | Experience League LIVE  | Entmystifizierung der Zielgruppenstrategie mit Audience Manager und Real-time CDP. Gastgeber Doug Moore begrüßt Nick Cammuso und Jackie Chevallier in diesem Experience League LIVE-Event.<br>**Datum:** 28. April 2022 @ 9 h PDT<br>[Zeitplan und vergangene Events](https://experienceleague.adobe.com/docs/experience-league-live-events/events/overview.html?lang=en) |
-| [Adobe Campaign Classic v7 und Campaign v8](https://experienceleaguecommunities.adobe.com/t5/adobe-campaign-classic/adobe-campaign-community-q-amp-a-coffee-break-april-21st-8am-pt/td-p/444060?profile.language=de) | Kaffeepause mit Fragen und Antworten aus der | Scott Segrin, Eric Knee, David Loyd und Peter Mancuso: Lernen Sie das Adobe Campaign Enterprise Architecture Team in der Adobe Campaign-Community bei einem Live-Q&amp;A kennen.<br>**Datum:** 21. April 2022 @ 8 h PDT<br>[Details und Registrierung](https://adobe.ly/3NB6kuG) |
-| [Adobe Target-Community](https://experienceleaguecommunities.adobe.com/t5/adobe-target-discussions/at-community-q-amp-a-coffee-break-4-27-22-8am-pt-jim-mctiernan/m-p/446940?profile.language=de#M3096) | Kaffeepause mit Fragen und Antworten | Jim McTiernan beantwortet Fragen zu Adobe Target Recommendations, AB-Tests und MVT sowie Personalisierung in der Adobe Target-Community <br>**Datum:** 27. April 2022 @ 8 h PDT<br>[Details und Registrierung](https://adobe.ly/3joCuvU%C2%A0) |
-| [AEM- und CIF-Framework](https://adobe.ly/3O0uXl5) | AEM Gems | Integrieren Sie das AEM- und CIF-Framework, um ein attraktives, immersives E-Commerce-Erlebnis zu schaffen <br>**Datum:** 27. April 2022 @ 8:00 h PDT / 17:00 h CET / 20:30 h IST<br>[Details und Registrierung](https://adobe.ly/3O0uXl5) |
-| [AEM Gems](https://experienceleague.adobe.com/docs/experience-manager-gems-events/gems/overview.html?lang=de) | Adobe Live-Webinar | AEM Gems-Aktualisierungen für 2022 sind verfügbar! AEM Gems ist die von Adobe organisierte Webinar-Serie mit ausführlichen technischen Erläuterungen zu Adobe Experience Manager durch Adobe-Experten. <br>Die letzte AEM Gems-Serie finden Sie in [Adobe Experience Manager as a Cloud Service: 2021 Review and 2022 Outlook](https://experienceleague.adobe.com/docs/experience-manager-gems-events/gems/gems2022/aemcloudservice-2021-review-and-outlook.html?lang=de) und [Build Sites Faster with AEM Headless and App Builder](https://experienceleague.adobe.com/docs/experience-manager-gems-events/gems/gems2022/build-sites-faster-with-headless-and-appbuilder.html?lang=de).<br>Besuchen Sie regelmäßig diese Versionshinweise oder abonnieren Sie das [Adobe Priority Product Update](https://www.adobe.com/subscription/priority-product-update.html), um immer zu AEM Gems und anderen Experience League-Events auf dem Laufenden zu bleiben. |
-| [Experience Makers – The Skill Exchange for Adobe Workfront](https://events.bizzabo.com/385867?promo=CustomerM&amp;tr=true) | Adobe Live-Webinar | Adobe freut sich, die erste Ausgabe von _Experience Makers – The Skill Exchange for Adobe Workfront_ bekannt geben zu können. <br>Bei diesem kostenlosen dreistündigen digitalen Lern-Event geht es ausschließlich um Workfront. Dort können Sie Fragen an Experten und Kollegen richten, die sich hervorragend mit Arbeits-Management auskennen. Egal ob Workfront für Sie neu ist oder Sie schon ein erfahrener Nutzer sind – hier ist für jeden etwas dabei.<br>**Datum:** Mittwoch, 13. April @ 9:00 h – 12:00 h PDT. [Details und Registrierung](https://events.bizzabo.com/385867?promo=CustomerM&amp;tr=true): Adobe empfiehlt, sich zu registrieren, auch wenn Sie nicht teilnehmen können, damit Sie garantiert auf die On-Demand-Aufzeichnungen zugreifen können. |
-| [Adobe Workfront System Admin Essentials: Designing an Ideal User Experience](https://webinars.on24.com/adobe_workfront/AdminEssentialsUserExp?partnerref=field) | Adobe Live-Webinar | Seien Sie dabei, wenn Mary Ann Erickson, Customer Success Manager bei Adobe Workfront, und Steve Enos, Creative Operations Analyst bei Liberty Mutual Insurance, zeigen, wie man das ideale Benutzererlebnis gestaltet. <br>**Datum:** Mittwoch, 27. April. Uhrzeit: 8:00 h PDT / 16:00 h UK. <br>[Details und Registrierung](https://webinars.on24.com/adobe_workfront/AdminEssentialsUserExp?partnerref=field) |
-| [Adobe [!DNL Developers Live]](https://experienceleague.adobe.com/docs/adobe-developers-live-events/events/2021/oct2021/overview.html?lang=de) | On-Demand-Video | [!DNL Developers Live] präsentiert die neuesten technischen Fortschritte und Entwickler-Tools, die das Design, Workflows zur Inhaltserstellung, Dokumenten-Services und das Customer Experience Management in verschiedenen Branchen ermöglichen. Sehen Sie sich die Keynote an, erfahren Sie mehr über Analytics-APIs, die Client-Datenansicht, Adobe Developer Open-Source-Projekte und vieles mehr. |
 
 {style=&quot;table-layout:auto&quot;}
 
