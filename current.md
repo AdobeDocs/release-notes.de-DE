@@ -6,9 +6,9 @@ last-update: May 2022
 author: mfrei
 mini-toc-levels: 2
 exl-id: bcbdba6a-9e24-4f84-97ca-65c24ef45707
-source-git-commit: 0550d7a4ccf69654f6f205752a109fbb9a83e172
+source-git-commit: 84794d6d051c913cef2ca11504d8cc9857af3000
 workflow-type: tm+mt
-source-wordcount: '4972'
+source-wordcount: '4971'
 ht-degree: 50%
 
 ---
@@ -321,7 +321,7 @@ Die nachfolgend aufgeführten Seiten umfassen alle Versionshinweise zu Experienc
 
 Experience Manager Guides (früher XML Documentation für Experience Manager) sind eine Anwendung, die auf AEM bereitgestellt wird. Es handelt sich dabei um eine leistungsstarke, für Unternehmen geeignete Komponenten-Content-Management-Lösung (CCMS), die die native DITA-Unterstützung in Adobe Experience Manager unterstützt und es AEM ermöglicht, die DITA-basierte Inhaltserstellung und -bereitstellung zu handhaben.
 
-Weitere Informationen zu [XML-Dokumentation für AEM](https://www.adobe.com/de/products/xml-documentation-for-experience-manager/features.html).
+Weitere Informationen [Experience Manager-Handbücher](https://www.adobe.com/de/products/xml-documentation-for-experience-manager/features.html).
 
 ### Weitere Ressourcen
 
