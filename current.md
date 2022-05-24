@@ -6,9 +6,9 @@ last-update: May 2022
 author: mfrei
 mini-toc-levels: 2
 exl-id: bcbdba6a-9e24-4f84-97ca-65c24ef45707
-source-git-commit: 181c2ee19d1a3687355876f70f25c6e110a90ebc
+source-git-commit: d4aed4b509b13fbc0fc73d11dcb30ac4f2fdbfd7
 workflow-type: tm+mt
-source-wordcount: '4971'
+source-wordcount: '4935'
 ht-degree: 50%
 
 ---
@@ -25,7 +25,7 @@ Bereit zum Einstieg? [Machen Sie ein 5-minütiges Quiz und gewinnen Sie](https:/
 >
 >Um monatliche E-Mail-Benachrichtigungen über Aktualisierungen auf dieser Seite zu erhalten, abonnieren Sie das [Adobe Priority Product Update](https://www.adobe.com/subscription/priority-product-update.html). Schauen Sie regelmäßig wieder vorbei, um über die Entwicklung bei Experience League auf dem Laufenden zu bleiben.
 
-Neueste Aktualisierung: **14. Mai 2022**
+Neueste Aktualisierung: **24. Mai 2022**
 
 * [[!DNL Experience League]-Events](#events)
 * [[!DNL Adobe System Status]](#status)
@@ -39,7 +39,7 @@ Neueste Aktualisierung: **14. Mai 2022**
 * [[!DNL Experience Manager Guides]](#xml-doc)
 * [[!DNL Adobe Commerce]](#commerce)
 * [[!DNL Adobe Target]](#target)
-* [[!DNL Adobe Campaign]](#ac)
+* [[!DNL Adobe Campaign]](#ac) (Aktualisiert) **24. Mai**)
 * [[!DNL Adobe Journey Optimizer]](#journey-opt)
 * [[!DNL Journey Orchestration]](#journey-orch)
 * [[!DNL Adobe Marketo Engage]](#marketo)
@@ -55,11 +55,10 @@ Benötigen Sie Hilfe? Besuchen Sie [Adobe Experience League](https://experiencel
 
 Experience League-Events sind ideal, um zu lernen, Kontakte zu knüpfen und von Adobe-Produktexperten Antworten auf Fragen zu erhalten!
 
-Aktualisiert: **13. Mai 2022**
+Aktualisiert: **24. Mai 2022**
 
 | Event | Typ | Beschreibung |
 | -----------|---------- | ----|
-| [Adobe Analytics - Experience Maker - Der Qualifikationsaustausch](https://events.bizzabo.com/389219?promo=ExperienceLeague&amp;tr=true) | Qualifikationsaustausch | Nehmen Sie an dieser kostenlosen, dreistündigen digitalen Veranstaltung teil, die sich ausschließlich auf Adobe Analytics konzentriert. Stellen Sie Fragen live von Experten und Kollegen, die Workspace am besten kennen.<br>18. Mai 2022 @ 1:30pm-4:150 UHR EST<br> [Details und Registrierung](https://events.bizzabo.com/389219?promo=ExperienceLeague&amp;tr=true) |
 | [Adobe Campaign - Webinar-Reihe zum Kundenerfolg](https://peer2peerenhancecustomerjourney-ac-may2022.experienceleague.adobeevents.com/) | Peer2Peer: Verbessern der Journey über Adobe Campaign. | Nehmen Sie an dieser Live-Peer2Peer-Diskussion mit Anja Starun teil, Head of Engagement Operations über Kayo-, Binge- und Flash-Marken von Streamotion. Erfahren Sie direkt von ihr, welche erfolgreichen Strategien ihr Team implementiert hat, um individuelle Journey mit Adobe Campaign zu erstellen. <br>**Datum:** 26. Mai um 15 Uhr EST <br>[Details und Registrierung](https://peer2peerenhancecustomerjourney-ac-may2022.experienceleague.adobeevents.com/) |
 | [Push-Benachrichtigungen mit Journey Optimizer - So konfigurieren Sie Ihre Mobile App einfach für Push-Benachrichtigungen](https://www.youtube.com/watch?v=t36Xjhukmro) | Experience League LIVE  | Erfahren Sie mehr über die gängigen Anwendungsfälle für Push-Benachrichtigungen mit Adobe Journey Optimizer und lernen Sie die technischen Details zum Konfigurieren einer App für Push-Benachrichtigungen mit Adobe Experience Platform kennen. <br>**Datum:** 12. Mai 2022 @ 9:30 PDT<br>[Terminieren und vergangene Ereignisse](https://experienceleague.adobe.com/docs/experience-league-live-events/events/overview.html?lang=de) |
 | [Adobe Target-Community](https://experienceleaguecommunities.adobe.com/t5/adobe-target-discussions/at-community-q-amp-a-coffee-break-4-27-22-8am-pt-jim-mctiernan/m-p/446940?profile.language=de#M3096) | Kaffeepause mit Fragen und Antworten | Nehmen Sie an Brent Kostak und Drew Burns vom Adobe Target-Produktteam teil, die Ihre Adobe Target-Fragen zu freigegebenen Zielgruppen, Real-Time CDP, Erstanbieterdaten, End-to-End-Personalisierungs-Workflows und mehr beantworten können.<br>Aktuelle Informationen ansehen [Webinar zur Echtzeit-Personalisierung](https://experienceleaguecommunities.adobe.com:443/t5/adobe-target-discussions/webinar-recording-4-28-22-real-time-personalization-with-adobe/td-p/449012) und richten Sie Ihre Folgefragen an die Experten zu [Kaffeepause](https://adobe.ly/3MyiDHa) in der Adobe Target Community!<br>**Datum:** 25. Mai 2022 @ 8.00 Uhr PDT<br>[Details und Registrierung](https://adobe.ly/3MyiDHa) |
@@ -277,7 +276,7 @@ Nachfolgend sind die im vergangenen Monat neu veröffentlichten Videos, Tutorial
 
 | Veröffentlicht | Name | Typ | Beschreibung | Programme |
 | -----------| ---------- | ---------- | ---------- | ------|
-| Mai 2022 | [AEM as a Cloud Service Aktualisierung der Version 2021.4.0](https://experienceleague.adobe.com/docs/experience-manager-release-overview-events/aemcsupdates/2021/2021-4-0.html?lang=en) | Video | Lernen Sie das AEM-Produktteam kennen und erfahren Sie mehr über die Funktionen und Innovationen der neuesten Version von Adobe Experience Manager. | AEM Asset-Grundlagen, Sites, Screens, Forms und Cloud Foundation |
+| Mai 2022 | [Aktualisierung zur AEM as a Cloud Service-Version 2021.4.0](https://experienceleague.adobe.com/docs/experience-manager-release-overview-events/aemcsupdates/2021/2021-4-0.html?lang=en) | Video | Lernen Sie das AEM-Produktteam kennen und erfahren Sie mehr über die Funktionen und Innovationen der neuesten Version von Adobe Experience Manager. | AEM Asset-Grundlagen, Sites, Screens, Forms und Cloud Foundation |
 | Mai 2022 | [Cloud 5-AEM](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/cloud-5/cloud5-introduction.html) | Videos | Hier erhalten Sie alle nützlichen Informationen über AEM as a Cloud Service in kurzen Videos von 5 Minuten oder weniger. Beginnen Sie mit Saison 1. | AEM CS |
 | Mai 2022 | [Abrufen eines Anmeldetokens für Integrationen](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/cloud-5/cloud5-getting-login-token-integrations.html) | Video | Eine ausführliche Anleitung zum Abrufen eines Anmelde-Tokens für Cloud Service-Integrationen und einige Anwendungsfälle dafür. | AEM CS |
 | Mai 2022 | [Anzeigen mehrerer PDF-Dokumente in einem Karussell](https://experienceleague.adobe.com/docs/experience-manager-learn/forms/document-services/display-pdf-in-carousel.html?lang=en) | Video | Erfahren Sie mehr über das gängige Nutzungsszenario für die Anzeige mehrerer PDF-Dokumente, die vor dem Senden des Formulars überprüft werden sollen. | AEM Forms |
@@ -349,12 +348,14 @@ Adobe Campaign bietet die Möglichkeit, direkte Nachrichten über Online- und O
 
 ### Aktuelle Campaign-Produktversionen
 
-Erfahren Sie mehr über die neuesten Funktionen, Verbesserungen und Fehlerbehebungen in der [Campaign v7](https://experienceleague.adobe.com/docs/campaign-classic/using/release-notes/latest-release.html?lang=de), [Campaign v8](https://experienceleague.adobe.com/docs/campaign/campaign-v8/new/whats-new.html?lang=de)und [Campaign Standard](https://experienceleague.adobe.com/docs/campaign-standard/using/release-notes/release-notes.html?lang=de) Versionshinweise.
+**Neueste Version:** [Campaign Standard-Version 22.2](https://experienceleague.adobe.com/docs/campaign-standard/using/release-notes/e-release-notes.html) (Juni 2022)
+
+Erfahren Sie mehr über die neuesten Funktionen, Verbesserungen und Fehlerbehebungen in der [Campaign v7](https://experienceleague.adobe.com/docs/campaign-classic/using/release-notes/latest-release.html?lang=de), [Campaign v8](https://experienceleague.adobe.com/docs/campaign/campaign-v8/new/whats-new.html?lang=de)und [Campaign Standard](https://experienceleague.adobe.com/docs/campaign-standard/using/release-notes/release-notes.html) Versionshinweise.
 
 ### Hilferessourcen für Campaign
 
 * Adobe Campaign Version 8: [Dokumentation](https://experienceleague.adobe.com/docs/campaign/campaign-v8/campaign-home.html?lang=de) – [Versionshinweise](https://experienceleague.adobe.com/docs/campaign/campaign-v8/new/whats-new.html) – [Implementierungshandbücher](https://experienceleague.adobe.com/docs/campaign/campaign-v8/implement/implement.html?lang=de)
-* Adobe Campaign Standard: [Campaign Standard – Dokumentation](https://experienceleague.adobe.com/docs/campaign-standard/using/campaign-standard-home.html?lang=de) – [Versionshinweise](https://experienceleague.adobe.com/docs/campaign-standard/using/release-notes/release-notes.html) – [Anleitungsvideos](https://experienceleague.adobe.com/docs/campaign-standard-learn/tutorials/overview.html?lang=de) – [Versionsplanung](https://experienceleague.adobe.com/docs/campaign-standard/using/release-notes/release-planning.html?lang=de) – [Neueste Aktualisierungen der Dokumentation](https://experienceleague.adobe.com/docs/campaign-standard/using/documentation-updates.html?lang=de)
+* Adobe Campaign Standard: [Campaign Standard – Dokumentation](https://experienceleague.adobe.com/docs/campaign-standard/using/campaign-standard-home.html?lang=de) – [Versionshinweise](https://experienceleague.adobe.com/docs/campaign-standard/using/release-notes/release-notes.html) – [Anleitungsvideos](https://experienceleague.adobe.com/docs/campaign-standard-learn/tutorials/overview.html?lang=de) – [Versionsplanung](https://experienceleague.adobe.com/docs/campaign-standard/using/release-notes/release-planning.html) – [Neueste Aktualisierungen der Dokumentation](https://experienceleague.adobe.com/docs/campaign-standard/using/documentation-updates.html?lang=de)
 * Adobe Campaign Classic: [Campaign Classic v7 – Dokumentation](https://experienceleague.adobe.com/docs/campaign-classic/using/campaign-classic-home.html?lang=de) – [Versionshinweise](https://experienceleague.adobe.com/docs/campaign-classic/using/release-notes/latest-release.html) – [Anleitungsvideos](https://experienceleague.adobe.com/docs/campaign-classic-learn/tutorials/overview.html?lang=de) – [Neueste Aktualisierungen der Dokumentation](https://experienceleague.adobe.com/docs/campaign-classic/using/documentation-updates.html?lang=de)
 * Control Panel von Adobe Campaign: [Dokumentation](https://experienceleague.adobe.com/docs/control-panel/using/control-panel-home.html?lang=de) – [Versionshinweise](https://experienceleague.adobe.com/docs/control-panel/using/release-notes.html?lang=de)  – Anleitungsvideos für [Campaign Standard](https://experienceleague.adobe.com/docs/campaign-standard-learn/control-panel/control-panel-overview.html?lang=de)/[Campaign Classic](https://experienceleague.adobe.com/docs/campaign-classic-learn/control-panel/control-panel-overview.html?lang=de)
 
