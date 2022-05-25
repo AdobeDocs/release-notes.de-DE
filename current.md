@@ -6,9 +6,9 @@ last-update: May 2022
 author: mfrei
 mini-toc-levels: 2
 exl-id: bcbdba6a-9e24-4f84-97ca-65c24ef45707
-source-git-commit: d4aed4b509b13fbc0fc73d11dcb30ac4f2fdbfd7
+source-git-commit: d397fe8a435cf411147e773ee11c34c29ecf7f5b
 workflow-type: tm+mt
-source-wordcount: '4935'
+source-wordcount: '4933'
 ht-degree: 50%
 
 ---
@@ -17,7 +17,7 @@ ht-degree: 50%
 
 ![Banner](assets/experience-cloud-banner-3.png)
 
-Als Erlebnisgestalter beginnt Ihr Weg zum Erfolg mit [Adobe Experience League](https://experienceleague.adobe.com/?lang=de#home). Hier finden Sie eine umfangreiche Dokumentationsbibliothek, Tutorials zum Selbststudium, Anleitungsvideos und Kursen für alle Kompetenzniveaus und Rollen, eine Online-Community und Unterstützung von Experten, die immer verfügbar ist.
+Als Erlebnisgestalter beginnt Ihr Weg zum Erfolg mit [ Experience League](https://experienceleague.adobe.com/?lang=de#home). Hier finden Sie eine umfangreiche Dokumentationsbibliothek, Tutorials zum Selbststudium, Anleitungsvideos und Kursen für alle Kompetenzniveaus und Rollen, eine Online-Community und Unterstützung von Experten, die immer verfügbar ist.
 
 Bereit zum Einstieg? [Machen Sie ein 5-minütiges Quiz und gewinnen Sie](https://exploreadobe.com/experience-league-quiz/?sdid=4NM897N2&amp;mv=email&amp;mv2=nslsp)!
 
@@ -49,7 +49,7 @@ Neueste Aktualisierung: **24. Mai 2022**
 * [[!DNL Adobe Creative Cloud for enterprise]](#creative-cloud)
 * [Blueprints für digitale Erlebnisse – Tutorials](#blueprints)
 
-Benötigen Sie Hilfe? Besuchen Sie [Adobe Experience League](https://experienceleague.adobe.com/?lang=de#home), um Produkt- und technische Dokumentation, von Adobe kuratierte Kurse, Video-Tutorials, schnelle Antworten, Community-Einblicke und von Schulungsleitern geführte Kurse zu erhalten.
+Benötigen Sie Hilfe? Besuchen Sie [ Experience League](https://experienceleague.adobe.com/?lang=de#home), um Produkt- und technische Dokumentation, von Adobe kuratierte Kurse, Video-Tutorials, schnelle Antworten, Community-Einblicke und von Schulungsleitern geführte Kurse zu erhalten.
 
 ## ![Symbol](/assets/experience-league.png) [!DNL Experience League]-Events {#events}
 
