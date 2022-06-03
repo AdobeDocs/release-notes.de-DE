@@ -7,9 +7,9 @@ author: mfrei
 mini-toc-levels: 2
 exl-id: bcbdba6a-9e24-4f84-97ca-65c24ef45707
 source-git-commit: 045b3df6e345a97bd4172c752c953580e42181c6
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '5033'
-ht-degree: 97%
+ht-degree: 100%
 
 ---
 
@@ -17,7 +17,7 @@ ht-degree: 97%
 
 ![Banner](assets/experience-cloud-banner-3.png)
 
-Als Erlebnisgestalter beginnt Ihr Weg zum Erfolg mit [ Experience League](https://experienceleague.adobe.com/?lang=de#home). Hier finden Sie eine umfangreiche Dokumentationsbibliothek, Tutorials zum Selbststudium, Anleitungsvideos und Kursen für alle Kompetenzniveaus und Rollen, eine Online-Community und Unterstützung von Experten, die immer verfügbar ist.
+Als Experience Maker beginnt Ihr Weg zum Erfolg mit [Experience League](https://experienceleague.adobe.com/?lang=de#home). Hier finden Sie eine umfangreiche Dokumentationsbibliothek, Tutorials zum Selbststudium, Anleitungsvideos und Kursen für alle Kompetenzniveaus und Rollen, eine Online-Community und Unterstützung von Experten, die immer verfügbar ist.
 
 Bereit zum Einstieg? [Machen Sie ein 5-minütiges Quiz und gewinnen Sie](https://exploreadobe.com/experience-league-quiz/?sdid=4NM897N2&amp;mv=email&amp;mv2=nslsp)!
 
@@ -27,7 +27,7 @@ Bereit zum Einstieg? [Machen Sie ein 5-minütiges Quiz und gewinnen Sie](https:/
 
 Neueste Aktualisierung: **27. Mai 2022**
 
-* [[!DNL Experience League] events](#events) (Aktualisiert) **27. Mai**)
+* [[!DNL Experience League] -Events](#events) (Aktualisiert am **27. Mai**)
 * [[!DNL Adobe System Status]](#status)
 * [Experience Cloud – Zentrale Komponenten der Benutzeroberfläche und Verwaltung](#ecloud)
 * [[!DNL Adobe Experience Platform]](#platform)
@@ -39,7 +39,7 @@ Neueste Aktualisierung: **27. Mai 2022**
 * [[!DNL Experience Manager Guides]](#xml-doc)
 * [[!DNL Adobe Commerce]](#commerce)
 * [[!DNL Adobe Target]](#target)
-* [[!DNL Adobe Campaign]](#ac) (Aktualisiert) **24. Mai**)
+* [[!DNL Adobe Campaign]](#ac) (Aktualisiert am **24. Mai**)
 * [[!DNL Adobe Journey Optimizer]](#journey-opt)
 * [[!DNL Journey Orchestration]](#journey-orch)
 * [[!DNL Adobe Marketo Engage]](#marketo)
@@ -49,7 +49,7 @@ Neueste Aktualisierung: **27. Mai 2022**
 * [[!DNL Adobe Creative Cloud for enterprise]](#creative-cloud)
 * [Blueprints für digitale Erlebnisse – Tutorials](#blueprints)
 
-Benötigen Sie Hilfe? Besuchen Sie [ Experience League](https://experienceleague.adobe.com/?lang=de#home), um Produkt- und technische Dokumentation, von Adobe kuratierte Kurse, Video-Tutorials, schnelle Antworten, Community-Einblicke und von Schulungsleitern geführte Kurse zu erhalten.
+Benötigen Sie Hilfe? Besuchen Sie die [Experience League](https://experienceleague.adobe.com/?lang=de#home), um Produkt- und technische Dokumentation, von Adobe kuratierte Kurse, Video-Tutorials, schnelle Antworten, Community-Erkenntnisse und von Schulungsleitern geführte Kurse zu erhalten.
 
 ## ![Symbol](/assets/experience-league.png) [!DNL Experience League]-Events {#events}
 
@@ -59,11 +59,11 @@ Aktualisiert: **27. Mai 2022**
 
 | Event | Typ | Beschreibung |
 | -----------|---------- | ----|
-| [Experience Maker-Regierungsforum](https://adobegovforum.govexec.com/agenda/) | On-Demand-Video | Der 13. Jährliche AEMGF am 10. Mai war ein Erfolg mit einer Kombination aus virtuellen und persönlichen Besuchern. Hauptsitzungen und Nebenbesprechungen konzentrierten sich auf das Thema _Digitale Erlebnisse, die Menschen an die erste Stelle setzen_. Top-Sitzungen _Manager: Wie wir Pablo Escobar heruntergefahren haben_, _Die Zukunft der CX_ und _Das goldene Zeitalter der Kreativität und des modernen Arbeitsplatzes_. |
-| [Fragen Sie die Experten: Die Grundlagen des Web SDK](https://www.youtube.com/watch?v=g0KajUfq-S4) | Webinar | Best Practices für die Datenerfassung und deren Verwendung. <br>[Terminieren und vergangene Ereignisse](https://experienceleague.adobe.com/docs/experience-league-live-events/events/overview.html?lang=de) |
+| [Experience Makers-Forum für Behörden](https://adobegovforum.govexec.com/agenda/) | On-Demand-Video | Das 13. jährliche AEMGF am 10. Mai war ein Erfolg mit einer Kombination aus virtuellen und persönlichen Besuchern. Die Haupt- und Breakout-Sessions konzentrierten sich auf das Thema _Digitale Erlebnisse, die Menschen an die erste Stelle setzen_. Zu den Top-Sessions gehörten _Manhunters: How We Took Down Pablo Escobar_, _The Future of CX_ und _The Golden Age of Creativity and the Modern Workplace_. |
+| [Fragen Sie die Experten: Die Grundlagen des Web SDK](https://www.youtube.com/watch?v=g0KajUfq-S4) | Webinar | Best Practices für die Datenerfassung und deren Verwendung. <br>[Zeitplan und vergangene Events](https://experienceleague.adobe.com/docs/experience-league-live-events/events/overview.html?lang=de) |
 | [Adobe Campaign – Webinar-Reihe „Customer Success“](https://peer2peerenhancecustomerjourney-ac-may2022.experienceleague.adobeevents.com/) | Peer2Peer: Verbessern der Customer Journey mithilfe von Adobe Campaign. | Nehmen Sie an dieser Live-Peer2Peer-Diskussion mit Anja Starun teil, Head of Engagement Operations für die Streamotion-Marken Kayo, Binge und Flash. Erfahren Sie direkt von ihr, welche erfolgreichen Strategien ihr Team implementiert hat, um mithilfe von Adobe Campaign individuelle Customer Journeys zu erstellen. <br>**Datum:** 26. Mai @ 15 Uhr EST <br>[Details und Registrierung](https://peer2peerenhancecustomerjourney-ac-may2022.experienceleague.adobeevents.com/) |
 | [Adobe Target-Community](https://experienceleaguecommunities.adobe.com/t5/adobe-target-discussions/at-community-q-amp-a-coffee-break-4-27-22-8am-pt-jim-mctiernan/m-p/446940?profile.language=de#M3096) | Kaffeepause mit Fragen und Antworten | Kommen Sie zu Brent Kostak und Drew Burns vom Adobe Target-Produkt-Team, die Ihre Fragen rund um Adobe Target zu freigegebenen Zielgruppen, Real-Time CDP, First-Party-Daten, End-to-End-Personalisierungs-Workflows und vieles mehr beantworten können.<br>Sehen Sie sich das aktuelle [Webinar zur Echtzeit-Personalisierung](https://experienceleaguecommunities.adobe.com/t5/adobe-target-discussions/webinar-recording-4-28-22-real-time-personalization-with-adobe/td-p/449012?profile.language=de) an und richten Sie etwaige Fragen an die Experten im [Coffee Break Thread](https://adobe.ly/3MyiDHa) in der Adobe Target Community!<br>**Datum:** 25. Mai 2022 @ 8.00 Uhr PDT<br>[Details und Registrierung](https://adobe.ly/3MyiDHa) |
-| [Push-Benachrichtigungen mit Journey Optimizer – So konfigurieren Sie Ihre Mobile App einfach für Push-Benachrichtigungen](https://www.youtube.com/watch?v=t36Xjhukmro) | Experience League LIVE  | Erfahren Sie mehr über gängige Anwendungsfälle für Push-Benachrichtigungen mit Adobe Journey Optimizer und lernen Sie die technischen Details zum Konfigurieren einer App für Push-Benachrichtigungen mit Adobe Experience Platform kennen. <br>**Datum:** 12. Mai 2022 @ 9:30 h PDT<br>[Zeitplan und vergangene Events](https://experienceleague.adobe.com/docs/experience-league-live-events/events/overview.html?lang=en) |
+| [Push-Benachrichtigungen mit Journey Optimizer – So konfigurieren Sie Ihre Mobile App einfach für Push-Benachrichtigungen](https://www.youtube.com/watch?v=t36Xjhukmro) | Experience League LIVE  | Erfahren Sie mehr über gängige Anwendungsfälle für Push-Benachrichtigungen mit Adobe Journey Optimizer und lernen Sie die technischen Details zum Konfigurieren einer App für Push-Benachrichtigungen mit Adobe Experience Platform kennen. <br>**Datum:** 12. Mai 2022 @ 9:30 h PDT<br>[Zeitplan und vergangene Events](https://experienceleague.adobe.com/docs/experience-league-live-events/events/overview.html?lang=de) |
 | [Adobe [!DNL Developers Live]: Commerce](https://experienceleague.adobe.com/docs/adobe-developers-live-events/events/2022/feb2022/overview.html?lang=de) | On-Demand-Videos | _Adobe Developers Live: Commerce 2022_ führt Entwickler und Erlebnisgestalter mit unterschiedlichem Hintergrund zusammen, um herausragende End-to-End-Erlebnisse zu schaffen. Diese eintägige virtuelle Konferenz bietet wichtige Neuheiten zu Commerce und Open Source Developer, technische Sessions, Community-Networking-Möglichkeiten und vieles mehr. |
 | [Marketo Skill Exchange](https://experienceleague.adobe.com/docs/skill-exchange-events/events/marketo/aug2021/marketo-roadmap.html?lang=de) | On-Demand-Videos | Erfahren Sie mehr über die Bedeutung Ihres Marketo-Fahrplans und wie Sie eine schlechte Planung vermeiden können. Holen Sie sich in der [!DNL Marketo] Skill Exchange ab August 2021 Ratschläge zur Erschließung des Potenzials von Program Member Custom Fields, Tipps und Tricks zu Marketo Engage und vieles mehr – jetzt auf Experience League. |
 | [Adobe Summit 2022](https://business.adobe.com/summit/adobe-summit.html) | On-Demand-Sitzungen | Erfahren Sie von Adobe-Führungskräften sowie Ryan Reynolds, Rosalind Brewer, CEO von Walgreens Boots Alliance Inc, John Donahoe, CEO von NIKE Inc. und Gail J. McGovern, CEO des amerikanischen Roten Kreuzes, warum Customer Experiences die Währung unserer digitalen Wirtschaft sind.<br>Erkunden Sie die [On-Demand-Sitzungen](https://business.adobe.com/summit/2022/sessions.html) von Adobe Summit 2022. |
@@ -85,7 +85,7 @@ Nicht aktualisiert.
 **Weitere Hilferessourcen zu [!DNL Experience Cloud Central UI Components] und Administration**
 
 * [Versionshinweise](https://experienceleague.adobe.com/docs/core-services/interface/release-notes/release-notes.html?lang=de) für zentrale Komponenten der Benutzeroberfläche von Experience Cloud
-* [Benutzer- und Produktverwaltung](https://experienceleague.adobe.com/docs/core-services/interface/experience-cloud.html?lang=en) für Experience Cloud (Administration)
+* [Benutzer- und Produktverwaltung](https://experienceleague.adobe.com/docs/core-services/interface/experience-cloud.html?lang=de) für Experience Cloud (Administration)
 * Places Service – [Versionshinweise](https://experienceleague.adobe.com/docs/places/using/release-notes.html?lang=de)
 * Produktdokumentation für [People – Kundenattribute und Zielgruppenbibliothek](https://experienceleague.adobe.com/docs/core-services/interface/services/core-services-landing.html?lang=de)
 * [Einheitliche Suche nach Objekten und Entitäten](https://experienceleague.adobe.com/docs/core-services/interface/services/search-experience-cloud.html?lang=de)
@@ -158,7 +158,7 @@ Veröffentlichungsdatum: **18. Mai 2022**
 
 Zuletzt aktualisiert: **23. März 2022**
 
-* [!DNL Streaming Media Analytics] [Versionshinweise](https://experienceleague.adobe.com/docs/media-analytics/using/additional-resources/release-notes.html?lang=de)
+* [Versionshinweise](https://experienceleague.adobe.com/docs/media-analytics/using/additional-resources/release-notes.html?lang=de) zu [!DNL Streaming Media Analytics]
 * [Produktdokumentation und Tutorials](https://experienceleague.adobe.com/docs/media-analytics/using/media-overview.html?lang=de) zu [!DNL Streaming Media Analytics]
 
 <!-- ### New Customer Journey Analytics tutorials and courses {#tutorials-cja}
@@ -315,7 +315,7 @@ Die nachfolgend aufgeführten Seiten umfassen alle Versionshinweise zu Experienc
 * [Experience Manager 6.4 – Training und Support, Startseite](https://experienceleague.adobe.com/docs/experience-manager-64.html?lang=de)
 * [Experience Manager 6.3 – Training und Support, Startseite](https://experienceleague.adobe.com/docs/experience-manager-release-information/aem-release-updates/previous-updates/aem-previous-versions.html?lang=de)
 * [Experience Manager 6.2 – Training und Support, Startseite](https://experienceleague.adobe.com/docs/experience-manager-release-information/aem-release-updates/previous-updates/aem-previous-versions.html?lang=de#previous-updates)
-* [Ältere Versionen der Dokumentation zu Experience Manager](https://experienceleague.adobe.com/docs/experience-manager-release-information/aem-release-updates/previous-updates/aem-previous-versions.html?lang=en#previous-updates)
+* [Ältere Versionen der Dokumentation zu Experience Manager](https://experienceleague.adobe.com/docs/experience-manager-release-information/aem-release-updates/previous-updates/aem-previous-versions.html?lang=de#previous-updates)
 * [Startseite der Hilfe zu Dynamic Media Classic](https://experienceleague.adobe.com/docs/dynamic-media-classic/using/home.html?lang=de)
 * [Experience Manager-Dokumentation: Neueste Aktualisierungen](https://experienceleague.adobe.com/docs/experience-manager-release-information/aem-release-updates/doc-updates/documentation-updates.html?lang=de#aem-as-a-cloud-service)
 
@@ -323,7 +323,7 @@ Die nachfolgend aufgeführten Seiten umfassen alle Versionshinweise zu Experienc
 
 Experience Manager Guides (früher XML Documentation für Experience Manager) ist eine Anwendung, die auf AEM bereitgestellt wird. Es handelt sich dabei um eine leistungsstarke, für Unternehmen geeignete Komponenten-Content-Management-Lösung (CCMS), die die native DITA-Unterstützung in Adobe Experience Manager unterstützt und es AEM ermöglicht, die DITA-basierte Inhaltserstellung und -bereitstellung zu handhaben.
 
-Weitere Informationen [Experience Manager-Handbücher](https://www.adobe.com/de/products/xml-documentation-for-experience-manager/features.html).
+Weitere Informationen zu den [Experience Manager-Handbüchern](https://www.adobe.com/de/products/xml-documentation-for-experience-manager/features.html).
 
 ### Weitere Ressourcen
 
@@ -350,15 +350,15 @@ Adobe Campaign bietet die Möglichkeit, direkte Nachrichten über Online- und O
 
 ### Aktuelle Campaign-Produktversionen
 
-**Neueste Version:** [Campaign Standard-Version 22.2](https://experienceleague.adobe.com/docs/campaign-standard/using/release-notes/e-release-notes.html) (Juni 2022)
+**Neueste Version:** [Campaign Standard-Version 22.2](https://experienceleague.adobe.com/docs/campaign-standard/using/release-notes/e-release-notes.html?lang=de) (Juni 2022)
 
-Erfahren Sie mehr über die neuesten Funktionen, Verbesserungen und Fehlerbehebungen in den Versionshinweisen von [Campaign v7](https://experienceleague.adobe.com/docs/campaign-classic/using/release-notes/latest-release.html?lang=de), [Campaign v8](https://experienceleague.adobe.com/docs/campaign/campaign-v8/new/whats-new.html?lang=de) und [Campaign Standard](https://experienceleague.adobe.com/docs/campaign-standard/using/release-notes/release-notes.html).
+Erfahren Sie mehr über die neuesten Funktionen, Verbesserungen und Fehlerbehebungen in den Versionshinweisen von [Campaign v7](https://experienceleague.adobe.com/docs/campaign-classic/using/release-notes/latest-release.html?lang=de), [Campaign v8](https://experienceleague.adobe.com/docs/campaign/campaign-v8/new/whats-new.html?lang=de) und [Campaign Standard](https://experienceleague.adobe.com/docs/campaign-standard/using/release-notes/release-notes.html?lang=de).
 
 ### Hilferessourcen für Campaign
 
-* Adobe Campaign Version 8: [Dokumentation](https://experienceleague.adobe.com/docs/campaign/campaign-v8/campaign-home.html?lang=de) – [Versionshinweise](https://experienceleague.adobe.com/docs/campaign/campaign-v8/new/whats-new.html) – [Implementierungshandbücher](https://experienceleague.adobe.com/docs/campaign/campaign-v8/implement/implement.html?lang=de)
-* Adobe Campaign Standard: [Campaign Standard – Dokumentation](https://experienceleague.adobe.com/docs/campaign-standard/using/campaign-standard-home.html?lang=de) – [Versionshinweise](https://experienceleague.adobe.com/docs/campaign-standard/using/release-notes/release-notes.html) – [Anleitungsvideos](https://experienceleague.adobe.com/docs/campaign-standard-learn/tutorials/overview.html?lang=de) – [Versionsplanung](https://experienceleague.adobe.com/docs/campaign-standard/using/release-notes/release-planning.html) – [Neueste Aktualisierungen der Dokumentation](https://experienceleague.adobe.com/docs/campaign-standard/using/documentation-updates.html?lang=de)
-* Adobe Campaign Classic: [Campaign Classic v7 – Dokumentation](https://experienceleague.adobe.com/docs/campaign-classic/using/campaign-classic-home.html?lang=de) – [Versionshinweise](https://experienceleague.adobe.com/docs/campaign-classic/using/release-notes/latest-release.html) – [Anleitungsvideos](https://experienceleague.adobe.com/docs/campaign-classic-learn/tutorials/overview.html?lang=de) – [Neueste Aktualisierungen der Dokumentation](https://experienceleague.adobe.com/docs/campaign-classic/using/documentation-updates.html?lang=de)
+* Adobe Campaign Version 8: [Dokumentation](https://experienceleague.adobe.com/docs/campaign/campaign-v8/campaign-home.html?lang=de) – [Versionshinweise](https://experienceleague.adobe.com/docs/campaign/campaign-v8/new/whats-new.html?lang=de) – [Implementierungshandbücher](https://experienceleague.adobe.com/docs/campaign/campaign-v8/implement/implement.html?lang=de)
+* Adobe Campaign Standard: [Campaign Standard – Dokumentation](https://experienceleague.adobe.com/docs/campaign-standard/using/campaign-standard-home.html?lang=de) – [Versionshinweise](https://experienceleague.adobe.com/docs/campaign-standard/using/release-notes/release-notes.html?lang=de) – [Anleitungsvideos](https://experienceleague.adobe.com/docs/campaign-standard-learn/tutorials/overview.html?lang=de) – [Versionsplanung](https://experienceleague.adobe.com/docs/campaign-standard/using/release-notes/release-planning.html?lang=de) – [Neueste Aktualisierungen der Dokumentation](https://experienceleague.adobe.com/docs/campaign-standard/using/documentation-updates.html?lang=de)
+* Adobe Campaign Classic: [Campaign Classic v7 – Dokumentation](https://experienceleague.adobe.com/docs/campaign-classic/using/campaign-classic-home.html?lang=de) – [Versionshinweise](https://experienceleague.adobe.com/docs/campaign-classic/using/release-notes/latest-release.html?lang=de) – [Anleitungsvideos](https://experienceleague.adobe.com/docs/campaign-classic-learn/tutorials/overview.html?lang=de) – [Neueste Aktualisierungen der Dokumentation](https://experienceleague.adobe.com/docs/campaign-classic/using/documentation-updates.html?lang=de)
 * Control Panel von Adobe Campaign: [Dokumentation](https://experienceleague.adobe.com/docs/control-panel/using/control-panel-home.html?lang=de) – [Versionshinweise](https://experienceleague.adobe.com/docs/control-panel/using/release-notes.html?lang=de)   – Anleitungsvideos für [Campaign Standard](https://experienceleague.adobe.com/docs/campaign-standard-learn/control-panel/control-panel-overview.html?lang=de)/[Campaign Classic](https://experienceleague.adobe.com/docs/campaign-classic-learn/control-panel/control-panel-overview.html?lang=de)
 
 ## ![Symbol](/assets/experience_platform_appicon_24.png) Adobe Journey Optimizer {#journey-opt}
@@ -386,8 +386,8 @@ Neueste Journey Optimizer-Tutorials:
 
 ### Weitere Ressourcen zu [!DNL Journey Optimizer]
 
-* [Dokumentation zu Journey Optimizer](https://experienceleague.adobe.com/docs/journey-optimizer/using/ajo-home.html?lang=de) – [Versionshinweise](https://experienceleague.adobe.com/docs/journey-optimizer/using/whats-new/release-notes.html) – [Anleitungsvideos](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/overview.html?lang=de)
-* [Dokumentation zum Entscheidungs-Management](https://experienceleague.adobe.com/docs/journey-optimizer/using/offer-decisioniong/get-started-decision/starting-offer-decisioning.html?lang=de) – [Versionshinweise](https://experienceleague.adobe.com/docs/journey-optimizer/using/whats-new/release-notes.html) – [Anleitungsvideos](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/decision-management/introduction-to-decision-management.html?lang=de) – [Neueste Aktualisierungen der Dokumentation](https://experienceleague.adobe.com/docs/journey-optimizer/using/whats-new/documentation-updates.html?lang=de)
+* [Dokumentation zu Journey Optimizer](https://experienceleague.adobe.com/docs/journey-optimizer/using/ajo-home.html?lang=de) – [Versionshinweise](https://experienceleague.adobe.com/docs/journey-optimizer/using/whats-new/release-notes.html?lang=de) – [Anleitungsvideos](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/overview.html?lang=de)
+* [Dokumentation zum Entscheidungs-Management](https://experienceleague.adobe.com/docs/journey-optimizer/using/offer-decisioniong/get-started-decision/starting-offer-decisioning.html?lang=de) – [Versionshinweise](https://experienceleague.adobe.com/docs/journey-optimizer/using/whats-new/release-notes.html?lang=de) – [Anleitungsvideos](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/decision-management/introduction-to-decision-management.html?lang=de) – [Neueste Aktualisierungen der Dokumentation](https://experienceleague.adobe.com/docs/journey-optimizer/using/whats-new/documentation-updates.html?lang=de)
 
 ## ![Symbol](/assets/experience_platform_appicon_24.png) [!DNL Adobe Journey Orchestration] {#journey-orch}
 
@@ -399,7 +399,7 @@ Erfahren Sie mehr über die neuesten Funktionen, Verbesserungen und Fehlerbehebu
 
 #### Weitere Ressourcen zu [!DNL Journey Orchestration]
 
-* [Dokumentation zu Journey Orchestration](https://experienceleague.adobe.com/docs/journeys/using/journey-orchestration-home.html?lang=de) – [Versionshinweise](https://experienceleague.adobe.com/docs/journeys/using/release-notes/release-notes.html) – [Anleitungsvideos](https://experienceleague.adobe.com/docs/journey-orchestration-learn/tutorials/understanding-journey-orchestration.html?lang=de) – [Neueste Aktualisierungen der Dokumentation](https://experienceleague.adobe.com/docs/journeys/using/release-notes/documentation-updates.html?lang=de)
+* [Dokumentation zu Journey Orchestration](https://experienceleague.adobe.com/docs/journeys/using/journey-orchestration-home.html?lang=de) – [Versionshinweise](https://experienceleague.adobe.com/docs/journeys/using/release-notes/release-notes.html?lang=de) – [Anleitungsvideos](https://experienceleague.adobe.com/docs/journey-orchestration-learn/tutorials/understanding-journey-orchestration.html?lang=de) – [Neueste Aktualisierungen der Dokumentation](https://experienceleague.adobe.com/docs/journeys/using/release-notes/documentation-updates.html?lang=de)
 
 ## ![Symbol](/assets/marketo.png) [!DNL Adobe Marketo Engage] {#marketo}
 
@@ -409,7 +409,7 @@ Neu veröffentlichte Videos auf Experience League:
 
 | Veröffentlicht | Name | Typ | Beschreibung |
 | -----------| ---------- | ---------- | ---------- |
-| Mai 2022 | [Marketo Skills Exchange](https://experienceleague.adobe.com/docs/skill-exchange-events/events/marketo/aug2021/marketo-roadmap.html?lang=en) | Videos | Beginnen Sie mit Wissenswertem zu Ihrer Marketo-Roadmap. Erfahren Sie dann, wie wichtig es ist, Ihre Marketo-Instanz als Produkt zu betrachten. In dieser neu veröffentlichten [Marketo Skills Exchange](https://experienceleague.adobe.com/docs/skill-exchange-events/events/marketo/aug2021/marketo-roadmap.html?lang=en) vom August 2021 erhalten Sie Ratschläge zur Erschließung des Potenzials von Program Member Custom Fields für Programmteilnehmer, Tipps und Tricks zu Marketo Engage und mehr – jetzt auf Experience League. |
+| Mai 2022 | [Marketo Skill Exchange](https://experienceleague.adobe.com/docs/skill-exchange-events/events/marketo/aug2021/marketo-roadmap.html?lang=de) | Videos | Beginnen Sie mit Wissenswertem zu Ihrer Marketo-Roadmap. Erfahren Sie dann, wie wichtig es ist, Ihre Marketo-Instanz als Produkt zu betrachten. In dieser neu veröffentlichten [Marketo Skills Exchange](https://experienceleague.adobe.com/docs/skill-exchange-events/events/marketo/aug2021/marketo-roadmap.html?lang=de) vom August 2021 erhalten Sie Ratschläge zur Erschließung des Potenzials von Program Member Custom Fields für Programmteilnehmer, Tipps und Tricks zu Marketo Engage und mehr – jetzt auf Experience League. |
 
 {style=&quot;table-layout:auto&quot;}
 
