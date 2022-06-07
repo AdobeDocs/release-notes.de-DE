@@ -7,9 +7,8 @@ git-repo: https://github.com/AdobeDocs/release-notes.de-DE
 index: true
 source-git-commit: 759707638404f746de2e71ac27bd16926a8d1151
 workflow-type: tm+mt
-source-wordcount: '153'
-ht-degree: 100%
-showfeedback: true
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
