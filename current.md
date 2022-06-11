@@ -6,10 +6,10 @@ last-update: June 2022
 author: mfrei
 mini-toc-levels: 2
 exl-id: bcbdba6a-9e24-4f84-97ca-65c24ef45707
-source-git-commit: 8c5b3c3246a9f14e48d77c294143464b1c9e72c0
+source-git-commit: 7ea7898bf65132824a5944dd9e936a1344d5a213
 workflow-type: tm+mt
-source-wordcount: '4708'
-ht-degree: 54%
+source-wordcount: '4696'
+ht-degree: 55%
 
 ---
 
@@ -218,15 +218,14 @@ Adobe empfiehlt, die Seite [Experience Manager-Versions-Updates und -Roadmaps](h
    * [Die intelligente Bildbearbeitung von Dynamic Media unterstützt jetzt das AVIF-Dateiformat](https://medium.com/adobetech/one-solution-fits-all-smart-imaging-with-aem-dynamic-media-be690b62df9f) - weitere Verbesserung des Google Core Web Vital (größter Inhaltsbaustein), wobei AVIF eine 20%ige Reduzierung der zusätzlichen Größe im Vergleich zu WebP ermöglicht. Insgesamt ermöglicht AVIF eine Reduzierung der durchschnittlichen Größe um bis zu 41 % im Vergleich zu JPEG (in einigen Bildern sogar bis zu 76 %).
    * Experience Manager Assets Brand Portal führt jetzt alle 12 Stunden automatische Aufträge aus, um alle in Experience Manager veröffentlichten Brand Portal-Assets zu löschen. Daher müssen Sie die Assets im Beitragsordner nicht manuell löschen, um die Ordnergröße unter dem Schwellenwert zu halten. Siehe [Neue Funktionen in Experience Manager Assets Brand Portal](https://experienceleague.adobe.com/docs/experience-manager-brand-portal/using/introduction/whats-new.html?lang=de).
 
-      _Neue Funktion im Vorabversionskanal_
+   _Neue Funktion im Vorabversionskanal_
 
    * Experience Manager Assets verwendet jetzt Adobe Sensei AI-Funktionen [Unterscheiden zwischen Farben in einem Bild und automatisches Anwenden von Unterschieden als Tags bei der Aufnahme](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/assets/manage/color-tag-images.html?lang=en). Diese Tags ermöglichen ein verbessertes Sucherlebnis, das auf der Farbkomposition des Bildes basiert. Sie können festlegen, wie viele Farben innerhalb eines Bereichs von 1 bis 40 mit einem Bild versehen werden, damit Sie später anhand dieser Farben nach Bildern suchen können.
+
 
 * **Experience Manager Forms as a Cloud Service**
 
    _Neue Funktionen im Vorversionskanal_
-
-   * **Kommunikation - Unterstützung von Document Manipulation APIs im as a Cloud Service SDK von Forms** -
 
    * **Integrieren von Adaptive Forms mit Microsoft® Power Automate** - Sie können jetzt ein adaptives Formular konfigurieren, um einen Microsoft® Power Automate Cloud-Fluss bei der Übermittlung auszuführen. Das konfigurierte adaptive Formular sendet erfasste Daten, Anhänge und Datensatzdokument zur Verarbeitung an Power Automate Cloud Flow zur Verarbeitung. Dies hilft Ihnen beim Erstellen benutzerdefinierter Datenerfassungserlebnisse und nutzt gleichzeitig die Leistungsfähigkeit von Microsoft® Power Automate, um Geschäftslogiken zu erfassten Daten zu erstellen und Kundenworkflows zu automatisieren.
    * **Assistent zum Erstellen eines adaptiven Formulars** - Sie können einen benutzerfreundlichen Assistenten für Unternehmen verwenden, um schnell Adaptive Forms zu erstellen. Der Assistent bietet eine schnelle Registerkartennavigation, mit der Sie einfach vorkonfigurierte Vorlagen, Stile, Felder und Übermittlungsoptionen auswählen können, um ein adaptives Formular zu erstellen.
