@@ -6,10 +6,10 @@ last-update: June 2022
 author: mfrei
 mini-toc-levels: 2
 exl-id: bcbdba6a-9e24-4f84-97ca-65c24ef45707
-source-git-commit: 7ea7898bf65132824a5944dd9e936a1344d5a213
+source-git-commit: 5d75fb745b2694e31346b27efdb1d5f71fe91449
 workflow-type: tm+mt
-source-wordcount: '4696'
-ht-degree: 55%
+source-wordcount: '4691'
+ht-degree: 54%
 
 ---
 
@@ -23,7 +23,7 @@ Als Experience Maker beginnt Ihr Weg zum Erfolg mit [Experience League](https://
 >
 >Um monatliche E-Mail-Benachrichtigungen über Aktualisierungen auf dieser Seite zu erhalten, abonnieren Sie das [Adobe Priority Product Update](https://www.adobe.com/subscription/priority-product-update.html). Schauen Sie regelmäßig wieder vorbei, um über die Entwicklung bei Experience League auf dem Laufenden zu bleiben.
 
-Letzte Aktualisierung: **10. Juni 2022**
+Letzte Aktualisierung: **12. Juni 2022**
 
 * [[!DNL Experience League] -Events](#events)
 * [[!DNL Adobe System Status]](#status)
@@ -349,9 +349,10 @@ Adobe Campaign bietet die Möglichkeit, direkte Nachrichten über Online- und O
 
 ### Aktuelle Campaign-Produktversionen
 
-**Neueste Version:** [Campaign Standard-Version 22.2](https://experienceleague.adobe.com/docs/campaign-standard/using/release-notes/e-release-notes.html?lang=de) (Juni 2022)
-
-Erfahren Sie mehr über die neuesten Funktionen, Verbesserungen und Fehlerbehebungen in den Versionshinweisen von [Campaign v7](https://experienceleague.adobe.com/docs/campaign-classic/using/release-notes/latest-release.html?lang=de), [Campaign v8](https://experienceleague.adobe.com/docs/campaign/campaign-v8/new/whats-new.html?lang=de) und [Campaign Standard](https://experienceleague.adobe.com/docs/campaign-standard/using/release-notes/release-notes.html?lang=de).
+* Neu [Campaign v8.3](https://experienceleague.adobe.com/docs/campaign/campaign-v8/new/release-notes.html)
+* Neu [Version 22.2 von Campaign Standard](https://experienceleague.adobe.com/docs/campaign-standard/using/release-notes/release-notes.html?lang=de)
+* Neu [Control Panel - Mai-Version](https://experienceleague.adobe.com/docs/control-panel/using/release-notes.html?lang=en#may-2022)
+* Neu [Tutorials und Kurse](https://experienceleague.adobe.com/docs/release-notes/experience-cloud/current.html#tutorials-campaign) zur Experience League
 
 ### Neue Tutorials und Kurse zu [!DNL Campaign] {#tutorials-campaign}
 
@@ -372,8 +373,8 @@ Neue Videos, Tutorials oder Kurse, die für Adobe Campaign veröffentlicht wurde
 
 * Adobe Campaign Version 8: [Dokumentation](https://experienceleague.adobe.com/docs/campaign/campaign-v8/campaign-home.html?lang=de) – [Versionshinweise](https://experienceleague.adobe.com/docs/campaign/campaign-v8/new/whats-new.html) – [Implementierungshandbücher](https://experienceleague.adobe.com/docs/campaign/campaign-v8/implement/implement.html?lang=de)
 * Adobe Campaign Standard: [Campaign Standard – Dokumentation](https://experienceleague.adobe.com/docs/campaign-standard/using/campaign-standard-home.html?lang=de) – [Versionshinweise](https://experienceleague.adobe.com/docs/campaign-standard/using/release-notes/release-notes.html) – [Anleitungsvideos](https://experienceleague.adobe.com/docs/campaign-standard-learn/tutorials/overview.html?lang=de) – [Versionsplanung](https://experienceleague.adobe.com/docs/campaign-standard/using/release-notes/release-planning.html?lang=de) – [Neueste Aktualisierungen der Dokumentation](https://experienceleague.adobe.com/docs/campaign-standard/using/documentation-updates.html?lang=de)
-* Adobe Campaign Classic: [Campaign Classic v7 – Dokumentation](https://experienceleague.adobe.com/docs/campaign-classic/using/campaign-classic-home.html?lang=de) – [Versionshinweise](https://experienceleague.adobe.com/docs/campaign-classic/using/release-notes/latest-release.html) – [Anleitungsvideos](https://experienceleague.adobe.com/docs/campaign-classic-learn/tutorials/overview.html?lang=de) – [Neueste Aktualisierungen der Dokumentation](https://experienceleague.adobe.com/docs/campaign-classic/using/documentation-updates.html?lang=de)
-* Control Panel von Adobe Campaign: [Dokumentation](https://experienceleague.adobe.com/docs/control-panel/using/control-panel-home.html?lang=de) – [Versionshinweise](https://experienceleague.adobe.com/docs/control-panel/using/release-notes.html?lang=de)   – Anleitungsvideos für [Campaign Standard](https://experienceleague.adobe.com/docs/campaign-standard-learn/control-panel/control-panel-overview.html?lang=de)/[Campaign Classic](https://experienceleague.adobe.com/docs/campaign-classic-learn/control-panel/control-panel-overview.html?lang=de)
+* Adobe Campaign Classic: [Campaign Classic v7 – Dokumentation](https://experienceleague.adobe.com/docs/campaign-classic/using/campaign-classic-home.html?lang=de) – [Versionshinweise](https://experienceleague.adobe.com/docs/campaign-classic/using/release-notes/latest-release.html?lang=de) – [Anleitungsvideos](https://experienceleague.adobe.com/docs/campaign-classic-learn/tutorials/overview.html?lang=de) – [Neueste Aktualisierungen der Dokumentation](https://experienceleague.adobe.com/docs/campaign-classic/using/documentation-updates.html?lang=de)
+* Control Panel von Adobe Campaign: [Dokumentation](https://experienceleague.adobe.com/docs/control-panel/using/control-panel-home.html?lang=de) – [Versionshinweise](https://experienceleague.adobe.com/docs/control-panel/using/release-notes.html?lang=en)   – Anleitungsvideos für [Campaign Standard](https://experienceleague.adobe.com/docs/campaign-standard-learn/control-panel/control-panel-overview.html?lang=de)/[Campaign Classic](https://experienceleague.adobe.com/docs/campaign-classic-learn/control-panel/control-panel-overview.html?lang=de)
 
 ## ![Symbol](/assets/experience_platform_appicon_24.png) Adobe Journey Optimizer {#journey-opt}
 
