@@ -6,7 +6,7 @@ last-update: July 2022
 author: mfrei
 mini-toc-levels: 2
 exl-id: bcbdba6a-9e24-4f84-97ca-65c24ef45707
-source-git-commit: 079b4297838820ebadaab2a6a29aa12985624dd5
+source-git-commit: 9ae3ada52db9f358b41b4560932d5661e31664f7
 workflow-type: tm+mt
 source-wordcount: '5268'
 ht-degree: 52%
@@ -53,11 +53,11 @@ Benötigen Sie Hilfe? Besuchen Sie die [Experience League](https://experiencelea
 
 Experience League-Events sind ideal, um zu lernen, Kontakte zu knüpfen und von Adobe-Produktexperten Antworten auf Fragen zu erhalten! Siehe [Veranstaltungen](https://experienceleague.adobe.com/events/?lang=de) zu der Experience League, für Juli 2022 aktualisiert zu werden.
 
-Aktualisiert **14. Juli 2022**
+Aktualisiert **17. Juli 2022**
 
 | Event | Typ | Beschreibung |
 | -----------|---------- | ----|
-| [Fragen Sie die Experten: Datenspeicher und Datenvorbereitung](https://experienceleague.adobe.com/docs/experience-league-live-events/events/episodes/exl-live-episode-07-21-22.html?lang=en) | Experience League LIVE  | In diesen drei Sitzungen zur Datenerfassung für die Adobe Experience Cloud werden unsere Experten einen tieferen Einblick in die erweiterten Datenerfassungsfunktionen der Adobe bieten, einschließlich Funktionen wie Datenvorbereitung für die Datenerfassung. Am Ende dieser Sitzung werden sich die Teilnehmer mit den neuesten und leistungsfähigsten Funktionen zum Erfassen von Daten aus digitalen Erlebnissen vertraut fühlen <br>**Datum:** 21. Juli um 21 Uhr PST - [Details](https://experienceleague.adobe.com/docs/experience-league-live-events/events/episodes/exl-live-episode-07-21-22.html?lang=en)<br>[Anstehende und vergangene Episoden](https://experienceleague.adobe.com/docs/experience-league-live-events/events/overview.html?lang=de) |
+| [Fragen Sie die Experten: Datenspeicher und Datenvorbereitung](https://experienceleague.adobe.com/docs/experience-league-live-events/events/episodes/exl-live-episode-07-21-22.html?lang=en) | Experience League LIVE  | In diesen drei Sitzungen zur Datenerfassung für die Adobe Experience Cloud werden unsere Experten einen tieferen Einblick in die erweiterten Datenerfassungsfunktionen der Adobe bieten, einschließlich Funktionen wie Datenvorbereitung für die Datenerfassung. Am Ende dieser Sitzung werden sich die Teilnehmer mit den neuesten und leistungsfähigsten Funktionen zum Erfassen von Daten aus digitalen Erlebnissen vertraut fühlen <br>**Datum:** 21. Juli um 9 Uhr PST - [Details](https://experienceleague.adobe.com/docs/experience-league-live-events/events/episodes/exl-live-episode-07-21-22.html?lang=en)<br>[Anstehende und vergangene Episoden](https://experienceleague.adobe.com/docs/experience-league-live-events/events/overview.html?lang=de) |
 
 {style=&quot;table-layout:auto&quot;}
 
