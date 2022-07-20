@@ -6,10 +6,10 @@ last-update: July 2022
 author: mfrei
 mini-toc-levels: 2
 exl-id: bcbdba6a-9e24-4f84-97ca-65c24ef45707
-source-git-commit: c14c711dc4e63f045e4de68f5f817e83f194bebd
+source-git-commit: d5e56e4a6877d4930a43407d0d149c3e224a8346
 workflow-type: tm+mt
-source-wordcount: '5254'
-ht-degree: 51%
+source-wordcount: '5571'
+ht-degree: 50%
 
 ---
 
@@ -72,6 +72,48 @@ Die neuesten Versionsinformationen finden Sie in den [Versionshinweisen](https:/
 ## ![Symbol](/assets/ec_appicon_24.png) Experience Cloud – zentrale Komponenten der Benutzeroberfläche und Administration {#ecloud}
 
 Die [zentralen Komponenten der Benutzeroberfläche](https://experienceleague.adobe.com/docs/core-services/interface/experience-cloud.html?lang=de) von Experience Cloud enthalten Funktionen, die auf der Startseite und in der permanenten Produktkopfzeile verfügbar sind. Zu diesen Funktionen gehören Benutzerprofileinstellungen, Voreinstellungen und die Suchfunktion. Zusätzlich finden Sie hier auch Hilfe zu den Bereichen Benutzer- und Produktverwaltung, Kundenattribute und Experience Cloud-Zielgruppen.
+
+### Aktualisierung der Bereitstellung
+
+>[!IMPORTANT]
+>
+>Beachten Sie die folgende Benachrichtigung bezüglich der Bereitstellung von Experience Clouden.
+
+Adobe aktualisiert seine Bereitstellung, um allen Experience Cloud-Kunden Zugang zu grundlegenden Funktionen zu bieten, die die Interoperabilität zwischen einigen Experience Cloud-Produkten unterstützen. Benutzern wird Adobe Experience Platform als neue Berechtigung zu ihren Experience Cloud-Organisationen hinzugefügt, mit [!UICONTROL Datenerfassung] als integrierten Dienst.
+
+Adobe Experience Platform [!UICONTROL Datenerfassung] include [tags](https://experienceleague.adobe.com/docs/tags.html?lang=en) für ein vereinfachtes universelles Tag-Management und bietet eine vertrauenswürdige, zuverlässige und vollständige Streaming-Dateninfrastruktur. Tags vereinfachen die Datenerfassung für Kundenerlebnisse und optimieren die Bereitstellung von Erlebnissen.
+
+Mit dieser Aktualisierung können Administratoren Änderungen oder Ergänzungen der Admin Console sehen:
+
+1. Die Adobe Experience Platform-Produktkarte in der Admin Console umfasst:
+
+   * Places
+   * Sicherheit
+   * ID-Namespace
+   * Sandboxes
+   * Experience-Datenmodell
+   * Schemas
+   * Datenströme
+   * Visitor ID
+
+   Für Unternehmen, die derzeit keine Experience Platform verwenden, wird jetzt die _Adobe Experience Platform_ -Produkt in der Admin Console, einschließlich der oben aufgeführten Funktionen.
+
+   Für Unternehmen, die derzeit Experience Platform verwenden: _Orte_ wird nun in der Experience Platform-Karte konsolidiert.
+
+1. Adobe Experience Platform-Datenerfassung (früher Launch) und Datenschutz werden weiterhin als separate Produktkarten von den anderen Experience Platform-Funktionen angezeigt.
+
+Weitere Informationen zu den neuen Funktionen finden Sie auf den entsprechenden Seiten auf der Experience League:
+
+* [Datenerfassung](https://experienceleague.adobe.com/docs/analytics/analyze/reports-analytics/reporting-interface/overview-data-collection.html)
+* [Places](https://experienceleague.adobe.com/docs/places/using/home.html?lang=de)
+* [Sicherheit](https://experienceleague.adobe.com/docs/platform-learn/implement-mobile-sdk/app-implementation/assurance.html%3Flang%3Dde)
+* [ID-Namespace](https://experienceleague.adobe.com/docs/experience-platform/identity/home.html?lang=de)
+* [Sandboxes](https://experienceleague.adobe.com/docs/experience-platform/sandbox/home.html?lang=de)
+* [Experience-Datenmodell](https://experienceleague.adobe.com/docs/experience-platform/xdm/home.html?lang=de)
+* [Schemas](https://experienceleague.adobe.com/docs/experience-platform/xdm/schema/composition.html?lang=de)
+* [Datenströme](https://experienceleague.adobe.com/docs/experience-platform/edge/datastreams/overview.html?lang=en)
+* [Visitor ID](https://experienceleague.adobe.com/docs/core-services/interface/services/core-services.html?lang=en#section_3C9F6DF37C654D939625BB4D485E4354)
+* [Datenschutz](https://experienceleague.adobe.com/docs/experience-platform/privacy/home.html?lang=de)
 
 Version: **11. Juli 2022**
 
