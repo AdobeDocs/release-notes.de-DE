@@ -6,9 +6,9 @@ last-update: July 2022
 author: mfrei
 mini-toc-levels: 2
 exl-id: bcbdba6a-9e24-4f84-97ca-65c24ef45707
-source-git-commit: 5c20e56d96b6fbe571cc686e2b4ed27559f39a3d
+source-git-commit: 58049fdc92ec5b172527c58d9d557d271e77b92c
 workflow-type: tm+mt
-source-wordcount: '5576'
+source-wordcount: '5577'
 ht-degree: 50%
 
 ---
@@ -75,8 +75,6 @@ Die [zentralen Komponenten der Benutzeroberfläche](https://experienceleague.ado
 
 ### Aktualisierung der Bereitstellung
 
-Aktualisiert: **19. Juli 2022**
-
 >[!IMPORTANT]
 >
 >Beachten Sie die folgende Benachrichtigung bezüglich der Bereitstellung von Experience Clouden.
@@ -85,9 +83,11 @@ Adobe aktualisiert seine Bereitstellung, um allen Experience Cloud-Kunden Zugang
 
 Adobe Experience Platform [!UICONTROL Datenerfassung] include [tags](https://experienceleague.adobe.com/docs/tags.html?lang=en) für ein vereinfachtes universelles Tag-Management und bietet eine vertrauenswürdige, zuverlässige und vollständige Streaming-Dateninfrastruktur. Tags vereinfachen die Datenerfassung für Kundenerlebnisse und optimieren die Bereitstellung von Erlebnissen.
 
-Mit dieser Aktualisierung können Administratoren Änderungen oder Ergänzungen der Admin Console sehen:
+**Veränderungen in der Admin Console**
 
-1. Die Adobe Experience Platform-Produktkarte in der Admin Console umfasst:
+Administratoren können Änderungen oder Ergänzungen der Admin Console wie folgt anzeigen:
+
+* Die Adobe Experience Platform-Produktkarte in der Admin Console umfasst:
 
    * Places
    * Sicherheit
@@ -102,7 +102,7 @@ Mit dieser Aktualisierung können Administratoren Änderungen oder Ergänzungen 
 
    Für Unternehmen, die derzeit Experience Platform verwenden: _Orte_ wird nun in der Experience Platform-Karte konsolidiert.
 
-1. Adobe Experience Platform-Datenerfassung (früher Launch) und Datenschutz werden weiterhin als separate Produktkarten von den anderen Experience Platform-Funktionen angezeigt.
+* Adobe Experience Platform-Datenerfassung (früher Launch) und Datenschutz werden weiterhin als separate Produktkarten von den anderen Experience Platform-Funktionen angezeigt.
 
 Weitere Informationen zu den neuen Funktionen finden Sie auf den entsprechenden Seiten auf der Experience League:
 
