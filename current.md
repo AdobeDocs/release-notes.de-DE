@@ -6,10 +6,10 @@ last-update: July 2022
 author: mfrei
 mini-toc-levels: 2
 exl-id: bcbdba6a-9e24-4f84-97ca-65c24ef45707
-source-git-commit: 32c6aff94fda6fa1a7d916b440aea7d656eafa44
+source-git-commit: 91b0d04c0a8b481e29a6c678ba9afc0484795433
 workflow-type: tm+mt
-source-wordcount: '5575'
-ht-degree: 94%
+source-wordcount: '5678'
+ht-degree: 90%
 
 ---
 
@@ -23,7 +23,7 @@ Als Experience Maker beginnt Ihr Weg zum Erfolg mit [Experience League](https://
 >
 >Um monatliche E-Mail-Benachrichtigungen über Aktualisierungen auf dieser Seite zu erhalten, abonnieren Sie das [Adobe Priority Product Update](https://www.adobe.com/subscription/priority-product-update.html). Schauen Sie regelmäßig wieder vorbei, um über die Entwicklung bei Experience League auf dem Laufenden zu bleiben.
 
-Neueste Aktualisierung: **19. Juli 2022**
+Neueste Aktualisierung: **27. Juli 2022**
 
 * [[!DNL Experience League] -Events](#events)
 * [[!DNL Adobe System Status]](#status)
@@ -501,24 +501,23 @@ Last updated: **October 27, 2021**
 
 ### Neue Funktionen in Version [!DNL Advertising Cloud DSP] {#adcloud-dsp}
 
-Zuletzt aktualisiert: **14. Juli 2022**
+Zuletzt aktualisiert: **27. Juli 2022**
 
 | Funktion | Beschreibung |
 | ------- | ----------- |
-| Benutzerspezifische Berichte | (Version vom 31. Mai; Beta-Funktion) Advertising Cloud DSP kann jetzt First-Party-Segmente aufnehmen, die aus authentifizierten Signalen bestehen, die in einer Kundendatenplattform (CDP) erstellt wurden. |
-| [!UICONTROL Bestand] | (Version vom 29. Juni) Die neue Ansicht [!UICONTROL Inventar] > [!UICONTROL Angebote] enthält dieselben Datenanpassungsfunktionen wie die [!UICONTROL Kampagnenansichten]. Dazu gehören zusätzliche Filter, Spaltenanpassung und die Option zum Speichern benutzerdefinierter Ansichten, Spaltensortierung und eine Datenvisualisierungsansicht (Diagramm). Sie können ein Befehlsmenü in jeder Zeile öffnen, indem Sie auf die Auslassungszeichen (...) nach dem Angebotsnamen klicken. |
-| [!UICONTROL Inventarinspektor] | (Version vom 29. Juni) Die Registerkarte [!UICONTROL Inventar] der Platzierung [!UICONTROL Inspektor] enthält jetzt anpassbare Diagramme für die Datenvisualisierung und erweiterte Performance-Metriken wie [!UICONTROL Sichtbarkeitsraten], [!UICONTROL Klicks] und [!UICONTROL CPM vom Vortag]. |
+| [!UICONTROL Bestand] | (Version vom 27. Juli) [!UICONTROL Auktionseinblicke] ist ein neues Tool zur Fehlerbehebung, mit dem Sie die Zusammensetzung der Geschäfte sowohl garantierter als auch nicht garantierter privater Geschäfte analysieren können. Mithilfe von Datenvisualisierungen zeigt dieses Tool den Trend und die relativen Anteile der Werte an, die innerhalb eines bestimmten Zeitraums für wichtige Auktionsattribute empfangen wurden. |
 
 {style=&quot;table-layout:auto&quot;}
 
 ### Neue Funktionen in Version [!DNL Advertising Cloud Search] {#adcloud-search}
 
-Zuletzt aktualisiert: **14. Juli 2022**
+Zuletzt aktualisiert: **27. Juli 2022**
 
 | Funktion | Beschreibung |
 | ------- | ----------- |
-| [!UICONTROL Insights] | (Version vom 11. Juni) Die Impression Share Lost-Analyse ist jetzt als Beta-Funktion wieder verfügbar. |
-| [!DNL Advanced Campaign Management] | (20. Juni) ([!DNL Google Ads] und [!DNL Microsoft Advertising] Kampagnen) Sie können jetzt dynamische responsive Suchanzeigen-Varianten mithilfe einer suchmaschinenspezifischen Anzeigenvorlage erstellen, die auf dem Inhalt Ihres Inventars basiert. Wählen Sie dazu [!UICONTROL Kampagnen] > [!UICONTROL Erweitert (ACM)]. |
+| [!UICONTROL Kampagnen] | (Opt-in-Beta-Funktion für alle Advertiser; Version vom 16. Juli) Sie können jetzt erstellen und verwalten [!DNL Google Ads] Kampagnen zur Leistungssteigerung, einschließlich manueller Erstellung von Asset-Gruppen und Hochladen von Assets. Links zu [!DNL Google Merchant Center] -Produkt-Feeds werden nicht unterstützt.<br><br>Nachdem Sie sich für die Beta-Version entschieden haben, können Sie Kampagnen mit der [!UICONTROL Kampagnentyp] &quot;[!UICONTROL Leistungsmaximum]und richten Sie Asset-Gruppen in den Kampagneneinstellungen ein. Sie können Ihre vorhandenen Kampagnen zur maximalen Performance mit Leistungsdaten im Tabellen- und Trend-Diagrammformat im [!UICONTROL Kampagnen] anzeigen. Leistungsdaten auf Kampagnenebene sind auch in Berichten und in Adobe Analytics verfügbar (für Advertiser mit einer [!DNL Analytics] Integration).<br><br>Wenden Sie sich an Ihren [!DNL Adobe] Account-Team. |
+|  | [!DNL Google Ads] bietet keine Leistungsdaten auf Anzeigenebene mehr für Standard-Shopping-Kampagnen, dynamische Suchanzeigen oder Platzierungen. |
+| [!UICONTROL Kampagnen], [!DNL Advanced Campaign Management], [!UICONTROL Berichte] | (Version vom 16. Juli) ([!DNL Google Ads] und [!DNL Microsoft Advertising] Kampagnen) Die folgende Unterstützung ist jetzt für responsive Suchanzeigen verfügbar:<ul><li>Die [!UICONTROL Anzeigen] -Ansicht zeigt jetzt eine Vorschau von responsiven Suchanzeigen an.</li><li> (Seit dem 20. Juni) Sie können jetzt dynamische responsive Suchanzeigen-Varianten mithilfe einer suchmaschinenspezifischen Anzeigenvorlage erstellen, die auf dem Inhalt Ihres Inventars basiert und aus dem [!UICONTROL Kampagnen] > [!UICONTROL Erweitert (ACM)].</li><li>Die [!UICONTROL Bericht zu Anzeigenvarianten] umfasst zwei neue benutzerdefinierte Spalten: &quot;[!UICONTROL Kreative Titel],&quot; eine kommagetrennte Liste der Titellzeilen der Anzeige ist, und &quot;[!UICONTROL Beschreibungen],&quot;ist eine kommagetrennte Liste der Beschreibungszeilen der Anzeige.</li></ul> |
 
 {style=&quot;table-layout:auto&quot;}
 
