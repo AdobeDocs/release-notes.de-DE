@@ -6,10 +6,10 @@ last-update: July 2022
 author: mfrei
 mini-toc-levels: 2
 exl-id: bcbdba6a-9e24-4f84-97ca-65c24ef45707
-source-git-commit: 62d9c958f05ff33f663f4e7e68bb081c3bd38b33
+source-git-commit: 9186a4065d143b7c02fd87b68b960d3f1a7eb5f2
 workflow-type: tm+mt
-source-wordcount: '5746'
-ht-degree: 89%
+source-wordcount: '5842'
+ht-degree: 88%
 
 ---
 
@@ -53,10 +53,11 @@ Benötigen Sie Hilfe? Besuchen Sie die [Experience League](https://experiencelea
 
 Experience League-Events sind ideal, um zu lernen, Kontakte zu knüpfen und von Adobe-Produktexperten Antworten auf Fragen zu erhalten! Siehe [Events](https://experienceleague.adobe.com/events/?lang=de) in Experience League, um mehr über die Neuerungen vom Juli 2022 zu erfahren.
 
-Aktualisiert am **17. Juli 2022**
+Aktualisiert am **28. Juli 2022**
 
 | Event | Typ | Beschreibung |
 | -----------|---------- | ----|
+| [Adobe Target](https://atcommunityqacoffeebreak803.splashthat.com/?utm_source=email&amp;utm_medium=Outbound&amp;utm_campaign=coffee_talk_AT&amp;utm_content=220803) | Kaffeepause mit Fragen und Antworten der Community | Wir werden von Adobe Premier Support Business Consultant Rachel Booth, alias `@rbooth115`. Sie wird in der Adobe Target-Community angemeldet sein, um direkt mit Ihnen zu chatten. [dieser Thread](https://experienceleaguecommunities.adobe.com/t5/adobe-target-discussions/at-community-q-amp-a-coffee-break-8-3-22-8am-pt-rachel-booth/td-p/461694) über Ihre Fragen zu ihren Fachgebieten (Personalisierung, Optimierung, Integration). <br>**Datum:** Mittwoch, 3. August @ 8.00 PDT - 9.00 Uhr. - [Details und Registrierung](https://atcommunityqacoffeebreak803.splashthat.com/?utm_source=email&amp;utm_medium=Outbound&amp;utm_campaign=coffee_talk_AT&amp;utm_content=220803) |
 | [Fragen an Experten: Datenströme und Datenvorbereitung](https://experienceleague.adobe.com/docs/experience-league-live-events/events/episodes/exl-live-episode-07-21-22.html?lang=de) | Experience League LIVE  | In dieser letzten der drei Sitzungen zur Datenerfassung für Adobe Experience Cloud bieten unsere Experten einen tieferen Einblick in die erweiterten Datenerfassungsfunktionen von Adobe, einschließlich Funktionen wie Datenvorbereitung für die Datenerfassung. Am Ende dieser Sitzung werden sich die Teilnehmer mit den neuesten und leistungsfähigsten Funktionen zum Erfassen von Daten aus digitalen Erlebnissen vertraut fühlen <br>**Datum:** 21. Juli um 9 Uhr PDT - [Details](https://experienceleague.adobe.com/docs/experience-league-live-events/events/episodes/exl-live-episode-07-21-22.html?lang=en) |
 
 {style=&quot;table-layout:auto&quot;}
