@@ -9,7 +9,7 @@ exl-id: bcbdba6a-9e24-4f84-97ca-65c24ef45707
 source-git-commit: 9186a4065d143b7c02fd87b68b960d3f1a7eb5f2
 workflow-type: tm+mt
 source-wordcount: '5842'
-ht-degree: 88%
+ht-degree: 92%
 
 ---
 
@@ -58,7 +58,7 @@ Aktualisiert am **28. Juli 2022**
 | Event | Typ | Beschreibung |
 | -----------|---------- | ----|
 | [Adobe Target](https://atcommunityqacoffeebreak803.splashthat.com/?utm_source=email&amp;utm_medium=Outbound&amp;utm_campaign=coffee_talk_AT&amp;utm_content=220803) | Kaffeepause mit Fragen und Antworten der Community | Wir werden von Adobe Premier Support Business Consultant Rachel Booth, alias `@rbooth115`. Sie wird in der Adobe Target-Community angemeldet sein, um direkt mit Ihnen zu chatten. [dieser Thread](https://experienceleaguecommunities.adobe.com/t5/adobe-target-discussions/at-community-q-amp-a-coffee-break-8-3-22-8am-pt-rachel-booth/td-p/461694) über Ihre Fragen zu ihren Fachgebieten (Personalisierung, Optimierung, Integration). <br>**Datum:** Mittwoch, 3. August @ 8.00 PDT - 9.00 Uhr. - [Details und Registrierung](https://atcommunityqacoffeebreak803.splashthat.com/?utm_source=email&amp;utm_medium=Outbound&amp;utm_campaign=coffee_talk_AT&amp;utm_content=220803) |
-| [Fragen an Experten: Datenströme und Datenvorbereitung](https://experienceleague.adobe.com/docs/experience-league-live-events/events/episodes/exl-live-episode-07-21-22.html?lang=de) | Experience League LIVE  | In dieser letzten der drei Sitzungen zur Datenerfassung für Adobe Experience Cloud bieten unsere Experten einen tieferen Einblick in die erweiterten Datenerfassungsfunktionen von Adobe, einschließlich Funktionen wie Datenvorbereitung für die Datenerfassung. Am Ende dieser Sitzung werden sich die Teilnehmer mit den neuesten und leistungsfähigsten Funktionen zum Erfassen von Daten aus digitalen Erlebnissen vertraut fühlen <br>**Datum:** 21. Juli um 9 Uhr PDT - [Details](https://experienceleague.adobe.com/docs/experience-league-live-events/events/episodes/exl-live-episode-07-21-22.html?lang=en) |
+| [Fragen an Experten: Datenströme und Datenvorbereitung](https://experienceleague.adobe.com/docs/experience-league-live-events/events/episodes/exl-live-episode-07-21-22.html?lang=de) | Experience League LIVE  | In dieser letzten der drei Sitzungen zur Datenerfassung für Adobe Experience Cloud bieten unsere Experten einen tieferen Einblick in die erweiterten Datenerfassungsfunktionen von Adobe, einschließlich Funktionen wie Datenvorbereitung für die Datenerfassung. Am Ende dieser Sitzung werden die Teilnehmenden mit den neuesten und leistungsfähigsten Funktionen zum Erfassen von Daten aus digitalen Erlebnissen vertraut sein.<br>**Datum:** 21. Juli um 18 Uhr MESZ – [Details](https://experienceleague.adobe.com/docs/experience-league-live-events/events/episodes/exl-live-episode-07-21-22.html?lang=en) |
 
 {style=&quot;table-layout:auto&quot;}
 
@@ -78,44 +78,44 @@ Die [zentralen Komponenten der Benutzeroberfläche](https://experienceleague.ado
 
 >[!IMPORTANT]
 >
->Beachten Sie die folgende Benachrichtigung bezüglich der Bereitstellung von Experience Clouden.
+>Bitte beachten Sie die folgende Benachrichtigung bezüglich der Bereitstellung von Experience Cloud.
 
-Adobe aktualisiert seine Bereitstellung, um allen Experience Cloud-Kunden Zugang zu grundlegenden Funktionen zu bieten, die die Interoperabilität zwischen einigen Experience Cloud-Produkten unterstützen. Benutzern wird Adobe Experience Platform als neue Berechtigung zu ihren Experience Cloud-Organisationen hinzugefügt, mit [!UICONTROL Datenerfassung] als integrierten Dienst.
+Adobe aktualisiert seine Bereitstellung, um allen Experience Cloud-Kunden Zugang zu grundlegenden Funktionen zu bieten, die die Interoperabilität zwischen einigen Experience Cloud-Produkten unterstützen. Benutzende erhalten Adobe Experience Platform als neue Berechtigung zusätzlich zu ihren Experience Cloud-Organisationen, mit [!UICONTROL Datenerfassung] als integrierten Service.
 
-Adobe Experience Platform [!UICONTROL Datenerfassung] include [tags](https://experienceleague.adobe.com/docs/tags.html?lang=en) für ein vereinfachtes universelles Tag-Management und bietet eine vertrauenswürdige, zuverlässige und vollständige Streaming-Dateninfrastruktur. Tags vereinfachen die Datenerfassung für Kundenerlebnisse und optimieren die Bereitstellung von Erlebnissen.
+Die [!UICONTROL Datenerfassung] von Adobe Experience Platform beinhaltet [Tags](https://experienceleague.adobe.com/docs/tags.html?lang=de) für ein vereinfachtes universelles Tag-Management und bietet eine vertrauenswürdige, zuverlässige und vollständige Streaming-Dateninfrastruktur. Tags vereinfachen die Datenerfassung für Kundenerlebnisse und optimieren die Bereitstellung von Erlebnissen.
 
 **Veränderungen in der Admin Console**
 
-Administratoren können Änderungen oder Ergänzungen der Admin Console wie folgt anzeigen:
+Admins können Änderungen oder Ergänzungen der Admin Console wie folgt anzeigen:
 
 * Die Adobe Experience Platform-Produktkarte in der Admin Console umfasst:
 
    * Places
-   * Sicherheit
-   * ID-Namespace
+   * Assurance
+   * Identity-Namespace
    * Sandboxes
    * Experience-Datenmodell
    * Schemas
    * Datenströme
-   * Visitor ID
+   * Besucher-ID
 
-   Für Unternehmen, die derzeit keine Experience Platform verwenden, wird jetzt die _Adobe Experience Platform_ -Produkt in der Admin Console, einschließlich der oben aufgeführten Funktionen.
+   Für Organisationen, die derzeit nicht Experience Platform verwenden, wird _Adobe Experience Platform_ jetzt in der Admin Console angezeigt, einschließlich der oben aufgeführten Funktionen.
 
-   Für Unternehmen, die derzeit Experience Platform verwenden: _Orte_ wird nun in der Experience Platform-Karte konsolidiert.
+   Für Unternehmen, die derzeit Experience Platform verwenden, werden nun _Places_ in der Experience Platform-Karte integriert.
 
-* Adobe Experience Platform-Datenerfassung (früher Launch) und Datenschutz werden weiterhin als separate Produktkarten von den anderen Experience Platform-Funktionen angezeigt.
+* Adobe Experience Platform-Datenerfassung (früher Launch) und Datenschutz werden weiterhin als separate Produktkarten neben den anderen Experience Platform-Funktionen angezeigt.
 
-Weitere Informationen zu den neuen Funktionen finden Sie auf den entsprechenden Seiten auf der Experience League:
+Weitere Informationen zu den neuen Funktionen finden Sie auf den entsprechenden Seiten in der Experience League:
 
-* [Datenerfassung](https://experienceleague.adobe.com/docs/analytics/analyze/reports-analytics/reporting-interface/overview-data-collection.html)
+* [Datenerfassung](https://experienceleague.adobe.com/docs/analytics/analyze/reports-analytics/reporting-interface/overview-data-collection.html?lang=de)
 * [Places](https://experienceleague.adobe.com/docs/places/using/home.html?lang=de)
-* [Sicherheit](https://experienceleague.adobe.com/docs/platform-learn/implement-mobile-sdk/app-implementation/assurance.html)
-* [ID-Namespace](https://experienceleague.adobe.com/docs/experience-platform/identity/home.html?lang=de)
+* [Assurance](https://experienceleague.adobe.com/docs/platform-learn/implement-mobile-sdk/app-implementation/assurance.html?lang=de)
+* [Identity-Namespace](https://experienceleague.adobe.com/docs/experience-platform/identity/home.html?lang=de)
 * [Sandboxes](https://experienceleague.adobe.com/docs/experience-platform/sandbox/home.html?lang=de)
 * [Experience-Datenmodell](https://experienceleague.adobe.com/docs/experience-platform/xdm/home.html?lang=de)
 * [Schemas](https://experienceleague.adobe.com/docs/experience-platform/xdm/schema/composition.html?lang=de)
-* [Datenströme](https://experienceleague.adobe.com/docs/experience-platform/edge/datastreams/overview.html?lang=en)
-* [Visitor ID](https://experienceleague.adobe.com/docs/core-services/interface/services/core-services.html?lang=en#section_3C9F6DF37C654D939625BB4D485E4354)
+* [Datenströme](https://experienceleague.adobe.com/docs/experience-platform/edge/datastreams/overview.html?lang=de)
+* [Besucher-ID](https://experienceleague.adobe.com/docs/core-services/interface/services/core-services.html?lang=de#section_3C9F6DF37C654D939625BB4D485E4354)
 * [Datenschutz](https://experienceleague.adobe.com/docs/experience-platform/privacy/home.html?lang=de)
 
 ### Funktionsaktualisierung
