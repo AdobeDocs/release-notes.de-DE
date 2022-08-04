@@ -80,9 +80,9 @@ Die [zentralen Komponenten der Benutzeroberfläche](https://experienceleague.ado
 >
 >Bitte beachten Sie die folgende Benachrichtigung bezüglich der Bereitstellung von Experience Cloud.
 
-Adobe aktualisiert seine Bereitstellung, um allen Experience Cloud-Kunden Zugang zu grundlegenden Funktionen zu bieten, die die Interoperabilität zwischen einigen Experience Cloud-Produkten unterstützen. Benutzende erhalten Adobe Experience Platform als neue Berechtigung zusätzlich zu ihren Experience Cloud-Organisationen, mit [!UICONTROL Datenerfassung] als integrierten Service.
+Adobe aktualisiert seine Bereitstellung, um allen Experience Cloud-Kundinnen und -Kunden Zugang zu grundlegenden Funktionen zu bieten, die die Interoperabilität zwischen einigen Experience Cloud-Produkten unterstützen. Adobe Experience Platform wird als neue Berechtigung den Experience Cloud-Organisationen der Benutzenden hinzugefügt, wobei [!UICONTROL Datenerfassung] als Service enthalten ist.
 
-Die [!UICONTROL Datenerfassung] von Adobe Experience Platform beinhaltet [Tags](https://experienceleague.adobe.com/docs/tags.html?lang=de) für ein vereinfachtes universelles Tag-Management und bietet eine vertrauenswürdige, zuverlässige und vollständige Streaming-Dateninfrastruktur. Tags vereinfachen die Datenerfassung für Kundenerlebnisse und optimieren die Bereitstellung von Erlebnissen.
+Die [!UICONTROL Datenerfassung] von Adobe Experience Platform umfasst [Tags](https://experienceleague.adobe.com/docs/tags.html?lang=de) für ein vereinfachtes universelles Tag-Management und bietet eine zuverlässige, robuste und vollständige Infrastruktur für Streaming-Daten. Tags vereinfachen die Datenerfassung für Kundenerlebnisse und optimieren die Bereitstellung von Erlebnissen.
 
 **Veränderungen in der Admin Console**
 
@@ -99,9 +99,9 @@ Admins können Änderungen oder Ergänzungen der Admin Console wie folgt anzeige
    * Datenströme
    * Besucher-ID
 
-   Für Organisationen, die derzeit nicht Experience Platform verwenden, wird _Adobe Experience Platform_ jetzt in der Admin Console angezeigt, einschließlich der oben aufgeführten Funktionen.
+   Organisationen, die Experience Platform derzeit nicht verwenden, sehen jetzt _Adobe Experience Platform_ in der Admin Console, einschließlich der oben aufgeführten Funktionen.
 
-   Für Unternehmen, die derzeit Experience Platform verwenden, werden nun _Places_ in der Experience Platform-Karte integriert.
+   Für Organisationen, die derzeit Experience Platform verwenden, werden _Places_ jetzt in die Experience Platform-Karte integriert.
 
 * Adobe Experience Platform-Datenerfassung (früher Launch) und Datenschutz werden weiterhin als separate Produktkarten neben den anderen Experience Platform-Funktionen angezeigt.
 
