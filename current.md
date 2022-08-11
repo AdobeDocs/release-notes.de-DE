@@ -6,10 +6,10 @@ last-update: July 2022
 author: mfrei
 mini-toc-levels: 2
 exl-id: bcbdba6a-9e24-4f84-97ca-65c24ef45707
-source-git-commit: 9186a4065d143b7c02fd87b68b960d3f1a7eb5f2
+source-git-commit: 4f563e352d8e35609c0b15b047701ffe53cd6053
 workflow-type: tm+mt
-source-wordcount: '5842'
-ht-degree: 92%
+source-wordcount: '6346'
+ht-degree: 86%
 
 ---
 
@@ -23,7 +23,7 @@ Als Experience Maker beginnt Ihr Weg zum Erfolg mit [Experience League](https://
 >
 >Um monatliche E-Mail-Benachrichtigungen über Aktualisierungen auf dieser Seite zu erhalten, abonnieren Sie das [Adobe Priority Product Update](https://www.adobe.com/subscription/priority-product-update.html). Schauen Sie regelmäßig wieder vorbei, um über die Entwicklung bei Experience League auf dem Laufenden zu bleiben.
 
-Neueste Aktualisierung: **27. Juli 2022**
+Letzte Aktualisierung: **11. August 2022**
 
 * [[!DNL Experience League] -Events](#events)
 * [[!DNL Adobe System Status]](#status)
@@ -41,7 +41,7 @@ Neueste Aktualisierung: **27. Juli 2022**
 * [[!DNL Adobe Journey Optimizer]](#journey-opt)
 * [[!DNL Journey Orchestration]](#journey-orch)
 * [[!DNL Adobe Marketo Engage]](#marketo) (**Aktualisiert am 27. Juli**)
-* [[!DNL Adobe Workfront]](#workfront) (**Aktualisiert am 27. Juli**)
+* [[!DNL Adobe Workfront]](#workfront) (**Aktualisiert am 11. August**)
 * [[!DNL Adobe Advertising Cloud]](#adcloud)
 * [[!DNL Adobe Document Cloud]](#doc-cloud)
 * [[!DNL Adobe Creative Cloud for enterprise]](#creative-cloud)
@@ -478,9 +478,30 @@ Neue Videos, Tutorials oder Kurse, die für Adobe Marketo veröffentlicht wurden
 
 Adobe [!DNL Workfront] ist eine umfassende Software für das Ideenmanagement, die Content-Erstellung und die Verwaltung komplexer Prozesse, die optimales Arbeiten im Team ermöglicht.
 
-**Workfront-Tutorial-Startseite**
+### Neue Adobe Workfront-Kurse und -Tutorials {#tutorials-workfront}
 
-**27. Juli 2022**: Workfronts neue [Tutorial-Startseite auf Experience League](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/home.html?lang=en) für alle Schulungs- und Anleitungsvideos und -artikel.
+Neuer Workfront-Kurs und -Tutorials zur Experience League.
+
+| Veröffentlicht | Name | Typ | Beschreibung |
+| -----------| ---------- | ---------- | ---------- |
+| August 2022 | [Workfront-Tutorials](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/home.html?lang=en) | Tutorial-Startseite | Besuchen Sie die neue Startseite für Workfront-Tutorials zur Experience League. |
+| August 2022 | [Erste Schritte mit Workfront für Systemadministratoren](https://experienceleague.adobe.com/?recommended=Workfront-A-1-2022.1.admin) | Kurs | Lernen Sie die ersten Schritte zum Einrichten von Benutzern und zum Optimieren des Benutzererlebnisses mit Systemeinstellungen kennen. |
+| August 2022 | [Weitere Informationen zu den Systemeinstellungen für Workfront-Administratoren](https://experienceleague.adobe.com/?recommended=Workfront-A-1-2022.2.admin) | Kurs | Erfahren Sie mehr über die Systemeinstellungen, um das Benutzererlebnis zu verbessern, einschließlich Benutzerorganisation, benutzerdefinierten Formularen, Genehmigungsprozessen und Meilensteinen sowie Layoutvorlagen. |
+| August 2022 | [Erste Schritte mit Workfront für Planer](https://experienceleague.adobe.com/?recommended=Workfront-U-1-2022.1.planners) | Kurs | Beginnen Sie Ihre Workfront-Journey, indem Sie lernen, Projekte zu erstellen und zu planen. Workfront empfiehlt, die Dinge einfach zu halten. |
+| August 2022 | [Projekt verwalten und schließen](https://experienceleague.adobe.com/?recommended=Workfront-U-1-2022.2.planners) | Kurs | Nachdem Sie nun gelernt haben, Projekte zu erstellen und zu planen, können wir sie verwalten und schließen. |
+| August 2022 | [Weitere Kenntnisse über das Management von Arbeit als Planer ](https://experienceleague.adobe.com/?recommended=Workfront-U-1-2022.3.planners) | Kurs | Sobald Sie die Grundlagen der Projekterstellung, -planung und -verwaltung gelernt haben, sollten Sie mehr wissen, um Workfront optimal zu nutzen. |
+| August 2022 | [Erste Schritte mit Workfront für Arbeitnehmer](https://experienceleague.adobe.com/?recommended=Workfront-U-1-2022.1.workers) | Kurs | Dieser Kurs richtet sich an Benutzer mit einer Work-Lizenz in Adobe Workfront, die Arbeit oder Anfragen erhalten und mit Teams an Projekten und Dokumenten zusammenarbeiten. |
+| August 2022 | [Adobe Workfront für Mitwirkende](https://experienceleague.adobe.com/?recommended=Workfront-U-1-2022.1.collaborators) | Kurs | Erfahren Sie, wie Sie mit einer Review- oder Anforderungslizenz Aufgaben, Dokumente und Testsendungen im neuen Workfront-Erlebnis einfach anfordern, überprüfen und mit ihnen zusammenarbeiten können. |
+| August 2022 | [Erstellen und Verwalten benutzerdefinierter Formulare](https://experienceleague.adobe.com/?recommended=Workfront-A-1-2022.1.customforms) | Kurs | Erfassen Sie die eindeutigen Informationen Ihres Unternehmens, indem Sie benutzerdefinierte Felder in Ihrem System erstellen. Erfahren Sie, wie Sie benutzerdefinierte Formulare in Workfront erstellen, freigeben und anhängen können. |
+| August 2022 | [Workfront-Testversand - Verwaltung und Einrichtung](https://experienceleague.adobe.com/?recommended=Workfront-A-1-2022.3.proof) | Kurs | Hier erfahren Sie, wie Sie Testversand-Einstellungen anpassen, Aktionen und Berichte anpassen und Testversand-Workflows einrichten. |
+| August 2022 | [Workfront Testversand - Testsendungen hochladen](https://experienceleague.adobe.com/?recommended=Workfront-U-1-2022.2.proof) | Kurs | Hier erfahren Sie, wie Sie Testsendungen zur Überprüfung und Genehmigung hochladen. |
+| August 2022 | [Workfront-Testversand - Überprüfung und Genehmigung der Arbeit](https://experienceleague.adobe.com/?recommended=Workfront-L-1-2022.1.proof) | Kurs | Erfahren Sie, wie Sie Workfront Testversand als Validierer oder Genehmiger verwenden können. |
+| August 2022 | [Grundlegende Berichterstellungselemente](https://experienceleague.adobe.com/?recommended=Workfront-U-1-2022.1.reporting) | Kurs | Berichtselemente sind die Filter, Ansichten und Gruppierungen, die in allen Listenberichten in Workfront zu finden sind. Diese Informationen helfen Ihnen beim Erstellen benutzerdefinierter Berichte und Kalender. |
+| August 2022 | [Benutzerdefinierten Kalender erstellen](https://experienceleague.adobe.com/?recommended=Workfront-U-1-2022.4.reporting) | Kurs | Mit einem benutzerdefinierten Kalender können Sie Daten und Informationen direkt aus Projekten, Aufgaben und Problemen in einem Kalenderformat anzeigen. |
+| August 2022 | [Benutzerdefinierte Berichte und Dashboards erstellen](https://experienceleague.adobe.com/?recommended=Workfront-U-1-2022.3.reporting) | Kurs | Berichte sind die Fenster in Ihren Daten. Erfahren Sie, wie Sie in Workfront drei verschiedene Berichtstypen erstellen und in Dashboards verwenden. |
+| August 2022 | [Erstellen von Zwischenfiltern](https://experienceleague.adobe.com/?recommended=Workfront-U-1-2022.2.reporting) | Kurs | Verschaffen Sie sich ein besseres Verständnis von Platzhaltern, ODER Filtern und Textmodus. Öffnen Sie integrierte Projekt-, Aufgaben- und Problemfilter und gehen Sie in die Details dessen, was wirklich passiert. |
+
+{style=&quot;table-layout:auto&quot;}
 
 Auf der Seite zu den Versionen von [[!DNL Workfront] ](https://one.workfront.com/s/product-releases) finden Sie eine Zusammenfassung der aktuellsten Informationen zu allen Produkten.
 
