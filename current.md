@@ -9,7 +9,7 @@ exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
 source-git-commit: b2912a6f4a778785d021f6ab2bedcdc0d98dd208
 workflow-type: tm+mt
 source-wordcount: '4152'
-ht-degree: 96%
+ht-degree: 99%
 
 ---
 
@@ -57,7 +57,7 @@ Aktualisiert am **10. August 2022**
 
 | Event | Typ | Beschreibung |
 | -----------|---------- | ----|
-| [Adobe Analytics](https://engage.adobe.com/NA_FY22_Q3_WBR_Adobe_Analytics_Data_Validation.html?lang=de) | Webinar | _Die Erfolge von morgen vorantreiben: Datenqualität und -übernahme_ – Nehmen Sie an diesem Live-Webinar mit den Adobe Analytics-Champions Frederik Werner und Sarah Owen teil, um zu erfahren, wie Sie Datenqualität in alle Aspekte der Analyse integrieren und eine gemeinsame Kultur dafür schaffen können.<p>**Datum:** 25. August um 11:00 Uhr ET – [Details und Registrierung](https://engage.adobe.com/NA_FY22_Q3_WBR_Adobe_Analytics_Data_Validation.html) |
+| [Adobe Analytics](https://engage.adobe.com/NA_FY22_Q3_WBR_Adobe_Analytics_Data_Validation.html) | Webinar | _Die Erfolge von morgen vorantreiben: Datenqualität und -übernahme_ – Nehmen Sie an diesem Live-Webinar mit den Adobe Analytics-Champions Frederik Werner und Sarah Owen teil, um zu erfahren, wie Sie Datenqualität in alle Aspekte der Analyse integrieren und eine gemeinsame Kultur dafür schaffen können.<p>**Datum:** 25. August um 11:00 Uhr ET – [Details und Registrierung](https://engage.adobe.com/NA_FY22_Q3_WBR_Adobe_Analytics_Data_Validation.html) |
 | [Experience Makers Live](https://business.adobe.com/events/experience-makers-live.html?lang=de) | Webinar | Ein kostenloses Ereignis für Experience Maker mit Keynotes von Sara Blakely, Peyton Manning und Eli Manning.<p>**Datum:** 13. bis 14. September – [Details und Anmeldung](https://business.adobe.com/events/experience-makers-live.html) |
 
 {style=&quot;table-layout:auto&quot;}
@@ -167,7 +167,7 @@ Sehen Sie sich das [Übersichtsvideo zur Version Juli 2022](https://video.tv.ado
 _Neue Funktionen_
 
 * Die [Inhaltsfragment-Konsole](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/sites/administering/content-fragments/content-fragments-console.html?lang=de) unterstützt jetzt [Tastaturkürzel](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/sites/administering/content-fragments/content-fragments-console-keyboard-shortcuts.html?lang=de).
-* Experience Manager as a Cloud Service&#39;s [Web-optimierte Bildbereitstellung](https://experienceleague.adobe.com/docs/experience-manager-core-components/using/developing/web-optimized-image-delivery.html?lang=de) die Seitengeschwindigkeit durch die Bereitstellung von Formaten wie WebP erheblich verbessert. Dieser neue Service bietet außerdem flexiblere Optionen zur Größenanpassung und Umwandlung von Bildern. Alle Versionen der [Kernbildkomponente](https://experienceleague.adobe.com/docs/experience-manager-core-components/using/components/image.html?lang=de) nutzen diesen Service und ermöglichen es Ihnen, Bilder in WebP zu liefern, indem Sie eine Option in der Richtlinie der Bildkomponente auswählen.
+* Die [Web-optimierte Bildbereitstellung](https://experienceleague.adobe.com/docs/experience-manager-core-components/using/developing/web-optimized-image-delivery.html?lang=de) von Experience Manager as a Cloud Service verbessert die Seitengeschwindigkeit durch die Bereitstellung von Formaten wie WebP erheblich. Dieser neue Service bietet außerdem flexiblere Optionen zur Größenanpassung und Umwandlung von Bildern. Alle Versionen der [Kernbildkomponente](https://experienceleague.adobe.com/docs/experience-manager-core-components/using/components/image.html?lang=de) nutzen diesen Service und ermöglichen es Ihnen, Bilder in WebP zu liefern, indem Sie eine Option in der Richtlinie der Bildkomponente auswählen.
 * In den Personalisierungsaktivitäten von Experience Manager können jetzt Erlebnisfragmente anstelle der bisherigen Angebote verwendet werden. Mit dieser Funktion können Sie Folgendes durchführen:
    * Ermöglicht einen Migrationspfad, bei dem Experience Manager-Inhalte Experience Fragment-Angebote anstelle der veralteten Bibliotheksangebote fördern, um entsprechend gestaltete Inhalte bereitzustellen, die mit der künftigen Personalisierung in Einklang stehen.
    * Verhindert, dass Autoren von Inhalten versehentlich unformatierte Inhalte auf ihrer Website anbieten.
@@ -191,7 +191,7 @@ _Neue Funktionen im Vorabversionskanal_
 
 * **Aufrufen – Ein Experience Manager-Workflow-Schritt** – DDX (Document Description XML) ist eine deklarative Markup-Sprache, deren Elemente Bausteine von Dokumenten darstellen. Zu diesen Bausteinen gehören PDF- und XDP-Dokumente sowie andere Elemente wie Kommentare, Lesezeichen und formatierter Text. DDX-Dokumente sind Vorlagen für die Dokumente und beschreiben die gewünschten Eigenschaften von Quelldokumenten, die in den Zieldokumenten angezeigt werden sollen. Ein einzelnes DDX kann mit einer Reihe von Quelldokumenten verwendet werden. Sie können den Schritt zum Aufrufen eines Experience Manager-Workflows verwenden, um verschiedene Vorgänge auszuführen, z. B. das Zusammenstellen von Dokumenten, das Erstellen und Ändern von Acrobat- und XFA-Formularen und andere Vorgänge, die in der Dokumentation zur [DDX-Referenz](https://helpx.adobe.com/content/dam/help/en/experience-manager/forms-cloud-service/ddxRef.pdf) beschrieben sind.
 
-* **Nach PDF/A konvertieren - Ein Experience Manager-Workflow-Schritt** - PDF/A ist ein Archivierungsformat für die Langzeitarchivierung des Dokumentinhalts, alle Schriftarten werden eingebettet und die Datei ist unkomprimiert. Jetzt können Sie den Schritt „Nach PDF/A konvertieren“ in einem AEM-Workflow verwenden, um Ihre Dokumente oder Dateien in jedem Format in das PDF/A-Format zu konvertieren.
+* **Nach PDF/A konvertieren – Ein Workflow-Schritt in Experience Manager** – PDF/A ist ein Archivierungsformat für die Langzeitarchivierung des Dokumentinhalts, bei dem alle Schriften eingebettet sind und die Datei unkomprimiert ist. Jetzt können Sie den Schritt „Nach PDF/A konvertieren“ in einem AEM-Workflow verwenden, um Ihre Dokumente oder Dateien in jedem Format in das PDF/A-Format zu konvertieren.
 
 ### Experience Manager as a Cloud Service Foundation
 
@@ -225,9 +225,9 @@ _Neue Funktion_
 
 ### Community
 
-* [Update der Version 2022.7.0](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-manager-blogs/aem-as-a-cloud-service-2022-7-0-release-update/ba-p/540062#M546) von Experience Manager as a Cloud Service.
-* Endlich! Alle Experience Manager-Inhalte, die Sie brauchen, an einem Ort in der [Experience Manager-Community](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-manager-blogs/finally-all-the-aem-content-you-need-all-in-one-place-on-aem/ba-p/460583)!
-* Adobe Experience Manager [Community Lens 1st Edition](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-manager-blogs/adobe-experience-manager-community-lens-1st-edition-august-2022/ba-p/538960), August 2022.
+* [Update der Version 2022.7.0](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-manager-blogs/aem-as-a-cloud-service-2022-7-0-release-update/ba-p/540062?profile.language=de#M546) von Experience Manager as a Cloud Service.
+* Endlich! Alle Experience Manager-Inhalte, die Sie brauchen, an einem Ort in der [Experience Manager-Community](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-manager-blogs/finally-all-the-aem-content-you-need-all-in-one-place-on-aem/ba-p/460583?profile.language=de)!
+* Adobe Experience Manager [Community Lens 1st Edition](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-manager-blogs/adobe-experience-manager-community-lens-1st-edition-august-2022/ba-p/538960?profile.language=de), August 2022.
 
 ### Neue Experience Manager-Kurse und -Tutorials {#tutorials-aem}
 
@@ -236,8 +236,8 @@ Nachfolgend sind die im vergangenen Monat neu veröffentlichten Videos, Tutorial
 | Veröffentlicht | Name | Typ | Beschreibung | Programme |
 | -----------| ---------- | ---------- | ---------- | ------|
 | August 2022 | [Update der Version 2022.7.0 von AEM as a Cloud Service](https://experienceleague.adobe.com/docs/experience-manager-release-overview-events/aemcsupdates/2022/2022-7-0.html?lang=de). | Video | Erfahren Sie vom AEM-Produkt-Team mehr über die Funktionen und Innovationen der neuesten Version von Adobe Experience Manager Assets, Assets Essentials, Sites, Commerce Integration Framework, Forms und Cloud Manager. | AEM as a Cloud Service |
-| August 2022 | [AEM Headless-Tutorials](https://experienceleague.adobe.com/docs/experience-manager-learn/getting-started-with-aem-headless/overview.html?lang=de) | Aktualisierte Artikel | AEM Headless-SDK-Tutorials wurden aktualisiert, um persistente Abfragen und WKND 2.0 zu verwenden. Verwenden Sie praxisorientierte Tutorials, um zu untersuchen, wie Sie die verschiedenen Optionen verwenden und auswählen können, was für Sie geeignet ist. | AEM as a Cloud Service |
-| August 2022 | [Integrationen von AEM as a Cloud Service mit Adobe Experience Cloud](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/integrations.html?lang=de) | Video | Erfahren Sie mehr über AEM von as a Cloud Service unterstützten Integrationen mit anderen Adobe Experience Cloud-Produkten. | AEM CS, Experience Cloud |
+| August 2022 | [AEM Headless-Tutorials](https://experienceleague.adobe.com/docs/experience-manager-learn/getting-started-with-aem-headless/overview.html?lang=de) | Aktualisierte Artikel | Die AEM Headless-SDK-Tutorials wurden aktualisiert, um persistente Abfragen und WKND 2.0 zu verwenden. Nutzen Sie die praktischen Tutorials, um die Verwendung der verschiedenen Optionen zu erkunden und das Richtige für Sie auszuwählen. | AEM as a Cloud Service |
+| August 2022 | [Integrationen von AEM as a Cloud Service mit Adobe Experience Cloud](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/integrations.html?lang=de) | Video | Erfahren Sie mehr über die von AEM as a Cloud Service unterstützten Integrationen mit anderen Adobe Experience Cloud-Produkten. | AEM CS, Experience Cloud |
 | August 2022 | [Forms CS und Microsoft® Power Automated](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/forms/forms-cs-and-power-automate/integrate-formscs-power-automate.html?lang=de) | Video | Rufen Sie Ihre automatisierten Abläufe bei der Übermittlung eines adaptiven Formulars auf. | AEM Forms |
 
 {style=&quot;table-layout:auto&quot;}
@@ -492,7 +492,7 @@ Neue Tutorials oder Kurse, die für Adobe Document Cloud veröffentlicht wurden.
 | August 2022 | [Neues Workspace-Erlebnis](https://experienceleague.adobe.com/docs/document-cloud-learn/acrobat-learning/getting-started/new-workspace.html?lang=de) | Video | Erfahren Sie mehr über das neue Workspace-Erlebnis, das Sie in Acrobat aktivieren können, damit Sie nahtlos zwischen Tools und Dateien wechseln können. | Adobe Acrobat |
 | August 2022 | [Einrichten von Online-Zahlungen](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/advanced-tasks/advanced-tasks-sending/set-up-online-payments.html?lang=de) | Video | Erfahren Sie, wie Sie Online-Zahlungen in Ihren Dokumenten einrichten und akzeptieren. | Acrobat Sign |
 | August 2022 | [Unterschreiben mit einem Stempel](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/getting-started/getting-started-signing/sign-with-a-stamp.html?lang=de) | Video | Erfahren Sie, wie Sie in einem Signatur-Workflow Stempel verwenden können, um ein Dokument zu kennzeichnen, das genehmigt oder abgeschlossen ist. | Acrobat Sign |
-| August 2022 | [Einholen einer persönlichen Unterschrift](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/getting-started/getting-started-signing/sign-in-person.html?lang=de) | Video | Erfahren Sie, wie Sie die Unterschrift einer anderen Person mithilfe des [Mobile App Acrobat Sign](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/mobile/mobile-overview.html?lang=de). | Acrobat Sign |
+| August 2022 | [Einholen einer persönlichen Unterschrift](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/getting-started/getting-started-signing/sign-in-person.html?lang=de) | Video | Erfahren Sie, wie Sie die Unterschrift einer anderen Person mit der [Mobile App Acrobat Sign](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/mobile/mobile-overview.html?lang=de) persönlich einholen können. | Acrobat Sign |
 
 {style=&quot;table-layout:auto&quot;}
 
