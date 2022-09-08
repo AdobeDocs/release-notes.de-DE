@@ -6,10 +6,10 @@ last-update: August 2022
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: b2912a6f4a778785d021f6ab2bedcdc0d98dd208
-workflow-type: ht
-source-wordcount: '4152'
-ht-degree: 100%
+source-git-commit: f7f34c0454a5d936c88b1c49594902234febadb0
+workflow-type: tm+mt
+source-wordcount: '5112'
+ht-degree: 79%
 
 ---
 
@@ -23,9 +23,9 @@ Als Experience Maker beginnt Ihr Weg zum Erfolg mit [Experience League](https://
 >
 >Um monatliche E-Mail-Benachrichtigungen über Aktualisierungen auf dieser Seite zu erhalten, abonnieren Sie das [Adobe Priority Product Update](https://www.adobe.com/subscription/priority-product-update.html). Schauen Sie regelmäßig wieder vorbei, um über die Entwicklung bei Experience League auf dem Laufenden zu bleiben.
 
-Letzte Aktualisierung: **23. August 2022**
+Letzte Aktualisierung: **7. September 2022**
 
-* [[!DNL Experience League] -Events](#events)
+* [[!DNL Experience League] events](#events) (aktualisiert) **7. September**)
 * [[!DNL Adobe System Status]](#status)
 * [Experience Cloud – Zentrale Komponenten der Benutzeroberfläche und Verwaltung](#ecloud)
 * [[!DNL Adobe Experience Platform]](#platform)
@@ -53,16 +53,28 @@ Benötigen Sie Hilfe? Besuchen Sie die [Experience League](https://experiencelea
 
 Experience League-Events sind ideal, um zu lernen, Kontakte zu knüpfen und von Adobe-Produktexperten Antworten auf Fragen zu erhalten! Siehe [Events](https://experienceleague.adobe.com/events/?lang=de) in Experience League, um mehr über die Neuerungen vom Juli 2022 zu erfahren.
 
-Aktualisiert am **10. August 2022**
+Aktualisiert **7. September 2022**
 
-| Event | Typ | Beschreibung |
+| Produkt-/Ereignisname | Typ | Beschreibung |
 | -----------|---------- | ----|
-| [Adobe Analytics](https://engage.adobe.com/NA_FY22_Q3_WBR_Adobe_Analytics_Data_Validation.html) | Webinar | _Die Erfolge von morgen vorantreiben: Datenqualität und -übernahme_ – Nehmen Sie an diesem Live-Webinar mit den Adobe Analytics-Champions Frederik Werner und Sarah Owen teil, um zu erfahren, wie Sie Datenqualität in alle Aspekte der Analyse integrieren und eine gemeinsame Kultur dafür schaffen können.<p>**Datum:** 25. August um 11:00 Uhr ET – [Details und Registrierung](https://engage.adobe.com/NA_FY22_Q3_WBR_Adobe_Analytics_Data_Validation.html) |
-| [Experience Makers Live](https://business.adobe.com/events/experience-makers-live.html?lang=de) | Webinar | Ein kostenloses Ereignis für Experience Maker mit Keynotes von Sara Blakely, Peyton Manning und Eli Manning.<p>**Datum:** 13. bis 14. September – [Details und Anmeldung](https://business.adobe.com/events/experience-makers-live.html?lang=de) |
+| **[!DNL Adobe Analytics]** | Webinar | _Experience Maker - der Qualifikationsaustausch_ - Treten Sie uns für unsere Adobe bei [!DNL Analytics] Edition, in der Experten Ihnen die Insider-Scoop zur Adobe geben [!DNL Analytics]. <p>**Datum:** 8. September um 9:00 Uhr PT - [Details und Registrierung](https://events.bizzabo.com/411737?promo=ExperienceLeague&amp;tr=true) |
+| **[!DNL Adobe Workfront]** | workshop | Suchen nach einer Möglichkeit, mit anderen Kunden in Kontakt zu treten und diskutieren [!DNL Workfront] Funktionen? Treten Sie unserer CS Connections-Serie bei! Eine monatliche Gelegenheit, mit anderen Kunden in Kontakt zu treten, um die heiklen Themen Ihres Unternehmens zu besprechen.<p>>**Datum:** 12. September um 7:00 Uhr MT [Details und Registrierung](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,mjTFCSLTbkuVKavNdopApA,dndSyq-qPkqd5A929WkXkw,frxd5xOTA0WDD-QNQbG9Ww,N0rLVNiX1EKbZDmYfMbfKg,mwypq4e8M0qTYr1PjHWlgg?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1) |
+| **[!DNL Experience Cloud]** | Webinar | _Experience Maker Live_ - Ein kostenloses Event mit Keynotes von Sara Blakely, Peyton Manning und Eli Manning.<p>**Datum:** 13. bis 14. September – [Details und Anmeldung](https://business.adobe.com/events/experience-makers-live.html?lang=de) |
+| **[!DNL Adobe Workfront]** | workshop | Workflow-Diagramm - Schließen Sie sich dem Customer Success Team an, um eine Live-Diskussion und eine exemplarische Anleitung zu Workflow-Diagrammen - von der Aufnahme bis zur Fertigstellung - zu erhalten und zu verstehen, wie eine solide Grundlage für effektive Arbeitsmanagementpraktiken geschaffen werden kann. <p>**Datum:** 20. bis . September – [Details und Anmeldung](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,hKbbhANIJ0GUZ80-hyYRPQ,eHZZsesEKEW-f54PGw4z9w,8IgA8CD5yEyKFei9pwlDJA,iACjdG_hK0m1uoTTaMinZA,TEaHrWBF3USQb49XCqymTg?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1) |
+| **[!DNL Adobe Campaign]** (Classic und Standard) | Webinar | Die Weihnachtszeit, die Spitzensaison und die geschäftigste Jahreszeit für Cross-Channel-Marketer stehen kurz vor der Tür. Die Planung sollte gut laufen. Diese [!DNL Adobe Campaign] In der Insider-Sitzung werden Themen behandelt, die Ihnen bei der Zustellbarkeit von E-Mails helfen. [!DNL Adobe Campaign] Leistungsoptimierung sowie Best Practices für Workflows und Sendungen, um sicherzustellen, dass Ihre Instanz für Spitzenaktivität geeignet ist.<p>**Datum:** 15. September um 8:00 Uhr PT [Details und Registrierung](https://adobe-campaign-insider.dxfieldmarketing.adobeevents.com/) |
+| **[!DNL Adobe Workfront]** | Webinar | _Systemadministratorgrundlagen: Erste Schritte mit Resource Management_ - Verwendung von Adobe [!DNL Workfront] Ihre Ressourcen zu verwalten ist das DREAM - das Wissen über die zu erledigende Arbeit, welche Ressourcen Sie aufrufen können und die Zuweisung dieser Ressourcen auf Grundlage ihrer Verfügbarkeit. Kommen Sie zu uns, um zu erfahren, wie.<p>**Datum:** 21. September um 8:00 Uhr Großbritannien [Details und Registrierung](https://webinars.on24.com/adobe_workfront/AdminEssentialsRM?partnerref=exl) |
+| **[!DNL Adobe Workfront]** | workshop | _Wertschöpfungsreihe: Vorgehensweise für Projektvorlagen_ - Treten Sie uns bei der Diskussion über [!UICONTROL Projektvorlagen] und die verschiedenen Arten, wie sie einen Mehrwert schaffen und die Effizienz von Unternehmen steigern. Wir werden verschiedene Konzepte zur Strukturierung von Vorlagen zur Unterstützung Ihrer Projekte entwickeln - nach Kampagne, nach Lieferumfang usw. Wir werden einige Favoriten vorstellen und unsere neuesten Blueprints durchgehen. <p>**Datum:** 21. September um 12:30 Uhr MT [Details und Registrierung](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,mjTFCSLTbkuVKavNdopApA,dndSyq-qPkqd5A929WkXkw,fir0yEdzREq77VYkVxk2kw,W3nJ9w4q-U69PVqUTk7D6Q,zs6GtWtgRkyikfMUMzBEmw?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1) |
+| **[!DNL Adobe Workfront]** | workshop | _10 Tipps zur Kommunikation, um Sie und Ihre Benutzer auf dem Laufenden zu halten_ - Effektive Kommunikation ist ein integraler Bestandteil von Ihnen, Ihren Anwendern und letztendlich auch dem Unternehmenserfolg. Dieser Workshop bietet zehn Tipps - sowohl für als auch für [!DNL Workfront] - Förderung von Leistung, Produktivität und Verringerung des Risikos unnötiger Probleme. <p>**Datum:** 22. September um 19:00 Uhr MT [Details und Registrierung](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,PiX3iDTmREqs2eOICcUIoA,5KJVGb6S_Uiiki7ErNALgw,Jcg3aU0zf0uG9pB-_vmCUg,pdnZcB-mqk2_nMKUQEQnsA,xYRXQWa6OU6_tvNTp_vuFQ?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1) |
+| **[!DNL Adobe Campaign Classic]** und **[!DNL Adobe Campaign Standard]** | workshop | _Community-Fragen und -Kaffeepause_ - Treten Sie Tamara Wulf und Earl Ross bei, um über Ihre Fragen zu den Themen zu sprechen, die im [!DNL Adobe Campaign] Insider-Webinar auf _Checkliste für den Erfolg während der Feiertage und Spitzenzeiten_. <p>**Datum:** 22. September um 20:00 Uhr MT [Details und Registrierung](https://adobe.ly/3KHrGpl) |
+| **[!DNL Adobe Workfront]** | workshop | _Driving Adoption mit Dashboards: Planer_ - Treten Sie dem Customer Success-Team bei, während wir die neue Dashboard-Reihe basierend auf der [!DNL Adobe Workfront] persona. Diese Sitzung konzentriert sich auf Ihre Planer, die häufig in der Projekt- oder Initiativverwaltungsrolle tätig sind. Erfahren Sie, wie Sie einen proaktiven, teamorientierten Raum für Aktivitätsbewusstsein und Verantwortlichkeit aufbauen. <p>**Datum:** 27. September um 9:00 Uhr MT [Details und Registrierung](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,hKbbhANIJ0GUZ80-hyYRPQ,eHZZsesEKEW-f54PGw4z9w,Y1He1usOwUaIvlln-RiUCw,PbQY6cwRBkiHr0Uxk8YBow,2QMMEWx0e0C65kbQ1d4cIA?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1) |
+| **[!DNL Adobe Workfront]** | workshop | _Wertschöpfungsreihe: Roadmapping Ihrer Workfront-Journey_ - Wie geht es weiter auf Ihrem Workfront-Journey?  Nehmen Sie an uns teil, um zu besprechen, wie Sie Ihre eigene Roadmap für Adobe Workfront in Ihrem Unternehmen erstellen können. Wir werden einige Ideen zu unseren Lieblingsmeilensteinen, die Sie in Ihre Roadmap aufnehmen können, sowie zu unseren Erfahrungen als ehemalige Systemadministratoren austauschen.<p>**Datum:** 4. Oktober um 12:30 Uhr MT [Details und Registrierung](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,mjTFCSLTbkuVKavNdopApA,dndSyq-qPkqd5A929WkXkw,Bx3LyyABjkC6f0LfiHlHgw,F_Tenijn5UulPjqprok8eg,7lni6LpvlEWagR1OIDfosA?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1) |
+| **[!DNL Adobe Workfront]** | workshop | _CS-Verbindungen: Strategische Best Practices für die Freigabe_ - Suchen Sie eine Möglichkeit, mit anderen Kunden in Kontakt zu treten und Workfront-Funktionen zu besprechen? Treten Sie unserer CS Connections-Serie bei!  Eine monatliche Gelegenheit, mit anderen Kunden in Kontakt zu treten, um die heiklen Themen Ihres Unternehmens zu besprechen. Wir werden gemeinsam mit Sys-Administratoren Ideen entwickeln, um Herausforderungen zu lösen, Ideen auszutauschen und Best Practices zu besprechen. <p>**Datum:** 10. Oktober um 7:00 Uhr MT [Details und Registrierung](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,mjTFCSLTbkuVKavNdopApA,dndSyq-qPkqd5A929WkXkw,gw8sK1IYp0qugO85lvn9HA,1hAkk731fE2cuzI1JCe2Aw,Lox5X4bDSUC_HaF3SDUy7A?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1) |
+| **[!DNL Adobe Workfront]** | workshop | _Driving Adoption with User Management_ - Beginnen Sie mit Workfront und möchten Sie sich mit den Einrichtungsfunktionen für Ihre Endbenutzer vertraut machen? Treten Sie dem Customer Success-Team bei, während wir praktische Beispiele für Berichte und Dashboards überprüfen, um sowohl eine Grundlage für eine erfolgreiche Benutzerverwaltung zu schaffen als auch ein nützliches, informatives Endbenutzererlebnis zu schaffen.<p>**Datum:** 18. Oktober um 9:00 Uhr MT [Details und Registrierung](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,hKbbhANIJ0GUZ80-hyYRPQ,eHZZsesEKEW-f54PGw4z9w,lJV3sMGDTE2CpLxcuzZQXg,KGHthDBZ80q9JJ-wzHyqBQ,mY-6BCClJkmc_bRvqGebtQ?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1) |
+| **[!DNL Adobe Workfront]** | workshop | _Adoption-Serie: Workfront Spaß machen (vorne)!_ Benötigen Sie Ideen zur Adoption? Wir haben sie! Unser Team hat die Höhen und Tiefen der Benutzerakzeptanz durchgemacht und sich auf den Spaß zu konzentrieren, ist der Schlüssel zum Erfolg. Wir unterhalten einige Dinge, die für uns funktionierten, und geben viel Zeit für eine offene Diskussion, um Ideen mit anderen Kunden zu teilen.<p>**Datum:** 20. Oktober um 12:30 Uhr MT [Details und Registrierung](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,mjTFCSLTbkuVKavNdopApA,dndSyq-qPkqd5A929WkXkw,0qiSuEYEcUSxTibSYXD-jA,8QGOKlkyJE25EiBggDF6Ng,WmVegsyV2E6ZDPSMCifdVw?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1) |
 
 {style=&quot;table-layout:auto&quot;}
 
-Siehe [Events](https://experienceleague.adobe.com/events/?lang=de) in Experience League, um über bevorstehende Ereignisse und frühere Folgen auf dem Laufenden zu bleiben.
+Siehe [Events](https://experienceleague.adobe.com/events/?lang=en) in Experience League, um über bevorstehende Ereignisse und frühere Folgen auf dem Laufenden zu bleiben.
 
 ## ![Symbol](/assets/system-status.png) [!DNL Adobe System Status] {#status}
 
@@ -266,7 +278,7 @@ Die nachfolgend aufgeführten Seiten umfassen alle Versionshinweise zu Experienc
 * [Experience Manager 6.4 – Training und Support, Startseite](https://experienceleague.adobe.com/docs/experience-manager-64.html?lang=de)
 * [Experience Manager 6.3 – Training und Support, Startseite](https://experienceleague.adobe.com/docs/experience-manager-release-information/aem-release-updates/previous-updates/aem-previous-versions.html?lang=de)
 * [Experience Manager 6.2 – Training und Support, Startseite](https://experienceleague.adobe.com/docs/experience-manager-release-information/aem-release-updates/previous-updates/aem-previous-versions.html?lang=de#previous-updates)
-* [Ältere Versionen der Dokumentation zu Experience Manager](https://experienceleague.adobe.com/docs/experience-manager-release-information/aem-release-updates/previous-updates/aem-previous-versions.html?lang=de#previous-updates)
+* [Ältere Versionen der Dokumentation zu Experience Manager](https://experienceleague.adobe.com/docs/experience-manager-release-information/aem-release-updates/previous-updates/aem-previous-versions.html?lang=en#previous-updates)
 * [Startseite der Hilfe zu Dynamic Media Classic](https://experienceleague.adobe.com/docs/dynamic-media-classic/using/home.html?lang=de)
 * [Experience Manager-Dokumentation: Neueste Aktualisierungen](https://experienceleague.adobe.com/docs/experience-manager-release-information/aem-release-updates/doc-updates/documentation-updates.html?lang=de#aem-as-a-cloud-service)
 
@@ -343,9 +355,9 @@ New videos, tutorials, or courses published for Adobe Campaign.
 ### Hilferessourcen für Campaign
 
 * Adobe Campaign Version 8: [Dokumentation](https://experienceleague.adobe.com/docs/campaign/campaign-v8/campaign-home.html?lang=de) – [Versionshinweise](https://experienceleague.adobe.com/docs/campaign/campaign-v8/new/whats-new.html?lang=de) – [Implementierungshandbücher](https://experienceleague.adobe.com/docs/campaign/campaign-v8/implement/implement.html?lang=de)
-* Adobe Campaign Standard: [Campaign Standard – Dokumentation](https://experienceleague.adobe.com/docs/campaign-standard/using/campaign-standard-home.html?lang=de) – [Versionshinweise](https://experienceleague.adobe.com/docs/campaign-standard/using/release-notes/release-notes.html?lang=de) – [Anleitungsvideos](https://experienceleague.adobe.com/docs/campaign-standard-learn/tutorials/overview.html?lang=de) – [Versionsplanung](https://experienceleague.adobe.com/docs/campaign-standard/using/release-notes/release-planning.html?lang=de) – [Neueste Aktualisierungen der Dokumentation](https://experienceleague.adobe.com/docs/campaign-standard/using/documentation-updates.html?lang=de)
+* Adobe Campaign Standard: [Campaign Standard – Dokumentation](https://experienceleague.adobe.com/docs/campaign-standard/using/campaign-standard-home.html?lang=de) – [Versionshinweise](https://experienceleague.adobe.com/docs/campaign-standard/using/release-notes/release-notes.html) – [Anleitungsvideos](https://experienceleague.adobe.com/docs/campaign-standard-learn/tutorials/overview.html?lang=de) – [Versionsplanung](https://experienceleague.adobe.com/docs/campaign-standard/using/release-notes/release-planning.html?lang=de) – [Neueste Aktualisierungen der Dokumentation](https://experienceleague.adobe.com/docs/campaign-standard/using/documentation-updates.html?lang=de)
 * Adobe Campaign Classic: [Campaign Classic v7 – Dokumentation](https://experienceleague.adobe.com/docs/campaign-classic/using/campaign-classic-home.html?lang=de) – [Versionshinweise](https://experienceleague.adobe.com/docs/campaign-classic/using/release-notes/latest-release.html?lang=de) – [Anleitungsvideos](https://experienceleague.adobe.com/docs/campaign-classic-learn/tutorials/overview.html?lang=de) – [Neueste Aktualisierungen der Dokumentation](https://experienceleague.adobe.com/docs/campaign-classic/using/documentation-updates.html?lang=de)
-* Control Panel von Adobe Campaign: [Dokumentation](https://experienceleague.adobe.com/docs/control-panel/using/control-panel-home.html?lang=de) – [Versionshinweise](https://experienceleague.adobe.com/docs/control-panel/using/release-notes/release-notes.html?lang=de)     - Anleitungsvideos für [Anleitungsvideos](https://experienceleague.adobe.com/docs/control-panel-learn/control-panel/control-panel-overview.html?lang=de)
+* Control Panel von Adobe Campaign: [Dokumentation](https://experienceleague.adobe.com/docs/control-panel/using/control-panel-home.html?lang=de) – [Versionshinweise](https://experienceleague.adobe.com/docs/control-panel/using/release-notes/release-notes.html?lang=en)     - Anleitungsvideos für [Anleitungsvideos](https://experienceleague.adobe.com/docs/control-panel-learn/control-panel/control-panel-overview.html?lang=de)
 
 ## ![Symbol](/assets/experience_platform_appicon_24.png) Adobe Journey Optimizer {#journey-opt}
 
@@ -370,7 +382,7 @@ New videos, tutorials, or courses published for Adobe Journey Optimizer.
 ### Weitere Ressourcen zu [!DNL Journey Optimizer]
 
 * [Dokumentation zu Journey Optimizer](https://experienceleague.adobe.com/docs/journey-optimizer/using/ajo-home.html?lang=de) – [Versionshinweise](https://experienceleague.adobe.com/docs/journey-optimizer/using/whats-new/release-notes.html?lang=de) – [Anleitungsvideos](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/overview.html?lang=de)
-* [Dokumentation zum Entscheidungs-Management](https://experienceleague.adobe.com/docs/journey-optimizer/using/offer-decisioning/get-started-decision/starting-offer-decisioning.html?lang=de) – [Versionshinweise](https://experienceleague.adobe.com/docs/journey-optimizer/using/whats-new/release-notes.html?lang=de) – [Anleitungsvideos](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/decision-management/introduction-to-decision-management.html?lang=de) – [Neueste Aktualisierungen der Dokumentation](https://experienceleague.adobe.com/docs/journey-optimizer/using/whats-new/documentation-updates.html?lang=de)
+* [Dokumentation zum Entscheidungs-Management](https://experienceleague.adobe.com/docs/journey-optimizer/using/offer-decisioning/get-started-decision/starting-offer-decisioning.html?lang=de) – [Versionshinweise](https://experienceleague.adobe.com/docs/journey-optimizer/using/whats-new/release-notes.html) – [Anleitungsvideos](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/decision-management/introduction-to-decision-management.html?lang=de) – [Neueste Aktualisierungen der Dokumentation](https://experienceleague.adobe.com/docs/journey-optimizer/using/whats-new/documentation-updates.html?lang=de)
 
 ## ![Symbol](/assets/experience_platform_appicon_24.png) [!DNL Adobe Journey Orchestration] {#journey-orch}
 
@@ -382,7 +394,7 @@ Erfahren Sie mehr über die neuesten Funktionen, Verbesserungen und Fehlerbehebu
 
 #### Weitere Ressourcen zu [!DNL Journey Orchestration]
 
-* [Dokumentation zu Journey Orchestration](https://experienceleague.adobe.com/docs/journeys/using/journey-orchestration-home.html?lang=de) – [Versionshinweise](https://experienceleague.adobe.com/docs/journeys/using/release-notes/release-notes.html?lang=de) – [Anleitungsvideos](https://experienceleague.adobe.com/docs/journey-orchestration-learn/tutorials/understanding-journey-orchestration.html?lang=de) – [Neueste Aktualisierungen der Dokumentation](https://experienceleague.adobe.com/docs/journeys/using/release-notes/documentation-updates.html?lang=de)
+* [Dokumentation zu Journey Orchestration](https://experienceleague.adobe.com/docs/journeys/using/journey-orchestration-home.html?lang=de) – [Versionshinweise](https://experienceleague.adobe.com/docs/journeys/using/release-notes/release-notes.html) – [Anleitungsvideos](https://experienceleague.adobe.com/docs/journey-orchestration-learn/tutorials/understanding-journey-orchestration.html?lang=de) – [Neueste Aktualisierungen der Dokumentation](https://experienceleague.adobe.com/docs/journeys/using/release-notes/documentation-updates.html?lang=de)
 
 ## ![Symbol](/assets/marketo.png) [!DNL Adobe Marketo Engage] {#marketo}
 
@@ -398,7 +410,7 @@ Neue Videos, Tutorials oder Kurse, die für Adobe Marketo veröffentlicht wurden
 
 | Veröffentlicht | Name | Typ | Beschreibung |
 | -----------| ---------- | ---------- | ---------- |
-| August 2022 | [Marketo Engage-Tutorials](https://experienceleague.adobe.com/docs/marketo-learn/tutorials/overview.html?lang=de) | Videos | Besuchen Sie die [Startseite der Marketo Engage-Tutorials](https://experienceleague.adobe.com/docs/marketo-learn/tutorials/overview.html?lang=de) auf Experience League für alle bisherigen und neuen Tutorials zu Marketo Engage. |
+| August 2022 | [Marketo Engage-Tutorials](https://experienceleague.adobe.com/docs/marketo-learn/tutorials/overview.html?lang=de) | Videos | Besuchen Sie die [Startseite der Marketo Engage-Tutorials](https://experienceleague.adobe.com/docs/marketo-learn/tutorials/overview.html?lang=en) auf Experience League für alle bisherigen und neuen Tutorials zu Marketo Engage. |
 
 {style=&quot;table-layout:auto&quot;}
 
