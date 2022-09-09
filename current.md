@@ -6,7 +6,7 @@ last-update: September 2022
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: 7c5a6c8ca64bef6ae2421b24a51ab4d0237d186d
+source-git-commit: 2b212054c9798d6c4a78a382f838e037697e7d7d
 workflow-type: tm+mt
 source-wordcount: '5431'
 ht-degree: 42%
@@ -169,7 +169,7 @@ Adobe empfiehlt, die Seite [Experience Manager-Versions-Updates und -Roadmaps](h
 
 ### Videos zu Produktaktualisierungen
 
-Beobachten Sie die [Video zur August-Versionsübersicht](https://experienceleague.adobe.com/docs/experience-manager-release-overview-events/aemcsupdates/2022/2022-8-0.html?lang=de) für eine Zusammenfassung der Funktionen, die in der Version 2022.8.0 (August 2022) hinzugefügt wurden. <!-- Beginning with the video this month, Adobe has enabled localized closed captioning in French (FR), German (DE) and Japanese (JP). -->
+Beobachten Sie die [Video zur August-Versionsübersicht](https://experienceleague.adobe.com/docs/experience-manager-release-overview-events/aemcsupdates/2022/2022-8-0.html?lang=de) für eine Zusammenfassung der Funktionen, die in der Version 2022.8.0 (August 2022) hinzugefügt wurden. <!-- Beginning with the video this month, Adobe has enabled localized closed captioning in French (FR), German (DE) and Japanese (JP).-->
 
 * [Video Versionsübersicht Juli 2022](https://video.tv.adobe.com/v/345409/?quality=12)
 * [Übersichtsvideo zur Version Juni 2022](https://video.tv.adobe.com/v/344308/?quality=12)
