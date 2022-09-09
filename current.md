@@ -6,7 +6,7 @@ last-update: September 2022
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: 1c31b0d7fc934b0c54d250703d30bee7f344b1e7
+source-git-commit: de17195b999264f06cb12433c97e8ebf6706a42e
 workflow-type: tm+mt
 source-wordcount: '0'
 ht-degree: 0%
@@ -25,7 +25,7 @@ Als Experience Maker beginnt Ihr Weg zum Erfolg mit [Experience League](https://
 
 Letzte Aktualisierung: **9. September 2022**
 
-* [[!DNL Experience League] events](#events) (aktualisiert) **7. September**)
+* [[!DNL Experience League]-Events](#events)
 * [[!DNL Adobe System Status]](#status)
 * [Experience Cloud – Zentrale Komponenten der Benutzeroberfläche und Verwaltung](#ecloud)
 * [[!DNL Adobe Experience Platform]](#platform)
@@ -53,11 +53,10 @@ Benötigen Sie Hilfe? Besuchen Sie die [Experience League](https://experiencelea
 
 Experience League-Events sind ideal, um zu lernen, Kontakte zu knüpfen und von Adobe-Produktexperten Antworten auf Fragen zu erhalten! Siehe [Events](https://experienceleague.adobe.com/events/?lang=de) in Experience League, um mehr über die Neuerungen vom Juli 2022 zu erfahren.
 
-Aktualisiert **8. September 2022**
+Aktualisiert **9. September 2022**
 
 | Produkt-/Ereignisname | Typ | Beschreibung |
 | -----------|---------- | ----|
-| **[!DNL Adobe Analytics]** | Webinar | _Experience Maker - der Qualifikationsaustausch_ - Treten Sie uns für unsere Adobe bei [!DNL Analytics] Edition, in der Experten Ihnen die Insider-Scoop zur Adobe geben [!DNL Analytics]. <p>**Datum:** 8. September um 9:00 Uhr PT - [Details und Registrierung](https://events.bizzabo.com/411737?promo=ExperienceLeague&amp;tr=true) |
 | **[!DNL Adobe Workfront]** | workshop | Suchen nach einer Möglichkeit, mit anderen Kunden in Kontakt zu treten und diskutieren [!DNL Workfront] Funktionen? Treten Sie unserer CS Connections-Serie bei! Eine monatliche Gelegenheit, mit anderen Kunden in Kontakt zu treten, um die heiklen Themen Ihres Unternehmens zu besprechen.<p>**Datum:** 12. September um 7:00 Uhr MT [Details und Registrierung](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,mjTFCSLTbkuVKavNdopApA,dndSyq-qPkqd5A929WkXkw,frxd5xOTA0WDD-QNQbG9Ww,N0rLVNiX1EKbZDmYfMbfKg,mwypq4e8M0qTYr1PjHWlgg?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1) |
 | **[!DNL Experience Cloud]** | Webinar | _Experience Maker Live_ - Ein kostenloses Event mit Keynotes von Sara Blakely, Peyton Manning und Eli Manning.<p>**Datum:** 13. bis 14. September – [Details und Anmeldung](https://business.adobe.com/events/experience-makers-live.html?lang=de) |
 | **[!DNL Adobe Workfront]** | workshop | Workflow-Diagramm - Schließen Sie sich dem Customer Success Team an, um eine Live-Diskussion und eine exemplarische Anleitung zu Workflow-Diagrammen - von der Aufnahme bis zur Fertigstellung - zu erhalten und zu verstehen, wie eine solide Grundlage für effektive Arbeitsmanagementpraktiken geschaffen werden kann. <p>**Datum:** 20. bis . September – [Details und Anmeldung](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,hKbbhANIJ0GUZ80-hyYRPQ,eHZZsesEKEW-f54PGw4z9w,8IgA8CD5yEyKFei9pwlDJA,iACjdG_hK0m1uoTTaMinZA,TEaHrWBF3USQb49XCqymTg?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1) |
