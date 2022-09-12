@@ -6,10 +6,10 @@ last-update: September 2022
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: dfa7ca73f9e703e2b9d175a562bd422f57cb23f2
+source-git-commit: 3dade77ca8f59fbe80c96442b26bb9998dd0d381
 workflow-type: tm+mt
-source-wordcount: '6447'
-ht-degree: 42%
+source-wordcount: '6560'
+ht-degree: 41%
 
 ---
 
@@ -455,9 +455,8 @@ Auf der Seite [[!DNL Workfront] Produktversionen](https://experienceleague.adobe
 Versionshinweise für [!DNL Adobe Advertising Cloud].
 
 <!-- * [New features across [!DNL Advertising Cloud]](#adcloud-all) -->
-<!-- * [New features in [!DNL Advertising Cloud DSP]](#adcloud-dsp) -->
+* [Neue Funktionen in Version  [!DNL Advertising Cloud DSP]](#adcloud-dsp)
 * [Neue Funktionen in Version  [!DNL Advertising Cloud Search]](#adcloud-search)
-
 <!-- * [New [!DNL Advertising Cloud] tutorials](#tutorials-ad-cloud) -->
 
 <!--
@@ -473,17 +472,15 @@ Last updated: **August 9, 2022**
   
 -->
 
-<!--
+### Neue Funktionen in Version [!DNL Advertising Cloud DSP] {#adcloud-dsp}
 
-### New features in [!DNL Advertising Cloud DSP] {#adcloud-dsp}
+Letzte Aktualisierung: **12. September 2022**
 
-Last updated: **July 27, 2022**
-
-| Feature | Description |
+| Funktion | Beschreibung |
 | ------- | ----------- |
-| [!UICONTROL Inventory] | (July 27 release) [!UICONTROL Auction Insights] is a new troubleshooting tool that allows you to analyze the deal composition of both guaranteed and non-guaranteed private deals. Using data visualizations, this tool shows the trend and relative proportions of values received for key auction attributes within a specific time period. |
+| [!UICONTROL Paket- und Platzierungs-Geschwindigkeit] | (Version vom 12. September) Separate Geschwindigkeitskontrollen sind jetzt für das Flug-Geschwindigkeit und das Intraday-Geschwindigkeit verfügbar. Zuvor wurde beides durch eine einzige Strategie gesteuert. Die Einstellungen für Ihre vorhandenen Pakete und Platzierungen wurden wie folgt zugeordnet:<ul><li>Veraltet **[!UICONTROL Strategie für die Fertigstellung]**=*[!UICONTROL Sogar]* — Jetzt konfiguriert als **[!UICONTROL Flug-Geschwindigkeit]**=*[!UICONTROL Sogar]* und **[!UICONTROL Intraday-Geschwindigkeit]**=*[!UICONTROL Sogar]*</li><li>Veraltet **[!UICONTROL Strategie für die Fertigstellung]**=*[!UICONTROL Leicht vorwärts]* — Jetzt konfiguriert als **[!UICONTROL Flug-Geschwindigkeit]**=*[!UICONTROL Leicht vorwärts]* und **[!UICONTROL Intraday-Geschwindigkeit]**=*[!UICONTROL Sogar]*</li><li>Veraltet **[!UICONTROL Strategie für die Fertigstellung]**=*[!UICONTROL Frontload]* — Jetzt konfiguriert als **[!UICONTROL Flug-Geschwindigkeit]**=*[!UICONTROL Frontload]* und **[!UICONTROL Intraday-Geschwindigkeit]**=*[!UICONTROL ASAP]*</li><li>Veraltet **[!UICONTROL Strategie für die Fertigstellung]**=*[!UICONTROL Aggressive Frontload]* — Jetzt konfiguriert als **[!UICONTROL Flug-Geschwindigkeit]**=*[!UICONTROL Aggressive Frontload]* und **[!UICONTROL Intraday-Geschwindigkeit]**=*[!UICONTROL ASAP]*</li></ul> |
 
--->
+{style=&quot;table-layout:auto&quot;}
 
 ### Neue Funktionen in Version [!DNL Advertising Cloud Search] {#adcloud-search}
 
