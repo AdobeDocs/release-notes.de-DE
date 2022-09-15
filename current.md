@@ -6,9 +6,9 @@ last-update: September 2022
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: 9cabd3285eeaca306d9da14d98cfa6b0311f5d11
+source-git-commit: 296c9809faaf551914e5ffbb086a198a0595196e
 workflow-type: tm+mt
-source-wordcount: '6495'
+source-wordcount: '6483'
 ht-degree: 42%
 
 ---
@@ -488,7 +488,7 @@ Zuletzt aktualisiert: **9. September 2022** für Version vom 10. September
 |  | ([!DNL Google Ads] Konten) Die Ansicht Kampagnen > Anzeigen enthält jetzt eine optionale [!UICONTROL Anzeigenstärke] -Spalte, die angibt, wie gut jede responsive Suchanzeige (RSA) folgt [!DNL Google Ads] Best Practices für die Leistung.<br><br>[!DNL Microsoft® Advertising] aktiviert noch keine ähnliche Unterstützung über ihre API. |
 |  | ([!DNL Microsoft® Advertising] Konten) Unterstützung für Synchronisierung, schreibgeschützt und Reporting (einschließlich Durchsichtsdaten) ist jetzt für Ihre vorhandenen nativen Anzeigenkampagnen auf der [!DNL Microsoft® Audience Network], einschließlich derjenigen mit [!DNL Microsoft®] Zielgruppenanzeigen. |
 | [!UICONTROL Kampagnen], [!UICONTROL Berichte] | In den folgenden Wochen werden mehr Impressions-Share-Metriken von Herausgebern als Spalten in den Kampagnenverwaltungsansichten und -berichten verfügbar. |
-| [!UICONTROL Konversionswertregeln] | ([!DNL Google Ads accounts]; Beta-Funktion) Sie können Ihre vorhandenen Konversionswertregeln jetzt über anzeigen. [!UICONTROL Optimierung] > [!UICONTROL Konversionswertregeln]. Advertiser mit [!DNL Google Ads] Konversions-Tracking auf der Ebene einzelner Konten oder darunter kann auch Regeln erstellen und verwalten.<br><br>Die automatische Optimierung von Konversionswertregeln wird in einer zukünftigen Version verfügbar sein. |
+| [!UICONTROL Konversionswertregeln] | ([!DNL Google Ads accounts]; Beta-Funktion) Sie können Ihre vorhandenen Konversionswertregeln jetzt über anzeigen. [!UICONTROL Optimierung] > [!UICONTROL Konversionswertregeln]. Advertiser mit [!DNL Google Ads] Konversions-Tracking auf der Ebene einzelner Konten oder darunter kann auch Regeln erstellen und verwalten. |
 | [!UICONTROL Portfolios] | (Opt-in-Beta-Funktion) [!DNL Google Ads] Konten) [!DNL YouTube] Kampagnen mit [!UICONTROL Maximieren von Konversionen] Angebotsstrategie in hybriden Portfolios sind jetzt in benutzerdefinierten Simulationsergebnissen enthalten. Das Hybridportfolio darf nur Folgendes umfassen: [!DNL YouTube] Kampagnen.<br><br>Wenden Sie sich an Ihr Account-Team, um am Betaprogramm teilzunehmen. |
 | [!UICONTROL Advertising Insights] | Die [!UICONTROL Werbeeinblicke] -Ansicht bietet einen neuen Look und Arbeitsablauf, der auf einer neuen Infrastruktur basiert, die die Leistung und Zuverlässigkeit verbessert. Klicken Sie jetzt einfach auf einen Insight-Namen, wählen Sie die Einstellungen aus oder geben Sie sie ein und klicken Sie auf [!UICONTROL Insight generieren].<br><br>Um vorübergehend zur Legacy-Ansicht zurückzukehren, aktivieren Sie [!UICONTROL Wechsel zur alten Benutzeroberfläche] oben rechts. Die alte Ansicht wird Ende September entfernt. |
 |  | Die [!UICONTROL Beta-Abfrage-Cross-Matching] Die Analyse ist jetzt verfügbar. |
