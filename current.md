@@ -6,7 +6,7 @@ last-update: September 2022
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: ceaa0175f0c01830cba0a247e248f054d1f39b89
+source-git-commit: ce5bafed072084badc26e0ba4326239910a3c72d
 workflow-type: tm+mt
 source-wordcount: '6525'
 ht-degree: 95%
@@ -377,7 +377,7 @@ Neue Videos, Tutorials oder Kurse, die für Adobe [!DNL Journey Optimizer] verö
 
 | Veröffentlicht | Name | Typ | Beschreibung |
 | -----------| ---------- | ---------- | ---------- |
-| September 2022 | [Erste Schritte mit dem Entscheidungs-Management für Marketing-Experten](https://experienceleague.adobe.com/?recommended=ExperiencePlatform-U-1-2020.1.offerdecisioning) | Video | Erfahren Sie mehr über das Entscheidungs-Management von Adobe Journey Optimizer. Dieser Kurs richtet sich an Marketing-Experten, die Umsatz, Kundenerlebnis und Kundenbindung steigern möchten, indem sie ihren Kunden die besten Angebot liefern |
+| September 2022 | [Erste Schritte mit dem Entscheidungs-Management für Marketing-Experten](https://experienceleague.adobe.com/?recommended=ExperiencePlatform-U-1-2020.1.offerdecisioning) | Kurs | Erfahren Sie mehr über das Entscheidungs-Management von Adobe Journey Optimizer. Dieser Kurs richtet sich an Marketing-Experten, die Umsatz, Kundenerlebnis und Kundenbindung steigern möchten, indem sie ihren Kunden die besten Angebot liefern |
 | September 2022 | [Erstellen einer Kampagne](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/create-campaigns/create-a-campaign.html?lang=de) | Video | Erfahren Sie, wie Sie einmalige Inhalte für eine bestimmte Zielgruppe bereitstellen können, indem Sie Aktionen sofort oder nach einem festgelegten Zeitplan ausführen. |
 
 {style=&quot;table-layout:auto&quot;}
