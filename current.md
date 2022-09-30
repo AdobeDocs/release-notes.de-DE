@@ -6,10 +6,10 @@ last-update: September 2022
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: 94c4f698be83ab2820d3b352c3c40c67a6c1dce3
+source-git-commit: d7ece438ac9e0dcc5cbdcdecbc914daa43010aeb
 workflow-type: tm+mt
-source-wordcount: '6525'
-ht-degree: 100%
+source-wordcount: '6528'
+ht-degree: 99%
 
 ---
 
@@ -351,7 +351,7 @@ Neue Videos, Tutorials oder Kurse, die für Adobe Campaign veröffentlicht wurde
 | Veröffentlicht | Name | Typ | Beschreibung | Programme |
 | -----------| ---------- | ---------- | ---------- |---------- |
 | September 2022 | [Einrichten von SMS für Adobe Campaign](https://experienceleague.adobe.com/?recommended=Campaign-A-1-2022.classic.setupsms) | Kurs | Wie man die Campaign-Instanz mit dem SMTP-Provider verbindet und wie man die Konfiguration analysiert und Fehler behebt. | Campaign Classic v7 |
-| September 2022 | [Einrichten von SMS für Adobe Campaign](https://experienceleaguecommunities.adobe.com/t5/adobe-campaign-classic/course-discussion-set-up-sms-for-adobe-campaign/m-p/542687?profile.language=de#M2301) | Kurs | Wie man die Campaign-Instanz mit dem SMTP-Provider verbindet und wie man die Konfiguration analysiert und Fehler behebt. | Campaign v8 |
+| September 2022 | [Einrichten von SMS für Adobe Campaign](https://experienceleague.adobe.com/docs/courses/using/campaign-a-1-2022-v8-setupsms.html?lang=en) | Kurs | Wie man die Campaign-Instanz mit dem SMTP-Provider verbindet und wie man die Konfiguration analysiert und Fehler behebt. | Campaign v8 |
 | September 2022 | [Erläuterungen zum SMPP-Protokoll und Fehlerbehebung](https://experienceleague.adobe.com/docs/campaign-learn/set-up-sms-for-adobe-campaign/smpp-deep-dive-and-troubleshooting.html?lang=de) | Video | Erfahren Sie, wie SMPP-Verbindungen hergestellt werden und wie der Datenaustausch mit dem SMPP über PDUs erfolgt. Informationen zur Fehlerbehebung bei Verbindungen. | Campaign v8 |
 
 {style=&quot;table-layout:auto&quot;}
