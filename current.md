@@ -6,10 +6,10 @@ last-update: November 2022
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: ece304539959b8aa223e378f365852277213822f
+source-git-commit: 843063e0d596a197966d1b5d28b52415f9349a40
 workflow-type: tm+mt
-source-wordcount: '4939'
-ht-degree: 96%
+source-wordcount: '4997'
+ht-degree: 93%
 
 ---
 
@@ -27,7 +27,7 @@ Diese Seite bietet Zugriff auf die Versionshinweise zu Experience Cloud-Produkte
 
 Letzte Aktualisierung: **17. November 2022**
 
-* [[!DNL Experience League]-Events](#events)
+* [[!DNL Experience League] events](#events) (Aktualisiert) **17. November**)
 * [[!DNL Adobe System Status]](#status)
 * [Experience Cloud – Zentrale Komponenten der Benutzeroberfläche und Verwaltung](#ecloud)
 * [[!DNL Adobe Experience Platform]](#platform)
@@ -55,16 +55,13 @@ Benötigen Sie Hilfe? Besuchen Sie die [Experience League](https://experiencelea
 
 Experience League-Events sind ideal, um zu lernen, Kontakte zu knüpfen und von Adobe-Produktexperten Antworten auf Fragen zu erhalten!
 
-Zu den bevorstehenden Veranstaltungen gehören:
+Kommende Events:
 
-* **[!DNL Journey Optimizer]:** 25. Oktober – _Mit Entscheidungs-Management das richtige Angebot zur richtigen Zeit unterbreiten_
-* **[!DNL Workfront]:** 25. Oktober – _Fragen Sie die Fachleute: Follow-Up zum Webinar „Workflow- und Prozessgestaltung“_
-* **[!DNL Analytics]:** 3. November – _Tipps und Tricks der Adobe Analytics Champions_
-* **[!DNL Workfront]:** 4. November – _Adobe Workfront Admin Chat: Marketing und Creative_
-* **[!DNL Experience Manager]:** 9. November – _Adobe Developers Live: Headless_
-* **[!DNL Workfront]:** 9. November – _Workfront Mittwoch – Community-Chat_
+* [Adobe Target-Kaffeepause](https://adobe.ly/3WoLYth) - **29. November** - _Community-Q&amp;A-Kaffeepause mit Cristinel Anastasoie_
+* [Kundenworkshop](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,mjTFCSLTbkuVKavNdopApA,dndSyq-qPkqd5A929WkXkw,CV1iKNbpLkqKFF9xESyysw,DFfNviE55k6tMl7RsYoJyg,NMXSALzWBEqnKt-XKOQe2A?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1) - **Dezember 1** - _Fragen an Experten - Erfolgreiche Webinar-Folgemaßnahmen zur Benutzerakzeptanz_
+* [Fragen und Antworten](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,mjTFCSLTbkuVKavNdopApA,dndSyq-qPkqd5A929WkXkw,evNBdl6GCUSeWZPl_YjiaA,-4QZcyQkLk2L361yaZCMQQ,N-B6dyCjH0u4kNYfAxueNg?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1) - **Dezember 5** - _CS-Verbindungen - Freigabe strategischer Best Practices_
 
-Um auf dem Laufenden zu bleiben, finden Sie unter [Veranstaltungen auf Experience League](https://experienceleague.adobe.com/events/?lang=de) alle kommenden und vergangenen Veranstaltungen.
+Eine vollständige Übersicht über den Ereigniszeitplan finden Sie unter [Ereignisse in der Experience League](https://experienceleague.adobe.com/events/?lang=de).
 
 ## ![Symbol](/assets/system-status.png) [!DNL Adobe System Status] {#status}
 
