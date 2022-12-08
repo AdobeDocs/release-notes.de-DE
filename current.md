@@ -6,10 +6,10 @@ last-update: November 2022
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: b0ef07bf757fdb4a71e4fa7eb11e57d3cb9bd043
+source-git-commit: a10a35727dbfd636bd64d879b7ec01debe2ce833
 workflow-type: tm+mt
-source-wordcount: '4737'
-ht-degree: 92%
+source-wordcount: '4816'
+ht-degree: 91%
 
 ---
 
@@ -237,7 +237,9 @@ Nachfolgend sind die im vergangenen Monat neu veröffentlichten Videos, Tutorial
 
 | Veröffentlicht | Name | Typ | Beschreibung | Programme |
 | -----------| ---------- | ---------- | ---------- | ------|
-| Dezember 2022 | [Codebeispiel für das Filtern von jQuery- und Handlebars](https://experienceleague.adobe.com/landing/experience-manager/headless/developer/code/filtering-jquery-handlebars.html) | Video | Erfahren Sie, AEM Headless-GraphQL-APIs Daten mithilfe einer JavaScript-App filtern können, die jQuery und Handlebars verwendet. Diese App erstellt eine Liste der WKND-Abenteuer, die nach Aktivitätstyp gefiltert werden können. | AEM CS (Headless) |
+| Dezember 2022 | [Codebeispiel für das Filtern von React-Apps](https://experienceleague.adobe.com/landing/experience-manager/headless/developer/code/fitlering-react-app.html) | Video | Eine einfache React-App, die WKND-Abenteuer anzeigt, die mit Inhaltsfragmenten modelliert wurden. | AEM Headless-Entwicklerportal |
+| Dezember 2022 | [Grundlegende React-App](https://experienceleague.adobe.com/landing/experience-manager/headless/developer/code/basic-react-app.html) | Video | Erfahren Sie, wie Sie mithilfe der GraphQL-APIs von AEM unter Verwendung persistierter Abfragen Inhalte abrufen können. Diese Anwendung ermöglicht die Filterung von WKND-Abenteuern und zeigt bei der Auswahl eines Abenteuers die Abenteuer mit allen Details an. | AEM Headless-Entwicklerportal |
+| Dezember 2022 | [Codebeispiel für das Filtern von jQuery- und Handlebars](https://experienceleague.adobe.com/landing/experience-manager/headless/developer/code/filtering-jquery-handlebars.html) | Video | Erfahren Sie, AEM Headless-GraphQL-APIs Daten mithilfe einer JavaScript-App filtern können, die jQuery und Handlebars verwendet. Diese App erstellt eine Liste der WKND-Abenteuer, die nach Aktivitätstyp gefiltert werden können. | AEM Headless-Entwicklerportal |
 | Dezember 2022 | [URL-Umleitungen](https://experienceleague.adobe.com/docs/experience-manager-learn/foundation/administration/url-redirection.html) | Video | Erfahren Sie mehr über die verschiedenen Optionen, um URL-Umleitungen in AEM durchzuführen. | AEM |
 | November 2022 | [Einbinden von Drittanbieter-Bundles in Ihr AEM-Projekt](https://experienceleague.adobe.com/docs/experience-manager-learn/forms/creating-your-first-osgi-bundle/include-third-party-jars.html?lang=de) | Video | Erfahren Sie, wie Sie das OSGi-Bundle eines Drittanbieters in Ihr AEM-Projekt einbinden. | AEM Forms |
 | November 2022 | [Erstellen eines PDF-Dokuments mit Fragmenten mithilfe des ECMA-Skripts](https://experienceleague.adobe.com/docs/experience-manager-learn/forms/document-services/using-fragments-in-output-service-watched-folder.html?lang=de) | Video | Erfahren Sie, wie Sie mit dem Output-Service eine PDF-Datei mithilfe von XDP-Fragmenten erstellen. | AEM Forms |
