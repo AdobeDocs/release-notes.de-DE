@@ -6,10 +6,10 @@ last-update: November 2022
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: b816ec0c285388a2d73d5198e86ee0079013e953
+source-git-commit: 4fc67e3574096d0c2dda849bcb50209b37130fb1
 workflow-type: tm+mt
-source-wordcount: '4916'
-ht-degree: 90%
+source-wordcount: '4990'
+ht-degree: 91%
 
 ---
 
@@ -25,9 +25,9 @@ Als Experience Maker beginnt Ihr Weg zum Erfolg mit [Experience League](https://
 
 Diese Seite bietet Zugriff auf die Versionshinweise zu Experience Cloud-Produkten sowie auf die neuesten Tutorials, Kurse und Veranstaltungen auf Experience League.
 
-Letzte Aktualisierung: **26. Dezember 2022**
+Letzte Aktualisierung: **6. Januar 2022**
 
-* [[!DNL Experience League] events](#events) (Aktualisiert) **7. Dezember**)
+* [[!DNL Experience League] events](#events) (Aktualisiert) **6. Januar**)
 * [[!DNL Adobe System Status]](#status)
 * [Experience Cloud – Zentrale Komponenten der Benutzeroberfläche und Verwaltung](#ecloud)
 * [[!DNL Adobe Experience Platform]](#platform)
@@ -57,8 +57,10 @@ Experience League-Events sind ideal, um zu lernen, Kontakte zu knüpfen und von 
 
 Kommende Events:
 
-* [Admin Chat: Marketing und Kreativ](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,1qnTSsu1BE6bJ4ijFsYafg,COdPeWL3z0qsME9nhjnRwg,rt0Knsqbf0qXnCBbrsMKsQ,dwwihmlWl0aM4Se6G4bXTQ,_C3JizOF1USDb_UKZOC2rg?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1) - **6. Januar** - _Diese interaktive Sitzung soll Sie mit anderen Administratoren verbinden und Best Practices sowie Tipps und Tricks zu Best Practices besprechen, damit Sie und Ihre Benutzer Workfront optimal nutzen können._
-* [CS-Verbindungen: Strategische Best Practices für die Freigabe](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,PiX3iDTmREqs2eOICcUIoA,5KJVGb6S_Uiiki7ErNALgw,Kn3p9Ut9vkCcycuFzBOJ4Q,5uLGVo1-uUS0_PY7S6QjmQ,vwcqrDXgIUyCK-lPjko8zA?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1) - **Januar 9** - _Suchen Sie eine Möglichkeit, mit anderen Kunden in Kontakt zu treten und Workfront-Funktionen zu besprechen? An unserer CS Connections-Reihe teilnehmen! Eine monatliche Gelegenheit, sich mit anderen Kunden auszutauschen und über aktuelle Themen in Ihrem Unternehmen zu diskutieren._
+* [Admin Chat: Marketing und Kreativ](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,1qnTSsu1BE6bJ4ijFsYafg,COdPeWL3z0qsME9nhjnRwg,rt0Knsqbf0qXnCBbrsMKsQ,dwwihmlWl0aM4Se6G4bXTQ,_C3JizOF1USDb_UKZOC2rg?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1) - **6. Januar** - _Diese interaktive Sitzung soll Sie mit anderen Administratoren verbinden und Best Practices sowie Tipps und Tricks dazu erörtern, wie Sie das Beste aus [!DNL Workfront] für Sie und Ihre Benutzer._
+* [CS-Verbindungen: Strategische Best Practices für die Freigabe](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,PiX3iDTmREqs2eOICcUIoA,5KJVGb6S_Uiiki7ErNALgw,Kn3p9Ut9vkCcycuFzBOJ4Q,5uLGVo1-uUS0_PY7S6QjmQ,vwcqrDXgIUyCK-lPjko8zA?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1) - **Januar 9** - _Suchen nach einer Möglichkeit, mit anderen Kunden in Kontakt zu treten und diskutieren [!DNL Workfront] Funktionen? An unserer CS Connections-Reihe teilnehmen! Eine monatliche Gelegenheit, sich mit anderen Kunden auszutauschen und über aktuelle Themen in Ihrem Unternehmen zu diskutieren._
+* [Neue Funktionen in [!DNL Adobe Workfront] Artikel 23 Absatz 1](https://webinars.on24.com/adobe_workfront/whatsnewin231?partnerref=EXL) - **10. Januar** - _Mitglied werden [!DNL Adobe Workfront] Produktteam , um mehr über bevorstehende Funktionen und Verbesserungen in unserer neuesten Version zu erfahren._
+* [AEM Best Practices Analyzer für On-Premise- und AMS-Umgebungen](https://aem-augs.adobe.com/events/details/adobe-experience-manager-aem-learning-chapter-presents-aem-gems-aem-best-practices-analyzer-for-on-premise-ams-environments/) - **18. Januar** - _Erfahren Sie mehr über das Adobe Experience Manager Best Practices Analyzer-Tool, das Analyse- und Reporting-Funktionen für AEM On-Premise- und AMS-Instanzen bietet. Beachten Sie, dass dies nicht für AEM as a Cloud Service gilt._
 
 Eine vollständige Übersicht über den Event-Zeitplan finden Sie unter [Events auf Experience League](https://experienceleague.adobe.com/events/?lang=de).
 
@@ -123,9 +125,9 @@ Neue Video-Tutorials, Artikel und Kurse für Adobe Analytics.
 
 | Veröffentlicht | Name | Typ | Beschreibung |
 | -----------| ---------- | ---------- | ---------- |
-| Dezember 2022 | [Verbesserung der Sicherheit](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/intro-to-analytics/customizing-the-ui/enhancing-security.html) | Aktualisiertes Video | Erfahren Sie mehr über die Sicherheits-Manager-Einstellungen in den Unternehmenseinstellungen, um den Zugriff auf Adobe Analytics zu steuern. Dazu gehören sichere Passwörter, Passwortablauf- und Wiederherstellungsfunktionen sowie E-Mail-Domänenbeschränkungen. |
-| Dezember 2022 | [Analysis Workspace-Projekt als Landingpage festlegen](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/intro-to-analytics/customizing-the-ui/setting-an-analysis-workspace-project-as-your-landing-page.html) | Aktualisiertes Video | Erfahren Sie mehr über eine effektive Möglichkeit, neue Benutzer einfach in Workspace-Analyse-Projektdaten zu integrieren. |
-| Dezember 2022 | [Menü in Reports &amp; Analytics anpassen](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/intro-to-analytics/customizing-the-ui/customizing-the-menu-in-reports-and-analytics.html) | Aktualisiertes Video | Erfahren Sie, wie Sie das Menü &quot;Reports &amp; Analytics&quot;für Benutzer in Ihrer Organisation anpassen können. Dies hilft Benutzern dabei, Berichte zu finden, die sie am häufigsten verwenden. |
+| Dezember 2022 | [Verbesserung der Sicherheit](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/intro-to-analytics/customizing-the-ui/enhancing-security.html) | Aktualisiertes Video | Erfahren Sie mehr über die Sicherheits-Manager-Einstellungen in den Unternehmenseinstellungen, um den Zugriff auf Adobe Analytics zu steuern. Hierzu zählen sichere Passwörter, Passwortablauf- und Wiederherstellungsfunktionen sowie E-Mail-Domain-Einschränkungen. |
+| Dezember 2022 | [Einrichten eines Analysis Workspace-Projekts als Landingpage](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/intro-to-analytics/customizing-the-ui/setting-an-analysis-workspace-project-as-your-landing-page.html) | Aktualisiertes Video | Erfahren Sie, wie Sie neue Benutzende effizient in Analyseprojekte im Arbeitsbereich integrieren können. |
+| Dezember 2022 | [Anpassen des Menüs in Reports &amp; Analytics](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/intro-to-analytics/customizing-the-ui/customizing-the-menu-in-reports-and-analytics.html) | Aktualisiertes Video | Erfahren Sie, wie Sie das Menü „Reports &amp; Analytics“ für Benutzende in Ihrer Organisation anpassen. Dies hilft Benutzenden, die am häufigsten verwendeten Berichte einfach zu finden. |
 | November 2022 | [Was ist Analytik?](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/intro-to-analytics/what-is-analytics.html?lang=de) | Artikel | Erfahren Sie mehr über die Grundlagen der Analytik, bevor Sie Adobe Analytics erlernen. |
 | November 2022 | [Erstellen benutzerdefinierter Detailansichten für Dashboards](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/additional-tools/analytics-dashboards/create-custom-detail-views.html?lang=de) | Video | Erfahren Sie, wie Sie Detailansichten, einschließlich Text für Adobe Analytics-Dashboards, anpassen, um die Story zu verfeinern, die Sie Ihren Stakeholdern durch mobile Scorecard-Projekte vermitteln möchten. |
 | November 2022 | Visualisierung der [Zusammenfassung der Schlüsselmetriken](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/visualizations/key-metric-summary.html?lang=de) | Video | Erfahren Sie mehr über die zusammenfassende Visualisierung von Schlüsselmetriken in Analysis Workspace, mit der Sie sehen können, wie sich eine wichtige Metrik innerhalb eines einzigen Zeitrahmens im Trend entwickelt. Außerdem können Sie damit die Leistung von Metriken über zwei Zeiträume hinweg vergleichen. |
