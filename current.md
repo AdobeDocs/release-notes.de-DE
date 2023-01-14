@@ -6,10 +6,10 @@ last-update: January 2023
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: 97ced2d9addab71d26dc94ba55af5e5f9e23f227
+source-git-commit: 0f238ebb4a330646e16379cbb61f959a37cd7c87
 workflow-type: tm+mt
-source-wordcount: '5417'
-ht-degree: 56%
+source-wordcount: '5416'
+ht-degree: 57%
 
 ---
 
@@ -44,7 +44,7 @@ Letzte Aktualisierung: **11. Januar 2023**
 * [[!DNL Journey Orchestration]](#journey-orch)
 * [[!DNL Adobe Marketo Engage]](#marketo)
 * [[!DNL Adobe Workfront]](#workfront)
-* [[!DNL Adobe Advertising Cloud]](#adcloud)
+* [[!DNL Adobe Advertising]](#advertising)
 * [[!DNL Adobe Document Cloud]](#doc-cloud)
 * [[!DNL Adobe Creative Cloud for enterprise]](#creative-cloud)
 * [Blueprints für digitale Erlebnisse – Tutorials](#blueprints)
@@ -138,7 +138,7 @@ Neue Videos, Tutorials oder Kurse, die für CJA veröffentlicht wurden.
 
 | Veröffentlicht | Name | Typ | Beschreibung |
 | -----------| ---------- | ---------- | ---------- |
-| Januar 2023 | [Arbeitsmappen für Customer Journey Analytics mit Report Builder planen](https://experienceleague.adobe.com/docs/customer-journey-analytics-learn/tutorials/exporting/report-builder/schedule-cja-workbooks-using-report-builder.html?lang=en) | Video | Erfahren Sie, wie Sie Arbeitsmappen in Report Builder für den Customer Journey Analytics planen. Die Planung von Arbeitsmappen ermöglicht es Benutzern, den Aktualisierungsprozess von Report Builder-Arbeitsmappen mit den neuesten Daten zu automatisieren und diese regelmäßig, vorab festgelegt, an die beteiligten Benutzer zu senden. |
+| Januar 2023 | [Planen von Customer Journey Analytics-Arbeitsmappen mithilfe von Report Builder](https://experienceleague.adobe.com/docs/customer-journey-analytics-learn/tutorials/exporting/report-builder/schedule-cja-workbooks-using-report-builder.html?lang=en) | Video | Erfahren Sie, wie Sie Arbeitsmappen in Report Builder für Customer Journey Analytics planen. Die Planung von Arbeitsmappen ermöglicht Benutzenden, Report Builder-Arbeitsmappen mit den neuesten Daten automatisch zu aktualisieren und regelmäßig nach einem festgelegten Zeitplan an die beteiligten Benutzenden zu senden. |
 | Januar 2023 | [Nutzen von Datumsfeldern](https://experienceleague.adobe.com/docs/customer-journey-analytics-learn/tutorials/use-cases/data-views-use-cases/leverage-date-field-support.html?lang=en) | Video | Sie können Datums- und Datums-/Uhrzeitfelder in Customer Journey Analytics verwenden. Wählen Sie aus, wie das Datums- oder Datums-/Uhrzeitfeld angezeigt wird, und verwenden Sie datumsspezifische logische Operatoren in der Ein-/Ausschlussfunktion, um zu filtern, was angezeigt wird. |
 | Januar 2023 | [Erstmalige und wiederkehrende Sitzungen](https://experienceleague.adobe.com/docs/customer-journey-analytics-learn/tutorials/use-cases/data-views-use-cases/first-time-and-returning-sessions.html?lang=en) | Video | Erfahren Sie, wie Sie zwischen erstmaligen und wiederkehrenden Sitzungen für Ihre Benutzer unterscheiden können. Dies wird durch eine 13-monatige Rückschau ermöglicht, die auf Ihren Bericht angewendet wird. |
 | Januar 2023 | [Verwenden des Experimentier-Bedienfelds](https://experienceleague.adobe.com/docs/customer-journey-analytics-learn/tutorials/panels/use-the-experimentation-panel.html?lang=en) | Video | Erfahren Sie, wie Sie das Experimentier-Bedienfeld konfigurieren und verwenden. In diesem Fenster werden automatisch einige Visualisierungen anhand Ihren Experimentierdaten erstellt. |
@@ -331,7 +331,7 @@ Neue Funktionen und Inhalte verfügbar für [!DNL Adobe Commerce].
 | Veröffentlicht | Name | Typ | Beschreibung |
 | -----------| ---------- | ---------- | ---------- |
 | Januar 2023 | [Konfigurationshandbuch](https://experienceleague.adobe.com/docs/commerce-admin/config/guide-overview.html) | Neue Dokumentation | Überprüfen Sie die beschreibenden Informationen für alle Konfigurationseinstellungen des Commerce Admin Store, die durch die Konfigurationsregisterkarten, -seiten und -abschnitte organisiert sind. |
-| Januar 2023 | [Erste Schritte mit GraphQL für Adobe Commerce](https://experienceleague.adobe.com/docs/commerce-learn/graphql-rest/getting-started-graphql.html) | Video | Erfahren Sie, wie Sie GraphQL in Adobe Commerce und Magento Open Source verwenden. Erfahren Sie mehr über die Verwendung von Abfragen, Mutationen und Schemas. |
+| Januar 2023 | [Erste Schritte mit GraphQL für Adobe Commerce](https://experienceleague.adobe.com/docs/commerce-learn/graphql-rest/getting-started-graphql.html) | Video | Erfahren Sie, wie Sie GraphQL in Adobe Commerce und Magento Open Source verwenden können. Erfahren Sie mehr über die Verwendung von Abfragen, Mutationen und Schemata. |
 | Januar 2023 | [Live-Suche nach Empfehlungen](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/marketing/live-search-recommendations.html) | Video | Erfahren Sie, wie Sie Ihrem Geschäft die Live-Suche nach Produktempfehlungen hinzufügen und hochinteressante, relevante und personalisierte Einkaufserlebnisse erzeugen können. |
 
 {style=&quot;table-layout:auto&quot;}
@@ -451,29 +451,29 @@ Neuer [!DNL Workfront]-Kurs und -Sammlungen von Tutorials zu Experience League.
 
 Auf der Seite [[!DNL Workfront] Produktversionen](https://experienceleague.adobe.com/docs/workfront/using/product-announcements/product-releases/product-releases.html?lang=de) finden Sie eine Zusammenfassung der aktuellsten Informationen zu allen Produkten.
 
-## ![Symbol](/assets/advertising-cloud.png) Adobe Advertising Cloud {#adcloud}
+## ![Symbol](/assets/advertising-cloud.png) Adobe Advertising {#advertising}
 
-Versionshinweise für [!DNL Adobe Advertising Cloud].
+Versionshinweise für [!DNL Adobe Advertising].
 
-<!-- * [New features across [!DNL Advertising Cloud]](#adcloud-all) -->
-* [Neue Funktionen in Version  [!DNL Advertising Cloud DSP]](#adcloud-dsp)
-* [Neue Funktionen in Version  [!DNL Advertising Cloud Search]](#adcloud-search)
-<!-- * [New [!DNL Advertising Cloud] tutorials](#tutorials-ad-cloud) -->
+<!-- * [New features across [!DNL Advertising]](#advertising-all) -->
+* [Neue Funktionen in Version  [!DNL Advertising DSP]](#advertising-dsp)
+* [Neue Funktionen in Version  [!DNL Advertising Search]](#advertising-search)
+<!-- * [New [!DNL Advertising] tutorials](#tutorials-advertising) -->
 
 <!--
-### New features across [!DNL Advertising Cloud] {#adcloud-all}
+### New features across [!DNL Advertising] {#advertising-all}
 
 Last updated: **August 9, 2022**
 
 | Feature | Description |
 | ------- | ----------- |
-| Integration with [!DNL Adobe Analytics] | (August 6 release) Improvements to the data feed that Advertising Cloud sends to [!DNL Analytics] result in fewer mismatches between click/cost/impression data from the search engines and related conversion data in [!DNL Analytics]. |
+| Integration with [!DNL Adobe Analytics] | (August 6 release) Improvements to the data feed that Advertising sends to [!DNL Analytics] result in fewer mismatches between click/cost/impression data from the search engines and related conversion data in [!DNL Analytics]. |
 
 {style="table-layout:auto"}
 
 -->
 
-### Neue Funktionen in Version [!DNL Advertising Cloud DSP] {#adcloud-dsp}
+### Neue Funktionen in Version [!DNL Advertising DSP] {#advertising-dsp}
 
 Zuletzt aktualisiert: **23. November 2022**
 
@@ -483,7 +483,7 @@ Zuletzt aktualisiert: **23. November 2022**
 
 {style=&quot;table-layout:auto&quot;}
 
-### Neue Funktionen in Version [!DNL Advertising Cloud Search] {#adcloud-search}
+### Neue Funktionen in Version [!DNL Advertising Search] {#advertising-search}
 
 Zuletzt aktualisiert: **10. Januar 2022**
 
