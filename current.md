@@ -7,9 +7,9 @@ author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
 source-git-commit: 5660df7c9bf29a10c46f0fda5b4b6b2a441532aa
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '5495'
-ht-degree: 98%
+ht-degree: 100%
 
 ---
 
@@ -451,7 +451,7 @@ Neuer [!DNL Workfront]-Kurs und -Sammlungen von Tutorials zu Experience League.
 
 Auf der Seite [[!DNL Workfront] Produktversionen](https://experienceleague.adobe.com/docs/workfront/using/product-announcements/product-releases/product-releases.html?lang=de) finden Sie eine Zusammenfassung der aktuellsten Informationen zu allen Produkten.
 
-## ![Symbol](/assets/advertising-cloud.png) Adobe Advertising {#advertising}
+## ![Symbol](/assets/advertising-cloud.png) Adobe Advertising {#advertising}
 
 Versionshinweise für [!DNL Adobe Advertising].
 
@@ -489,7 +489,7 @@ Zuletzt aktualisiert: **18. Januar 2022**
 
 | Funktion | Beschreibung |
 | ------- | ----------- |
-| Kampagnen, Bulksheets, Erweitert (ACM) | (Veröffentlichung vom 5. Januar) [!DNL Google Ads] und [!DNL Microsoft Advertising] Kampagnen) Wenn Sie in den Editoren des Werbenetzwerks Anzeigenanpassungen erstellt haben, können Sie diese nun als Attribute in den Textfeldern von responsiven Suchanzeigen in verwenden. [!DNL Advertising Search]. Verwenden Sie in Anzeigenüberschriften, -beschreibungen und dem ersten und zweiten Pfad der Anzeigen-URLs die folgenden Formate, um einen Anzeigenanpasser einzuschließen:<ul><li>[!DNL Google Ads]: {CUSTOMIZER.AdCustomizerName:DefaultText}</code></li><li>[!DNL Microsoft Advertising]: {CUSTOMIZER.Attribute name:default text}</code></li></ul>Beispiel eines Anzeigenanpassers in einem Anzeigentitel: &quot;Großes Inventar von Regenstiefeln bei einem `{CUSTOMIZER.Discount:10%}` Rabatt.&quot; |
+| Kampagnen, Bulksheets, Erweitert (ACM) | (Version vom 5. Januar; [!DNL Google Ads]- und [!DNL Microsoft Advertising]-Kampagnen) Wenn Sie in den Editoren des Anzeigennetzwerks Anzeigenanpassungen erstellt haben, können Sie diese nun als Attribute in den Textfeldern von responsiven Suchanzeigen in [!DNL Advertising Search] verwenden. Verwenden Sie in Anzeigenüberschriften und -beschreibungen sowie im ersten und zweiten Pfad der anzuzeigenden URLs die folgenden Formate, um eine Anzeigenanpassung zu verwenden:<ul><li>[!DNL Google Ads]: {CUSTOMIZER.AdCustomizerName:DefaultText}</code></li><li>[!DNL Microsoft Advertising]: {CUSTOMIZER.Attribute name:default text}</code></li></ul>Beispiel einer Anzeigenanpassung in einem Anzeigentitel: „`{CUSTOMIZER.Discount:10%}` Rabatt auf eine riesige Auswahl an Regenstiefeln.“ |
 | Kampagnen, Bulksheets, Berichte | ([!DNL Microsoft® Advertising]-Konten; Version vom 15. November) Unterstützung für Kampagnen auf [!DNL Microsoft® Audience Network] liegt jetzt nicht mehr in der Beta-Version vor.<ul><li>Sie können den Status von Audience-Kampagnen (Kampagnentyp [!UICONTROL Audience (Bild)] oder [!UICONTROL Audience (Feed)]), Anzeigengruppen (Anzeigengruppentyp [!UICONTROL Audience]) und Anzeigen (Kreativtyp [!UICONTROL Responsive Ad]) über die Ansichten [!UICONTROL Kampagnen] und mithilfe von Bulksheets erstellen, bearbeiten und ändern.</li><li>In der Ansicht [!UICONTROL Kampagnen] können Sie Ihre bestehenden Audience-Kampagnen mit Leistungsdaten im Tabellen- und Trend-Diagrammformat anzeigen. Leistungsdaten auf Anzeigenebene sind auch in Berichten und in Adobe Analytics (für Werbetreibende mit einer [!DNL Analytics]-Integration) verfügbar.</li></ul>Sie können Zielgruppenkampagnen entweder in Standard- oder Hybridportfolios einbeziehen. |
 |  | ([!DNL Microsoft® Advertising]-Konten; Version vom 15. November) Die Multimedia-Anzeigenunterstützung liegt jetzt nicht mehr in der Beta-Version vor. Sie können jetzt Multimedia-Anzeigen in Suchkampagnen über die Ansicht [!UICONTROL Kampagnen] und mithilfe von Bulksheets erstellen und verwalten. Die Werbeanzeigen haben den Kreativtyp [!UICONTROL Multimedia-Anzeige].<br><br>Sie können Kampagnen mit Multimedia-Anzeigen entweder in Standard-Portfolios oder in Hybrid-Portfolios mit einer beliebigen Ausgabenstrategie außer [!UICONTROL Target Impression Share] (die in Hybrid-Portfolios noch nicht unterstützt wird) aufnehmen.<br><br>In der Ansicht [!UICONTROL Kampagnen] können Sie Ihre bestehenden Audience-Kampagnen mit Leistungsdaten im Tabellen- und Trend-Diagrammformat anzeigen. Leistungsdaten auf Anzeigenebene sind auch in Berichten und in [!DNL Analytics] (für Werbetreibende mit einer [!DNL Analytics]-Integration) verfügbar. |
 | [!UICONTROL Audiences], [!UICONTROL Berichte] | ([!DNL Microsoft® Advertising]-Konten; Version vom 29. November) Die Unterstützung für dynamische Remarketing-Zielgruppen liegt jetzt nicht mehr in der Beta-Version vor:<ul><li>Ihre dynamischen Remarketing-Zielgruppen werden synchronisiert und stehen in [!UICONTROL Kampagnen] > [!UICONTROL Zielgruppen] mit dem [!UICONTROL Zielgruppentyp] [!UICONTROL Dynamisches Remarketing] &lt;*VisitorType*> zur Verfügung (z. B. „Dynamisches Remarketing für frühere Käufer“). Sie können auch dynamische Remarketing-Audiences erstellen, aktualisieren und löschen.</li><li>Sie können die Audiences als Anzeigenziele und -ausschlüsse auf Kampagnenebene und Anzeigengruppenebene verwenden. Ziele können Angebotsmodifikatoren enthalten. **Hinweis:** Angebotsmodifikatoren für dynamische Remarketing-Audience-Ziele werden in Portfolios mit der Einstellung [!UICONTROL Angebotsanpassungswerte automatisch optimieren] nicht optimiert.</li><li>Daten für dynamische Remarketing-Audiences finden Sie im [!UICONTROL Audience-Zielbericht].</li></ul> |
