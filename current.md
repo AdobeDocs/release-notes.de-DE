@@ -6,10 +6,10 @@ last-update: January 2023
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: 5660df7c9bf29a10c46f0fda5b4b6b2a441532aa
-workflow-type: ht
-source-wordcount: '5495'
-ht-degree: 100%
+source-git-commit: ac727f5e20503266d2d64da66ee95b4ae4779fb5
+workflow-type: tm+mt
+source-wordcount: '5497'
+ht-degree: 99%
 
 ---
 
@@ -25,7 +25,7 @@ Als Experience Maker beginnt Ihr Weg zum Erfolg mit [Experience League](https://
 
 Diese Seite bietet Zugriff auf die Versionshinweise zu Experience Cloud-Produkten sowie auf die neuesten Tutorials, Kurse und Veranstaltungen zu Experience League.
 
-Letzte Aktualisierung: **18. Januar 2023**
+Letzte Aktualisierung: **3. Februar 2023**
 
 * [[!DNL Experience League]-Events](#events)
 * [[!DNL Adobe System Status]](#status)
@@ -475,11 +475,12 @@ Last updated: **August 9, 2022**
 
 ### Neue Funktionen in Version [!DNL Advertising DSP] {#advertising-dsp}
 
-Zuletzt aktualisiert: **23. November 2022**
+Zuletzt aktualisiert: **3. Februar 2023**
 
 | Funktion | Beschreibung |
 | ------- | ----------- |
-| Angebote | Die Ansicht [!UICONTROL Bestand] > [!UICONTROL Angebote] enthält jetzt die Spalte [!UICONTROL Angebotsstatus], die den Status aller privaten Angebote angibt: [!UICONTROL Erfolg], [!UICONTROL Warnung], [!UICONTROL Kritisch] oder [!UICONTROL Nicht verfügbar]. Sie können auf den Status klicken, um weitere Details anzuzeigen, einschließlich der Gründe, warum ein Angebot nicht wie erwartet funktioniert bzw. nicht die erwarteten Ausgaben erzielt werden, und der Schritte zur Behebung potenzieller Probleme. |
+| [!UICONTROL Angebote] | (Version vom 25. Januar) Eine neue Ausgabespalte für &quot;PG-Impression-Geschwindigkeit&quot;in der Ansicht &quot;Inventar&quot;> &quot;Angebote&quot;zeigt Berichte für garantierte Angebote an. |
+| [!UICONTROL Kampagnen] | (Version vom 4. Januar) Für jede Kampagne ist jetzt ein Änderungsprotokoll verfügbar, aus dem die im ausgewählten Datumsbereich vorgenommenen Änderungen hervorgehen. Änderungsprotokolle waren bereits für Pakete und Platzierungen verfügbar. |
 
 {style=&quot;table-layout:auto&quot;}
 
