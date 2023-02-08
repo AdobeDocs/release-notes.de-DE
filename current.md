@@ -6,9 +6,9 @@ last-update: February 2023
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: f3a7fe1adc438d0fce977ba01b77fd99fc75776e
+source-git-commit: 1b71ade96af12784be613e71e4ff89e57fa4a1c2
 workflow-type: tm+mt
-source-wordcount: '5028'
+source-wordcount: '5006'
 ht-degree: 60%
 
 ---
@@ -526,23 +526,21 @@ Last updated: **August 9, 2022**
 
 ### Neue Funktionen in Version [!DNL Advertising DSP] {#advertising-dsp}
 
-Zuletzt aktualisiert: **3. Februar 2023**
+Zuletzt aktualisiert: **8. Februar 2023**
 
 | Funktion | Beschreibung |
 | ------- | ----------- |
-| [!UICONTROL Angebote] | (Version vom 25. Januar) Eine neue Ausgabespalte für &quot;PG-Impression-Geschwindigkeit&quot;in der Ansicht &quot;Inventar&quot;> &quot;Angebote&quot;zeigt Berichte für garantierte Angebote an. |
-| [!UICONTROL Kampagnen] | (Version vom 4. Januar) Für jede Kampagne ist jetzt ein Änderungsprotokoll verfügbar, aus dem die im ausgewählten Datumsbereich vorgenommenen Änderungen hervorgehen. Änderungsprotokolle waren bereits für Pakete und Platzierungen verfügbar. |
+| [!UICONTROL Kampagnen] | (Version vom 3. Februar) Beta-Funktionen) Sie können nun Änderungsprotokolle in Diagrammform anzeigen und Notizen zu jedem Eintrag hinzufügen. |
 
 {style=&quot;table-layout:auto&quot;}
 
 ### Neue Funktionen in Version [!DNL Advertising Search] {#advertising-search}
 
-Zuletzt aktualisiert: **18. Januar 2022**
+Zuletzt aktualisiert: **8. Februar 2023**
 
 | Funktion | Beschreibung |
 | ------- | ----------- |
-| [!UICONTROL Kampagnen], [!UICONTROL Bulksheets], [!UICONTROL Erweitert (ACM)] | (Version vom 5. Januar: [!DNL Google Ads] und [!DNL Microsoft Advertising] Kampagnen) - Wenn Sie in den Editoren des Werbenetzwerks Anzeigenanpassungen erstellt haben, können Sie diese nun als Attribute in den Textfeldern von responsiven Suchanzeigen in verwenden. [!DNL Advertising Search]. Verwenden Sie in Anzeigenüberschriften und -beschreibungen sowie im ersten und zweiten Pfad der anzuzeigenden URLs die folgenden Formate, um eine Anzeigenanpassung zu verwenden:<ul><li>[!DNL Google Ads]: {CUSTOMIZER.AdCustomizerName:DefaultText}</code></li><li>[!DNL Microsoft Advertising]: {CUSTOMIZER.Attribute name:default text}</code></li></ul>Beispiel einer Anzeigenanpassung in einem Anzeigentitel: „`{CUSTOMIZER.Discount:10%}` Rabatt auf eine riesige Auswahl an Regenstiefeln.“ |
-| [!UICONTROL Importieren von Kampagnen] | (Version vom 5. Januar: [!DNL Google Ads] und [!DNL Microsoft Advertising] Kampagnen) - Sie können Ihre [!DNL Google Ads] Anzeigenanpassungen für Ihre [!DNL Microsoft Advertising] Kampagnen von [!UICONTROL Suche] > [!UICONTROL Instrumente] > [!UICONTROL Importieren von Kampagnen]. Sie werden automatisch repliziert, wenn Sie den Importauftrag nicht anpassen. Wenn Sie den Importauftrag anpassen und angeben, was importiert werden soll, wählen Sie [!UICONTROL Feeds] > [!UICONTROL Ad Customizer-Feeds.] |
+| [!UICONTROL Kampagnen] | (Version vom 6. Februar) Beta-Funktion) Unterstützung für schreibgeschützte Synchronisation ist jetzt für Ihre [!DNL Google Ads] Erkundungskampagnen. Discovery-Kampagnen haben [!UICONTROL Kampagnentyp] &quot;[!UICONTROL Ermittlung],&quot; [!UICONTROL Anzeigengruppentyp] &quot;[!UICONTROL Ermittlung],&quot; und [!UICONTROL Kreativer Typ] &quot;[!UICONTROL Erkennungsanzeige]&quot;(für Anzeigen mit einem Bild) oder &quot;[!UICONTROL Karussellanzeige erkennen]&quot;(für Karussellanzeigen mit mehreren Bildern). Sie können Erkundungskampagnen in Standard- und Hybridportfolios einbeziehen.<br><br>Daten auf Anzeigenebene für Ihre Erkundungskampagnen sind in Berichten verfügbar. Für Advertiser mit einer Adobe Analytics-Integration sind Daten auf Anzeigenebene verfügbar in [!DNL Analytics]. Ebenso [!DNL Analytics] Daten sind verfügbar unter [!DNL Search]; die Daten werden mit dem aktualisierten `s_kwcid` Tracking-Parameter, unabhängig von der `s_kwcid` Format, das Sie normalerweise für das Konto verwenden. Wenn Sie normalerweise die ältere Version der `s_kwcid`eingeben, werden Ihre Klick-/Kostendaten und Umsatzdaten mithilfe verschiedener `s_kwcids`, aber beide Datensätze sind vollständig klassifiziert und in derselben Kampagne und demselben Konto aggregiert. |
 
 {style=&quot;table-layout:auto&quot;}
 
