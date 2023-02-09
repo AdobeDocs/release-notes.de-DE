@@ -6,9 +6,9 @@ last-update: February 2023
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: 1b71ade96af12784be613e71e4ff89e57fa4a1c2
+source-git-commit: b485f46078429951e5d8470deab579da1a47d84c
 workflow-type: tm+mt
-source-wordcount: '5006'
+source-wordcount: '4983'
 ht-degree: 60%
 
 ---
@@ -29,7 +29,7 @@ Ihr Weg zum Erfolg beginnt mit [Experience League](https://experienceleague.adob
 
 ## Aktualisierungen und Ereignisse der Produktversion - Februar 2023
 
-Inhalt zuletzt aktualisiert: **8. Februar 2023**
+Inhalt zuletzt aktualisiert: **9. Februar 2023**
 
 * [[!DNL Experience League]-Events](#events)
 * [[!DNL Adobe System Status]](#status)
@@ -58,8 +58,6 @@ Inhalt zuletzt aktualisiert: **8. Februar 2023**
 Experience League-Events sind ideal, um zu lernen, Kontakte zu knüpfen und von Adobe-Produktexperten Antworten auf Fragen zu erhalten!
 
 * [!DNL Campaign Standard] - **9. Februar | 9:30 Uhr IST** - Community-Kaffeepause - _Adobe [!DNL Campaign] Community-Fragen und Antworten-Kaffeepause - APAC_ - [Details und Registrierung](https://experienceleaguecommunities.adobe.com/t5/adobe-campaign-standard/adobe-campaign-community-q-amp-a-coffee-break-february-9th-9/td-p/568425)
-
-* [!DNL Campaign Standard] - **9. Februar | 9:00 PST** - Community-Kaffeepause - _[!DNL Campaign]Community Q&amp;A Coffee Break - Americas/EMEA_ - [Details und Registrierung](https://experienceleaguecommunities.adobe.com/t5/adobe-campaign-standard/adobe-campaign-community-q-amp-a-coffee-break-february-9th-9am/td-p/568421)
 
 * [!DNL Workfront] - **9. Februar | 10:00 MT** - _Kundenbereich - Protokollierungszeit_ - [Details und Registrierung](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,PiX3iDTmREqs2eOICcUIoA,5KJVGb6S_Uiiki7ErNALgw,ApJEa7JdN0is2sG3HRpLDA,9brRsWkVcEahJAdD813wug,Xm1T4YtdIEGZaxxbANkVRg?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
