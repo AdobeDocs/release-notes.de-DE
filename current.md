@@ -6,10 +6,10 @@ last-update: February 2023
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: b485f46078429951e5d8470deab579da1a47d84c
+source-git-commit: 5fd02900727340c256c76ba0faca53f25147a02a
 workflow-type: tm+mt
-source-wordcount: '4983'
-ht-degree: 60%
+source-wordcount: '5082'
+ht-degree: 59%
 
 ---
 
@@ -29,7 +29,7 @@ Ihr Weg zum Erfolg beginnt mit [Experience League](https://experienceleague.adob
 
 ## Aktualisierungen und Ereignisse der Produktversion - Februar 2023
 
-Inhalt zuletzt aktualisiert: **9. Februar 2023**
+Inhalt zuletzt aktualisiert: **10. Februar 2023**
 
 * [[!DNL Experience League]-Events](#events)
 * [[!DNL Adobe System Status]](#status)
@@ -534,11 +534,13 @@ Zuletzt aktualisiert: **8. Februar 2023**
 
 ### Neue Funktionen in Version [!DNL Advertising Search] {#advertising-search}
 
-Zuletzt aktualisiert: **8. Februar 2023**
+Zuletzt aktualisiert: **10. Februar 2023**
 
 | Funktion | Beschreibung |
 | ------- | ----------- |
 | [!UICONTROL Kampagnen] | (Version vom 6. Februar) Beta-Funktion) Unterstützung für schreibgeschützte Synchronisation ist jetzt für Ihre [!DNL Google Ads] Erkundungskampagnen. Discovery-Kampagnen haben [!UICONTROL Kampagnentyp] &quot;[!UICONTROL Ermittlung],&quot; [!UICONTROL Anzeigengruppentyp] &quot;[!UICONTROL Ermittlung],&quot; und [!UICONTROL Kreativer Typ] &quot;[!UICONTROL Erkennungsanzeige]&quot;(für Anzeigen mit einem Bild) oder &quot;[!UICONTROL Karussellanzeige erkennen]&quot;(für Karussellanzeigen mit mehreren Bildern). Sie können Erkundungskampagnen in Standard- und Hybridportfolios einbeziehen.<br><br>Daten auf Anzeigenebene für Ihre Erkundungskampagnen sind in Berichten verfügbar. Für Advertiser mit einer Adobe Analytics-Integration sind Daten auf Anzeigenebene verfügbar in [!DNL Analytics]. Ebenso [!DNL Analytics] Daten sind verfügbar unter [!DNL Search]; die Daten werden mit dem aktualisierten `s_kwcid` Tracking-Parameter, unabhängig von der `s_kwcid` Format, das Sie normalerweise für das Konto verwenden. Wenn Sie normalerweise die ältere Version der `s_kwcid`eingeben, werden Ihre Klick-/Kostendaten und Umsatzdaten mithilfe verschiedener `s_kwcids`, aber beide Datensätze sind vollständig klassifiziert und in derselben Kampagne und demselben Konto aggregiert. |
+|  | ([!DNL Google Ads] Konten; Version vom 11. Februar) Unterstützung für &quot;[!UICONTROL Target Impression Share]&quot;Angebotsstrategie ist jetzt nur für Kampagnen im Suchnetzwerk verfügbar. Für diese Angebotsstrategie: [!DNL Google Ads] (nicht [!DNL Search]) optimiert Gebote, um eine zielgerichtete Impressions-Freigabe und Anzeigenposition zu erreichen. Sie können optional eine [!UICONTROL Target Impression Share] als Prozentsatz die [!UICONTROL Zielanzeigenposition]und [!UICONTROL Max. CPC] (Kosten pro Klick). Diese Option wird in hybriden Portfolios noch nicht unterstützt. |
+| [!UICONTROL Bulksheets] | ([!DNL Microsoft] Kampagnen; Version vom 11. Februar) Bulksheets enthalten jetzt &quot;[!UICONTROL Aktionsaufruf]&quot; und &quot;[!UICONTROL Aktionssprache aufrufen]&quot;-Spalten für Multimedia-Anzeigen (im responsiven Anzeigenformat), die die[!UICONTROL Kreativ (außer RSA)]&quot;. |
 
 {style=&quot;table-layout:auto&quot;}
 
