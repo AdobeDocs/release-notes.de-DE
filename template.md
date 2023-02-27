@@ -5,14 +5,14 @@ doc-type: release notes
 last-update: June 2021
 author: mfrei
 source-git-commit: e415b562703712157d907d3e3995ff5adad4db1e
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '716'
-ht-degree: 93%
+ht-degree: 100%
 
 ---
 
 
-# VORLAGE - Versionshinweise zu Adobe Experience Cloud - Monat 2021
+# VORLAGE – Versionshinweise zu Adobe Experience Cloud – Monat 2021
 
 ![Banner](/assets/experience-cloud-banner-3.png)
 
@@ -26,13 +26,13 @@ Neue Funktionen und Fehlerbehebungen in Adobe Experience Cloud.
 >
 >Nach dem Release veröffentlichte neue Informationen werden mit dem Veröffentlichungsdatum gekennzeichnet.
 
-Neueste Aktualisierung: **September 2021**
+Letzte Aktualisierung: **September 2021**
 
-* [Live-Ereignisse der Experience League](#events)
+* [Live-Events von Experience League](#events)
 * [Zentrale Schnittstellenkomponenten von Experience Cloud](#ecloud)
 * [Adobe-Systemstatus](#status)
 * [Experience Platform](#platform)
-* [Experience Platform Application Services](#services)
+* [Experience Platform-Anwendungs-Services](#services)
 * [Journey Optimizer](#journey-opt)
 * [[!DNL Analytics]](#analytics) und [Customer Journey Analytics](#cust-journey)
 * [[!DNL Audience Manager]](#aam)
@@ -50,31 +50,31 @@ Neueste Aktualisierung: **September 2021**
 
 Funktionen und Fehlerbehebungen
 
-Siehe [Systemstatus von Adobe](https://status.adobe.com/de).
+Siehe [Adobe-Systemstatus](https://status.adobe.com/de).
 
 ## ![Symbol](/assets/ec_appicon_24.png) Zentrale Komponenten der Experience Cloud-UI {#ecloud}
 
-Die zentralen Komponenten der Experience Cloud-UI umfassen Aktualisierungen, die über die Kopfzeile des Produkts aufgerufen werden können, darunter Selbsthilfe, Suche oder Voreinstellungen für Benutzerkonten. Dort finden sich auch Aktualisierungen zu Personen, dem Places-Service (ehemals Location-Service) und der Produktverwaltung.
+Die zentralen Komponenten der Experience Cloud-UI umfassen Aktualisierungen, die über die Kopfzeile des Produkts aufgerufen werden können, darunter Selbsthilfe, Suche oder Voreinstellungen für Benutzerkonten. Aktualisierungen zu Personen, Orten (Standort) und Produktverwaltung finden Sie hier.
 
-### [!UICONTROL Hauptdienste] {#core-services}
+### [!UICONTROL Zentrale Dienste] {#core-services}
 
 Funktionen und Fehlerbehebungen
 
-### Administration und Entwickler {#admin}
+### Administration und Entwicklungspersonal {#admin}
 
 Funktionen und Fehlerbehebungen
 
 ## ![Symbol](/assets/experience_platform_appicon_24.png) Experience Platform {#platform}
 
-Versionshinweise für [!DNL Experience Platform,] einschließlich [!DNL Experience Platform Launch,] [!UICONTROL Journey Orchestration], [!UICONTROL Angebote], [!UICONTROL Personen], [!UICONTROL Places], [!UICONTROL Mobile Services] und Sicherheitsbulletins.
+Versionshinweise für [!DNL Experience Platform,] einschließlich [!DNL Experience Platform Launch,] [!UICONTROL Journey Orchestration], [!UICONTROL Angeboten], [!UICONTROL Personen], [!UICONTROL Places], [!UICONTROL Mobile Services] und Sicherheitsbulletins.
 
-* [Experience Cloud ID-Service](#ecid)
-* [Versionshinweise zu Experience Platform](https://docs.adobe.com/content/help/de-DE/experience-platform/release-notes/latest.html)
+* [Experience Cloud ID Service](#ecid)
+* [Versionshinweise zu Experience Platform](https://experienceleague.adobe.com/docs/experience-platform/release-notes/latest.html?lang=de)
 * [Experience Platform Launch](#launch)
 * [Journey Orchestration](#journey)
 * [Mobile Services und Mobile SDKs](#mobile)
 
-### [!UICONTROL Experience Cloud ID-Dienst] {#ecid}
+### [!UICONTROL Experience Cloud ID Service] {#ecid}
 
 Funktionen und Fehlerbehebungen
 
@@ -88,7 +88,7 @@ Mithilfe von Adobe [!UICONTROL Experience Platform] können Sie individuelle Cus
 
 #### Zusätzliche Ressourcen für [!UICONTROL Journey Orchestration]
 
-text
+Text
 
 ### [!UICONTROL Mobile Services] und [!UICONTROL Mobile SDK] {#mobile}
 
@@ -159,7 +159,7 @@ Text.
 
 ## Experience Manager {#aem}
 
-Neue Funktionen, Fehlerbehebungen und Aktualisierungen in Adobe Experience Manager (AEM). Adobe empfiehlt Kunden mit lokalen Implementierungen, die aktuellen Patches zu implementieren, um mehr Stabilität, Sicherheit und Leistung zu erzielen.
+Neue Funktionen, Fehlerbehebungen und Aktualisierungen in Adobe Experience Manager (AEM). Adobe empfiehlt Kunden mit On-Premise-Implementierungen, die aktuellsten Patches zu implementieren, um mehr Stabilität, Sicherheit und Leistung zu erzielen.
 
 ### Produktversionen
 
@@ -207,7 +207,7 @@ Text
 * Fehlerbehebung
 * Fehlerbehebung
 
-## Social {#soc}
+## Social Media {#soc}
 
 | Funktion | Beschreibung |
 | ------- | ------- |
@@ -224,13 +224,13 @@ Text
 
 ## Campaign {#ac}
 
-Adobe Campaign bietet die Möglichkeit, direkte Nachrichten über Online- und Offline-Marketing-Kanäle intuitiv und automatisiert zu übermitteln. Sie können nun vorhersagen, was Ihre Kunden wünschen, und ihnen Erlebnisse bieten, die Sie anhand ihrer Gewohnheiten und Vorlieben ermittelt haben.
+Adobe Campaign bietet die Möglichkeit, direkte Nachrichten über Online- und Offline-Marketing-Kanäle intuitiv und automatisiert zu übermitteln. Sie können nun vorhersagen, was Ihre Kundinnen und Kunden wünschen, und ihnen Erlebnisse bieten, die Sie anhand ihrer Gewohnheiten und Vorlieben ermittelt haben.
 
-### Weitere Ressourcen
+### Zusätzliche Ressourcen
 
 Text
 
-## Adobe Advertising {#adcloud}
+## Werbung {#adcloud}
 
 | Funktion | Beschreibung |
 | ------- | ------- |
@@ -257,7 +257,7 @@ Marketo Engage ist eine Komplettlösung für das Leadmanagement. B2B-Marketer k�
 
 Versionsdatum: 21. Februar 2020
 
-* **Microsoft® Dynamics _Inhaber in Microsoft® wechseln_ Flussaktion:** Ändern Sie einen Lead- oder Kontaktinhaber direkt aus Marketo Engage.
+* **Microsoft® Dynamics _Inhaber in Microsoft ändern_ Fluss-Aktion**: Ändern Sie den Inhaber eines Leads oder Kontakts direkt in Marketo Engage.
 * **Verbesserungen bei API-Aufrufen:**
    * APIs für die Benutzerverwaltung
    * APIs für benutzerdefiniertes Objektschema
@@ -276,7 +276,7 @@ Die folgenden Funktionen werden im Laufe dieses Quartals veröffentlicht:
 
 ### Ankündigungen
 
-**Marketo Engage Success Center:** Start im Februar 2020. Das Success Center ist ein produktinternes Hilfesystem, mit dem Sie u. a. Produktdokumente und die Community durchsuchen, Anleitungen aufrufen und auf Adoptionsinhalte zugreifen können. Hinweis: Diese Funktion wird als Beta-Version in ANZ eingeführt und später in diesem Quartal in Nordamerika eingeführt.
+**Marketo Engage Success Center:** Start im Februar 2020. Das Success Center ist ein produktinternes Hilfesystem, mit dem Sie u. a. Produktdokumente und die Community durchsuchen, Anleitungen aufrufen und auf Inhalte für Anpassungen zugreifen können. Hinweis: Diese Funktion wird als Betaversion in ANZ gestartet und später in diesem Quartal in Nordamerika eingeführt.
 
 ### Veraltete und entfernte Funktionen
 
@@ -285,4 +285,4 @@ Die folgenden Funktionen werden im Laufe dieses Quartals veröffentlicht:
 
 ### Neue Kurse und Tutorials zu Lösungsnamen
 
-Nachfolgend sind die im vergangenen Monat neu veröffentlichten Videos, Tutorials oder Kurse aufgeführt.
+Nachfolgend sind die im vergangenen Monat neu veröffentlichten Videos, Tutorials und Kurse aufgeführt.
