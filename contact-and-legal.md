@@ -1,15 +1,15 @@
 ---
 description: Hier finden Sie Angaben zur Kontaktaufnahme mit Adobe und rechtliche Hinweise zu Ihrer Nutzung des Produkts und der Dokumentation.
 keywords: dynamisches Tag-Management; Versionshinweise
-seo-description: Hier finden Sie Angaben zur Kontaktaufnahme mit Adobe und rechtliche Hinweise zu Ihrer Nutzung des Produkts und der Dokumentation.
-seo-title: Kontakt und rechtliche Informationen
+seo-description: Information to help you contact Adobe and understand the legal issues concerning your use of this product and documentation.
+seo-title: Contact and Legal Information
 title: Kontakt und rechtliche Informationen
 uuid: be6810fd-8a50-4e88-af09-ab00187e4082
 internal: n
 translate: y
 source-git-commit: 759707638404f746de2e71ac27bd16926a8d1151
-workflow-type: tm+mt
-source-wordcount: '258'
+workflow-type: ht
+source-wordcount: '235'
 ht-degree: 100%
 
 ---
@@ -42,7 +42,7 @@ Adobe Systems welcome any suggestions or feedback regarding this solution. You c
  <li> Published by Adobe Systems Incorporated. </li> 
 </ul>
 
-[Nutzungsbedingungen](https://www.adobe.com/go/marketingcloud_terms_of_use_de) | [Datenschutzcenter](https://www.adobe.com/de/privacy/policy.html)
+[Nutzungsbedingungen](https://www.adobe.com/go/marketingcloud_terms_of_use) | [Datenschutzcenter](https://www.adobe.com/de/privacy/policy.html)
 
 Adobe and the Adobe logo are either registered trademarks or trademarks of Adobe Systems Incorporated in the United States and/or other countries. A trademark symbol (®, ™, etc.) denotes an Adobe trademark.
 
