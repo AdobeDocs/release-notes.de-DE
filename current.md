@@ -6,10 +6,10 @@ last-update: February 2023
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: 6e423665d7e8b0b8559cad3e1824d92dc66709fd
+source-git-commit: 0d56cb0d35c17a40b51b7244a4842215a298b76b
 workflow-type: tm+mt
-source-wordcount: '5139'
-ht-degree: 96%
+source-wordcount: '5241'
+ht-degree: 93%
 
 ---
 
@@ -35,7 +35,7 @@ Schließen Sie sich an uns in Las Vegas an, um Ihr Können zu erweitern, Inspira
 
 ## Aktuelle Informationen zu Produktversionen und Veranstaltungen – Februar 2023
 
-Inhalt zuletzt aktualisiert: **10. Februar 2023**
+Inhalt zuletzt aktualisiert: **2. März 2023**
 
 * [[!DNL Experience League]-Ereignisse](#events)
 * [[!DNL Adobe System Status]](#status)
@@ -530,23 +530,24 @@ Last updated: **August 9, 2022**
 
 ### Neue Funktionen in Version [!DNL Advertising DSP] {#advertising-dsp}
 
-Zuletzt aktualisiert: **8. Februar 2023**
+Zuletzt aktualisiert: **2. März 2023**
 
 | Funktion | Beschreibung |
 | ------- | ----------- |
-| [!UICONTROL Kampagnen] | (Version vom 3. Februar; Beta-Funktionen) Sie können nun Änderungsprotokolle in Diagrammform anzeigen und Notizen zu beliebigen Einträgen hinzufügen. |
+| [!UICONTROL Kampagnen] | (Version vom 15. Februar) Sie können jetzt Änderungsprotokolle in Diagrammform anzeigen und jedem Eintrag Notizen hinzufügen. |
 
 {style=&quot;table-layout:auto&quot;}
 
 ### Neue Funktionen in Version [!DNL Advertising Search] {#advertising-search}
 
-Zuletzt aktualisiert: **10. Februar 2023**
+Zuletzt aktualisiert: **2. März 2023**
 
 | Funktion | Beschreibung |
 | ------- | ----------- |
-| [!UICONTROL Kampagnen] | (Version vom 6. Februar; Beta-Funktion) Unterstützung für die schreibgeschützte Synchronisation ist jetzt für Ihre [!DNL Google Ads]-Discovery-Kampagnen verfügbar. Discovery-Kampagnen haben [!UICONTROL Kampagnentyp] &quot;[!UICONTROL Ermittlung],&quot; [!UICONTROL Anzeigengruppentyp] &quot;[!UICONTROL Ermittlung],&quot; und [!UICONTROL Kreativer Typ] &quot;[!UICONTROL Erkennungsanzeige]&quot;(für Anzeigen mit einem Bild) oder &quot;[!UICONTROL Karussellanzeige erkennen]&quot;(für Karussellanzeigen mit mehreren Bildern). Sie können Discovery-Kampagnen in Standard- und Hybridportfolios einbeziehen.<br><br>Daten auf Anzeigenebene für Ihre Discovery-Kampagnen sind in Berichten verfügbar. Für Advertiser mit Adobe Analytics-Integration sind Daten auf Anzeigenebene in [!DNL Analytics] verfügbar. Entsprechend sind auch [!DNL Analytics]-Daten in [!DNL Search] verfügbar; die Daten werden mit dem aktualisierten `s_kwcid`-Tracking-Parameter gesendet, unabhängig vom `s_kwcid`-Format, das Sie normalerweise für das Konto verwenden. Wenn Sie normalerweise die ältere `s_kwcid`-Version verwenden, werden Ihre Klick-/Kosten- und Umsatzdaten mithilfe verschiedener `s_kwcids` verfolgt, aber beide Datensätze sind vollständig unter derselben Kampagne und demselben Konto klassifiziert und aggregiert. |
+| [!UICONTROL Kampagnen] | (Google Ads-Konten; offene Beta-Funktion; Version vom 23. Februar) Schreibgeschützte Synchronisierungsunterstützung für [!DNL Google Ads] Erkundungskampagnen befinden sich für alle Advertiser im Beta-Modus.  Discovery-Kampagnen haben [!UICONTROL Kampagnentyp] &quot;[!UICONTROL Ermittlung],&quot; [!UICONTROL Anzeigengruppentyp] &quot;[!UICONTROL Ermittlung],&quot; und [!UICONTROL Kreativer Typ] &quot;[!UICONTROL Erkennungsanzeige]&quot;(für Anzeigen mit einem Bild) oder &quot;[!UICONTROL Karussellanzeige erkennen]&quot;(für Karussellanzeigen mit mehreren Bildern). Sie können Discovery-Kampagnen in Standard- und Hybridportfolios einbeziehen.<br><br>Daten auf Anzeigenebene für Ihre Discovery-Kampagnen sind in Berichten verfügbar. Für Advertiser mit Adobe Analytics-Integration sind Daten auf Anzeigenebene in [!DNL Analytics] verfügbar. Entsprechend sind auch [!DNL Analytics]-Daten in [!DNL Search] verfügbar; die Daten werden mit dem aktualisierten `s_kwcid`-Tracking-Parameter gesendet, unabhängig vom `s_kwcid`-Format, das Sie normalerweise für das Konto verwenden. Wenn Sie normalerweise die ältere `s_kwcid`-Version verwenden, werden Ihre Klick-/Kosten- und Umsatzdaten mithilfe verschiedener `s_kwcids` verfolgt, aber beide Datensätze sind vollständig unter derselben Kampagne und demselben Konto klassifiziert und aggregiert. |
 |  | ([!DNL Google Ads] Konten; Version vom 11. Februar) Unterstützung für &quot;[!UICONTROL Target Impression Share]&quot;Angebotsstrategie ist jetzt nur für Kampagnen im Suchnetzwerk verfügbar. Für diese Angebotsstrategie: [!DNL Google Ads] (nicht [!DNL Search]) optimiert Gebote, um eine zielgerichtete Impressions-Freigabe und Anzeigenposition zu erreichen. Sie können optional eine [!UICONTROL Target Impression Share] als Prozentsatz die [!UICONTROL Zielanzeigenposition]und [!UICONTROL Max. CPC] (Kosten pro Klick). Diese Option wird in hybriden Portfolios noch nicht unterstützt. |
 | [!UICONTROL Bulksheets] | ([!DNL Microsoft] Kampagnen; Version vom 11. Februar) Bulksheets enthalten jetzt &quot;[!UICONTROL Aktionsaufruf]&quot; und &quot;[!UICONTROL Aktionssprache aufrufen]&quot;-Spalten für Multimedia-Anzeigen (im responsiven Anzeigenformat), die die[!UICONTROL Kreativ (außer RSA)]&quot;. |
+| Google Manager-Konten | (Version vom 23. Februar) Eine neue [!UICONTROL Admin] > [!UICONTROL Manager-Konten] -Funktion können Sie die Authentifizierung für [!DNL Google Ads] Konten, die [!DNL Search] lädt kontoübergreifende Konversionen hoch. Verwenden Sie diese Funktion, wenn Sie einen) Upload durchführen möchten. [!DNL Adobe]-verfolgte, kontenübergreifende Konversionsmetriken in eine [!DNL Google Ads] Manager-Konto oder b) Hochladen von Portfoliozielen, die kontoübergreifende Konversionen in [!DNL Google Ads] zur Hybridoptimierung.<br><br>Nachdem Sie Anmeldeinformationen für ein Manager-Konto hinzugefügt haben, wird die optionale[!UICONTROL Manager-Konto für kontoübergreifende Konversionen]&quot; in der Spalte [!UICONTROL Kampagnen] > [!UICONTROL Konten] -Ansicht gibt die Manager-Konto-ID für jedes untergeordnete Konto an und die Spalte zeigt einen Fehler an, wenn das Managerkonto nicht authentifiziert ist. |
 
 {style=&quot;table-layout:auto&quot;}
 
