@@ -31,7 +31,7 @@ Ihr Weg zum Erfolg beginnt mit [Experience League](https://experienceleague.adob
 
 Schließen Sie sich an uns in Las Vegas an, um Ihr Können zu erweitern, Inspiration zu entfalten und Verbindungen aufzubauen, die es Ihnen ermöglichen, die digitale Wirtschaft persönlich zu gestalten. Für diejenigen, die nicht an der Weltklasse-Veranstaltung in Vegas teilnehmen können, schließen Sie sich uns praktisch von überall aus kostenlos an.
 
-[!BADGE registrieren]{type=Informative url="https://summit.adobe.com/na/?promoid=VY36JX1S&amp;mv=other"; tooltip="Registrieren für [!DNL Adobe Summit]";}
+[!BADGE registrieren]{type=Informative url="https://summit.adobe.com/na/?promoid=VY36JX1S&amp;mv=other" tooltip="Registrieren für [!DNL Adobe Summit]"}
 
 ## Aktuelle Informationen zu Produktversionen und Veranstaltungen – Februar 2023
 
