@@ -1,14 +1,14 @@
 ---
 description: Frühere Versionshinweise für Experience Cloud-Produkte und -Services. Finden Sie neue Hilfe und Tutorials zu Creative Cloud für Unternehmen und Document Cloud.
-seo-description: Neue Funktionen und Fehlerbehebungen in Adobe Experience Cloud - 2018 und früher
+seo-description: New features and fixes in the Adobe Experience Cloud - 2018 and earlier.
 title: Versionshinweise für 2018 und früher
-solution: Experience Cloud,Analytics,Target,Advertising Cloud
-seo-title: Versionshinweise zu Adobe Experience Cloud für 2018 und früher
+solution: Experience Cloud,Analytics,Target,Advertising
+seo-title: Release Notes for 2018 and Earlier for Adobe Experience Cloud
 uuid: c56a1064-0f2c-4241-93c6-ca4b1f267763
 exl-id: 4e553328-1e96-48d6-addd-ff51be5eb6df
-source-git-commit: ec65b571a62c7bc87f40ddf5d79d35e98587c0db
-workflow-type: ht
-source-wordcount: '76'
+source-git-commit: eef9efd5591a9bdf3bdd0d89237b75304c49bc55
+workflow-type: tm+mt
+source-wordcount: '56'
 ht-degree: 100%
 
 ---
