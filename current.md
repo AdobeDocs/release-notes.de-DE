@@ -6,9 +6,9 @@ last-update: March 2023
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: cc637cf51aac23cf129fae75a7a7f63f9d678eb3
+source-git-commit: d340d4d039920764e3853f0f86e9049cf4b4ccfd
 workflow-type: tm+mt
-source-wordcount: '4641'
+source-wordcount: '4620'
 ht-degree: 46%
 
 ---
@@ -94,8 +94,6 @@ Versionsdatum: **15. Februar 2023**
 | Adobe Status-APIs | <ul><li>Adobe Status-APIs bieten detaillierte Informationen und Echtzeitaktualisierungen zu Ausfällen, Störungen und Wartungsereignissen von Adobe Cloud-Produkten und -Diensten.</li><li>Die APIs müssen in [Adobe Developer-Konsole](https://developer.adobe.com/console) bevor sie verwendet werden können. Ihr Unternehmen muss über Berechtigungen für mindestens ein Adobe-Produkt verfügen, um auf Adobe-APIs zugreifen zu können. Ein Entwicklerkonsolenkonto mit den richtigen Berechtigungen ist erforderlich.</li><li>Lesen Sie die Dokumentation . [here](https://developer.adobe.com/adobe-status/) und folgen Sie den Anleitungen für die Einrichtung.</li><li>Sobald die Einrichtung abgeschlossen ist, können Sie die [API-Referenzdokument](https://developer.adobe.com/adobe-status/api/) , um die verfügbaren APIs und die Signaturen anzuzeigen, um sie aufzurufen.</li></ul> |
 
 {style="table-layout:auto"}
-
-Die neuesten Versionsinformationen finden Sie in den [Versionshinweisen](https://experienceleague.adobe.com/docs/release-notes/experience-cloud/previous/2023/02082023.html?lang=de#status) zum Adobe-Systemstatus.
 
 +++
 
