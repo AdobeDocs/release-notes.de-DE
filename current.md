@@ -6,10 +6,10 @@ last-update: March 2023
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: 4e24ba2510e2ed90a11c05e952312b8b08603d80
+source-git-commit: 474b94e449ae89e0428f46fab1e3fca1cd10f0f5
 workflow-type: tm+mt
-source-wordcount: '4607'
-ht-degree: 99%
+source-wordcount: '4500'
+ht-degree: 94%
 
 ---
 
@@ -31,7 +31,7 @@ Ihr Weg zum Erfolg beginnt mit [Experience League](https://experienceleague.adob
 
 ## Aktuelle Informationen zu Produktversionen und Veranstaltungen
 
-Letzte Aktualisierung: **15. März 2023**
+Letzte Aktualisierung: **20. März 2023**
 
 * [[!DNL Experience League]-Ereignisse](#events)
 * [[!DNL Adobe System Status]](#status)
@@ -601,24 +601,24 @@ Last updated: **August 9, 2022**
 
 Erfahren Sie mehr über die neuesten Funktionen für Adobe Advertising.
 
-Zuletzt aktualisiert: **2. März 2023**
+<!--
+Last updated: **March 2, 2023**
 
-| Funktion | Beschreibung |
+| Feature | Description |
 | ------- | ----------- |
-| [!UICONTROL Kampagnen] | (Version vom 15. Februar) Sie können nun Änderungsprotokolle in Diagrammform anzeigen und Anmerkungen zu Einträgen hinzufügen. |
+| [!UICONTROL Campaigns] | (February 15 release) You can now view change logs in chart form, and you can add notes to any entry. |
 
 {style="table-layout:auto"}
+-->
 
 ### Neue Funktionen in [!DNL Advertising Search] {#advertising-search}
 
-Zuletzt aktualisiert: **2. März 2023**
+Zuletzt aktualisiert: **2. März 2023**
 
 | Funktion | Beschreibung |
 | ------- | ----------- |
-| [!UICONTROL Kampagnen] | (Google Ads-Konten; offene Beta-Funktion; Version vom 23. Februar) Schreibgeschützte Synchronisierungsunterstützung für Discovery-Kampagnen von [!DNL Google Ads] befinden sich für alle Advertiser im Beta-Modus. Discovery-Kampagnen haben den [!UICONTROL Kampagnentyp] „[!UICONTROL Discovery]“, den [!UICONTROL Anzeigengruppentyp] „[!UICONTROL Discovery]“ und den [!UICONTROL Creative-Typ] „[!UICONTROL Discovery-Anzeige]“ (für Anzeigen mit einem Bild) oder „[!UICONTROL Discovery-Karussell-Anzeige]“ (für Karussell-Anzeigen mit mehreren Bildern). Sie können Discovery-Kampagnen in Standard- und Hybridportfolios einbeziehen.<br><br>Daten auf Anzeigenebene für Ihre Discovery-Kampagnen sind in Berichten verfügbar. Für Advertiser mit Adobe Analytics-Integration sind Daten auf Anzeigenebene in [!DNL Analytics] verfügbar. Entsprechend sind auch [!DNL Analytics]-Daten in [!DNL Search] verfügbar; die Daten werden mit dem aktualisierten `s_kwcid`-Tracking-Parameter gesendet, unabhängig vom `s_kwcid`-Format, das Sie normalerweise für das Konto verwenden. Wenn Sie normalerweise die ältere `s_kwcid`-Version verwenden, werden Ihre Klick-/Kosten- und Umsatzdaten mithilfe verschiedener `s_kwcids` verfolgt, aber beide Datensätze sind vollständig unter derselben Kampagne und demselben Konto klassifiziert und aggregiert. |
-|  | ([!DNL Google Ads]-Konten; Version vom 11. Februar) Unterstützung für die Bid-Strategie „[!UICONTROL Ziel-Impression-Anteil]“ ist jetzt nur für Kampagnen im Suchnetzwerk verfügbar. Für diese Bid-Strategie optimiert [!DNL Google Ads] (nicht [!DNL Search]) Gebote, um einen Ziel-Impression-Anteil und eine Anzeigenposition zu erreichen. Sie können optional einen [!UICONTROL Ziel-Impression-Anteil] als Prozentsatz, die [!UICONTROL Ziel-Anzeigenposition] und [!UICONTROL Max. CPC] (Kosten pro Klick) eingeben. Diese Option wird in hybriden Portfolios noch nicht unterstützt. |
-| [!UICONTROL Bulksheets] | ([!DNL Microsoft]-Kampagnen; Version vom 11. Februar) Bulksheets enthalten jetzt die Spalten „[!UICONTROL Aktionsaufruf]“ und „[!UICONTROL Sprache des Aktionsaufrufs]“ für Multimedia-Anzeigen (im responsiven Anzeigenformat), die die Zeile „[!UICONTROL Creative (außer RSA)]“ verwenden. |
-| Google Manager-Konten | (Version vom 23. Februar) Mit der neuen Funktion [!UICONTROL Admin] > [!UICONTROL Manager-Konten] können Sie Authentifizierung für [!DNL Google Ads]-Manager-Konten bereitstellen, für die [!DNL Search] kontoübergreifende Konversionen hochlädt. Verwenden Sie diese Funktion, wenn Sie a) durch [!DNL Adobe] nachverfolgte, kontenübergreifende Konversionsmetriken in ein [!DNL Google Ads]-Manager-Konto hochladen möchten oder b) Portfolioziele hochladen möchten, die kontoübergreifende Konversionen in [!DNL Google Ads] für die Hybridoptimierung enthalten.<br><br>Wenn Sie Anmeldeinformationen für ein Manager-Konto hinzugefügt haben, zeigt die optionale Spalte „[!UICONTROL Manager-Konto für kontoübergreifende Konversionen]“ in der Ansicht [!UICONTROL Kampagnen] > [!UICONTROL Konten] die Manager-Konto-ID für jedes untergeordnete Konto an, und die Spalte zeigt einen Fehler an, wenn das Manager-Konto nicht authentifiziert ist. |
+| [!UICONTROL Kampagnen] | ([!DNL Microsoft Advertising] Zielgruppenkampagnen; offene Beta-Funktion; Version vom 18. März) Zielgruppenkampagnen können jetzt die verbesserte CPC (eCPC)-Angebotsstrategie verwenden. Sie können Angebote in den Einstellungen für untergeordnete Anzeigengruppen festlegen.<br><br>Zielgruppenkampagnen mit eCPC können zur Optimierung in Portfolios aufgenommen werden. |
+| [!UICONTROL Kampagnen], [!UICONTROL Berichte] | ([!DNL Google Ads] und [!DNL Microsoft Advertising] Konten; Version vom 18. März) Die folgenden neuen Bekanntheitsmetriken stehen in Kampagnenverwaltungsansichten und -berichten zur Verfügung:<ul><li><p>[!UICONTROL Inhalt ist]: Die Anzahl der Impressionen, die Sie für Anzeigen im Display-/Zielgruppennetzwerk erhalten haben, dividiert durch die geschätzte Anzahl der Display-Anzeigenimpressionen, für die Sie berechtigt waren zu empfangen.</p><p>Dies und das andere &quot;[!UICONTROL Inhalt]*&quot;-Metriken sind in allen Kampagnenverwaltungsansichten für Entitäten verfügbar, die für Inhaltsanzeigen relevant sind, sowie in den zugehörigen Basisberichten:  [!UICONTROL Suchmaschine], [!UICONTROL Suchmaschinenkonto], [!UICONTROL Kampagne], [!UICONTROL Anzeigengruppe]und [!UICONTROL Portfolio].</p></li><li><p>[!UICONTROL Verlorene Inhalte IS (Budget)]: Der geschätzte Prozentsatz an Impressionen, die Ihre Anzeigen im Display-/Zielgruppennetzwerk nicht erhalten haben, da Ihr tägliches oder monatliches Budget zu niedrig war.<p></li><li><p>[!UICONTROL Verlorener Inhalt IS (rank)]: Der geschätzte Prozentsatz der Impressionen, die Ihre Anzeigen im Display-/Zielgruppennetzwerk aufgrund eines schlechten Anzeigenrangs nicht angezeigt wurden.</p></li><li><p>[!UICONTROL Suche nach genauer Übereinstimmung IS]: Die Anzahl der Impressionen, die Sie für Suchvorgänge erhalten haben, die genau mit Ihrem Suchbegriff übereinstimmen, dividiert durch die geschätzte Anzahl der exakten Übereinstimmungsimpressionen, für die Sie berechtigt waren, empfangen zu werden.</p><p>Diese Metrik ist in allen Kampagnenverwaltungsansichten für Entitäten verfügbar, die für Suchanzeigen relevant sind, sowie in den zugehörigen Basisberichten:  [!UICONTROL Suchmaschine], [!UICONTROL Suchmaschinenkonto], [!UICONTROL Kampagne], [!UICONTROL Anzeigengruppe], [!UICONTROL Schlüsselwort], [!UICONTROL Produktgruppe]und [!UICONTROL Portfolio]. Sie sind auch im [!UICONTROL Einschränkung], [!UICONTROL Beschriftungsklassifizierung]und [!UICONTROL Beschriftungswert] Berichte.</p></li></ul> |
 
 {style="table-layout:auto"}
 
