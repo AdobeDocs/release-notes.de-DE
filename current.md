@@ -6,10 +6,10 @@ last-update: March 2023
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: 474b94e449ae89e0428f46fab1e3fca1cd10f0f5
+source-git-commit: b1534eb00000b636d0a53d8fa6b12e564b1035a7
 workflow-type: tm+mt
-source-wordcount: '4500'
-ht-degree: 94%
+source-wordcount: '4534'
+ht-degree: 93%
 
 ---
 
@@ -31,7 +31,7 @@ Ihr Weg zum Erfolg beginnt mit [Experience League](https://experienceleague.adob
 
 ## Aktuelle Informationen zu Produktversionen und Veranstaltungen
 
-Letzte Aktualisierung: **20. März 2023**
+Letzte Aktualisierung: **27. März 2023**
 
 * [[!DNL Experience League]-Ereignisse](#events)
 * [[!DNL Adobe System Status]](#status)
@@ -613,11 +613,12 @@ Last updated: **March 2, 2023**
 
 ### Neue Funktionen in [!DNL Advertising Search] {#advertising-search}
 
-Zuletzt aktualisiert: **2. März 2023**
+Zuletzt aktualisiert: **27. März 2023**
 
 | Funktion | Beschreibung |
 | ------- | ----------- |
 | [!UICONTROL Kampagnen] | ([!DNL Microsoft Advertising] Zielgruppenkampagnen; offene Beta-Funktion; Version vom 18. März) Zielgruppenkampagnen können jetzt die verbesserte CPC (eCPC)-Angebotsstrategie verwenden. Sie können Angebote in den Einstellungen für untergeordnete Anzeigengruppen festlegen.<br><br>Zielgruppenkampagnen mit eCPC können zur Optimierung in Portfolios aufgenommen werden. |
+| [!UICONTROL Kampagnen], [!UICONTROL Portfolios] | ([!DNL Google Ads] Konten; Open Beta-Funktion) Optimierungsunterstützung ist jetzt verfügbar für [!DNL Google Ads] Kampagnen mit maximaler Performance und Sie können sie zu hybriden Portfolios hinzufügen. Angebotsstrategieziele und Kampagnenbudgets werden auf Kampagnenebene festgelegt. |
 | [!UICONTROL Kampagnen], [!UICONTROL Berichte] | ([!DNL Google Ads] und [!DNL Microsoft Advertising] Konten; Version vom 18. März) Die folgenden neuen Bekanntheitsmetriken stehen in Kampagnenverwaltungsansichten und -berichten zur Verfügung:<ul><li><p>[!UICONTROL Inhalt ist]: Die Anzahl der Impressionen, die Sie für Anzeigen im Display-/Zielgruppennetzwerk erhalten haben, dividiert durch die geschätzte Anzahl der Display-Anzeigenimpressionen, für die Sie berechtigt waren zu empfangen.</p><p>Dies und das andere &quot;[!UICONTROL Inhalt]*&quot;-Metriken sind in allen Kampagnenverwaltungsansichten für Entitäten verfügbar, die für Inhaltsanzeigen relevant sind, sowie in den zugehörigen Basisberichten:  [!UICONTROL Suchmaschine], [!UICONTROL Suchmaschinenkonto], [!UICONTROL Kampagne], [!UICONTROL Anzeigengruppe]und [!UICONTROL Portfolio].</p></li><li><p>[!UICONTROL Verlorene Inhalte IS (Budget)]: Der geschätzte Prozentsatz an Impressionen, die Ihre Anzeigen im Display-/Zielgruppennetzwerk nicht erhalten haben, da Ihr tägliches oder monatliches Budget zu niedrig war.<p></li><li><p>[!UICONTROL Verlorener Inhalt IS (rank)]: Der geschätzte Prozentsatz der Impressionen, die Ihre Anzeigen im Display-/Zielgruppennetzwerk aufgrund eines schlechten Anzeigenrangs nicht angezeigt wurden.</p></li><li><p>[!UICONTROL Suche nach genauer Übereinstimmung IS]: Die Anzahl der Impressionen, die Sie für Suchvorgänge erhalten haben, die genau mit Ihrem Suchbegriff übereinstimmen, dividiert durch die geschätzte Anzahl der exakten Übereinstimmungsimpressionen, für die Sie berechtigt waren, empfangen zu werden.</p><p>Diese Metrik ist in allen Kampagnenverwaltungsansichten für Entitäten verfügbar, die für Suchanzeigen relevant sind, sowie in den zugehörigen Basisberichten:  [!UICONTROL Suchmaschine], [!UICONTROL Suchmaschinenkonto], [!UICONTROL Kampagne], [!UICONTROL Anzeigengruppe], [!UICONTROL Schlüsselwort], [!UICONTROL Produktgruppe]und [!UICONTROL Portfolio]. Sie sind auch im [!UICONTROL Einschränkung], [!UICONTROL Beschriftungsklassifizierung]und [!UICONTROL Beschriftungswert] Berichte.</p></li></ul> |
 
 {style="table-layout:auto"}
