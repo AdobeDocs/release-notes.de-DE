@@ -6,10 +6,10 @@ last-update: March 2023
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: a33a3738aa82ce68eef6b40a9a34b7697eb7cb7b
+source-git-commit: 7feb48c8588b9463ba0a01479cd3c1d64668bbe0
 workflow-type: tm+mt
-source-wordcount: '4471'
-ht-degree: 91%
+source-wordcount: '4580'
+ht-degree: 89%
 
 ---
 
@@ -31,9 +31,10 @@ Ihr Weg zum Erfolg beginnt mit [Experience League](https://experienceleague.adob
 
 ## Aktuelle Informationen zu Produktversionen und Veranstaltungen
 
-Letzte Aktualisierung: **29. März 2023**
+Neueste Aktualisierung: **6. April 2023**
 
-* [[!DNL Experience League]-Ereignisse](#events)
+* [[!DNL Experience League] events](#events) (**Aktualisiert am 6. April 2023**)
+* [Zertifizierung](#certification) (**Neu! 6. April 2023**)
 * [[!DNL Adobe System Status]](#status)
 * [[!DNL Experience Cloud]-Benutzeroberfläche und -Administration ](#ecloud)
 * [[!DNL Experience Platform]](#platform)
@@ -59,15 +60,31 @@ Erfahren Sie, was aktuell auf Experience League geschieht. Events sind ideal, um
 
 +++Kommende Events
 
-* **[!DNL Marketo]** | _Adobe Marketo Engage kann groß sein, lernen Sie, wie ein kleines Team seine Instanz maximiert_ | **30. März um 8:00 Uhr PT** |  [registrieren](https://mugs.marketo.com/events/details/marketo-adobe-deep-dive-mug-presents-adobe-marketo-engage-may-be-big-learn-how-a-small-team-maximizes-their-instance/)
+* **[!DNL Workfront]** | _Verbinden: Strategischer Admin-Chat_ | **10. April um 8:00 Uhr CT** | [registrieren](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,mjTFCSLTbkuVKavNdopApA,dndSyq-qPkqd5A929WkXkw,-9nSc9EY3Um-uj0-EaoAPg,7VBCpt8DgEOLA67Jwa7ShA,-f6upnI-xUqzViVU-lSHMg?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
-* **[!DNL Workfront]** | _Verbinden: Admin Chat für Marketing und Kreativität_ | **31. März um 10:00 Uhr MT** | [registrieren](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,1qnTSsu1BE6bJ4ijFsYafg,COdPeWL3z0qsME9nhjnRwg,zQqh7GuOYEKk9nj6La13sw,21mIvr6FckuR3RV6fXWwoA,rsGLF_yiOEma4deQintntQ?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
+* **[!DNL Target]** | _Adobe Target Community Q&amp;A Coffee Break with Matthew Baillie and Georgia Frailey_ | **12. April um 8:00 Uhr PT** |  [registrieren](https://adobe.ly/3ZV8gUG)
 
-* **[!DNL Marketo Engage]** | _Marketo und Mochas: Zustellbarkeit (Teil 2)_ | **April 5 @ 13:00 PM ET** | [registrieren](https://register.gotowebinar.com/register/6818591002040103259)
+* **[!DNL Workfront]** | _Lernen: Adobe Workfront 23.2 - Versionsrundung_ | **12. April um 23:30 Uhr CT** | [registrieren](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,mjTFCSLTbkuVKavNdopApA,dndSyq-qPkqd5A929WkXkw,ridfURuXEU6az_bX9g1Cxg,pvTHbLZm3kSbU7ZxfauFMQ,ylMqSUM8BkCkwTFYT5Ve1A?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
 * **[!DNL Adobe Summit]** |_Besuchen Sie Summit das ganze Jahr über!_ | **On Demand** | [Details](https://business.adobe.com/summit/adobe-summit.html)
 
 Siehe [Veranstaltungen von Experience League](https://experienceleague.adobe.com/events/?lang=de), um einen vollständigen Zeitplan bevorstehender Veranstaltungen und vergangene On-Demand-Veranstaltungen zu erhalten.
+
++++
+
+## ![Symbol](/assets/certification-badge.png) Zertifizierung{#certification}
+
+Beachten Sie alle Adobe-Zertifizierungsteilnehmer! Adobe freut sich, den Start des neuen Experience Cloud bekannt geben zu können [Zertifizierung](https://experienceleague.adobe.com/docs/certification/certification/overview.html?lang=en) Site auf Experience League.
+
++++Details
+
+Die Zertifizierungs-Website ist Ihre zentrale Anlaufstelle für alle [!DNL Experience Cloud] zertifizierungsbezogene Inhalte, einschließlich:
+
+* Verfügbare Zertifizierungen
+* Zertifizierungsverfahren für Adobe-Lösungen
+* Aktualisierungen des Zertifizierungsprogramms
+
+Und vieles mehr! Übernehmen Sie [Zertifizierung der Adobe](https://experienceleague.adobe.com/docs/certification/certification/overview.html?lang=en) auf Experience League und starten Sie Ihre Zertifizierung Journey noch heute!
 
 +++
 
