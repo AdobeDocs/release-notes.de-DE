@@ -6,10 +6,10 @@ last-update: April 2023
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: 7080614a0a487b61eaaca2d50404698ad4228941
+source-git-commit: 4d6f4cc165539812857d090a7938863da6133bb3
 workflow-type: tm+mt
-source-wordcount: '5816'
-ht-degree: 60%
+source-wordcount: '5717'
+ht-degree: 62%
 
 ---
 
@@ -495,7 +495,7 @@ Neue Videos, Tutorials oder Kurse, die für Adobe Campaign veröffentlicht wurde
 | Veröffentlicht | Name | Typ | Beschreibung | Programme |
 | -----------| ---------- | ---------- | ---------- |---------- |
 | April 2023 | [Abfragedaten](https://experienceleague.adobe.com/docs/campaign-classic-learn/tutorials/data-management/query-data.html?lang=en) | Video | Erfahren Sie, wie Sie Daten mit dem Abfrageeditor abfragen können. | Campaign v8 |
-| April 2023 | [Hinzufügen von Anhängen zu einem E-Mail-Versand](https://experienceleague.adobe.com/docs/campaign-classic-learn/tutorials/sending-messages/email-channel/add-attachments-to-an-email-delivery.html?lang=en) | Video | Erfahren Sie, wie Sie einem E-Mail-Versand Anlagen hinzufügen und wie Sie verschiedene Arten von E-Mail-Anhängen konfigurieren. | Campaign v8 |
+| April 2023 | [Hinzufügen von Anhängen zu einem E-Mail-Versand](https://experienceleague.adobe.com/docs/campaign-classic-learn/tutorials/sending-messages/email-channel/add-attachments-to-an-email-delivery.html?lang=en) | Video | Erfahren Sie, wie Sie einem E-Mail-Versand Anhänge hinzufügen und wie Sie verschiedene Arten von E-Mail-Anhängen konfigurieren. | Campaign v8 |
 | April 2023 | [Konfigurieren von Sendungen für A/B-Tests](https://experienceleague.adobe.com/docs/campaign-classic-learn/tutorials/sending-messages/email-channel/configure-deliveries-for-ab-testing.html) | Video | Erfahren Sie, wie Sie einen Versand für A/B-Tests konfigurieren. | Campaign v8 |
 | April 2023 | [Landingpages konfigurieren](https://experienceleague.adobe.com/docs/campaign-classic-learn/tutorials/landing-pages/configure-landingpages.html) | Video | Erfahren Sie, wie Sie Landingpages erstellen und konfigurieren. | Campaign v8 |
 | April 2023 | [Konfigurieren von Planungsaktivitäten](https://experienceleague.adobe.com/docs/campaign-classic-learn/tutorials/automating-with-workflows/configure-scheduler-activities.html) | Video | Erfahren Sie, wie Sie eine Planungsaktivität in einem Workflow konfigurieren. | Campaign v8 |
@@ -676,13 +676,12 @@ Zuletzt aktualisiert: **10. April 2023**
 
 ### Neue Funktionen in [!DNL Advertising Search] {#advertising-search}
 
-Zuletzt aktualisiert: **27. März 2023**
+Zuletzt aktualisiert: **14. April 2023**
 
 | Funktion | Beschreibung |
 | ------- | ----------- |
-| [!UICONTROL Kampagnen] | ([!DNL Microsoft® Advertising] Zielgruppenkampagnen; offene Beta-Funktion; Version vom 18. März) Zielgruppenkampagnen können jetzt die verbesserte CPC (eCPC)-Angebotsstrategie verwenden. Sie können Angebote in den Einstellungen für untergeordnete Anzeigengruppen festlegen.<br><br>Zielgruppenkampagnen mit eCPC können zur Optimierung in Portfolios aufgenommen werden. |
-| [!UICONTROL Kampagnen], [!UICONTROL Portfolios] | ([!DNL Google Ads] Konten; Open Beta-Funktion) Optimierungsunterstützung ist jetzt verfügbar für [!DNL Google Ads] Kampagnen mit maximaler Performance und Sie können sie zu hybriden Portfolios hinzufügen. Angebotsstrategieziele und Kampagnenbudgets werden auf Kampagnenebene festgelegt. |
-| [!UICONTROL Kampagnen], [!UICONTROL Berichte] | ([!DNL Google Ads] und [!DNL Microsoft® Advertising] Konten; Version vom 18. März) Die folgenden neuen Bekanntheitsmetriken stehen in Kampagnenverwaltungsansichten und -berichten zur Verfügung:<ul><li><p>[!UICONTROL Inhalt ist]: Die Anzahl der Impressionen, die Sie für Anzeigen im Display-/Zielgruppennetzwerk erhalten haben, dividiert durch die geschätzte Anzahl der Display-Anzeigenimpressionen, für die Sie berechtigt waren zu empfangen.</p><p>Dies und das andere [!UICONTROL Inhalt] Metriken sind in allen Kampagnenverwaltungsansichten für Entitäten verfügbar, die für Inhaltsanzeigen relevant sind, sowie in den zugehörigen Basisberichten:  [!UICONTROL Suchmaschine], [!UICONTROL Suchmaschinenkonto], [!UICONTROL Kampagne], [!UICONTROL Anzeigengruppe]und [!UICONTROL Portfolio].</p></li><li><p>[!UICONTROL Verlorene Inhalte IS (Budget)]: Der geschätzte Prozentsatz an Impressionen, die Ihre Anzeigen im Display-/Zielgruppennetzwerk nicht erhalten haben, da Ihr tägliches oder monatliches Budget zu niedrig war.<p></li><li><p>[!UICONTROL Verlorener Inhalt IS (rank)]: Der geschätzte Prozentsatz der Impressionen, die Ihre Anzeigen im Display-/Zielgruppennetzwerk aufgrund eines schlechten Anzeigenrangs nicht angezeigt wurden.</p></li><li><p>[!UICONTROL Suche nach genauer Übereinstimmung IS]: Die Anzahl der Impressionen, die Sie für Suchvorgänge erhalten haben, die genau mit Ihrem Suchbegriff übereinstimmen, dividiert durch die geschätzte Anzahl der exakten Übereinstimmungsimpressionen, für die Sie berechtigt waren, empfangen zu werden.</p><p>Diese Metrik ist in allen Kampagnenverwaltungsansichten für Entitäten verfügbar, die für Suchanzeigen relevant sind, sowie in den zugehörigen Basisberichten:  [!UICONTROL Suchmaschine], [!UICONTROL Suchmaschinenkonto], [!UICONTROL Kampagne], [!UICONTROL Anzeigengruppe], [!UICONTROL Schlüsselwort], [!UICONTROL Produktgruppe]und [!UICONTROL Portfolio]. Sie sind auch im [!UICONTROL Einschränkung], [!UICONTROL Beschriftungsklassifizierung]und [!UICONTROL Beschriftungswert] Berichte.</p></li></ul> |
+| [!UICONTROL Kampagnen] | ([!DNL Microsoft® Advertising] Zielgruppenkampagnen; Version vom 15. April) Zielgruppenkampagnen können jetzt die &quot;manuelle CPM&quot;-Angebotsstrategie verwenden. Sie können Angebote in den Einstellungen für untergeordnete Anzeigengruppen festlegen.<br>&lt;brOptimization support isn’t available for CPM campaigns. |
+| [!UICONTROL Recommendations] | Sechs neue ([!DNL Google Ads] Empfehlungen finden Sie unter [!UICONTROL Einblicke und Berichte] > [!UICONTROL Recommendations]:<ul><li>[!UICONTROL Responsive Suche verbessert die Anzeigenstärke]: Vorschläge zur Verbesserung der Anzeigenstärke für eine responsive Suchanzeige</li><li>[!UICONTROL Aktualisierung der lokalen Kampagne auf die maximale Leistung]: Aktualisieren einer älteren lokalen Kampagne auf eine Kampagne mit der höchsten Leistung</li><li>[!UICONTROL Upgrade der intelligenten Einkaufskampagne auf die Leistungssteigerung]: Aktualisieren einer alten Smart-Shopping-Kampagne auf eine Performance-Max-Kampagne</li><li>[!UICONTROL Planen der Target-ROAS]: Erhöhung des Budgets vor einem saisonalen Ereignis, das den Traffic voraussichtlich steigern wird, und Änderung der Angebotsstrategie von [!DNL Maximize Conversion Value] nach [!DNL Target ROAS]</li><li>[!UICONTROL Target-CPA-Angebot zu niedrig erhöhen]: Erhöhen Sie die [!DNL Target CPA] um einen empfohlenen Betrag zu erhöhen, wenn es zu niedrig ist und nur wenige oder keine Konversionen vorliegen</li><li>[!UICONTROL Opt-in für Display-Erweiterung]: Erweiterung der Reichweite durch Aktualisierung einer Kampagne zur Verwendung der Anzeigeerweiterung</li></ul>Da das Hinzufügen und Entfernen von Assets, das Ändern von Kampagnentypen sowie das Ändern von Budgets und Angebotsstrategien die Performance beeinflussen können, empfehlen wir, die Vor- und Nachteile jeder Empfehlung mit Ihrem Empfehlungsteam zu besprechen, damit Sie eine fundierte Entscheidung treffen können. |
 
 {style="table-layout:auto"}
 
