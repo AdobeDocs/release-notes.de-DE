@@ -6,9 +6,9 @@ last-update: April 2023
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: 4d6f4cc165539812857d090a7938863da6133bb3
+source-git-commit: fa7024debf03de040dc855e5045b0b2303ee7db0
 workflow-type: tm+mt
-source-wordcount: '5717'
+source-wordcount: '5765'
 ht-degree: 62%
 
 ---
@@ -31,7 +31,7 @@ Ihr Weg zum Erfolg beginnt mit [Experience League](https://experienceleague.adob
 
 ## Aktuelle Informationen zu Produktversionen und Veranstaltungen
 
-Neueste Aktualisierung: **12. April 2023**
+Neueste Aktualisierung: **18. April 2023**
 
 * [[!DNL Experience League]-Ereignisse](#events)
 * [Zertifizierung bei Adobe](#certification) (**Neu!**)
@@ -58,13 +58,23 @@ Neueste Aktualisierung: **12. April 2023**
 
 Erfahren Sie, was aktuell auf Experience League geschieht. Events sind ideal, um zu lernen, Kontakte zu knüpfen und von Adobe-Fachleuten Antworten auf Fragen zu erhalten!
 
+Aktualisiert: **19. April 2023**
+
 +++Kommende Events
 
-* **[!DNL Workfront]** | _Verbinden: Strategischer Admin-Chat_ | **10. April um 8:00 Uhr CT** | [registrieren](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,mjTFCSLTbkuVKavNdopApA,dndSyq-qPkqd5A929WkXkw,-9nSc9EY3Um-uj0-EaoAPg,7VBCpt8DgEOLA67Jwa7ShA,-f6upnI-xUqzViVU-lSHMg?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
+* **[!DNL Workfront]** | _Fragen Sie die Experten: Förderung der Workflow-Bereinigung durch die Automatisierung des Webinars_ | **27. April um 10:30 Uhr MT** | [registrieren](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,PiX3iDTmREqs2eOICcUIoA,5KJVGb6S_Uiiki7ErNALgw,pUGUw4e8dEaYTwHasipYnw,Qp_LrlOtoUKguf3gH4x3HQ,zWCOgeSX_Uy_Zmp7d-ZbTQ?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
-* **[!DNL Target]** | _Adobe Target Community Q&amp;A Coffee Break with Matthew Baillie and Georgia Frailey_ | **12. April um 8:00 Uhr PT** |  [registrieren](https://adobe.ly/3ZV8gUG)
+* **[!DNL Experience Manager Sites]** | _AEM Sites Supercharger Workshop_ | **25. April um 8:00 Uhr PT** |  [registrieren](https://adobe.ly/3ZV8gUG)
 
-* **[!DNL Workfront]** | _Lernen: Adobe Workfront 23.2 - Versionsrundung_ | **12. April um 23:30 Uhr CT** | [registrieren](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,mjTFCSLTbkuVKavNdopApA,dndSyq-qPkqd5A929WkXkw,ridfURuXEU6az_bX9g1Cxg,pvTHbLZm3kSbU7ZxfauFMQ,ylMqSUM8BkCkwTFYT5Ve1A?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
+* **[!DNL Experience Platform]** | _Mit nur wenigen Klicks können Sie die Datenerfassung und Ereignisweiterleitung einrichten und nutzen!_ | **25. April um 9:00 Uhr PT** | [registrieren](https://engage.adobe.com/ExpLeagueLive-230425.html)
+
+* **[!DNL Marketo Engage]** | _Marketo Champion Deep Dive: E-Mail-Krankenversicherung_ | **25. April um 10:00 Uhr PT** | [registrieren](https://mugs.marketo.com/events/details/marketo-adobe-deep-dive-mug-presents-marketo-champion-deep-dive-email-nurture/)
+
+* **[!DNL Experience Manager as a Cloud Service]** | _AEM Champion Office Hours - AEM as a Cloud Service_ | **27. April um 7:30 Uhr PT** | [registrieren](https://aem-augs.adobe.com/events/details/adobe-experience-manager-aem-champion-office-hours-presents-adobe-experience-manager-champion-office-hours-aem-as-a-cloud-service/)
+
+* **[!DNL Analytics]** | _Erstellen eines Teams aus Adobe Analytics-Experten_ | **27. April um 8:00 Uhr PT** | [registrieren](https://engage.adobe.com/Building_an_analytics_team.html?utm_source=experienceleague)
+
+* **[!DNL Target]** | _Adobe Target - Bereitstellen personalisierter Kundenerlebnisse jedes Mal!_ | **27. April um 9:00 Uhr BST** | [registrieren](https://adobetargetemea2023.experienceleague.adobeevents.com/)
 
 * **[!DNL Adobe Summit]** |_Besuchen Sie Summit das ganze Jahr über!_ | **On Demand** | [Details](https://business.adobe.com/summit/adobe-summit.html)
 
@@ -680,7 +690,7 @@ Zuletzt aktualisiert: **14. April 2023**
 
 | Funktion | Beschreibung |
 | ------- | ----------- |
-| [!UICONTROL Kampagnen] | ([!DNL Microsoft® Advertising] Zielgruppenkampagnen; Version vom 15. April) Zielgruppenkampagnen können jetzt die &quot;manuelle CPM&quot;-Angebotsstrategie verwenden. Sie können Angebote in den Einstellungen für untergeordnete Anzeigengruppen festlegen.<br>&lt;brOptimization support isn’t available for CPM campaigns. |
+| [!UICONTROL Kampagnen] | ([!DNL Microsoft® Advertising] Zielgruppenkampagnen; Version vom 15. April) Zielgruppenkampagnen können jetzt die &quot;manuelle CPM&quot;-Angebotsstrategie verwenden. Sie können Angebote in den Einstellungen für untergeordnete Anzeigengruppen festlegen.<br>&lt;brOptimization support isn&#39;t available for CPM campaigns. |
 | [!UICONTROL Recommendations] | Sechs neue ([!DNL Google Ads] Empfehlungen finden Sie unter [!UICONTROL Einblicke und Berichte] > [!UICONTROL Recommendations]:<ul><li>[!UICONTROL Responsive Suche verbessert die Anzeigenstärke]: Vorschläge zur Verbesserung der Anzeigenstärke für eine responsive Suchanzeige</li><li>[!UICONTROL Aktualisierung der lokalen Kampagne auf die maximale Leistung]: Aktualisieren einer älteren lokalen Kampagne auf eine Kampagne mit der höchsten Leistung</li><li>[!UICONTROL Upgrade der intelligenten Einkaufskampagne auf die Leistungssteigerung]: Aktualisieren einer alten Smart-Shopping-Kampagne auf eine Performance-Max-Kampagne</li><li>[!UICONTROL Planen der Target-ROAS]: Erhöhung des Budgets vor einem saisonalen Ereignis, das den Traffic voraussichtlich steigern wird, und Änderung der Angebotsstrategie von [!DNL Maximize Conversion Value] nach [!DNL Target ROAS]</li><li>[!UICONTROL Target-CPA-Angebot zu niedrig erhöhen]: Erhöhen Sie die [!DNL Target CPA] um einen empfohlenen Betrag zu erhöhen, wenn es zu niedrig ist und nur wenige oder keine Konversionen vorliegen</li><li>[!UICONTROL Opt-in für Display-Erweiterung]: Erweiterung der Reichweite durch Aktualisierung einer Kampagne zur Verwendung der Anzeigeerweiterung</li></ul>Da das Hinzufügen und Entfernen von Assets, das Ändern von Kampagnentypen sowie das Ändern von Budgets und Angebotsstrategien die Performance beeinflussen können, empfehlen wir, die Vor- und Nachteile jeder Empfehlung mit Ihrem Empfehlungsteam zu besprechen, damit Sie eine fundierte Entscheidung treffen können. |
 
 {style="table-layout:auto"}
