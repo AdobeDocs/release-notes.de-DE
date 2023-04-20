@@ -9,7 +9,7 @@ exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
 source-git-commit: fa7024debf03de040dc855e5045b0b2303ee7db0
 workflow-type: tm+mt
 source-wordcount: '5765'
-ht-degree: 62%
+ht-degree: 94%
 
 ---
 
@@ -27,7 +27,7 @@ Auf dieser Seite erhalten Sie aktuelle Informationen zu Produktversionen, Verans
 
 **Benötigen Sie Hilfe?**
 
-Ihr Weg zum Erfolg beginnt mit [Experience League](https://experienceleague.adobe.com/?lang=de#home). Durchsuchen der umfangreichen Selbsthilfe-Bibliothek der Adobe [Produktdokumentation](https://experienceleague.adobe.com/docs/?lang=de) und geführt [Anleitungsvideos](https://experienceleague.adobe.com/docs/home-tutorials.html?lang=de). Suchen Sie nach [Kursen](https://experienceleague.adobe.com/?lang=de#courses) für alle Stufen und Rollen, stellen Sie Fragen in unserer [Online-Community](https://experienceleaguecommunities.adobe.com/?profile.language=de) von Gleichgesinnten und erhalten Sie bei Bedarf fachkompetenten [Support](https://experienceleague.adobe.com/?support-tab=home&amp;lang=de#support).
+Ihr Weg zum Erfolg beginnt mit [Experience League](https://experienceleague.adobe.com/?lang=de#home). Durchsuchen Sie unsere umfangreiche [Produktdokumentation](https://experienceleague.adobe.com/docs/?lang=de) zur Selbsthilfe sowie angeleitete [Video-Tutorials](https://experienceleague.adobe.com/docs/home-tutorials.html?lang=de). Suchen Sie nach [Kursen](https://experienceleague.adobe.com/?lang=de#courses) für alle Stufen und Rollen, stellen Sie Fragen in unserer [Online-Community](https://experienceleaguecommunities.adobe.com/?profile.language=de) von Gleichgesinnten und erhalten Sie bei Bedarf fachkompetenten [Support](https://experienceleague.adobe.com/?support-tab=home&amp;lang=de#support).
 
 ## Aktuelle Informationen zu Produktversionen und Veranstaltungen
 
@@ -36,7 +36,7 @@ Neueste Aktualisierung: **18. April 2023**
 * [[!DNL Experience League]-Ereignisse](#events)
 * [Zertifizierung bei Adobe](#certification) (**Neu!**)
 * [[!DNL Adobe System Status]](#status)
-* [[!DNL Experience Cloud]-Benutzeroberfläche und -Administration ](#ecloud)
+* [[!DNL Experience Cloud]-Benutzeroberfläche und -Administration](#ecloud)
 * [[!DNL Experience Platform]](#platform)
 * [[!DNL Analytics]](#analytics)
 * [[!DNL Customer Journey Analytics]](#cja)<!-- * [[!DNL Streaming Media Analytics]](#sma) -->
@@ -76,25 +76,25 @@ Aktualisiert: **19. April 2023**
 
 * **[!DNL Target]** | _Adobe Target - Bereitstellen personalisierter Kundenerlebnisse jedes Mal!_ | **27. April um 9:00 Uhr BST** | [registrieren](https://adobetargetemea2023.experienceleague.adobeevents.com/)
 
-* **[!DNL Adobe Summit]** |_Besuchen Sie Summit das ganze Jahr über!_ | **On Demand** | [Details](https://business.adobe.com/summit/adobe-summit.html)
+* **[!DNL Adobe Summit]** |_Sie können das ganze Jahr über zum Summit zurückkommen!_ | **On-Demand** | [Details](https://business.adobe.com/summit/adobe-summit.html)
 
-Siehe [Veranstaltungen von Experience League](https://experienceleague.adobe.com/events/?lang=de), um einen vollständigen Zeitplan bevorstehender Veranstaltungen und vergangene On-Demand-Veranstaltungen zu erhalten.
+Siehe [Veranstaltungen von Experience League](https://experienceleague.adobe.com/events/?lang=de), um einen vollständigen Zeitplan bevorstehender Veranstaltungen und vergangener On-Demand-Veranstaltungen zu erhalten.
 
 +++
 
 ## ![Symbol](/assets/certification-badge.png) Zertifizierung{#certification}
 
-Beachten Sie alle Adobe-Zertifizierungsteilnehmer! Adobe freut sich, den Start des neuen Experience Cloud bekannt geben zu können [Zertifizierung](https://experienceleague.adobe.com/docs/certification/certification/overview.html?lang=en) Site auf Experience League.
+Achtung an alle Kandidatinnen und Kandidaten für die Adobe-Zertifizierung! Adobe freut sich, den Start der neuen Site für die Experience Cloud-[Zertifizierung](https://experienceleague.adobe.com/docs/certification/certification/overview.html?lang=de) auf Experience League bekannt geben zu können.
 
 +++Details
 
-Die Zertifizierungs-Website ist Ihre zentrale Anlaufstelle für alle [!DNL Experience Cloud] zertifizierungsbezogene Inhalte, einschließlich:
+Die Zertifizierungs-Site ist Ihre zentrale Anlaufstelle für alle Inhalte im Zusammenhang mit der [!DNL Experience Cloud]-Zertifizierung, einschließlich:
 
 * Verfügbare Zertifizierungen
-* Zertifizierungsverfahren für Adobe-Lösungen
+* Erneuerung der Zertifizierung für Adobe-Lösungen
 * Aktualisierungen des Zertifizierungsprogramms
 
-Und vieles mehr! Übernehmen Sie [Zertifizierung der Adobe](https://experienceleague.adobe.com/docs/certification/certification/overview.html?lang=en) auf Experience League und starten Sie Ihre Zertifizierung Journey noch heute!
+Und vieles mehr! Gehen Sie zur [Adobe-Zertifizierung](https://experienceleague.adobe.com/docs/certification/certification/overview.html?lang=de) auf Experience League und starten Sie Ihre Zertifizierungsreise noch heute!
 
 +++
 
@@ -106,7 +106,7 @@ Erfahren Sie mehr über die neuesten Funktionen und Aktualisierungen in [!DNL Ad
 
 [!DNL Adobe System Status] liefert detaillierte Informationen, Statusaktualisierungen und E-Mail-Benachrichtigungen zu Ausfällen, Störungen und Wartungsarbeiten von Adobe-Produkten und -Diensten. Weitere Informationen dazu erhalten Sie unter [status.adobe.com/de](https://status.adobe.com/de).
 
-Siehe [Versionshinweise vom März 2023](https://experienceleague.adobe.com/docs/release-notes/experience-cloud/previous/2023/03082023.html?lang=de#status) für den Status der Adobe , um die neuesten Updates anzuzeigen.
+Siehe den Adobe-Status in den [Versionshinweisen für März 2023](https://experienceleague.adobe.com/docs/release-notes/experience-cloud/previous/2023/03082023.html?lang=de#status), um die aktuellsten Informationen zu erhalten.
 
 +++
 
@@ -136,8 +136,8 @@ Neue Videos, Tutorials oder Kurse, die für Adobe Experience Platform veröffent
 
 | Typ | Produktfunktion | Beschreibung | Applikation |
 | -----------| ---------- |---------- |---------- |
-| April 2023 | [Daten mit HTTP-API streamen](https://experienceleague.adobe.com/docs/platform-learn/tutorials/sources/streaming-ingestion-http-api.html?lang=de) | Video | Erfahren Sie, wie Sie Daten mithilfe des HTTP-API-Endpunkts in Echtzeit an Adobe Experience Platform streamen. | Datenaufnahme |
-| April 2023 | [Beispieldaten nach Adobe Experience Platform importieren](https://experienceleague.adobe.com/docs/platform-learn/tutorials/import-sample-data.html?lang=de) | Video | Erfahren Sie, wie Sie eine Experience Platform-Sandbox-Umgebung mit Beispieldaten einrichten. | Plattform - Allgemein |
+| April 2023 | [Streamen von Daten mit der HTTP-API](https://experienceleague.adobe.com/docs/platform-learn/tutorials/sources/streaming-ingestion-http-api.html?lang=de) | Video | In diesem Video wird gezeigt, wie Daten unter Verwendung des HTTP-API-Endpunkts in Echtzeit an Adobe Experience Platform gestreamt werden können. | Datenaufnahme |
+| April 2023 | [Importieren von Beispieldaten nach Adobe Experience Platform](https://experienceleague.adobe.com/docs/platform-learn/tutorials/import-sample-data.html?lang=de) | Video | Erfahren Sie, wie Sie eine Experience Platform-Sandbox-Umgebung mit Beispieldaten einrichten. | Platform – allgemein |
 
 {style="table-layout:auto"}
 
@@ -147,18 +147,18 @@ Neue Artikel und Aktualisierungen vorhandener Artikel für [!DNL Experience Plat
 
 | Veröffentlicht | Name | Typ | Beschreibung |
 | -----------| ---------- | ---------- | ---------- |
-| März 2023 | [Adobe Experience Platform: meta:enum kann nicht geleert werden](https://experienceleague.adobe.com/docs/experience-cloud-kcs/kbarticles/KA-21767.html?lang=de) | Neuer Artikel | Erfahren Sie, wie Sie das Problem beheben können, bei dem `meta:enum` kann nicht geleert werden. |
-| März 2023 | [Ist es möglich, dass ein Kunde mit einer AEP-Aktivierungslizenz die Ereignisweiterleitung verwendet?](https://experienceleague.adobe.com/docs/experience-cloud-kcs/kbarticles/KA-21592.html?lang=de) | Neuer Artikel | Erfahren Sie, wie ein Kunde mit einer AEP-Aktivierungslizenz die Ereignisweiterleitung verwendet. |
+| März 2023 | [Adobe Experience Platform: meta:enum kann nicht geleert werden](https://experienceleague.adobe.com/docs/experience-cloud-kcs/kbarticles/KA-21767.html?lang=de) | Neuer Artikel | Erfahren Sie, wie Sie das Problem beheben können, dass `meta:enum` nicht geleert werden kann. |
+| März 2023 | [Ist es möglich, dass eine Kundin oder ein Kunde mit einer AEP-Aktivierungslizenz die Ereignisweiterleitung verwendet?](https://experienceleague.adobe.com/docs/experience-cloud-kcs/kbarticles/KA-21592.html?lang=de) | Neuer Artikel | Erfahren Sie, wie eine Kundin oder ein Kunde mit einer AEP-Aktivierungslizenz die Ereignisweiterleitung verwenden kann. |
 | März 2023 | [Wie werden AEP-Daten bei der Übertragung an verschiedene Ziele gesichert?](https://experienceleague.adobe.com/docs/experience-cloud-kcs/kbarticles/KA-21593.html?lang=de) | Neuer Artikel | Erfahren Sie mehr über Datensicherheitsmaßnahmen für AEP bei der Übermittlung von Daten an verschiedene Ziele. |
-| März 2023 | [Ist die Adobe Experience Platform nicht da?](https://experienceleague.adobe.com/docs/experience-cloud-kcs/kbarticles/KA-21594.html?lang=de) | Neuer Artikel | Erfahren Sie, was Sie tun können, wenn Ihr AEP nicht wie erwartet funktioniert. |
-| März 2023 | [Ziel der Zielgruppe blieb im Status &quot;Löschen fehlgeschlagen&quot;](https://experienceleague.adobe.com/docs/experience-cloud-kcs/kbarticles/KA-21626.html?lang=de) | Neuer Artikel | Finden Sie die Lösung für das Problem heraus, in dem das Ziel am _delete-failed_ Status. |
-| März 2023 | [Standorthinweise, Regionale DCS-Knoten AAM und Standorthinweise zum ID-Dienst](https://experienceleague.adobe.com/docs/experience-cloud-kcs/kbarticles/KA-21677.html?lang=de) | Neuer Artikel | Erfahren Sie mehr über die Beziehung zwischen AEP WebSDK-Standorthinweisen, Experience Cloud-ID-Dienststandhinweisen und AAM regionalen DCS-Knoten. |
+| März 2023 | [Ist Adobe Experience Platform nicht verfügbar?](https://experienceleague.adobe.com/docs/experience-cloud-kcs/kbarticles/KA-21594.html?lang=de) | Neuer Artikel | Erfahren Sie, was Sie tun können, wenn Ihre AEP nicht wie erwartet funktioniert. |
+| März 2023 | [Target-Ziel steckt im Status „Löschen fehlgeschlagen“ fest](https://experienceleague.adobe.com/docs/experience-cloud-kcs/kbarticles/KA-21626.html?lang=de) | Neuer Artikel | Erfahren Sie die Lösung für das Problem, dass das Target-Ziel im Status _Löschen fehlgeschlagen_ feststeckt. |
+| März 2023 | [Speicherorthinweise, regionale AAM-DCS-Knoten und Speicherorthinweise für den ID-Service](https://experienceleague.adobe.com/docs/experience-cloud-kcs/kbarticles/KA-21677.html?lang=de) | Neuer Artikel | Erfahren Sie mehr über die Beziehung zwischen den Speicherorthinweisen für das AEP Web SDK, den Speicherorthinweisen für den ID-Service von Experience Cloud und den regionalen AAM-DCS-Knoten. |
 
 {style="table-layout:auto"}
 
 ### [!DNL Mobile] SDK
 
-Aktualisiert: **11. November 2022** – Siehe [Versionshinweise und Änderungsprotokolle](https://aep-sdks.gitbook.io/docs/release-notes) für das  von [!DNL Adobe Experience Platform] [!DNL Mobile SDKs].
+Aktualisiert: **11. November 2022** – Siehe [Versionshinweise und Änderungsprotokolle](https://aep-sdks.gitbook.io/docs/release-notes) für das von [!DNL Adobe Experience Platform] [!DNL Mobile SDKs].
 
 +++
 
@@ -208,8 +208,8 @@ Neue Videos, Tutorials oder Kurse, die für CJA veröffentlicht wurden.
 
 | Veröffentlicht | Name | Typ | Beschreibung |
 | -----------| ---------- | ---------- | ---------- |
-| April 2023 | [Hinzufügen neuer Daten zu einer Verbindung in [!DNL Customer Journey Analytics]](https://experienceleague.adobe.com/docs/customer-journey-analytics-learn/tutorials/connections/add-past-data-to-an-existing-connection-in-cja.html?lang=en) | Aktualisiertes Video | Nutzen Sie Ihre Analyse optimal, indem Sie neue Daten aus anderen Kanälen zu einem [!DNL Customer Journey Analytics] Verbindung. Erfahren Sie mehr über die Anforderungen für das Zusammenführen dieser neuen Daten und die Auswirkungen auf die Analysen und Berichte, die mithilfe von Konfigurationseinstellungen festgelegt werden. |
-| April 2023 | [Konfigurieren einer fehlenden Personen-ID in [!DNL Customer Journey Analytics]](https://experienceleague.adobe.com/docs/customer-journey-analytics-learn/tutorials/visitor-id/configure-missing-person-id.html) | Video | Erfahren Sie, wie Sie einen Datensatz adressieren, der nicht über eine verfügbare Personen-ID verfügt, die konfiguriert werden kann. |
+| April 2023 | [Hinzufügen neuer Daten zu einer Verbindung in [!DNL Customer Journey Analytics]](https://experienceleague.adobe.com/docs/customer-journey-analytics-learn/tutorials/connections/add-past-data-to-an-existing-connection-in-cja.html?lang=de) | Aktualisiertes Video | Optimieren Sie Ihre Analysen, indem Sie neue Daten aus anderen Kanälen zu einer [!DNL Customer Journey Analytics]-Verbindung hinzufügen. Erfahren Sie mehr über die Anforderungen für das Zusammenführen dieser neuen Daten und die Auswirkungen auf die Analysen und Berichte, die mithilfe von Konfigurationseinstellungen festgelegt werden. |
+| April 2023 | [Konfigurieren einer fehlenden Personen-ID in [!DNL Customer Journey Analytics]](https://experienceleague.adobe.com/docs/customer-journey-analytics-learn/tutorials/visitor-id/configure-missing-person-id.html?lang=de) | Video | Erfahren Sie, wie ein Datensatz adressiert werden kann, der nicht über eine verfügbare Personen-ID zum Konfigurieren verfügt. |
 
 {style="table-layout:auto"}
 
@@ -236,10 +236,10 @@ Neue Artikel und Aktualisierungen vorhandener Artikel für [!DNL Audience Manage
 
 | Veröffentlicht | Name | Typ | Beschreibung |
 | -----------| ---------- | ---------- | ---------- |
-| März 2023 | [Adobe Audience Manager unterstützt kein Opt-in nach dem Opt-out](https://experienceleague.adobe.com/docs/experience-cloud-kcs/kbarticles/KA-21682.html?lang=de) | Neuer Artikel | Erfahren Sie warum [!DNL Audience Manager] bietet keine Unterstützung für Opt-in nach dem Opt-out. |
-| März 2023 | [Definitionen der Metriken AAM Eigenschaftspopulation API](https://experienceleague.adobe.com/docs/experience-cloud-kcs/kbarticles/KA-21616.html?lang=de) | Neuer Artikel | Erfahren Sie mehr über die AAM API-Metriken zur Eigenschaftspopulation. |
-| März 2023 | [Actionable Log Files with [!DNL Google Campaign Manager 360]](https://experienceleague.adobe.com/docs/experience-cloud-kcs/kbarticles/KA-21633.html?lang=de) | Neuer Artikel | Erfahren Sie, wie Sie umsetzbare Protokolldateien korrigieren, die nicht mehr mit Daten aus aktualisiert wurden. [!DNL Google Campaign Manager 360]. |
-| März 2023 | [Fehler: _Löschen aufgrund der aktivierten Segmentfreigabe nicht zulässig_](https://experienceleague.adobe.com/docs/experience-cloud-kcs/kbarticles/KA-21790.html?lang=de) | Neuer Artikel | Erfahren Sie, wie Sie den Fehler beheben. _Löschen aufgrund der aktivierten Segmentfreigabe nicht zulässig_. |
+| März 2023 | [Adobe Audience Manager unterstützt kein Opt-in nach dem Opt-out](https://experienceleague.adobe.com/docs/experience-cloud-kcs/kbarticles/KA-21682.html?lang=de) | Neuer Artikel | Erfahren Sie, warum [!DNL Audience Manager] nach dem Opt-out keine Unterstützung für Opt-in bietet. |
+| März 2023 | [Definitionen der Metriken der API zur Population von AAM-Eigenschaften](https://experienceleague.adobe.com/docs/experience-cloud-kcs/kbarticles/KA-21616.html?lang=de) | Neuer Artikel | Erfahren Sie mehr über die API-Metriken für die Population von AAM-Eigenschaften. |
+| März 2023 | [Aktualisieren von verwertbaren Protokolldateien mit [!DNL Google Campaign Manager 360]](https://experienceleague.adobe.com/docs/experience-cloud-kcs/kbarticles/KA-21633.html?lang=de) | Neuer Artikel | Erfahren Sie, wie Sie das Problem beheben können, dass verwertbare Protokolldateien nicht mehr mit Daten aus [!DNL Google Campaign Manager 360] aktualisiert werden. |
+| März 2023 | [Fehler: _Löschen aufgrund der aktivierten Segmentfreigabe nicht zulässig_](https://experienceleague.adobe.com/docs/experience-cloud-kcs/kbarticles/KA-21790.html?lang=de) | Neuer Artikel | Erfahren Sie, wie Sie den Fehler _Löschen aufgrund der aktivierten Segmentfreigabe nicht zulässig_ beheben können. |
 
 {style="table-layout:auto"}
 
@@ -263,7 +263,7 @@ Adobe empfiehlt, die folgenden Ressourcen zu konsultieren, um über Versionsinfo
 
 ### Aktuelles Video zur Versionsübersicht
 
-Beobachten Sie die [Video Versionsübersicht im Februar 2023](https://video.tv.adobe.com/v/3416885) für eine Zusammenfassung der Funktionen, die in der Version 2023.02.0 (Februar 2023) hinzugefügt wurden.
+Sehen Sie sich das [Übersichtsvideo zur Version Februar 2023](https://video.tv.adobe.com/v/3416885) an, um eine Zusammenfassung der Funktionen zu erhalten, die in der Version 2023.02.0 (Februar 2023) hinzugefügt wurden.
 
 ### [!DNL Experience Manager Sites] as a [!DNL Cloud Service]
 
@@ -275,7 +275,7 @@ _Neue Funktionen_
 
 _Neue Funktion_
 
-* Asset-Berichte bieten Administrierenden jetzt die Möglichkeit, [Asset-Download-Berichte](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/assets/admin/asset-reports.html?lang=de) aus [!DNL Experience Manager Assets] as a [!DNL Cloud Service]-Implementierung zu generieren. Diese Daten ermöglichen es Administratoren außerdem, Einblicke aus wichtigen Erfolgsmetriken zu gewinnen, um die Akzeptanz von Assets innerhalb Ihres Unternehmens und durch Kunden zu messen.
+* Asset-Berichte bieten Administrierenden jetzt die Möglichkeit, [Asset-Download-Berichte](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/assets/admin/asset-reports.html?lang=de) aus [!DNL Experience Manager Assets] as a [!DNL Cloud Service]-Implementierung zu generieren. Diese Daten ermöglichen es Administrierenden außerdem, Einblicke aus wichtigen Erfolgsmetriken zu gewinnen, um die Akzeptanz von Assets in Ihrem Unternehmen und durch Kundinnen bzw. Kunden zu messen.
 * [!DNL Experience Manager Assets] [unterstützt jetzt SAS-Token](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/assets/manage/add-assets.html?lang=de#asset-bulk-ingestor) zusätzlich zum Zugriffsschlüssel für die Authentifizierung beim Herstellen einer Verbindung zur Azure Blob Storage-Datenquelle für die Aufnahme von Assets mit dem Bulk Import-Tool.
 * Verbesserte Verwaltung von CMYK-Bildern in Asset Compute, sodass Sie für CMYK-Bilder intelligentes Zuschneiden verwenden und intelligente Tags generieren können.
 
@@ -343,24 +343,24 @@ _API-Änderungen_
 * Es wurden API-Änderungen zur Unterstützung von [RDEs](https://developer.adobe.com/experience-cloud/cloud-manager/reference/api/#tag/Rapid-Development-Environments) vorgenommen.
 * Die API ermöglicht jetzt das Abrufen von [Ausführungsartefakten](https://developer.adobe.com/experience-cloud/cloud-manager/reference/api/#tag/Execution-Artifacts).
 
-### [!DNL Workfront for Experience Manager] verbesserter Connector
+### Erweiterter Connector für [!DNL Workfront for Experience Manager]
 
-Die neueste Version 1.9.8 von Workfront für den Connector für Experience Manager wurde am 3. März 2023 veröffentlicht.
+Das Veröffentlichungsdatum für die neueste Version 1.9.8 des für Experience Manager erweiterten Workfront-Connectors war der 3. März 2023.
 
 _Die Highlights der Version_
 
-* Leistungsverbesserungen in Experience Manager beim Erstellen von projektbezogenen Ordnern in Workfront.
-* Löschen von Kommentaren in Workfront wird jetzt in Experience Manager angezeigt.
-* Möglichkeit zur Verwaltung der Blockierung von Neukunden auf dem Experience Manager, die von der Konfiguration des Connectors as a Cloud Service sind.
+* Leistungsverbesserungen in Experience Manager beim Erstellen von projektverknüpften Ordnern in Workfront.
+* Beim Löschen von Kommentaren in Workfront werden diese jetzt auch in Experience Manager gelöscht.
+* Möglichkeit, das Ausschließen neuer Kundinnen und Kunden von Experience Manager as a Cloud Service von der Konfiguration des Connectors zu verwalten.
 
 >[!IMPORTANT]
 >
->Adobe empfiehlt, dass Sie [Aktualisierung auf die neueste Version 1.9.8](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/assets/integrations/update-workfront-enhanced-connector.html?lang=de) des Workfront for Experience Manager Enhanced Connector.
+>Adobe empfiehlt Ihnen ein [Upgrade auf die neueste Version 1.9.8](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/assets/integrations/update-workfront-enhanced-connector.html?lang=de) des für Experience Manager erweiterten Workfront-Connectors.
 
 _Bekannte Probleme_
 
-* Beim Konfigurieren von projektbezogenen Ordnern mit AEM 6.4 [!DNL Experience Manager] speichert die Werte nicht für **Unterordner** und **Verknüpfte Ordner in Projekten mit Portfolio erstellen** -Felder. Der Wert für **Unterordner** Feldaktualisierungen zu **undefined**. Der Wert für **Verknüpfte Ordner in Projekten mit Portfolio erstellen** Feldaktualisierungen zu **Standard-Portfolio** automatisch nach dem Speichern der Konfiguration.
-* Wenn Sie das klassische Workfront-Erlebnis verwenden, wird die **Senden an** -Option verfügbar im **Mehr** In der Dropdown-Liste können Sie das Ziel nicht innerhalb von Experience Manager auswählen. Die **Senden an** -Option funktioniert mit der **Dokumentaktionen** Dropdown-Liste. Die **Senden an** -Option funktioniert ordnungsgemäß für **Mehr** Dropdown-Liste und **Dokumentaktionen** Dropdown-Liste, die im neuen Workfront-Erlebnis verfügbar ist.
+* Beim Konfigurieren von projektverknüpften Ordnern mit AEM 6.4 speichert [!DNL Experience Manager] die Werte für die Felder **Unterordner** und **Verknüpften Ordner in Projekten mit Portfolio erstellen** nicht. Der Wert für das Feld **Unterordner** wird auf **undefiniert** aktualisiert. Der Wert für das Feld **Verknüpften Ordner in Projekten mit Portfolio erstellen** wird nach dem Speichern der Konfiguration automatisch auf **Standardportfolio** aktualisiert.
+* Wenn Sie die klassische Version von Workfront verwenden, lässt sich mit der Option **Senden an** in der Dropdown-Liste **Mehr** nicht das Ziel in Experience Manager auswählen. Die Option **Senden an** funktioniert jedoch, wenn Sie die Dropdown-Liste **Dokumentaktionen** verwenden. In der neuen Version von Workfront funktioniert die Option **Senden an** sowohl in der Dropdown-Liste **Mehr** als auch in der Dropdown-Liste **Dokumentaktionen**.
 
 ### Versionshinweise zu Experience Manager
 
@@ -387,13 +387,13 @@ Nachfolgend sind die im vergangenen Monat neu veröffentlichten Videos, Tutorial
 
 | Veröffentlicht | Name | Typ | Beschreibung | Programme |
 | -----------| ---------- | ---------- | ---------- | ------|
-| April 2023 | [Berichte zu Formulardatenfeldwerten und Formularfeldvalidierungsfehlern mit [!DNL Analytics]](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/forms/forms-and-analytics/introduction.html) | Video | Erfahren Sie, wie Sie mithilfe von Tags Analysen in Ihren adaptiven Formularen implementieren und [!DNL Adobe Analytics]. Dieses Beispiel führt Sie durch die Konfigurations- und Implementierungsschritte, um aufschlussreiche Berichte über die Interaktion der Besucher mit Ihren Formularen zu erstellen. | AEM [!DNL Forms] |
-| April 2023 | [Integrieren von Experience Platform-Datenerfassungs-Tags und -AEM](https://experienceleague.adobe.com/docs/experience-manager-learn/sites/integrations/experience-platform-data-collection-tags/overview.html) | Video | Erfahren Sie, wie Sie das Erlebnis integrieren. [!DNL Platform Data Collection] Tags mit Adobe Experience Manager. | AEM [!DNL Sites] |
-| April 2023 | [Remote SPA - Übersicht](https://experienceleague.adobe.com/docs/experience-manager-learn/getting-started-with-aem-headless/spa-editor/remote-spa/overview.html?lang=en) | Video | Besuchen Sie das mehrteilige Tutorial für Entwickler, die eine vorhandene React-basierte (oder Next.js) Remote-SPA mit bearbeitbaren AEM-Inhalten mit AEM SPA Editor erweitern möchten. | AEM CS |
-| April 2023 | [Weboptimierte Java™-APIs zur Bildbereitstellung](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/developing/advanced/web-optimized-image-delivery-java-apis.html) | Video | Erfahren Sie, wie Sie mit AEM Web-optimierten Java™-APIs für die Bildbereitstellung von as a Cloud Service hochleistungsfähige Web-Erlebnisse entwickeln können. | AEM CS |
-| April 2023 | [Inhaltsfragmentvorschau](https://experienceleague.adobe.com/docs/experience-manager-learn/getting-started-with-aem-headless/how-to/preview.html) | Video | Erfahren Sie, wie Sie die Inhaltsfragmentvorschau für alle Autoren verwenden können, um schnell zu sehen, wie sich Inhaltsänderungen auf Ihre AEM Headless-Erlebnisse auswirken. | AEM CS |
-| April 2023 | [Aktualisierung des Grundliniensatzes von [!DNL Apache] und [!DNL Dispatcher] Konfigurationen](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/local-development-environment-set-up/dispatcher-tools.html#how-to-update-the-baseline-set-of-apache-and-dispatcher-configurations) | Video | Erfahren Sie, wie Sie die grundlegenden Apache- und Dispatcher-Konfigurationen, die im Rahmen der Dispatcher-Tools bereitgestellt werden, aktualisieren oder synchronisieren. Dadurch wird sichergestellt, dass die lokale Entwicklung, die das Dispatcher SDK-Setup verwendet, nicht blockiert wird und die CM-Pipelines nicht fehlschlagen. | AEM CS |
-| April 2023 | [Authentifizierung bei AEM Author mithilfe von OKTA](https://experienceleague.adobe.com/docs/experience-manager-learn/foundation/authentication/okta-saml-integration.html?lang=en) | Video | Verstehen Sie verschiedene Konfigurationseinstellungen für die Verwendung von Single Sign-on mit OKTA. | AEM 6.5 |
+| April 2023 | [Bericht zu Formulardatenfeldwerten und Formularfeldvalidierungsfehlern mit  [!DNL Analytics]](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/forms/forms-and-analytics/introduction.html?lang=de) | Video | Erfahren Sie, wie Sie mithilfe von Tags und [!DNL Adobe Analytics] Analysen in Ihren adaptiven Formularen implementieren können. Dieses Beispiel führt Sie durch die erforderlichen Konfigurations- und Implementierungsschritte, um aufschlussreiche Berichte über die Interaktion der Besucherinnen und Besucher mit Ihren Formularen zu erstellen. | AEM [!DNL Forms] |
+| April 2023 | [Integrieren von Experience Platform-Datenerfassungs-Tags in AEM](https://experienceleague.adobe.com/docs/experience-manager-learn/sites/integrations/experience-platform-data-collection-tags/overview.html?lang=de) | Video | Erfahren Sie, wie Sie die [!DNL Platform Data Collection]-Erlebnis-Tags in Adobe Experience Manager integrieren. | AEM [!DNL Sites] |
+| April 2023 | [Remote-SPA – Übersicht](https://experienceleague.adobe.com/docs/experience-manager-learn/getting-started-with-aem-headless/spa-editor/remote-spa/overview.html?lang=de) | Video | Besuchen Sie das mehrteilige Tutorial für Entwicklerinnen und Entwickler, die eine vorhandene React-basierte (oder Next.js-) Remote-SPA mit bearbeitbaren AEM-Inhalten mithilfe des AEM-SPA-Editors erweitern möchten. | AEM CS |
+| April 2023 | [Weboptimierte Java™-APIs zur Bildbereitstellung](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/developing/advanced/web-optimized-image-delivery-java-apis.html?lang=de) | Video | Erfahren Sie, wie Sie mit den Web-optimierten Java™-APIs zur Bildbereitstellung von AEM as a Cloud Service hochleistungsfähige Web-Erlebnisse entwickeln können. | AEM CS |
+| April 2023 | [Vorschau für Inhaltsfragmente](https://experienceleague.adobe.com/docs/experience-manager-learn/getting-started-with-aem-headless/how-to/preview.html?lang=de) | Video | Erfahren Sie, wie Sie die Inhaltsfragmentvorschau für alle Autorinnen und Autoren verwenden können, um schnell zu sehen, wie sich Inhaltsänderungen auf Ihre AEM Headless-Erlebnisse auswirken. | AEM CS |
+| April 2023 | [Aktualisierung der grundlegenden Konfigurationen für [!DNL Apache] und [!DNL Dispatcher] ](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/local-development-environment-set-up/dispatcher-tools.html?lang=de#how-to-update-the-baseline-set-of-apache-and-dispatcher-configurations) | Video | Erfahren Sie, wie Sie die grundlegenden Apache- und Dispatcher-Konfigurationen, die im Rahmen der Dispatcher-Tools bereitgestellt werden, aktualisieren oder synchronisieren. Dadurch wird sichergestellt, dass die lokale Entwicklungsinstanz, die das Dispatcher SDK-Setup verwendet, nicht blockiert wird und die CM-Pipelines nicht fehlschlagen. | AEM CS |
+| April 2023 | [Authentifizierung bei AEM Author mithilfe von OKTA](https://experienceleague.adobe.com/docs/experience-manager-learn/foundation/authentication/okta-saml-integration.html?lang=de) | Video | Erfahren Sie mehr über die verschiedenen Konfigurationseinstellungen für die Verwendung von Single Sign-on mit OKTA. | AEM 6.5 |
 
 {style="table-layout:auto"}
 
@@ -403,16 +403,16 @@ Neue Artikel und Aktualisierungen vorhandener Artikel für [!DNL Experience Mana
 
 | Veröffentlicht | Name | Typ | Beschreibung |
 |---------|--------|---------|---------|
-| März 2023 | [Durch Aktualisieren von &quot;Nur Struktur&quot;wird der Inhalt einer Sprachkopie nicht aktualisiert](https://experienceleague.adobe.com/docs/experience-cloud-kcs/kbarticles/KA-21708.html?lang=de) | Neuer Artikel | Erfahren Sie, wie Sie das Problem lösen können, bei dem die Aktualisierung _Nur Struktur_ aktualisiert den Inhalt einer Sprachkopie nicht. |
-| März 2023 | [Wie greifen Sie auf Ihre AEM-Instanz in AEM as a Cloud Service mit cURL zu?](https://experienceleague.adobe.com/docs/experience-cloud-kcs/kbarticles/KA-21737.html?lang=de) | Neuer Artikel | Erfahren Sie, wie Sie mit cURL as a Cloud Service auf Ihre AEM-Instanz zugreifen können. |
-| März 2023 | [Erfassen von Statusinformationen zur Fehlerbehebung in [!DNL Web Console]](https://experienceleague.adobe.com/docs/experience-cloud-kcs/kbarticles/KA-21738.html?lang=de) | Neuer Artikel | In diesem Artikel werden typische Elemente aufgeführt, die überprüft werden müssen, und es wird erläutert, wie sie in [!DNL Web Console]. |
-| März 2023 | [SSI/ESI-Unterstützung in AEM as a Cloud Service](https://experienceleague.adobe.com/docs/experience-cloud-kcs/kbarticles/KA-21610.html?lang=de) | Neuer Artikel | Erfahren Sie mehr über den Support-Status von SSI/ESI in AEM as a Cloud Service. |
-| März 2023 | [Funktionsanforderung: Detailansicht &quot;Asset-Freigabe-Link&quot;zur Hinzufügen der nächsten Funktion](https://experienceleague.adobe.com/docs/experience-cloud-kcs/kbarticles/KA-21657.html?lang=de) | Neuer Artikel | Erfahren Sie mehr über den Support-Status von SSI/ESI in AEM as a Cloud Service. |
-| März 2023 | [[!DNL mod_security]: Große Dateien/Assets können nicht hochgeladen werden](https://experienceleague.adobe.com/docs/experience-cloud-kcs/kbarticles/KA-21662.html?lang=de) | Neuer Artikel | Erfahren Sie, wie Sie das Problem beheben können, dass Kunden, die Version 9 von [!DNL mod_security] können keine großen Dateien/Assets hochladen. |
-| März 2023 | [Verteilungswarteschlange blockiert mit _AccessDeniedException_](https://experienceleague.adobe.com/docs/experience-cloud-kcs/kbarticles/KA-21668.html?lang=de) | Neuer Artikel | Erfahren Sie, wie Sie das Problem beheben, bei dem die Verteilungswarteschlange auf der Autoreninstanz blockiert wird mit _AccessDeniedException_ Fehler. |
-| März 2023 | [Hinzufügen der nächsten Funktion in der Detailansicht des Asset-Link-Links](https://experienceleague.adobe.com/docs/experience-cloud-kcs/kbarticles/KA-21657.html?lang=de) | Neuer Artikel | Die Funktionsanfrage ASSETS-21827 wurde mit Engineering protokolliert. |
-| März 2023 | [Unterstützung ausgewählter Dateiformate durch AEM Assets](https://experienceleague.adobe.com/docs/experience-cloud-kcs/kbarticles/KA-21609.html?lang=de) | Neuer Artikel | Erfahren Sie mehr über die Antworten auf Fragen zur Unterstützung von Dateiformaten durch AEM Assets. |
-| März 2023 | [AEM Änderungen in GraphQL bezüglich der Verarbeitung von Nullwerten](https://experienceleague.adobe.com/docs/experience-cloud-kcs/kbarticles/KA-21792.html?lang=de) | Neuer Artikel | Erfahren Sie mehr über die neuesten Verbesserungen in der GraphQL-Implementierung, die zu unerwartetem Verhalten führen können. |
+| März 2023 | [Durch Aktualisieren von „Nur Struktur“ wird der Inhalt einer Sprachkopie nicht aktualisiert](https://experienceleague.adobe.com/docs/experience-cloud-kcs/kbarticles/KA-21708.html?lang=de) | Neuer Artikel | Erfahren Sie, wie Sie das Problem lösen können, dass bei Aktualisierung von _Nur Struktur_ der Inhalt einer Sprachkopie nicht ebenfalls aktualisiert wird. |
+| März 2023 | [Wie greifen Sie in AEM as a Cloud Service mit cURL auf Ihre AEM-Instanz zu?](https://experienceleague.adobe.com/docs/experience-cloud-kcs/kbarticles/KA-21737.html?lang=de) | Neuer Artikel | Erfahren Sie, wie Sie mithilfe der cURL in AEM as a Cloud Service auf Ihre AEM-Instanz zugreifen können. |
+| März 2023 | [Erfassen von Statusinformationen zur Fehlerbehebung in [!DNL Web Console]](https://experienceleague.adobe.com/docs/experience-cloud-kcs/kbarticles/KA-21738.html?lang=de) | Neuer Artikel | In diesem Artikel werden typische Elemente aufgeführt, die überprüft werden müssen, und es wird erläutert, wie sie in [!DNL Web Console] gesammelt werden können. |
+| März 2023 | [Support von SSI/ESI in AEM as a Cloud Service](https://experienceleague.adobe.com/docs/experience-cloud-kcs/kbarticles/KA-21610.html?lang=de) | Neuer Artikel | Erfahren Sie mehr über den Support-Status von SSI/ESI in AEM as a Cloud Service. |
+| März 2023 | [Funktionsanfrage: Funktion „Weiter“ zur Detailansicht „Asset-Freigabe-Link“ hinzufügen](https://experienceleague.adobe.com/docs/experience-cloud-kcs/kbarticles/KA-21657.html?lang=de) | Neuer Artikel | Erfahren Sie mehr über den Support-Status von SSI/ESI in AEM as a Cloud Service. |
+| März 2023 | [[!DNL mod_security]: Große Dateien/Assets können nicht hochgeladen werden](https://experienceleague.adobe.com/docs/experience-cloud-kcs/kbarticles/KA-21662.html?lang=de) | Neuer Artikel | Erfahren Sie, wie Sie das Problem beheben können, dass Kundinnen und Kunden mit Version 9 von [!DNL mod_security] keine großen Dateien/Assets hochladen können. |
+| März 2023 | [Verteilungswarteschlange mit _AccessDeniedException_ blockiert](https://experienceleague.adobe.com/docs/experience-cloud-kcs/kbarticles/KA-21668.html?lang=de) | Neuer Artikel | Erfahren Sie, wie Sie das Problem beheben, dass die Verteilungswarteschlange auf Author mit dem Fehler _AccessDeniedException_ blockiert wird. |
+| März 2023 | [Funktion „Weiter“ zur Detailansicht „Asset-Freigabe-Link“ hinzufügen](https://experienceleague.adobe.com/docs/experience-cloud-kcs/kbarticles/KA-21657.html?lang=de) | Neuer Artikel | Die Funktionsanfrage ASSETS-21827 wurde vom Engineering-Team erfasst. |
+| März 2023 | [Unterstützung ausgewählter Dateiformate durch AEM Assets](https://experienceleague.adobe.com/docs/experience-cloud-kcs/kbarticles/KA-21609.html?lang=de) | Neuer Artikel | Erfahren Sie die Antworten auf Fragen zur Unterstützung von Dateiformaten durch AEM Assets. |
+| März 2023 | [Änderungen in AEM GraphQL bezüglich der Verarbeitung von Nullwerten](https://experienceleague.adobe.com/docs/experience-cloud-kcs/kbarticles/KA-21792.html?lang=de) | Neuer Artikel | Erfahren Sie mehr über die neuesten Verbesserungen in der GraphQL-Implementierung, die zu unerwartetem Verhalten führen können. |
 | März 2023 | [Verweise werden beim Rollout für die interne Live Copy nicht aktualisiert](https://experienceleague.adobe.com/docs/experience-cloud-kcs/kbarticles/KA-21808.html?lang=de) | Neuer Artikel | Erfahren Sie, wie Sie das Problem beheben, dass Verweise beim Rollout für die interne Live Copy nicht aktualisiert werden. |
 
 {style="table-layout:auto"}
@@ -447,7 +447,7 @@ Erhalten Sie Zugriff auf Versionshinweise, neue Tutorials und Wissensdatenbank-A
 +++Details
 
 * In den [Versionshinweisen für Adobe Commerce und Magento Open Source](https://experienceleague.adobe.com/docs/commerce-operations/release/notes/overview.html?lang=de) finden Sie aktuelle Informationen.
-* Siehe [Produktverfügbarkeit](https://experienceleague.adobe.com/docs/commerce-operations/release/product-availability.html?lang=en) , um auf die einzelnen Versionshinweise zuzugreifen und die Verfügbarkeit zu überprüfen.
+* Siehe [Produktverfügbarkeit](https://experienceleague.adobe.com/docs/commerce-operations/release/product-availability.html?lang=de), um auf die Produktversionshinweise zuzugreifen und die Verfügbarkeit zu überprüfen.
 
 >[!NOTE]
 >
@@ -457,9 +457,9 @@ Erhalten Sie Zugriff auf Versionshinweise, neue Tutorials und Wissensdatenbank-A
 
 | Veröffentlicht | Name | Typ | Beschreibung |
 | -----------| ---------- | ---------- | ---------- |
-| April 2023 | [Adobe Developer App-Builder](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/adobe-developer-app-builder/first-app/overview.html) | Video | Erfahren Sie, wie Sie [!DNL App Builder] und kommunizieren mit Ihrer Adobe Commerce-Website. Es stehen neue Anleitungsvideos zur Verfügung, die Sie bei der Erstellung Ihrer ersten [!DNL App Builder] App. |
-| April 2023 | [Erste Schritte mit API-Mesh](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/adobe-developer-app-builder/api-mesh/getting-started-api-mesh.html) | Video | Erfahren Sie, wie Sie API-Mesh verwenden können auf [!DNL Adobe Commerce] und [!DNL Adobe App Builder]. Informationen zur Installation [!DNL Adobe App Builder], das Arbeiten mit Projekten, das Erstellen eines Reverse-Proxy-Diagramms und mehr. <p>Verwandte: ein neues [entityId-Beispiel](https://experienceleague.adobe.com/docs/commerce-merchant-services/catalog-service/mesh.html?lang=en) wurde hinzugefügt _API-Mesh für Catalog Service_ Produktdokumentation. |
-| April 2023 | [Experience Platform Connector-Ereignisse](https://experienceleague.adobe.com/docs/commerce-merchant-services/experience-platform-connector/event-forwarding/events.html) | Produktdokumentation | Die Dokumentation wurde hinzugefügt für [B2B-Ereignisse](https://experienceleague.adobe.com/docs/commerce-merchant-services/experience-platform-connector/event-forwarding/events.html#b2b-events) und [Back Office](https://experienceleague.adobe.com/docs/commerce-merchant-services/experience-platform-connector/event-forwarding/events.html#back-office-events) -Ereignisse für Experience Platform Connector.<p> [Mehr...](https://experienceleague.adobe.com/docs/commerce-admin/b2b/release-notes.html?lang=en) |
+| April 2023 | [Adobe Developer App Builder](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/adobe-developer-app-builder/first-app/overview.html?lang=de) | Video | Erfahren Sie, wie Sie [!DNL App Builder] verwenden und mit Ihrer Adobe Commerce-Website kommunizieren. Es stehen neue Tutorial-Videos zur Verfügung, die Sie bei der Erstellung Ihrer ersten [!DNL App Builder]-App unterstützen können. |
+| April 2023 | [Erste Schritte mit API-Mesh](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/adobe-developer-app-builder/api-mesh/getting-started-api-mesh.html?lang=de) | Video | Erfahren Sie, wie Sie API Mesh mit [!DNL Adobe Commerce] und [!DNL Adobe App Builder] verwenden. Erfahren Sie mehr über die Installation von [!DNL Adobe App Builder], die Arbeit mit Projekten, die Erstellung eines GraphQL-Reverse-Proxys und vieles mehr. <p>Damit zusammenhängend: Ein neues [entityId-Beispiel](https://experienceleague.adobe.com/docs/commerce-merchant-services/catalog-service/mesh.html?lang=de) wurde zur Produktdokumentation von _API Mesh für den Katalog-Service_ hinzugefügt. |
+| April 2023 | [Ereignisse von Experience Platform Connector](https://experienceleague.adobe.com/docs/commerce-merchant-services/experience-platform-connector/event-forwarding/events.html?lang=de) | Produktdokumentation | Es wurde Dokumentation für die Ereignisse [B2B-Ereignisse](https://experienceleague.adobe.com/docs/commerce-merchant-services/experience-platform-connector/event-forwarding/events.html?lang=de#b2b-events) und [Backoffice](https://experienceleague.adobe.com/docs/commerce-merchant-services/experience-platform-connector/event-forwarding/events.html?lang=de#back-office-events) für Experience Platform Connector hinzugefügt.<p> [Mehr ...](https://experienceleague.adobe.com/docs/commerce-admin/b2b/release-notes.html?lang=de) |
 
 {style="table-layout:auto"}
 
@@ -504,16 +504,16 @@ Neue Videos, Tutorials oder Kurse, die für Adobe Campaign veröffentlicht wurde
 
 | Veröffentlicht | Name | Typ | Beschreibung | Programme |
 | -----------| ---------- | ---------- | ---------- |---------- |
-| April 2023 | [Abfragedaten](https://experienceleague.adobe.com/docs/campaign-classic-learn/tutorials/data-management/query-data.html?lang=en) | Video | Erfahren Sie, wie Sie Daten mit dem Abfrageeditor abfragen können. | Campaign v8 |
-| April 2023 | [Hinzufügen von Anhängen zu einem E-Mail-Versand](https://experienceleague.adobe.com/docs/campaign-classic-learn/tutorials/sending-messages/email-channel/add-attachments-to-an-email-delivery.html?lang=en) | Video | Erfahren Sie, wie Sie einem E-Mail-Versand Anhänge hinzufügen und wie Sie verschiedene Arten von E-Mail-Anhängen konfigurieren. | Campaign v8 |
-| April 2023 | [Konfigurieren von Sendungen für A/B-Tests](https://experienceleague.adobe.com/docs/campaign-classic-learn/tutorials/sending-messages/email-channel/configure-deliveries-for-ab-testing.html) | Video | Erfahren Sie, wie Sie einen Versand für A/B-Tests konfigurieren. | Campaign v8 |
-| April 2023 | [Landingpages konfigurieren](https://experienceleague.adobe.com/docs/campaign-classic-learn/tutorials/landing-pages/configure-landingpages.html) | Video | Erfahren Sie, wie Sie Landingpages erstellen und konfigurieren. | Campaign v8 |
-| April 2023 | [Konfigurieren von Planungsaktivitäten](https://experienceleague.adobe.com/docs/campaign-classic-learn/tutorials/automating-with-workflows/configure-scheduler-activities.html) | Video | Erfahren Sie, wie Sie eine Planungsaktivität in einem Workflow konfigurieren. | Campaign v8 |
-| April 2023 | [Erstellen eines Präferenzzentrums](https://experienceleague.adobe.com/docs/campaign-classic-learn/tutorials/landing-pages/create-a-preference-center.html) | Video | Erfahren Sie, wie Sie mit dem Webanwendungs-Editor von Adobe Campaign ein Präferenzzentrum erstellen. | Campaign v8 |
-| April 2023 | [Verwalten von Zeitzonen](https://experienceleague.adobe.com/docs/campaign-classic-learn/tutorials/automating-with-workflows/manage-time-zones.html) | Video | Erfahren Sie, wie Sie Zeitzonen auf geplante Workflow-Aktivitäten anwenden. | Campaign v8 |
-| April 2023 | [Funktionsweise der Quarantäneverwaltung](https://experienceleague.adobe.com/docs/campaign-classic-learn/tutorials/sending-messages/monitoring-messages/quarantine-management.html) | Video | Erfahren Sie, wie die Quarantäneverwaltung in Adobe Campaign funktioniert, und lernen Sie, wie Sie unter Quarantäne gestellte Adressen verwalten. | Campaign v8 |
-| April 2023 | [Verzögerter Nachrichtenversand](https://experienceleague.adobe.com/docs/campaign-standard-learn/tutorials/communication-channels/email/schedule-messages.html) | Video | Erfahren Sie, wie Sie einen Zeitplan für den E-Mail-Versand erstellen. | Campaign v8 |
-| April 2023 | [Durchführen eines E-Mail-Testversands](https://experienceleague.adobe.com/docs/campaign-standard-learn/tutorials/communication-channels/email/sending-test-preparing-sending-email.html) | Video | Erfahren Sie, wie Sie eine E-Mail-Nachricht testen können, bevor Sie sie an die endgültigen Empfangenden senden. | Campaign v8 |
+| April 2023 | [Abfragen von Daten](https://experienceleague.adobe.com/docs/campaign-classic-learn/tutorials/data-management/query-data.html?lang=de) | Video | Erfahren Sie, wie Sie Daten mit dem Abfrage-Editor abfragen können. | Campaign v8 |
+| April 2023 | [Hinzufügen von Anhängen zu einem E-Mail-Versand](https://experienceleague.adobe.com/docs/campaign-classic-learn/tutorials/sending-messages/email-channel/add-attachments-to-an-email-delivery.html?lang=de) | Video | Erfahren Sie, wie Sie einem E-Mail-Versand Anlagen hinzufügen und wie Sie verschiedene Arten von E-Mail-Anhängen konfigurieren. | Campaign v8 |
+| April 2023 | [Konfigurieren von Sendungen für A/B-Tests](https://experienceleague.adobe.com/docs/campaign-classic-learn/tutorials/sending-messages/email-channel/configure-deliveries-for-ab-testing.html?lang=de) | Video | Erfahren Sie, wie Sie einen Versand für A/B-Tests konfigurieren. | Campaign v8 |
+| April 2023 | [Konfigurieren von Landingpages](https://experienceleague.adobe.com/docs/campaign-classic-learn/tutorials/landing-pages/configure-landingpages.html?lang=de) | Video | Erfahren Sie, wie Landingpages erstellt und konfiguriert werden. | Campaign v8 |
+| April 2023 | [Konfigurieren von Planungsaktivitäten](https://experienceleague.adobe.com/docs/campaign-classic-learn/tutorials/automating-with-workflows/configure-scheduler-activities.html?lang=de) | Video | Erfahren Sie, wie Sie eine Planungsaktivität in einem Workflow konfigurieren. | Campaign v8 |
+| April 2023 | [Erstellen eines Präferenzzentrums](https://experienceleague.adobe.com/docs/campaign-classic-learn/tutorials/landing-pages/create-a-preference-center.html?lang=de) | Video | Erfahren Sie, wie Sie mit dem Web-Anwendungs-Editor von Adobe Campaign ein Voreinstellungszentrum erstellen. | Campaign v8 |
+| April 2023 | [Verwalten von Zeitzonen](https://experienceleague.adobe.com/docs/campaign-classic-learn/tutorials/automating-with-workflows/manage-time-zones.html?lang=de) | Video | Erfahren Sie, wie Sie Zeitzonen auf geplante Workflow-Aktivitäten anwenden. | Campaign v8 |
+| April 2023 | [Funktionsweise des Quarantäne-Managements](https://experienceleague.adobe.com/docs/campaign-classic-learn/tutorials/sending-messages/monitoring-messages/quarantine-management.html?lang=de) | Video | Erfahren Sie, wie das Quarantäne-Management in Adobe Campaign funktioniert, und lernen Sie, wie Sie unter Quarantäne gestellte Adressen verwalten. | Campaign v8 |
+| April 2023 | [Zeitplan für Nachrichten](https://experienceleague.adobe.com/docs/campaign-standard-learn/tutorials/communication-channels/email/schedule-messages.html?lang=de) | Video | Erfahren Sie, wie Sie einen Zeitplan für den E-Mail-Versand erstellen. | Campaign v8 |
+| April 2023 | [Durchführen eines E-Mail-Testversands](https://experienceleague.adobe.com/docs/campaign-standard-learn/tutorials/communication-channels/email/sending-test-preparing-sending-email.html?lang=de) | Video | Erfahren Sie, wie Sie eine E-Mail-Nachricht testen können, bevor Sie sie an die endgültigen Empfängerinnen und Empfänger senden. | Campaign v8 |
 
 {style="table-layout:auto"}
 
@@ -523,9 +523,9 @@ Neue Artikel und Aktualisierungen vorhandener Artikel für [!DNL Campaign].
 
 | Veröffentlicht | Name | Typ | Beschreibung |
 |---------|----|----|-----------|
-| März 2023 | [Wie rufen Sie die ausführlichen MTA-Protokolle ab?](https://experienceleague.adobe.com/docs/experience-cloud-kcs/kbarticles/KA-21659.html?lang=de) | Neuer Artikel | Erfahren Sie, wie Sie ausführliche MTA-Protokolle aktivieren. |
-| März 2023 | [Metriken für negative Kampagnen werden in Adobe Analytics gesendet](https://experienceleague.adobe.com/docs/experience-cloud-kcs/kbarticles/KA-21660.html?lang=de) | Neuer Artikel | Erfahren Sie, warum negative Werte auftreten und wie Sie negative Kampagnenmetriken beheben können. |
-| März 2023 | [Diskrepanz zwischen zugestellten und geöffneten E-Mails im Versandzusammenfassungsbericht](https://experienceleague.adobe.com/docs/experience-cloud-kcs/kbarticles/KA-21661.html?lang=de) | Neuer Artikel | Erfahren Sie, warum es eine Diskrepanz zwischen zugestellten und geöffneten E-Mails in der Versandzusammenfassung und ihrer Auflösung gibt. |
+| März 2023 | [Wie lassen sich die ausführlichen MTA-Protokolle abrufen?](https://experienceleague.adobe.com/docs/experience-cloud-kcs/kbarticles/KA-21659.html?lang=de) | Neuer Artikel | Erfahren Sie, wie Sie ausführliche MTA-Protokolle aktivieren. |
+| März 2023 | [Negative Kampagnenmetriken werden in Adobe Analytics gesendet](https://experienceleague.adobe.com/docs/experience-cloud-kcs/kbarticles/KA-21660.html?lang=de) | Neuer Artikel | Erfahren Sie, warum negative Werte auftreten und wie Sie negative Kampagnenmetriken beheben können. |
+| März 2023 | [Diskrepanz zwischen zugestellten und geöffneten E-Mails im Versand-Zusammenfassungsbericht](https://experienceleague.adobe.com/docs/experience-cloud-kcs/kbarticles/KA-21661.html?lang=de) | Neuer Artikel | Erfahren Sie, warum es eine Diskrepanz zwischen zugestellten und geöffneten E-Mails in der Versandzusammenfassung gibt und wie diese behoben werden kann. |
 
 {style="table-layout:auto"}
 
@@ -534,7 +534,7 @@ Neue Artikel und Aktualisierungen vorhandener Artikel für [!DNL Campaign].
 * [!DNL Campaign] v8: [Dokumentation](https://experienceleague.adobe.com/docs/campaign/campaign-v8/campaign-home.html?lang=de) – [Versionshinweise](https://experienceleague.adobe.com/docs/campaign/campaign-v8/new/whats-new.html?lang=de) – [Implementierungshandbücher](https://experienceleague.adobe.com/docs/campaign/campaign-v8/config/implement/implement.html?lang=de)
 * [!DNL Campaign] Standard: [Campaign Standard – Dokumentation](https://experienceleague.adobe.com/docs/campaign-standard/using/campaign-standard-home.html?lang=de) – [Versionshinweise](https://experienceleague.adobe.com/docs/campaign-standard/using/release-notes/release-notes.html?lang=de) – [Anleitungsvideos](https://experienceleague.adobe.com/docs/campaign-standard-learn/tutorials/overview.html?lang=de) – [Versionsplanung](https://experienceleague.adobe.com/docs/campaign-standard/using/release-notes/release-planning.html?lang=de) – [Neueste Aktualisierungen der Dokumentation](https://experienceleague.adobe.com/docs/campaign-standard/using/documentation-updates.html?lang=de)
 * [!DNL Campaign] Classic: [Campaign Classic v7 – Dokumentation](https://experienceleague.adobe.com/docs/campaign-classic/using/campaign-classic-home.html?lang=de) – [Versionshinweise](https://experienceleague.adobe.com/docs/campaign-classic/using/release-notes/latest-release.html?lang=de) – [Anleitungsvideos](https://experienceleague.adobe.com/docs/campaign-classic-learn/tutorials/overview.html?lang=de) – [Neueste Aktualisierungen der Dokumentation](https://experienceleague.adobe.com/docs/campaign-classic/using/documentation-updates.html?lang=de)
-* [!DNL Campaign] Control Panel: [Dokumentation](https://experienceleague.adobe.com/docs/control-panel/using/control-panel-home.html?lang=de) - [Versionshinweise](https://experienceleague.adobe.com/docs/control-panel/using/release-notes/release-notes.html?lang=de) - [Anleitungsvideos](https://experienceleague.adobe.com/docs/control-panel-learn/tutorials/control-panel-overview.html?lang=de)
+* [!DNL Campaign] Control Panel: [Dokumentation](https://experienceleague.adobe.com/docs/control-panel/using/control-panel-home.html?lang=de) – [Versionshinweise](https://experienceleague.adobe.com/docs/control-panel/using/release-notes/release-notes.html?lang=de) – [Anleitungsvideos](https://experienceleague.adobe.com/docs/control-panel-learn/tutorials/control-panel-overview.html?lang=de)
 
 +++
 
@@ -554,10 +554,10 @@ Neue Videos, Tutorials oder Kurse, die für Adobe [!DNL Journey Optimizer] verö
 
 | Veröffentlicht | Name | Typ | Beschreibung |
 | -----------| ---------- | ---------- | ---------- |
-| April 2023 | [Importieren und Erstellen von HTML-E-Mail-Inhalten mit dem Nachrichten-Editor](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/email-channel/import-and-author-html-email-content.html?lang=de) | Aktualisiertes Video | Erfahren Sie, wie Sie vorhandenen HTML-Inhalt importieren, das Design anpassen, Mirror-Seiten- und Abmelde-Links hinzufügen und Ihren Inhalt codieren können. |
-| April 2023 | [Entscheidungsverwaltung - Frequenzlimitierung](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/decision-management/frequency-capping.html) | Video | Erfahren Sie, wie die Frequenzlimitierung für Offer decisioning funktioniert. Erfahren Sie, wie Sie die Frequenzlimitierung für ein benutzerspezifisches Ereignis konfigurieren und Inkremente konfigurieren, indem Sie die Häufigkeit definieren. |
-| April 2023 | [In-App-Kampagne erstellen](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/in-app-channel/create-an-in-app-campaign.html) | Video | Erfahren Sie, was eine In-App-Nachricht ist. Erfahren Sie, wie Sie In-App-Nachrichten in Kampagnen erstellen, konfigurieren und veröffentlichen. |
-| April 2023 | [Verfassen einer In-App-Nachricht ](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/in-app-channel/author-in-app-messages.html) | Video | Erfahren Sie, wie Sie In-App-Nachrichten verfassen und testen können. |
+| April 2023 | [Importieren und Erstellen von HTML-E-Mail-Inhalten mit dem Nachrichten-Editor](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/email-channel/import-and-author-html-email-content.html?lang=de) | Aktualisiertes Video | Erfahren Sie, wie Sie vorhandene HTML-Inhalte importieren, das Design anpassen, Mirrorseiten- und Abmelde-Links hinzufügen und Ihre Inhalte codieren können. |
+| April 2023 | [Entscheidungs-Management – Häufigkeitsbegrenzung](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/decision-management/frequency-capping.html?lang=de) | Video | Erfahren Sie, wie die Häufigkeitsbegrenzung für Offer Decisioning funktioniert. Erfahren Sie, wie Sie die Häufigkeitsbegrenzung für ein benutzerspezifisches Ereignis konfigurieren und wie Sie Inkremente konfigurieren, indem Sie die Häufigkeit festlegen. |
+| April 2023 | [Erstellen einer In-App-Kampagne](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/in-app-channel/create-an-in-app-campaign.html?lang=de) | Video | Erfahren Sie, was eine In-App-Nachricht ist. Erfahren Sie, wie Sie In-App-Nachrichten in Kampagnen erstellen, konfigurieren und veröffentlichen. |
+| April 2023 | [Verfassen einer In-App-Nachricht](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/in-app-channel/author-in-app-messages.html?lang=de) | Video | Erfahren Sie, wie Sie In-App-Nachrichten verfassen und testen können. |
 
 {style="table-layout:auto"}
 
@@ -633,14 +633,14 @@ Neuer [!DNL Workfront]-Kurs und -Sammlungen von Tutorials zu Experience League.
 
 | Veröffentlicht | Name | Typ | Beschreibung |
 | -----------| ---------- | ---------- | ---------- |
-| April 2023 | [Anleitung zum Einrichten von Fusion-Übungsdateien](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/fusion/welcome-to-workfront-fusion/set-up-your-fusion-exercise-files-walkthrough.html?lang=en) | Video | Übungsdateien zum Herunterladen aktualisiert. |
-| April 2023 | [Erstellen und Verwalten von Vorgangsrollen](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/administration-and-setup/organizational-setup/create-and-manage-job-roles.html?lang=en) | Video | Erfahren Sie, wie Sie Auftragsrollen erstellen und sie mit Benutzern verknüpfen, um bessere Zuweisungen vorzunehmen. |
-| April 2023 | [Einführung in universelle Connectoren](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/fusion/exercises/introduction-to-universal-connectors.html?lang=en) | Übungen | Erweitern Sie Ihr Verständnis für die Arbeit mit universellen REST-Connectoren und die Arbeit mit den zurückgegebenen Daten. |
-| April 2023 | [Installieren des Microsoft® Outlook-Add-ins](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/integrations/outlook/integrations-microsoft-outlook.html?lang=en) | Video | Erfahren Sie, wie Sie das Microsoft® Outlook-Add-in installieren. |
-| April 2023 | [Einrichten von Benutzern mit Lizenzen und Zugriffsebenen](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/administration-and-setup/organizational-setup/create-licenses-access-levels-and-job-roles.html?lang=en) | Video | Erfahren Sie, wie Lizenzen und Zugriffsebenen steuern, welchen Zugriff Benutzer haben. Erfahren Sie, wie im System Vorgangsrollen verwendet werden. |
-| April 2023 | [Anfängliche Designanleitung](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/fusion/understand-the-basics/initial-scenario-design-walkthrough.html?lang=en) | Aktualisiertes Video | Erstellen Sie ein Projekt in [!DNL Workfront] für jede Zeile in der CSV-Datei mit der Projektliste. |
-| April 2023 | [Abstimmung von Gruppen und Teams zur Strategie](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/workfront-goals/establish-a-vision-and-strategy/align-groups-and-teams-to-the-strategy.html?lang=en) | Aktualisiertes Video | Abstimmung von Gruppen und Teams auf die Strategie in Adobe Workfront. |
-| April 2023 | [[!DNL Workfront] Ziele](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/workfront-goals/create-goals/understand-how-to-use-workfront-goals.html?lang=en) | Aktualisierte Videos | Erfahren Sie, wie Sie in der Zielliste, in Diagrammen und in der Zielausrichtung navigieren. |
+| April 2023 | [Einrichten des Walkthroughs für Ihre Fusion-Übungsdateien](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/fusion/welcome-to-workfront-fusion/set-up-your-fusion-exercise-files-walkthrough.html?lang=de) | Video | Übungsdateien zum Herunterladen aktualisiert. |
+| April 2023 | [Erstellen und Verwalten von Vorgangsrollen](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/administration-and-setup/organizational-setup/create-and-manage-job-roles.html?lang=de) | Video | Erfahren Sie, wie Sie Vorgangsrollen erstellen und sie mit Benutzenden verknüpfen, um bessere Zuweisungen vorzunehmen. |
+| April 2023 | [Einführung in universelle Connectoren](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/fusion/exercises/introduction-to-universal-connectors.html?lang=de) | Übungen | Erweitern Sie Ihr Verständnis für die Arbeit mit universellen REST-Connectoren und die Arbeit mit den zurückgegebenen Daten. |
+| April 2023 | [Installieren des Microsoft® Outlook-Add-ins](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/integrations/outlook/integrations-microsoft-outlook.html?lang=de) | Video | Erfahren Sie, wie Sie das Microsoft® Outlook-Add-in installieren. |
+| April 2023 | [Einrichten von Benutzenden mit Lizenzen und Zugriffsebenen](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/administration-and-setup/organizational-setup/create-licenses-access-levels-and-job-roles.html?lang=de) | Video | Erfahren Sie, wie Lizenzen und Zugriffsebenen steuern, welchen Zugriff Benutzerinnen und Benutzer haben. Erfahren Sie, wie im System Vorgangsrollen verwendet werden. |
+| April 2023 | [Anleitung für das anfängliche Szenario-Design](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/fusion/understand-the-basics/initial-scenario-design-walkthrough.html?lang=de) | Aktualisiertes Video | Erstellen Sie ein Projekt in [!DNL Workfront] für jede Zeile in der CSV-Datei der Projektliste. |
+| April 2023 | [Ausrichten von Gruppen und Teams an der Strategie](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/workfront-goals/establish-a-vision-and-strategy/align-groups-and-teams-to-the-strategy.html?lang=de) | Aktualisiertes Video | Richten Sie Gruppen und Teams in Adobe Workfront an der Strategie aus. |
+| April 2023 | [[!DNL Workfront] Ziele](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/workfront-goals/create-goals/understand-how-to-use-workfront-goals.html?lang=de) | Aktualisierte Videos | Erfahren Sie, wie Sie durch die Zielliste, Diagramme und die Zielausrichtung navigieren können. |
 
 {style="table-layout:auto"}
 
@@ -680,7 +680,7 @@ Zuletzt aktualisiert: **10. April 2023**
 
 | Funktion | Beschreibung |
 | ------- | ----------- |
-| [!UICONTROL Berichte ] | (März-Version) Eine neue [!UICONTROL Haushalt] zeigt Impressionen, Reichweite und Häufigkeit für verschiedene Dimensionen auf Haushaltsebene basierend auf der IP-Adresse und nicht auf der Geräte-/Cookie-Ebene an. Der Bericht umfasst neun Dimensionen: [!UICONTROL Kampagne], [!UICONTROL Paket], [!UICONTROL Platzierung], [!UICONTROL Site/Apps], [!UICONTROL Medientyp], [!UICONTROL Gerät], [!UICONTROL Zielgruppe], [!UICONTROL Kreative Länge]und vom Benutzer erstellt [!UICONTROL Tags]. |
+| [!UICONTROL Berichte ] | (März-Version) Der neue Bericht [!UICONTROL Haushalt] zeigt Impressionen, Reichweite und Häufigkeit für verschiedene Dimensionen auf Haushaltsebene basierend auf der IP-Adresse und nicht auf der Geräte-/Cookie-Ebene an. Der Bericht umfasst neun Dimensionen: [!UICONTROL Kampagne], [!UICONTROL Paket], [!UICONTROL Platzierung], [!UICONTROL Site/Apps], [!UICONTROL Medientyp], [!UICONTROL Gerät], [!UICONTROL Zielgruppe], [!UICONTROL Creative-Länge] und benutzererstellte [!UICONTROL Tags]. |
 
 {style="table-layout:auto"}
 
@@ -709,7 +709,7 @@ Neue für [!DNL Document Cloud] veröffentlichte Tutorials und Kurse, einschlie�
 
 {style="table-layout:auto"} -->
 
-Für [!DNL Document Cloud] Tutorials finden Sie unter:
+Zu [!DNL Document Cloud]-Tutorials siehe:
 
 * [Adobe Acrobat](https://experienceleague.adobe.com/docs/document-cloud-learn/acrobat-learning/overview.html?lang=de)
 * [Adobe Acrobat Sign](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/overview.html?lang=de)
