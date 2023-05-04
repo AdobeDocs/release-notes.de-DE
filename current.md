@@ -6,9 +6,9 @@ last-update: April 2023
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: 828c0f0335495e85331b606914df8e6812c59711
+source-git-commit: f92a2fb6b52631169fcf61eb89789483ff124b49
 workflow-type: tm+mt
-source-wordcount: '5752'
+source-wordcount: '5771'
 ht-degree: 93%
 
 ---
@@ -71,6 +71,8 @@ Aktualisiert: **4. Mai 2023**
 * **[!DNL Commerce]** | _Commerce &amp; Coffee: 7 Möglichkeiten zum Erstellen von Kundenloyalität und Kundenbindung_ | **11. Mai um 13:00 PM PT** | [registrieren](https://register.gotowebinar.com/#register/4149787110381957724)
 
 * **[!DNL Workfront]** | _Verbinden: Strategischer Admin-Chat_ | **15. Mai um 8:00 Uhr CT** | [registrieren](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,mjTFCSLTbkuVKavNdopApA,dndSyq-qPkqd5A929WkXkw,siKED3PdM0m9LF4Z0sfojg,HVuuM7Rf6EOsLsWLdiHO7w,5G5IR9qtoES1gH_rRVly8g?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
+
+Navigieren Sie zu [Veranstaltungen](https://experienceleague.adobe.com/events/?lang=de) auf der Experience League, um vergangene Ereignisse zu sehen und zu sehen, was als Nächstes kommt.
 
 +++
 
