@@ -6,9 +6,9 @@ last-update: May 2023
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: b776f31ac5a97fea0f571597b9597f7e58f75799
+source-git-commit: 136fee396ccc19e6c0e64914a8ab527f889b68fe
 workflow-type: tm+mt
-source-wordcount: '5499'
+source-wordcount: '5500'
 ht-degree: 47%
 
 ---
@@ -31,7 +31,7 @@ Ihr Weg zum Erfolg beginnt mit [Experience League](https://experienceleague.adob
 
 ## Aktuelle Informationen zu Produktversionen und Veranstaltungen
 
-Neueste Aktualisierung: **8. Mai 2023**
+Neueste Aktualisierung: **9. Mai 2023**
 
 * [[!DNL Experience League]-Ereignisse](#events)
 * [Zertifizierung bei Adobe](#certification)
@@ -60,7 +60,7 @@ Neueste Aktualisierung: **8. Mai 2023**
 
 Erfahren Sie, was aktuell auf Experience League geschieht. Events sind ideal, um zu lernen, Kontakte zu knüpfen und von Adobe-Fachleuten Antworten auf Fragen zu erhalten!
 
-Aktualisiert: **10. Mai 2023**
+Aktualisiert: **9. Mai 2023**
 
 +++Kommende Events
 
@@ -195,7 +195,7 @@ Erhalten Sie die neusten Versionsinformationen für [!DNL Customer Journey Analy
 
 +++Details
 
-Nächste Version: **10. Mai 2023**
+Veröffentlichungsdatum: **10. Mai 2023**
 
 * [Versionshinweise](https://experienceleague.adobe.com/docs/analytics-platform/using/releases/latest.html?lang=de) zu Customer Journey Analytics
 * [Produktdokumentation und Tutorials](https://experienceleague.adobe.com/docs/customer-journey-analytics.html?lang=de) zu Customer Journey Analytics
@@ -217,7 +217,7 @@ Neue Videos, Tutorials oder Kurse, die für CJA veröffentlicht wurden.
 
 ## ![Symbol](/assets/analytics.png) [!DNL Streaming Media Analytics] {#sma}
 
-Version: **10. Mai 2023**
+Veröffentlichungsdatum: **10. Mai 2023**
 
 * [Versionshinweise](https://experienceleague.adobe.com/docs/media-analytics/using/release-notes/release-notes.html?lang=de) zu [!DNL Streaming Media Analytics]
 * [Produktdokumentation und Tutorials](https://experienceleague.adobe.com/docs/media-analytics/using/media-overview.html?lang=de) zu [!DNL Streaming Media Analytics]
