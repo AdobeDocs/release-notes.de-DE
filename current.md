@@ -6,9 +6,9 @@ last-update: May 2023
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: dd8bffc183b46ee92c3817727a2b1abfeddc1641
+source-git-commit: 4aa55aa5b4cc86978db180250642588a45b87962
 workflow-type: tm+mt
-source-wordcount: '5731'
+source-wordcount: '5725'
 ht-degree: 47%
 
 ---
@@ -472,9 +472,9 @@ Hier finden Sie die neuesten Funktionen, Verbesserungen und Fehlerbehebungen in 
 
 Erfahren Sie mehr über die neuesten Funktionen, Verbesserungen und Fehlerbehebungen in den Versionshinweisen von [Campaign v7](https://experienceleague.adobe.com/docs/campaign-classic/using/release-notes/latest-release.html?lang=de), [Campaign v8](https://experienceleague.adobe.com/docs/campaign/campaign-v8/releases/release-notes.html?lang=de) und [Campaign Standard](https://experienceleague.adobe.com/docs/campaign-standard/using/release-notes/release-notes.html?lang=de).
 
-### Neue Tutorials und Kurse zu [!DNL Campaign] {#tutorials-campaign}
+### Neue [!DNL Campaign]-Tutorials {#tutorials-campaign}
 
-Neue Videos, Tutorials oder Kurse, die für Adobe Campaign veröffentlicht wurden.
+Neue Videos, Tutorials oder Kurse, die für [!DNL Adobe Campaign] veröffentlicht wurden.
 
 | Veröffentlicht | Name | Typ | Beschreibung | Applikation |
 | -----------| ---------- | ---------- | ---------- |---------- |
@@ -516,7 +516,7 @@ Erfahren Sie mehr über die neuesten Versions-Updates für [!DNL Journey Optimiz
 
 Erfahren Sie mehr über die neuesten Funktionen, Verbesserungen und Fehlerbehebungen in den [Versionshinweisen zu Journey Optimizer](https://experienceleague.adobe.com/docs/journey-optimizer/using/whats-new/release-notes.html?lang=de).
 
-### Neue Tutorials und Kurse zu [!DNL Journey Optimizer] {#tutorials-ajo}
+### Neue [!DNL Journey Optimizer]-Tutorials {#tutorials-ajo}
 
 Neue Videos, Tutorials oder Kurse, die für Adobe [!DNL Journey Optimizer] veröffentlicht wurden.
 
