@@ -6,9 +6,9 @@ last-update: May 2023
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: 5d83d82ee19300866c7b75bddd173ffe58f3300b
+source-git-commit: dd8bffc183b46ee92c3817727a2b1abfeddc1641
 workflow-type: tm+mt
-source-wordcount: '5744'
+source-wordcount: '5731'
 ht-degree: 47%
 
 ---
@@ -31,7 +31,7 @@ Ihr Weg zum Erfolg beginnt mit [Experience League](https://experienceleague.adob
 
 ## Aktuelle Informationen zu Produktversionen und Veranstaltungen
 
-Neueste Aktualisierung: **9. Mai 2023**
+Neueste Aktualisierung: **10. Mai 2023**
 
 * [[!DNL Experience League]-Ereignisse](#events)
 * [Zertifizierung bei Adobe](#certification)
@@ -47,8 +47,8 @@ Neueste Aktualisierung: **9. Mai 2023**
 * [[!DNL Experience Manager Guides]](#xml-doc)
 * [[!DNL Commerce]](#commerce)
 * [[!DNL Target]](#target)
-* [[!DNL Campaign]](#ac)
-* [[!DNL Journey Optimizer]](#journey-opt)
+* [[!DNL Campaign]](#ac) (Aktualisiert am **10. Mai**)
+* [[!DNL Journey Optimizer]](#journey-opt) (aktualisiert) **10. Mai**)
 * [[!DNL Journey Orchestration]](#journey-orch)
 * [[!DNL Marketo Engage]](#marketo)
 * [[!DNL Workfront]](#workfront)
@@ -478,10 +478,10 @@ Neue Videos, Tutorials oder Kurse, die für Adobe Campaign veröffentlicht wurde
 
 | Veröffentlicht | Name | Typ | Beschreibung | Applikation |
 | -----------| ---------- | ---------- | ---------- |---------- |
-| Mai 2023 | [Umfrage erstellen](https://experienceleague.adobe.com/docs/campaign-learn/tutorials/content-creation/create-a-survey.html?lang=en) | Video | Erfahren Sie, wie Sie eine Umfrage in Adobe Campaign Classic erstellen. | Campaign v8 |
-| Mai 2023 | [Umfrage erstellen](https://experienceleague.adobe.com/docs/campaign-classic-learn/tutorials/create-a-survey.html?lang=en) | Video | Erfahren Sie, wie Sie eine Umfrage in Adobe Campaign Classic erstellen. | Campaign Classic |
-| Mai 2023 | [Inhaltserstellung für E-Mail-Versand](https://experienceleague.adobe.com/docs/campaign-classic-learn/tutorials/sending-messages/email-channel/design-email-delivery-content.html) | Video | Erfahren Sie, wie Sie den Inhalt des E-Mail-Versands konfigurieren, personalisieren und testen können. Erfahren Sie, wie Sie Vorlagen verwenden, Bilder hochladen, Emoticons hinzufügen und Barcodes und QR-Codes einbetten können. | Campaign Classic |
-| Mai 2023 | [Überwachen von Sendungen](https://experienceleague.adobe.com/docs/campaign-standard-learn/tutorials/reporting/monitor-a-delivery.html) | Video | Verstehen Sie Nachrichtenprotokolle, Auftragsprotokolle und Versandlogs. | Campaign Standard |
+| Mai 2023 | [Umfrage erstellen](https://experienceleague.adobe.com/docs/campaign-learn/tutorials/content-creation/create-a-survey.html?lang=en) | Video | Erfahren Sie, wie Sie eine Umfrage in [!DNL Adobe Campaign] v8. | [!DNL Campaign] v8 |
+| Mai 2023 | [Umfrage erstellen](https://experienceleague.adobe.com/docs/campaign-classic-learn/tutorials/create-a-survey.html?lang=en) | Video | Erfahren Sie, wie Sie eine Umfrage in [!DNL Adobe Campaign Classic]. | [!DNL Campaign Classic] |
+| Mai 2023 | [Inhaltserstellung für E-Mail-Versand](https://experienceleague.adobe.com/docs/campaign-classic-learn/tutorials/sending-messages/email-channel/design-email-delivery-content.html) | Video | Erfahren Sie, wie Sie den Inhalt des E-Mail-Versands konfigurieren, personalisieren und testen können. Erfahren Sie, wie Sie Vorlagen verwenden, Bilder hochladen, Emoticons hinzufügen und Barcodes und QR-Codes einbetten können. | [!DNL Campaign Classic] |
+| Mai 2023 | [Überwachen von Sendungen](https://experienceleague.adobe.com/docs/campaign-standard-learn/tutorials/reporting/monitor-a-delivery.html) | Video | Verstehen Sie Nachrichtenprotokolle, Auftragsprotokolle und Versandlogs. | [!DNL Campaign Standard] |
 
 {style="table-layout:auto"}
 
@@ -522,9 +522,9 @@ Neue Videos, Tutorials oder Kurse, die für Adobe [!DNL Journey Optimizer] verö
 
 | Veröffentlicht | Name | Typ | Beschreibung |
 | -----------| ---------- | ---------- | ---------- |
-| Mai 2023 | [Webkampagne erstellen](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/web-channel/author-a-web-campaign.html?lang=en) | Video | Erfahren Sie, wie Sie in Journey Optimizer-Kampagnen mithilfe des Web-Visual-Editors ein Web-Erlebnis erstellen. |
+| Mai 2023 | [Webkampagne erstellen](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/web-channel/author-a-web-campaign.html?lang=en) | Video | Erfahren Sie, wie Sie mit dem Web-Visual-Editor ein Web-Erlebnis erstellen können in [!DNL Journey Optimizer] Kampagnen. |
 | Mai 2023 | [Erstellen einer Web-Kampagne](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/web-channel/create-a-web-campaign.html?lang=en) | Video | Erfahren Sie, was eine Webkampagne ist. Erfahren Sie, wie Sie die Eigenschaften der Webkampagne konfigurieren, überprüfen und veröffentlichen können. |
-| Mai 2023 | [Exportieren von Datensätzen zu Orten im Cloud-Speicher](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/data-management/export-datasets.html?lang=en) | Video | Erfahren Sie, wie Sie einen Datensatz aus Journey Optimizer in ein Amazon S3-Ziel exportieren. |
+| Mai 2023 | [Exportieren von Datensätzen zu Orten im Cloud-Speicher](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/data-management/export-datasets.html?lang=en) | Video | Erfahren Sie, wie Sie einen Datensatz exportieren aus [!DNL Journey Optimizer] zu [!DNL Amazon] S3-Ziel. |
 
 {style="table-layout:auto"}
 
