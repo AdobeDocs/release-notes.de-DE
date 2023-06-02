@@ -6,10 +6,10 @@ last-update: May 2023
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: 10e294e2d7e56e168bf2552002beb16923a23e0d
+source-git-commit: d1b6f4a7fdbf4c94e1a122dfbbda78346494bbf7
 workflow-type: tm+mt
-source-wordcount: '5635'
-ht-degree: 97%
+source-wordcount: '5517'
+ht-degree: 96%
 
 ---
 
@@ -677,14 +677,14 @@ Zuletzt aktualisiert: **30. Mai 2023**
 
 {style="table-layout:auto"}
 
-### Neue Funktionen in [!DNL Advertising Search] {#advertising-search}
+### Neue Funktionen in [!DNL Advertising Search, Social, & Commerce] {#advertising-search}
 
-Zuletzt aktualisiert: **14. April 2023**
+Zuletzt aktualisiert: **1. Juni 2023**
 
 | Funktion | Beschreibung |
 | ------- | ----------- |
-| [!UICONTROL Kampagnen] | ([!DNL Microsoft® Advertising]-Audience-Kampagnen; Version vom 15. April) Audience-Kampagnen können jetzt die manuelle CPM-Bid-Strategie verwenden. Sie können Angebote in den Einstellungen für untergeordnete Anzeigengruppen festlegen.<br><br>Optimierungsunterstützung ist für CPM-Kampagnen nicht verfügbar. |
-| [!UICONTROL Recommendations] | Sechs neue [!DNL Google Ads]-Empfehlungen sind unter [!UICONTROL Einblicke und Berichte] > [!UICONTROL Recommendations] verfügbar:<ul><li>[!UICONTROL Responsive Suche verbessert die Anzeigenstärke]: Vorschläge zur Verbesserung der Anzeigenstärke für eine responsive Suchanzeige</li><li>[!UICONTROL Aktualisierung der lokalen Kampagne auf die maximale Leistung]: Aktualisieren Sie eine ältere lokale Kampagne auf eine Kampagne mit maximaler Leistung</li><li>[!UICONTROL Aktualisieren der Smart Shopping-Kampagnen auf die maximale Leistung]: Aktualisieren Sie eine ältere Smart Shopping-Kampagne auf eine Kampagne mit maximaler Leistung</li><li>[!UICONTROL Planen festgelegter Target-ROAS]: Erhöhen Sie das Budget vor einem saisonalen Ereignis, das den Traffic voraussichtlich steigern wird, und ändern Sie die Bid-Strategie von [!DNL Maximize Conversion Value] in [!DNL Target ROAS]</li><li>[!UICONTROL Erhöhen eines zu niedrigen Target-CPA-Angebots]: Erhöhen Sie [!DNL Target CPA] um einen empfohlenen Betrag, wenn der Betrag zu niedrig ist und es nur wenige oder keine Konversionen gibt</li><li>[!UICONTROL Opt-in zur Anzeigeerweiterung]: Erweitern Sie die Reichweite einer Kampagne, indem Sie sie so aktualisieren, dass sie die Anzeigeerweiterung verwendet</li></ul>Da das Hinzufügen und Entfernen von Assets, das Ändern von Kampagnentypen sowie das Ändern von Budgets und Bid-Strategien die Leistung beeinflussen können, empfehlen wir, die Vor- und Nachteile jeder Empfehlung mit Ihrem Adobe-Konto-Team zu besprechen, damit Sie eine fundierte Entscheidung treffen können. |
+| [!UICONTROL Kampagnen], [!UICONTROL Berichte], [!UICONTROL Ziele] | (Open Beta; Version vom 30. Mai) Vom [!DNL Microsoft Advertising] In Kampagnenverwaltungsansichten und -berichten ist das universelle Ereignis-Tracking-Tag (UET) neu verfügbar. Sie können diese Konversionen auch optimieren, indem Sie sie in Ziele für Portfolios mit [!DNL Microsoft Advertising] Kampagnen. |
+| [!UICONTROL Berichte ] | (Open Beta; Version vom 30. Mai) Drei neue Sonderberichte enthalten Daten für [!DNL Microsoft Advertising] Anzeigenerweiterungen: [!UICONTROL Bericht &quot;MSA Ad Extension Detail&quot;], [!UICONTROL MSA Ad Extension by Ad Report]und [!UICONTROL Bericht &quot;MSA Ad Extension by Keyword&quot;]. |
 
 {style="table-layout:auto"}
 
