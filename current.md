@@ -6,7 +6,7 @@ last-update: June 2023
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: 01e7af15dd8f11dd705458d3381922d42e547388
+source-git-commit: 94d037e3a163088639d27f9b2952cf7eefe00f23
 workflow-type: tm+mt
 source-wordcount: '6363'
 ht-degree: 51%
@@ -143,6 +143,8 @@ Neue Videos, Tutorials oder Kurse, die für Adobe Experience Platform veröffent
 | Juni 2023 | [Aktivieren von Segmenten und Profilattributen](https://experienceleague.adobe.com/docs/platform-learn/tutorials/destinations/target/activate-segments-and-profile-attributes.html?lang=de) | Video | Erfahren Sie, wie Sie Segmente und Profilattribute über aktivieren [!DNL Real-Time Customer Data Platform] Adobe [!DNL Target]. Zeigen Sie personalisierte Inhalte in Echtzeit in Ihren Websites, mobilen Apps und anderen digitalen Eigenschaften an. |
 | Juni 2023 | [Daten mithilfe von Bezeichnungen klassifizieren](https://experienceleague.adobe.com/docs/platform-learn/tutorials/data-governance/classify-data-using-labels.html) | Video | Erfahren Sie, wie Sie Ihre Schemas und Datensätze mit Bezeichnungen versehen. Mit Datennutzungsbezeichnungen können Sie Daten taggen und klassifizieren, um Unternehmensrichtlinien, vertragliche Verpflichtungen, Compliance-Anforderungen und regionale Vorschriften in [!DNL Experience Platform]. |
 | Juni 2023 | [Verwendung [!DNL Real-Time CDP] Profilattribute in Adobe [!DNL Target]](https://experienceleague.adobe.com/docs/platform-learn/tutorials/destinations/target/use-rtcdp-profile-attributes-in-target.html) | Video | Erfahren Sie, wie Sie [!DNL Real-Time Customer Data Platform] Profilattribute in Adobe [!DNL Target] , um personalisierte Erlebnisse auf Ihrer Website und in Apps bereitzustellen. |
+
+{style="table-layout:auto"}
 
 +++
 
