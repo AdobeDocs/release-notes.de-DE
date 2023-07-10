@@ -6,10 +6,10 @@ last-update: June 2023
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: c08bbc9f5d6e25782426c3cc7ee9ccdc43157a1f
+source-git-commit: 1920ee48d086e95dfcfe608f6c17e0cbd197b99c
 workflow-type: tm+mt
-source-wordcount: '6168'
-ht-degree: 98%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -31,9 +31,9 @@ Melden Sie sich bei [Experience League](https://experienceleague.adobe.com/?lang
 
 ## Aktuelle Informationen zu Produktversionen und Veranstaltungen
 
-Letzte Aktualisierung: **21. Juni 2023**
+Neueste Aktualisierung: **10. Juli 2023** (Seite &quot;Ereignisse&quot;)
 
-* [[!DNL Experience League] Ereignisse und Aktualisierungen](#events)
+* [[!DNL Experience League] Ereignisse und Updates](#events) (aktualisiert) **10. Juli**)
 * [Zertifizierung bei Adobe](#certification)
 * [[!DNL Adobe System Status]](#status)
 * [[!DNL Experience Cloud]-Benutzeroberfläche und -Administration](#ecloud)
@@ -65,15 +65,19 @@ Erfahren Sie mehr über spannende Ereignisse in Experience League. Dies ist ein 
 
 +++Kommende Events
 
-* **[!DNL Commerce]** | _Commerce &amp; Coffee: Wege zum B2B-Erfolg_ | **22. Juni, um 13:00 Uhr ET** | [Registrieren](https://register.gotowebinar.com/register/2180200047542819420)
+* **[!DNL Workfront]** | _Verbinden: Community-Chat_ | **13. Juli um 10:00 Uhr PT** | [registrieren](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,PiX3iDTmREqs2eOICcUIoA,5KJVGb6S_Uiiki7ErNALgw,uwMNG0gwA02-Wu9Xq90mrw,WUjKeYMc_UuHvDNaLK1fNQ,PtEPc-2kMU-u_LlbNihIRA?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
-* **[!DNL Experience Manager]** | _Beherrschen Sie die Kunst der Experience Manager-Zertifizierung – Auf die Plätze, fertig, Zertifizierung!_ | **28. Juni, um 8:00 Uhr PT** | [Registrieren](https://adobe.ly/3Ni6XeL)
+* **[!DNL Analytics]** | _Marketing messen, aufwärts und abschließen_ | **13. Juli um 9:00 Uhr BST** | [registrieren](https://adobeanalyticsemea2023.experienceleague.adobeevents.com/)
 
-* **[!DNL Marketo Engage]** | _Marketing-Kampagnen mit Marketo Engage verfolgen, analysieren und optimieren_ | **28. Juni, um 8:00 Uhr PT** | [Registrieren](https://engage.marketo.com/track_analyze_optimize_marketing_register.html?utm_source=exl)
+* **[!DNL Workfront]** | _Verbinden: Admin Chat für Marketing und Kreativität_ | **14. Juli um 10:00 Uhr MT** | [registrieren](https://adobeanalyticsemea2023.experienceleague.adobeevents.com/)
 
-* **[!DNL Workfront]** | _Fragen Sie die Experten: Einrichtung eines Exzellenzzentrums – Webinar-Follow-up_ | **28. Juni, um 10:00 Uhr CT** | [Registrieren](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,mjTFCSLTbkuVKavNdopApA,dndSyq-qPkqd5A929WkXkw,t2YLg66G70WfmpnGWvnwPA,8Vn5DyJFjU6zpT9DW3m_vg,t4QVQLoEzkq6Jf5IvbSRcg?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
+* **[!DNL Analytics]** | _Den Wert Ihrer Marketing-Kanäle entsperren_ | **18. Juli um 8:00 Uhr PT** | [registrieren](https://adobeanalyticsemea2023.experienceleague.adobeevents.com/)
 
-[Mehr...](https://experienceleague.adobe.com/events?lang=de/)
+* **[!DNL AEM as a Cloud Service]** | _Effektive Sicherheitsstrategien in der Cloud Service_ | **18. Juli um 8:00 Uhr PT** | [registrieren](https://engage.adobe.com/Security-in-the-cloud-webinar-registration.com.html?sdid=3SH1B1RV)
+
+* **[!DNL Workfront]** | _Lernen: Adobe Workfront 23.3 - Versionsrundung_ | **20. Juli um 11:00 Uhr CT** | [registrieren](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,mjTFCSLTbkuVKavNdopApA,dndSyq-qPkqd5A929WkXkw,Je34nFV8mUmZdJPLSSyi5w,udIB9iEIOE-oBiAHzx2lFQ,t2YddgmhWkq780UhYr3y0Q?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
+
+Alle anzeigen [Bevorstehende Ereignisse](https://experienceleague.adobe.com/events?lang=de/) oder durchsuchen [Ereignisaufzeichnungen](https://experienceleague.adobe.com/docs/events/experience-league-recorded-events/overview.html?lang=de). Sie können jetzt die Navigation auf der linken Seite verwenden, um basierend auf dem Serientyp oder der Anwendung nach aufgezeichneten Ereignissen zu suchen.
 
 +++
 
