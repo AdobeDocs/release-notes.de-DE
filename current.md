@@ -6,7 +6,7 @@ last-update: July 2023
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: eca7833d696a00e7e1c7fd4d605cd55dfdee2d7f
+source-git-commit: 40796032c6e2464215de160b6834bb7cc841b379
 workflow-type: tm+mt
 source-wordcount: '5836'
 ht-degree: 41%
@@ -133,7 +133,7 @@ Aktuelle Versionshinweise und neue Dokumentation für [!DNL Experience Platform]
 
 Neue Videos, Tutorials oder Kurse, die für Adobe [!DNL Experience Platform] veröffentlicht wurden.
 
-| Typ | Produktfunktion | Beschreibung |
+| Veröffentlicht | Produktfunktion | Beschreibung |
 | -----------| ---------- |---------- |
 | Juli 2023 | [Importieren von Beispieldaten in [!DNL Experience Platform]](https://experienceleague.adobe.com/docs/platform-learn/tutorials/import-sample-data.html?lang=de) | Aktualisiertes Video | Erfahren Sie, wie Sie eine [!DNL Experience Platform] Sandbox-Umgebung mit Beispieldaten. Verwenden eines [!UICONTROL Postman] -Sammlung können Sie Feldergruppen, Schemata, Datensätze erstellen und dann Beispieldaten in [!DNL Experience Platform]. |
 | Juli 2023 | [Authentifizierung und Zugriff [!DNL Experience Platform] APIs](https://experienceleague.adobe.com/docs/platform-learn/tutorials/platform-api-authentication.html?lang=de) | Aktualisiertes Video | Erste Schritte mit Adobe [!DNL Experience Platform] APIs. Dieses Tutorial führt Sie durch den Prozess der Erstellung von Authentifizierungsberechtigungen und der Erstellung von [!DNL Experience Platform] API-Anfragen. |
