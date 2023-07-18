@@ -6,7 +6,7 @@ last-update: July 2023
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: 40796032c6e2464215de160b6834bb7cc841b379
+source-git-commit: 86a6d628b123ec77f5b64e0a80dc0b0dc56bb72a
 workflow-type: tm+mt
 source-wordcount: '5836'
 ht-degree: 41%
@@ -31,7 +31,7 @@ Melden Sie sich bei [Experience League](https://experienceleague.adobe.com/?lang
 
 ## Aktuelle Informationen zu Produktversionen und Veranstaltungen
 
-Neueste Aktualisierung: **12. Juli 2023**
+Neueste Aktualisierung: **18. Juli 2023**
 
 * [[!DNL Experience League] Ereignisse und Aktualisierungen](#events)
 * [Zertifizierung bei Adobe](#certification)
@@ -176,7 +176,7 @@ Erhalten Sie die neuesten Versionsinformationen für [!DNL Adobe Analytics] und 
 
 ### AppMeasurement {#appm}
 
-Release-Version: **2.23.0**
+Release-Version: **2.24.0**
 
 * [Versionshinweise zu AppMeasurement für JavaScript](https://experienceleague.adobe.com/docs/analytics/implementation/appmeasurement-updates.html?lang=de)
 
@@ -360,7 +360,7 @@ Diese Funktion hilft bei der Verbesserung Ihrer gesamten Fehlerbearbeitungsfunkt
 
 [Erweiterte Authentifizierungsmethoden für Formulardatenmodell](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/forms/integrate/use-form-data-model/configure-data-sources.html?lang=de): Erfahren Sie mehr Sicherheit mit der Einführung einer Client-Anmeldedaten-basierten Authentifizierung, um AEM Forms (Formulardatenmodelle) mit kompatiblen Datenquellen zu verbinden. Durch diese Verbesserung entfällt der Bedarf an Identitätswechsel oder Benutzeranmeldung, wodurch der Schutz Ihrer Daten verbessert wird.
 
-[Adaptive Forms mit wiederholbaren Abschnitten erstellen](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/forms/adaptive-forms-authoring/authoring-adaptive-forms-core-components/create-an-adaptive-form-on-forms-cs/create-forms-repeatable-sections.html): Sie können jetzt Accordion-, Assistenten-, Bedienfeld- und Horizontale Registerkarten-Komponenten in einem auf Kernkomponenten basierenden adaptiven Formular erstellen, um wiederholbare Abschnitte zu erstellen.
+[Adaptive Forms mit wiederholbaren Abschnitten erstellen](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/forms/adaptive-forms-authoring/authoring-adaptive-forms-core-components/create-an-adaptive-form-on-forms-cs/create-forms-repeatable-sections.html?lang=de): Sie können jetzt Accordion-, Assistenten-, Bedienfeld- und Horizontale Registerkarten-Komponenten in einem auf Kernkomponenten basierenden adaptiven Formular erstellen, um wiederholbare Abschnitte zu erstellen.
 
 Mit diesen wiederholbaren Abschnitten können Sie eine unbegrenzte Anzahl von Einträgen ohne feste Feldanzahl bereitstellen. Dies ist nützlich, wenn die erforderlichen Dateninstanzen im Voraus unbekannt sind. Forms-Benutzer können problemlos Abschnitte hinzufügen oder entfernen, Formulare an verschiedene Dateneingabeszenarien anpassen und die Erfassung mehrerer Vorkommen derselben Daten vereinfachen.
 
