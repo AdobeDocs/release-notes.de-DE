@@ -6,10 +6,10 @@ last-update: August 2023
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: 646fa448526e3d74f4c88c77325fa65adaad5ae2
+source-git-commit: a0cad6ed033fec45ce4697dc64011ee675506433
 workflow-type: tm+mt
-source-wordcount: '7065'
-ht-degree: 98%
+source-wordcount: '7204'
+ht-degree: 97%
 
 ---
 
@@ -647,6 +647,11 @@ Neue Videos, Tutorials oder Kurse, die für Adobe [!DNL Journey Optimizer] verö
 
 | Veröffentlicht | Name | Typ | Beschreibung |
 | -----------| ---------- | ---------- | ---------- |
+| September 2023 | [Verwalten, Erstellen und Verwenden von Fragmenten](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/email-channel/manage-author-use-fragments.html?lang=de) | Video | Erfahren Sie, wie Sie Fragmente in Adobe Journey Optimizer verwalten, erstellen und verwenden. |
+| September 2023 | [Unterstützung von Einzelseiten-Apps (SPA) im Web-Editor](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/web-channel/singel-page-application-support.html) | Video | Erfahren Sie, wie Sie Einzelseitenanwendungen (SPA) im Journey Optimizer-Web-Editor erstellen. |
+| September 2023 | [Berichte auf Kanalebene](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/report-and-monitor/channel-level-reports.html) | Video | Erfahren Sie, wie Sie Berichte auf Kanalebene aufrufen, darin navigieren und exportieren können. |
+| September 2023 | [Berichte im CSV-Format exportieren](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/report-and-monitor/export-reports-in-csv-format.html) | Video | Erfahren Sie, wie Sie einen CSV-Bericht für einen Bericht und für ein einzelnes Widget herunterladen können. |
+| September 2023 | [Unterstützung von Einzelseiten-Apps (SPA) im Web-Editor](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/web-channel/singel-page-application-support.html) | Video | Erfahren Sie, wie Sie Einzelseitenanwendungen (SPA) im Journey Optimizer-Web-Editor erstellen. |
 | September 2023 | [Erstellen einer In-App-Nachricht in einer Journey](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/in-app-channel/create-an-in-app-message-in-a-journey.html?lang=de) | Video | Erfahren Sie, was eine In-App-Nachricht ist und wie sie in einer Journey angewendet werden kann. Erfahren Sie, wie Sie eine In-App-Nachricht in einer Journey erstellen und wie Sie Ihre Journey testen und veröffentlichen. |
 
 {style="table-layout:auto"}
