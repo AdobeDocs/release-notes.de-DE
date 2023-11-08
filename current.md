@@ -1,6 +1,6 @@
 ---
 title: Neueste Versionshinweise
-description: Aktuelle Versionshinweise für Adobe finden [!DNL Experience Cloud] Produkte und Dienstleistungen. Informationen über bevorstehende Ereignisse und neue Dokumentationen zu Experience League. Die neuesten Tutorials und Kurse für [!DNL Experience Cloud] -Programme entdecken.
+description: Lesen Sie die neuesten Versionshinweise zu den Produkten und Services von Adobe  [!DNL Experience Cloud] . Informationen über bevorstehende Ereignisse und neue Dokumentationen zu Experience League. Die neuesten Tutorials und Kurse für [!DNL Experience Cloud] -Programme entdecken.
 doc-type: release notes
 last-update: November 2023
 author: mfrei
