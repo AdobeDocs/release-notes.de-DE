@@ -6,9 +6,9 @@ last-update: November 2023
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: 7fa9fdbba2d8089af11af45ad2dfa4fd2254de28
+source-git-commit: 53e36cf4a14b8917af8ca264eab876d16bac3731
 workflow-type: tm+mt
-source-wordcount: '6959'
+source-wordcount: '6920'
 ht-degree: 96%
 
 ---
@@ -514,7 +514,6 @@ Neue Videos, Tutorials oder Kurse, die für Experience Manager veröffentlicht w
 | Oktober 2023 | AEM CS | [[!DNL AEM as a Cloud Service] Videos und Tutorials](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/overview.html?lang=de) | Aktualisiertes Video | Sehen Sie sich ein aktualisiertes Übersichtsvideo an, in dem auch auf Edge Delivery Services in Adobe Experience Manager as a Cloud Service eingegangen wird. |
 | Oktober 2023 | AEM CS | [Aufrufen von internen APIs mit privaten Zertifikaten](https://experienceleague.adobe.com/docs/experience-manager-learn/foundation/security/call-internal-apis-having-private-certificate.html?lang=de) | Video | Erfahren Sie, wie Sie mit privaten oder selbstsignierten Zertifikaten HTTPS-Aufrufe von AEM zu Web-APIs durchführen. |
 | Oktober 2023 | AEM CS | [Über AEM Cloud Service](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/introduction/what-is-aem-as-a-cloud-service.html?lang=de) | Aktualisiertes Video | Erfahren Sie, was Experience Manager as a Cloud Service ist und wie sich diese Version von anderen Adobe Experience Manager-Versionen unterscheidet. |
-| Oktober 2023 | AEM CS | [Entwicklung von AEM](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/introduction/evolution.html?lang=de) | Aktualisiertes Video | Erfahren Sie mehr über die Entwicklung von AEM und den Wert, den die Lösung bietet, von AEM 6.5 bis zu AEM as a Cloud Service und schließlich zu Edge Delivery Services. |
 | Oktober 2023 | Inhaltsfragmente | [Videos zur Inhaltsfragmentkonsole](https://experienceleague.adobe.com/docs/experience-manager-learn/content-fragments-console/overview.html?lang=de) | Aktualisiertes Video | Beschreibung |
 | Oktober 2023 | Sicherheit | [mTLS-Authentifizierung (Mutual Transport Layer Security) von AEM](https://experienceleague.adobe.com/docs/experience-manager-learn/foundation/security/mutual-tls-authentication.html?lang=de) | Video | Erfahren Sie, wie Sie HTTPS-Aufrufe von AEM zu Web-APIs durchführen, für die eine mTLS-Authentifizierung (Mutual Transport Layer Security) erforderlich ist. |
 
