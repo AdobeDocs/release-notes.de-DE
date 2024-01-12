@@ -6,10 +6,10 @@ last-update: November 2023
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: f207f7f7dc042e0c7d8e3f8248cfbf1f29aa85b6
+source-git-commit: e67997d7c36585caece1d94124d3064588eec6ef
 workflow-type: tm+mt
-source-wordcount: '5841'
-ht-degree: 92%
+source-wordcount: '6123'
+ht-degree: 88%
 
 ---
 
@@ -28,6 +28,7 @@ Um eine monatliche E-Mail-Benachrichtigung über Aktualisierungen auf dieser Sei
 Letzte Aktualisierung: **Samstag, 12. Januar 2024**
 
 * [[!DNL Experience League] Ereignisse und Updates](#events) (aktualisiert **12. Januar**)
+* [[!DNL Adobe GenStudio]](#genstudio) - **Neu!**
 * [Zertifizierung bei Adobe](#certification)
 * [[!DNL Adobe System Status]](#status)
 * [[!DNL Adobe Experience Cloud] – zentrale Benutzeroberfläche und Verwaltung](#ecloud)
@@ -80,6 +81,23 @@ Aktualisiert **12. Januar 2024**
 Sehen Sie weitere [bevorstehende Ereignisse](https://experienceleague.adobe.com/events?lang=de/) oder durchsuchen Sie die [Aufzeichnungen von Veranstaltungen](https://experienceleague.adobe.com/docs/events/experience-league-recorded-events/overview.html?lang=de) auf Experience League.
 
 +++
+
+## ![Symbol](/assets/experience-league.png) Adobe GenStudio {#genstudio}
+
+[Adobe GenStudio](https://business.adobe.com/solutions/adobe-genstudio.html) ist eine End-to-End-Lösung zur Beschleunigung und Vereinfachung Ihrer Inhaltsversorgungskette mit generativer KI und intelligenter Automatisierung.
+
++++Details
+
+| Veröffentlicht | Name | Typ | Beschreibung |
+| -----------| ---------- | ---------- | ---------- |
+| Januar 2024 | [GenStudio Tutorials](https://experienceleague.adobe.com/docs/genstudio-learn/tutorials/overview.html?lang=en) | Videos | Experience League-Tutorials zu den neuen [!DNL Adobe GenStudio]. GenStudio ist eine End-to-End-Lösung, mit der Sie Ihre Content-Lieferkette mit generativer KI und intelligenter Automatisierung beschleunigen und vereinfachen können. |
+| Januar 2024 | [Workflow und Planung: Optimierung und Beschleunigung der Arbeit](https://experienceleague.adobe.com/docs/genstudio-learn/tutorials/workflow-and-planning.html?lang=en) | Videos | Für Unternehmen, die Schwierigkeiten haben, ihre Inhaltsanforderungen durch den Planungsprozess bis zur Inhaltserstellung und -fertigstellung zu verbinden und zu verfolgen. Mangelnde effiziente Prozesse, Planung, Validierungen und projektübergreifende Datenkonsistenz machen die Inhaltslieferkette dieses Unternehmens sowohl produktiv als auch effizient. |
+| Januar 2024 | [Kreative Produktivität: Supercharge-Kreativ-Teams](https://experienceleague.adobe.com/docs/genstudio-learn/tutorials/creative-productivity.html?lang=en) | Videos | Für das Unternehmen, das Rockstar-Kreative hat, aber seine Inhaltserstellung einstellen muss. GenStudio bietet Tools, die mit GenAI überlastet sind und diesem Team helfen, die Produktion, Bereitstellung und Entdeckung von Inhalten zu verbessern. |
+| Januar 2024 | [Marketing-Agilität: Skalierbarkeit von Nicht-Kreativen](https://experienceleague.adobe.com/docs/genstudio-learn/tutorials/marketing-agility.html?lang=en) | Videos | Mit Adobe GenStudio kann manchmal eine Inhaltsanfrage ohne die vollständige Kreativteam-/Studio-Behandlung bearbeitet werden. Adobe überträgt Tools in die Hände von Marketern und anderen potenziellen Inhaltserstellern. Diese Tools ermöglichen eine schnelle Aktivierung bei der Erstellung von Inhaltsvarianten. Aktualisierungen können von einer erweiterten, breiteren Gruppe von Einzelanwendern ausgeführt werden, die mit der Inhaltsversorgungskette verbunden sind, wodurch der Inhaltsdurchsatz und die Time-to-Market erheblich gesteigert werden. |
+| Januar 2024 | [Bereitstellung und Aktivierung: Power-Erlebnisse und Leistung](https://experienceleague.adobe.com/docs/genstudio-learn/tutorials/delivery-and-activation.html?lang=en) | Videos | Für das Unternehmen, das Unterstützung benötigt, um den richtigen Inhalt vor der richtigen Person auf dem richtigen Kanal zu erhalten. GenStudio ermöglicht eine bessere Verbindung als jede andere Lösung und stellt gleichzeitig die Analyse bereit, um die Gesamtleistung des Inhalts sicherzustellen. |
+
+{style="table-layout:auto"}
+
 
 ## ![Symbol](/assets/certification-badge.png) Zertifizierung{#certification}
 
