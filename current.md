@@ -6,9 +6,9 @@ last-update: November 2023
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: e67997d7c36585caece1d94124d3064588eec6ef
+source-git-commit: b217f3525129a3c61af864334cc209da4193f242
 workflow-type: tm+mt
-source-wordcount: '6123'
+source-wordcount: '6168'
 ht-degree: 88%
 
 ---
@@ -64,7 +64,9 @@ Aktualisiert **12. Januar 2024**
 
 +++Bevorstehende Ereignisse in Experience League
 
-* **[!DNL ANALYTICS and CJA]** | EXPERIENCE LEAGUE LIVE | _Adobe Analytics-Daten und -Analysen in Customer Journey Analytics integrieren_ | Erfahren Sie mehr über die Verwendung automatisierter Prozesse zum Verschieben von Daten und Analysen von Adobe Analytics zu Customer Journey Analytics sowie über mögliche mögliche Gründe, die Sie dabei in Betracht ziehen sollten. | **17. Januar um 10:00 Uhr PT** | [registrieren](https://engage.adobe.com/ExpLeagueLive-240117.html)
+* **[!DNL TARGET]** | Webinar | _Adobe Target Personalization-Laufzeitreihe_ | Marken suchen nach einem Entwurf für intelligente Optimierung, um geschäftliche Auswirkungen zu steigern und ihre Personalisierungsstrategien zu entwickeln. Treten Sie uns bei der Erforschung von KI und Automatisierung in einer dreiteiligen Webinar-Reihe bei! | **16. Januar um 8:00 Uhr PT** | [registrieren](https://adobe-target-personalization-maturity-webinar-series-q1-2024.dxfieldmarketing.adobeevents.com/)
+
+* **[!DNL ANALYTICS]und CJA** | EXPERIENCE LEAGUE LIVE | _Adobe Analytics-Daten und -Analysen in Customer Journey Analytics integrieren_ | Erfahren Sie mehr über die Verwendung automatisierter Prozesse zum Verschieben von Daten und Analysen von Adobe Analytics zu Customer Journey Analytics sowie über mögliche mögliche Gründe, die Sie dabei in Betracht ziehen sollten. | **17. Januar um 10:00 Uhr PT** | [registrieren](https://engage.adobe.com/ExpLeagueLive-240117.html)
 
 * **[!DNL WORKFRONT]** | Kundenworkshop | _Admin 101 - Erste Schritte mit Workfront_ | Neu bei Workfront? Dieses Ereignis bietet neuen Systemadministratoren eine Einführung in Ressourcen, eine Übersicht über die Systemnavigation und Best Practices für die Ersteinrichtung. | **17. Januar um 8:00 Uhr PT** | [registrieren](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,mjTFCSLTbkuVKavNdopApA,dndSyq-qPkqd5A929WkXkw,mO8IGPam00mi-XGVtohT-g,6dMGxrqXb0-eeS7HnaPDYQ,DnVW5SmEPU6HFB5j97ATFA?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
