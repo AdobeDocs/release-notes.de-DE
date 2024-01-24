@@ -6,9 +6,9 @@ last-update: January 2024
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: 32425affd2225574b859a2cc38d8a0ad775f4cb5
+source-git-commit: 1928c6799fbc8ee5b11e533475e448c8ab1da80b
 workflow-type: tm+mt
-source-wordcount: '6259'
+source-wordcount: '6298'
 ht-degree: 38%
 
 ---
@@ -827,6 +827,10 @@ Zu [!DNL Document Cloud]-Tutorials siehe:
 Neue Videos, Tutorials oder Kurse, die für Anwendungen in [!DNL Adobe Creative Cloud for enterprise] veröffentlicht wurden.
 
 +++Details
+
+| Veröffentlicht | Anwendung | Name | Typ | Beschreibung |
+| -----------| ---------- | ---------- | ---------- |---------- |
+| Januar 2024 | Adobe Express | [Tutorials für Adobe Expreß](https://experienceleague.adobe.com/docs/creative-cloud-enterprise-learn/cce-learning-hub/expressoverview/expresshowto/overview-express-how-to.html?lang=en) | Video | Beginnen Sie damit, erstaunliche Arbeit zu schaffen, die sich durch generative KI mit Adobe Firefly auszeichnet. Erstellen Sie Flyer, TikToks, Wiederaufnahme und Rollen mit Adobe Expreß. |
 
 Unter [Creative Cloud für Unternehmen – Tutorials](https://experienceleague.adobe.com/docs/creative-cloud-enterprise-learn/cce-learning-hub/overview.html?lang=de) finden Sie die neuesten Tutorials.
 
