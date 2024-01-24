@@ -6,9 +6,9 @@ last-update: January 2024
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: 1928c6799fbc8ee5b11e533475e448c8ab1da80b
+source-git-commit: b0ed2e287f72205ce6c0564d778d9a936ee53092
 workflow-type: tm+mt
-source-wordcount: '6298'
+source-wordcount: '6300'
 ht-degree: 38%
 
 ---
@@ -34,7 +34,7 @@ Um eine monatliche E-Mail-Benachrichtigung über Aktualisierungen auf dieser Sei
 
 Letzte Aktualisierung: **Donnerstag, 24. Januar 2024**
 
-* [[!DNL Experience League] Ereignisse und Aktualisierungen](#events)
+* [[!DNL Experience League] Ereignisse und Updates](#events) (Aktualisiert) **24. Januar**)
 * [[!DNL Adobe GenStudio]](#genstudio) - **Neu!**
 * [Zertifizierung bei Adobe](#certification)
 * [[!DNL Adobe System Status]](#status)
@@ -57,7 +57,7 @@ Letzte Aktualisierung: **Donnerstag, 24. Januar 2024**
 * [[!DNL Adobe Advertising]](#advertising)
 * [[!DNL Adobe Pass]](#pass)
 * [[!DNL Adobe Document Cloud]](#doc-cloud)
-* [[!DNL Adobe Creative Cloud for enterprise]](#creative-cloud)
+* [[!DNL Adobe Creative Cloud for enterprise]](#creative-cloud) (Aktualisiert) **24. Januar**)
 * [Customer Data Management – Voices](#voices)
 * [Blueprints für digitale Erlebnisse](#blueprints)
 * [Sicherheitslücken bei Adobe-Produkten](https://helpx.adobe.com/de/security.html)
@@ -826,11 +826,13 @@ Zu [!DNL Document Cloud]-Tutorials siehe:
 
 Neue Videos, Tutorials oder Kurse, die für Anwendungen in [!DNL Adobe Creative Cloud for enterprise] veröffentlicht wurden.
 
+Aktualisiert **24. Januar 2024**
+
 +++Details
 
 | Veröffentlicht | Anwendung | Name | Typ | Beschreibung |
 | -----------| ---------- | ---------- | ---------- |---------- |
-| Januar 2024 | Adobe Express | [Tutorials für Adobe Expreß](https://experienceleague.adobe.com/docs/creative-cloud-enterprise-learn/cce-learning-hub/expressoverview/expresshowto/overview-express-how-to.html?lang=en) | Video | Beginnen Sie damit, erstaunliche Arbeit zu schaffen, die sich durch generative KI mit Adobe Firefly auszeichnet. Erstellen Sie Flyer, TikToks, Wiederaufnahme und Rollen mit Adobe Expreß. |
+| Januar 2024 | [!DNL Adobe Express] | [Tutorials für Adobe Expreß](https://experienceleague.adobe.com/docs/creative-cloud-enterprise-learn/cce-learning-hub/expressoverview/expresshowto/overview-express-how-to.html?lang=en) | Videos | Erste Schritte mit der Erstellung beeindruckender Arbeiten, die sich durch eine generative KI mit [!DNL Adobe Firefly]. Design-Flyer, TikToks, Wiederaufnahme und Rollen mit [!DNL Adobe Express]. |
 
 Unter [Creative Cloud für Unternehmen – Tutorials](https://experienceleague.adobe.com/docs/creative-cloud-enterprise-learn/cce-learning-hub/overview.html?lang=de) finden Sie die neuesten Tutorials.
 
