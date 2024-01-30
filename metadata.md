@@ -9,8 +9,8 @@ mini-toc-levels: 2
 git-repo: https://github.com/AdobeDocs/release-notes.de-DE
 index: true
 source-git-commit: b81b4c2b163849709da81c6ee7c461f32a6d3236
-workflow-type: tm+mt
-source-wordcount: '153'
+workflow-type: ht
+source-wordcount: '151'
 ht-degree: 100%
 
 ---
@@ -22,7 +22,7 @@ Die Datei metadata.md enthält Metadaten auf Repo-Ebene, die an die TOC.md-Datei
 
 | metadata | was es macht |
 |--- |--- |
-| solution-title | Wird in der Artikelkopfzeile als Link verwendet. Halten Sie sich kurz. |
+| solution-title | Wird in der Artikelüberschrift als Link verwendet. Halten Sie sich kurz. |
 | solution-hub-url | Öffnet die helpx-Hub-Seite |
 | solution-icon | Zeigt Lösungssymbol neben dem Titel der Lösung an. Noch nicht implementiert |
 | getting-started-title | Wird selten verwendet, wenn Übungen nicht geeignet sind |
