@@ -9,7 +9,7 @@ internal: n
 translate: y
 source-git-commit: 759707638404f746de2e71ac27bd16926a8d1151
 workflow-type: ht
-source-wordcount: '235'
+source-wordcount: '219'
 ht-degree: 100%
 
 ---
@@ -22,7 +22,7 @@ Hier finden Sie Angaben zur Kontaktaufnahme mit Adobe und rechtliche Hinweise zu
 
 ## Hilfe und technischer Support {#section_354AC2658BA84A2A96E64C5B2C43B73B}
 
-Das Adobe Experience Cloud-Team zur Kundenunterstützung hilft Ihnen gern und kann auf verschiedenen Wegen kontaktiert werden:
+Das Adobe Marketing Cloud-Team zur Kundenunterstützung hilft Ihnen gern und kann auf verschiedenen Wegen kontaktiert werden:
 
 Siehe [Adobe Enterprise Support kontaktieren](https://helpx.adobe.com/de/contact/enterprise-support.ec.html)
 
