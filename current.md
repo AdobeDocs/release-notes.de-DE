@@ -6,10 +6,10 @@ last-update: January 2024
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: 6d49c1d7f803c208e2fe243c09e2aae949675783
+source-git-commit: c7869172861d322f3fb404855f8698d4bc0c1de0
 workflow-type: tm+mt
-source-wordcount: '6394'
-ht-degree: 96%
+source-wordcount: '6393'
+ht-degree: 95%
 
 ---
 
@@ -32,9 +32,9 @@ Um eine monatliche E-Mail-Benachrichtigung über Aktualisierungen auf dieser Sei
 
 ## Januar 2024
 
-Letzte Aktualisierung: **Freitag, 1. Februar 2024**
+Letzte Aktualisierung: **Donnerstag, 7. Februar 2024**
 
-* [[!DNL Experience League] Ereignisse und Updates](#events) (Aktualisiert) **1. Februar**)
+* [[!DNL Experience League] Ereignisse und Updates](#events) (Aktualisiert) **7. Februar**)
 * [[!DNL Adobe GenStudio]](#genstudio) – **Neu!**
 * [Zertifizierung bei Adobe](#certification)
 * [[!DNL Adobe System Status]](#status)
@@ -68,11 +68,11 @@ Erfahren Sie mehr über spannende Ereignisse in Experience League. Dies ist ein 
 
 ### Ereignisse auf Experience League
 
-Aktualisiert **1. Februar 2024**
+Aktualisiert **7. Februar 2024**
 
 +++Bevorstehende Ereignisse auf Experience League
 
-* **[!DNL WORKFRONT]** | Kunden-Workshop | _Connect: Admin-Chat für Marketing und Kreativität_ | Sind Sie Systemadmin eines Marketing- oder Kreativ-Teams? Diese kundengesteuerte Sitzung verbindet Sie mit anderen Admins, um Best Practices und Tipps und Tricks zu besprechen. | **2. Februar, 9:00 Uhr PT** | [Registrieren](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,1qnTSsu1BE6bJ4ijFsYafg,COdPeWL3z0qsME9nhjnRwg,hmjerL5Xn0S-Xzf8VvpiLw,1qocJF5WrkOnYtT1VJFyfA,CySUm8_nZU2OrsID2CBZ9A?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
+* **[!DNL EXPERIENCE PLATFORM]** | EXPERIENCE LEAGUE LIVE | _Anwendungsfall-Playbooks: Self-Service-Vorlagen zur Bereitstellung von Anwendungsfällen mit wenigen Klicks_ | Erfahren Sie, wie Sie mit Case Playbooks Ihre Marketing-Ziele mit nur wenigen Klicks in Implementierungsobjekte übersetzen können! | **8. Februar, 9:00 Uhr PT** | [Registrieren](https://engage.adobe.com/ExpLeagueLive-240208.html)
 
 * **[!DNL WORKFRONT]** | Kunden-Workshop | _Connect: Branchenkreis – Hochschulbildung_ | Ab 2024 wird dieser neue Branchenkreis in einer Diskussionsrunde [!DNL Workfront]-Admins in der Hochschulbildung zusammenbringen, um sich zu vernetzen und Erfahrungen auszutauschen. | **8. Februar, 9:00 Uhr PT** | [Registrieren](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,PiX3iDTmREqs2eOICcUIoA,5KJVGb6S_Uiiki7ErNALgw,HXNYzHfgZEyqwzniykMx3A,PncbLSMUO0uljcEW9Br4Yw,MM54OINvfUGLghA2cPG1Rg?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
@@ -393,7 +393,7 @@ _Early-Adopter-Programm zur CDN-Konfiguration_
 
 Zusätzlich zu den kürzlich veröffentlichten [Traffic-Filterregeln](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/security/traffic-filter-rules-including-waf.html?lang=de), inklusive der optional lizenzierbaren Web Application Firewall(WAF)-Regeln, gibt es eine Möglichkeit, mithilfe der [!UICONTROL Konfigurations-Pipeline] andere Arten der CDN-Konfiguration zu deklarieren und bereitzustellen. Adobe möchte mehr über Ihre Anwendungsfälle erfahren, darunter:
 
-* 301/302 Client-seitige Weiterleitungen
+* 301/302 Client-seitige Umleitungen
 * Proxy-Anfragen am Edge an beliebige Ursprünge
 * URL-Transformationen
 * Festlegen oder Ändern von Anforderungs- und Antwort-Headern
