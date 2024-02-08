@@ -9,7 +9,7 @@ exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
 source-git-commit: c7869172861d322f3fb404855f8698d4bc0c1de0
 workflow-type: tm+mt
 source-wordcount: '6393'
-ht-degree: 95%
+ht-degree: 99%
 
 ---
 
@@ -34,7 +34,7 @@ Um eine monatliche E-Mail-Benachrichtigung über Aktualisierungen auf dieser Sei
 
 Letzte Aktualisierung: **Donnerstag, 7. Februar 2024**
 
-* [[!DNL Experience League] Ereignisse und Updates](#events) (Aktualisiert) **7. Februar**)
+* [[!DNL Experience League] Events und Updates](#events) (Aktualisiert am **7. Februar**)
 * [[!DNL Adobe GenStudio]](#genstudio) – **Neu!**
 * [Zertifizierung bei Adobe](#certification)
 * [[!DNL Adobe System Status]](#status)
@@ -45,7 +45,7 @@ Letzte Aktualisierung: **Donnerstag, 7. Februar 2024**
 * [[!DNL Adobe Customer Journey Analytics]](#cja)
 * [[!DNL Adobe Streaming Media Analytics]](#sma)
 * [[!DNL Adobe Audience Manager]](#aam)
-* [[!DNL Adobe Experience Manager]](#aem) (Aktualisiert) **29. Januar**)
+* [[!DNL Adobe Experience Manager]](#aem) (Aktualisiert am **29. Januar**)
 * [[!DNL Adobe Commerce]](#commerce)
 * [[!DNL Adobe Target]](#target)
 * [[!DNL Adobe Campaign]](#ac)
@@ -57,7 +57,7 @@ Letzte Aktualisierung: **Donnerstag, 7. Februar 2024**
 * [[!DNL Adobe Advertising]](#advertising)
 * [[!DNL Adobe Pass]](#pass)
 * [[!DNL Adobe Document Cloud]](#doc-cloud)
-* [[!DNL Adobe Creative Cloud for enterprise]](#creative-cloud) (Aktualisiert) **24. Januar**)
+* [[!DNL Adobe Creative Cloud for enterprise]](#creative-cloud) (Aktualisiert am **24. Januar**)
 * [Customer Data Management – Voices](#voices)
 * [Blueprints für digitale Erlebnisse](#blueprints)
 * [Sicherheitslücken bei Adobe-Produkten](https://helpx.adobe.com/de/security.html)
@@ -68,27 +68,27 @@ Erfahren Sie mehr über spannende Ereignisse in Experience League. Dies ist ein 
 
 ### Ereignisse auf Experience League
 
-Aktualisiert **7. Februar 2024**
+Aktualisiert am **Donnerstag, 7. Februar 2024**
 
-+++Bevorstehende Ereignisse auf Experience League
++++Bevorstehende Events auf Experience League
 
 * **[!DNL EXPERIENCE PLATFORM]** | EXPERIENCE LEAGUE LIVE | _Anwendungsfall-Playbooks: Self-Service-Vorlagen zur Bereitstellung von Anwendungsfällen mit wenigen Klicks_ | Erfahren Sie, wie Sie mit Case Playbooks Ihre Marketing-Ziele mit nur wenigen Klicks in Implementierungsobjekte übersetzen können! | **8. Februar, 9:00 Uhr PT** | [Registrieren](https://engage.adobe.com/ExpLeagueLive-240208.html)
 
 * **[!DNL WORKFRONT]** | Kunden-Workshop | _Connect: Branchenkreis – Hochschulbildung_ | Ab 2024 wird dieser neue Branchenkreis in einer Diskussionsrunde [!DNL Workfront]-Admins in der Hochschulbildung zusammenbringen, um sich zu vernetzen und Erfahrungen auszutauschen. | **8. Februar, 9:00 Uhr PT** | [Registrieren](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,PiX3iDTmREqs2eOICcUIoA,5KJVGb6S_Uiiki7ErNALgw,HXNYzHfgZEyqwzniykMx3A,PncbLSMUO0uljcEW9Br4Yw,MM54OINvfUGLghA2cPG1Rg?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
-* **[!DNL ANALYTICS]** | Webinar | _Data Drip: Marketing-Kanäle und Attribution-Modellierung_ | Wissen Sie, welche Auswirkungen Ihre Kundeninteraktionen auf Konversionen haben? Treten Sie unseren Adobe-Experten bei, da sie zeigen, wie Sie Marketing-Kanäle konfigurieren und KI in Adobe Analytics nutzen können, um benutzerdefinierte Attributionsmodelle zu erstellen. | **Februar 8 um 13:00 Uhr ET** | [registrieren](https://adobeevents.adobeconnect.com/e1smupitvxor/event/registration.html?campaign-id=ExL)
+* **[!DNL ANALYTICS]** | Webinar | _Data Drip: Marketing-Kanäle und Attributions-Modellierung_ | Wissen Sie, welche Auswirkungen Ihre Kundeninteraktionen auf Konversionen haben? Unsere Adobe-Expertinnen und -Experten zeigen uns, wie man Marketing-Kanäle konfiguriert und KI in Adobe Analytics nutzt, um individuelle Attributionsmodelle zu erstellen. | **8. Februar, 13:00 Uhr ET** | [Registrieren](https://adobeevents.adobeconnect.com/e1smupitvxor/event/registration.html?campaign-id=ExL)
 
-* **[!DNL WORKFRONT]** | Community-Ereignis | _Workfront Collective_ | Treten Sie anderen Workfront-Kunden für unsere monatliche kollektive Problemlösungs- und Erfolgsfreigabe-Sitzung bei! | **12. Februar, 06:00 Uhr PT** | [Registrieren](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,mjTFCSLTbkuVKavNdopApA,dndSyq-qPkqd5A929WkXkw,Xn9a7-beEEy24cKL2PXNNg,7zi14AC4xkabCHqKTayiIA,IqLjAD7pD0iArKvVqEuvXg?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
+* **[!DNL WORKFRONT]** | Community-Ereignis | _Workfront Collective_ | Nehmen Sie mit anderen Workfront-Kundinnen und -Kunden an unserer monatlichen Sitzung teil, in der Problemlösungen präsentiert und Erfolge geteilt werden. | **12. Februar, 06:00 Uhr PT** | [Registrieren](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,mjTFCSLTbkuVKavNdopApA,dndSyq-qPkqd5A929WkXkw,Xn9a7-beEEy24cKL2PXNNg,7zi14AC4xkabCHqKTayiIA,IqLjAD7pD0iArKvVqEuvXg?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
-* **[!DNL DATA COLLECTION]** | Webinar | _Data Stream-Priorisierung_ | Erfahren Sie, wie Sie die Priorisierung von Datenstreams für die Kampagnenorchestrierung verwalten, um die Fähigkeit Ihres Unternehmens zur datengesteuerten Personalisierung zu überlasten. | **13. Februar, 09:30 Uhr PT** | [Registrieren](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,ARjQDHG3k02Eo-6lKFWC2g,VAiqxCIG6Eyfezx39qUWCQ,wz2PUDDYrkiC_tdIA9Fmjg,zxRtJEK2-EOEMRsAgHTASw,_oHPrghx30--nY9ZXaZoOQ?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
+* **[!DNL DATA COLLECTION]** | Webinar | _Daten-Stream-Priorisierung_ | Erfahren Sie, wie Sie die Priorisierung von Daten-Streams für die Kampagnenorchestrierung verwalten können, um die Fähigkeit Ihres Unternehmens zur datengestützten Personalisierung zu verbessern. | **13. Februar, 09:30 Uhr PT** | [Registrieren](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,ARjQDHG3k02Eo-6lKFWC2g,VAiqxCIG6Eyfezx39qUWCQ,wz2PUDDYrkiC_tdIA9Fmjg,zxRtJEK2-EOEMRsAgHTASw,_oHPrghx30--nY9ZXaZoOQ?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
 * **[!DNL WORKFRONT]** | Kunden-Workshop | _Admin 101: So bringen Sie Ihren Benutzenden[!DNL Workfront]_ näher | Neu in [!DNL Workfront]? Nehmen Sie an unserem monatlichen Treffen für neue Admins teil! Diesen Monat besprechen wir Best Practices in Bezug auf die Benutzerakzeptanz. | **14. Februar, 8:00 Uhr PT** | [Registrieren](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,1qnTSsu1BE6bJ4ijFsYafg,COdPeWL3z0qsME9nhjnRwg,MDL_x5737EWfNcssbhAZ1A,5pHR-aY5vUuDZD_W7b413Q,6Q3YA7w40kC8sjrpjua41Q?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
-* **[!DNL EXPERIENCE PLATFORM]** | Webinar | _Strategische Führungsrolle entfesselt: Die Macht des Exekutivsponsorings_ | Erhalten Sie die Taktik, um organisatorische Ziele durch strategischen Einfluss effektiv zu erreichen. Diese Sitzung soll Führungskräften helfen, die ihr Sponsoring verbessern wollen. | **15. Februar, 10:00 Uhr PT** | [Registrieren](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,ARjQDHG3k02Eo-6lKFWC2g,VAiqxCIG6Eyfezx39qUWCQ,GhrB9xJg0Ue2T4RaLzkJLw,B3p-ouZzS0iARXaZhi5IXA,WnJS96CGxkWMxRYwMJAa8A?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
+* **[!DNL EXPERIENCE PLATFORM]** | Webinar | _Strategische Führungsrolle entfesselt: Die Vorteile von Executive Sponsorship_ | Erlernen Sie die Vorgehensweisen, um organisatorische Ziele durch strategischen Einfluss effektiv zu erreichen. Diese Sitzung soll Führungskräfte dabei unterstützen, ihren Einfluss besser zu nutzen. | **15. Februar, 10:00 Uhr PT** | [Registrieren](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,ARjQDHG3k02Eo-6lKFWC2g,VAiqxCIG6Eyfezx39qUWCQ,GhrB9xJg0Ue2T4RaLzkJLw,B3p-ouZzS0iARXaZhi5IXA,WnJS96CGxkWMxRYwMJAa8A?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
-* **[!DNL EXPERIENCE PLATFORM]** | Webinar | _Weniger Teamvorteile: Entsperren Sie die Funktionen für optimierten Erfolg_ | Erfahren Sie, wie Produktintegrationen digitale Workflows optimieren, die Teameffizienz steigern und Geschäftsprozesse skalieren können. Lernen Sie Techniken zur Verbesserung der Zusammenarbeit innerhalb schlanker Teams für maximale Produktivität kennen. | **20. Februar, 10:00 Uhr PT** | [Registrieren](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,ARjQDHG3k02Eo-6lKFWC2g,VAiqxCIG6Eyfezx39qUWCQ,lzo8X450K0WiX2CQ1QsnUg,6GQkKH8YT0GizXdcl-r83A,qfG_3T7YZE-rhyNf2XFx-g?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
+* **[!DNL EXPERIENCE PLATFORM]** | Webinar | _Erfahren Sie mehr über die Vorteile von Teams: Gemeinsam zum Erfolg_ | Erfahren Sie, wie Produktintegrationen digitale Workflows optimieren, die Team-Effizienz steigern und Geschäftsprozesse skalieren können. Lernen Sie Vorgehensweisen zur Verbesserung der Zusammenarbeit innerhalb schlanker Teams für maximale Produktivität kennen. | **20. Februar, 10:00 Uhr PT** | [Registrieren](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,ARjQDHG3k02Eo-6lKFWC2g,VAiqxCIG6Eyfezx39qUWCQ,lzo8X450K0WiX2CQ1QsnUg,6GQkKH8YT0GizXdcl-r83A,qfG_3T7YZE-rhyNf2XFx-g?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
-* **[!DNL WORKFRONT]** | Fragen und Antworten | _Fragen Sie den Support - Fehlerbehebung für allgemeine Layoutvorlagen und Probleme in der Ansicht_ | Treten Sie dem Workfront-Support-Team für eine Sitzung vom Typ &quot;Fragen Sie den Experten&quot; bei, um sich über Best Practices und Tipps zur Fehlerbehebung zu informieren, die sich auf Layout-Vorlagen und -Ansichten beziehen. | **22. Februar, 09:00 Uhr PT** | [Registrieren](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,PiX3iDTmREqs2eOICcUIoA,5KJVGb6S_Uiiki7ErNALgw,SHy3noeahk-cVr1c56xN3g,LabzJZ5I2ESS1IfzddF1Lw,rj5S03F0xUmcsyxTeJTtTg?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
+* **[!DNL WORKFRONT]** | Fragen und Antworten | _Fragen Sie den Support – Fehlerbehebung für allgemeine Layout-Vorlagen und Probleme in der Ansicht_ | Nehmen Sie an der Sitzung „Fragen Sie den Experten“ mit dem Workfront-Support-Team teil, um sich über Best Practices und Tipps zur Fehlerbehebung zu informieren, die sich auf Layout-Vorlagen und Ansichten beziehen. | **22. Februar, 09:00 Uhr PT** | [Registrieren](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,PiX3iDTmREqs2eOICcUIoA,5KJVGb6S_Uiiki7ErNALgw,SHy3noeahk-cVr1c56xN3g,LabzJZ5I2ESS1IfzddF1Lw,rj5S03F0xUmcsyxTeJTtTg?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
 Sehen Sie sich weitere [bevorstehende Ereignisse](https://experienceleague.adobe.com/events?lang=de/) an oder durchsuchen Sie die [Aufzeichnungen von Veranstaltungen](https://experienceleague.adobe.com/docs/events/experience-league-recorded-events/overview.html?lang=de) auf Experience League.
 
@@ -832,13 +832,13 @@ Zu [!DNL Document Cloud]-Tutorials siehe:
 
 Neue Videos, Tutorials oder Kurse, die für Anwendungen in [!DNL Adobe Creative Cloud for enterprise] veröffentlicht wurden.
 
-Aktualisiert am **Donnerstag, 24. Januar 2024**
+Aktualisiert am **24. Januar 2024**
 
 +++Details
 
 | Veröffentlicht | Anwendung | Name | Typ | Beschreibung |
 | -----------| ---------- | ---------- | ---------- |---------- |
-| Januar 2024 | [!DNL Adobe Express] | [Tutorials für Adobe Expreß](https://experienceleague.adobe.com/docs/creative-cloud-enterprise-learn/cce-learning-hub/expressoverview/expresshowto/overview-express-how-to.html?lang=en) | Videos | Erste Schritte mit der Erstellung beeindruckender Arbeiten, die sich durch eine generative KI mit [!DNL Adobe Firefly]. Design-Flyer, TikToks, Wiederaufnahme und Rollen mit [!DNL Adobe Express]. |
+| Januar 2024 | [!DNL Adobe Express] | [Tutorials für Adobe Express](https://experienceleague.adobe.com/docs/creative-cloud-enterprise-learn/cce-learning-hub/expressoverview/expresshowto/overview-express-how-to.html?lang=de) | Videos | Erste Schritte mit der Erstellung beeindruckender Arbeiten auf der Basis der generativen KI von [!DNL Adobe Firefly]. Entwerfen Sie Flyer, TikToks, Lebensläufe und Reels mit [!DNL Adobe Express]. |
 
 Unter [Creative Cloud für Unternehmen – Tutorials](https://experienceleague.adobe.com/docs/creative-cloud-enterprise-learn/cce-learning-hub/overview.html?lang=de) finden Sie die neuesten Tutorials.
 
