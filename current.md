@@ -6,10 +6,10 @@ last-update: January 2024
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: c7869172861d322f3fb404855f8698d4bc0c1de0
+source-git-commit: a4a69849a5df4dff25467dd89e9e8f563b53a826
 workflow-type: tm+mt
-source-wordcount: '6393'
-ht-degree: 99%
+source-wordcount: '6207'
+ht-degree: 100%
 
 ---
 
@@ -70,17 +70,7 @@ Erfahren Sie mehr über spannende Ereignisse in Experience League. Dies ist ein 
 
 Aktualisiert am **Donnerstag, 7. Februar 2024**
 
-+++Bevorstehende Events auf Experience League
-
-* **[!DNL EXPERIENCE PLATFORM]** | EXPERIENCE LEAGUE LIVE | _Anwendungsfall-Playbooks: Self-Service-Vorlagen zur Bereitstellung von Anwendungsfällen mit wenigen Klicks_ | Erfahren Sie, wie Sie mit Case Playbooks Ihre Marketing-Ziele mit nur wenigen Klicks in Implementierungsobjekte übersetzen können! | **8. Februar, 9:00 Uhr PT** | [Registrieren](https://engage.adobe.com/ExpLeagueLive-240208.html)
-
-* **[!DNL WORKFRONT]** | Kunden-Workshop | _Connect: Branchenkreis – Hochschulbildung_ | Ab 2024 wird dieser neue Branchenkreis in einer Diskussionsrunde [!DNL Workfront]-Admins in der Hochschulbildung zusammenbringen, um sich zu vernetzen und Erfahrungen auszutauschen. | **8. Februar, 9:00 Uhr PT** | [Registrieren](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,PiX3iDTmREqs2eOICcUIoA,5KJVGb6S_Uiiki7ErNALgw,HXNYzHfgZEyqwzniykMx3A,PncbLSMUO0uljcEW9Br4Yw,MM54OINvfUGLghA2cPG1Rg?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
-
-* **[!DNL ANALYTICS]** | Webinar | _Data Drip: Marketing-Kanäle und Attributions-Modellierung_ | Wissen Sie, welche Auswirkungen Ihre Kundeninteraktionen auf Konversionen haben? Unsere Adobe-Expertinnen und -Experten zeigen uns, wie man Marketing-Kanäle konfiguriert und KI in Adobe Analytics nutzt, um individuelle Attributionsmodelle zu erstellen. | **8. Februar, 13:00 Uhr ET** | [Registrieren](https://adobeevents.adobeconnect.com/e1smupitvxor/event/registration.html?campaign-id=ExL)
-
-* **[!DNL WORKFRONT]** | Community-Ereignis | _Workfront Collective_ | Nehmen Sie mit anderen Workfront-Kundinnen und -Kunden an unserer monatlichen Sitzung teil, in der Problemlösungen präsentiert und Erfolge geteilt werden. | **12. Februar, 06:00 Uhr PT** | [Registrieren](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,mjTFCSLTbkuVKavNdopApA,dndSyq-qPkqd5A929WkXkw,Xn9a7-beEEy24cKL2PXNNg,7zi14AC4xkabCHqKTayiIA,IqLjAD7pD0iArKvVqEuvXg?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
-
-* **[!DNL DATA COLLECTION]** | Webinar | _Daten-Stream-Priorisierung_ | Erfahren Sie, wie Sie die Priorisierung von Daten-Streams für die Kampagnenorchestrierung verwalten können, um die Fähigkeit Ihres Unternehmens zur datengestützten Personalisierung zu verbessern. | **13. Februar, 09:30 Uhr PT** | [Registrieren](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,ARjQDHG3k02Eo-6lKFWC2g,VAiqxCIG6Eyfezx39qUWCQ,wz2PUDDYrkiC_tdIA9Fmjg,zxRtJEK2-EOEMRsAgHTASw,_oHPrghx30--nY9ZXaZoOQ?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
++++Details
 
 * **[!DNL WORKFRONT]** | Kunden-Workshop | _Admin 101: So bringen Sie Ihren Benutzenden[!DNL Workfront]_ näher | Neu in [!DNL Workfront]? Nehmen Sie an unserem monatlichen Treffen für neue Admins teil! Diesen Monat besprechen wir Best Practices in Bezug auf die Benutzerakzeptanz. | **14. Februar, 8:00 Uhr PT** | [Registrieren](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,1qnTSsu1BE6bJ4ijFsYafg,COdPeWL3z0qsME9nhjnRwg,MDL_x5737EWfNcssbhAZ1A,5pHR-aY5vUuDZD_W7b413Q,6Q3YA7w40kC8sjrpjua41Q?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
