@@ -6,9 +6,9 @@ last-update: February 2024
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: 4cb8fce5ba7d00f4462cfaa5c29523a15c3ae0c2
-workflow-type: ht
-source-wordcount: '5528'
+source-git-commit: 342d9caad0c8a904c94a2a8c087f19955f796095
+workflow-type: tm+mt
+source-wordcount: '5447'
 ht-degree: 100%
 
 ---
@@ -70,10 +70,6 @@ Erfahren Sie mehr über spannende Ereignisse in Experience League. Dies ist ein 
 Aktualisiert am **Donnerstag, 14. Februar 2024**
 
 +++Details
-
-* **[!DNL EXPERIENCE PLATFORM]** | Webinar | _Strategische Führungsrolle entfesselt: Die Vorteile von Executive Sponsorship_ | Erlernen Sie die Vorgehensweisen, um organisatorische Ziele durch strategischen Einfluss effektiv zu erreichen. Diese Sitzung soll Führungskräfte dabei unterstützen, ihren Einfluss besser zu nutzen. | **15. Februar, 10:00 Uhr PT** | [Registrieren](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,ARjQDHG3k02Eo-6lKFWC2g,VAiqxCIG6Eyfezx39qUWCQ,GhrB9xJg0Ue2T4RaLzkJLw,B3p-ouZzS0iARXaZhi5IXA,WnJS96CGxkWMxRYwMJAa8A?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
-
-* **[!DNL EXPERIENCE PLATFORM]** | Webinar | _Erfahren Sie mehr über die Vorteile von Teams: Gemeinsam zum Erfolg_ | Erfahren Sie, wie Produktintegrationen digitale Workflows optimieren, die Team-Effizienz steigern und Geschäftsprozesse skalieren können. Lernen Sie Vorgehensweisen zur Verbesserung der Zusammenarbeit innerhalb schlanker Teams für maximale Produktivität kennen. | **20. Februar, 10:00 Uhr PT** | [Registrieren](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,ARjQDHG3k02Eo-6lKFWC2g,VAiqxCIG6Eyfezx39qUWCQ,lzo8X450K0WiX2CQ1QsnUg,6GQkKH8YT0GizXdcl-r83A,qfG_3T7YZE-rhyNf2XFx-g?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
 * **[!DNL WORKFRONT]** | Fragen und Antworten | _Fragen Sie den Support – Fehlerbehebung für allgemeine Layout-Vorlagen und Probleme in der Ansicht_ | Nehmen Sie an der Sitzung „Fragen Sie den Experten“ mit dem Workfront-Support-Team teil, um sich über Best Practices und Tipps zur Fehlerbehebung zu informieren, die sich auf Layout-Vorlagen und Ansichten beziehen. | **22. Februar, 09:00 Uhr PT** | [Registrieren](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,PiX3iDTmREqs2eOICcUIoA,5KJVGb6S_Uiiki7ErNALgw,SHy3noeahk-cVr1c56xN3g,LabzJZ5I2ESS1IfzddF1Lw,rj5S03F0xUmcsyxTeJTtTg?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
@@ -257,7 +253,7 @@ Erhalten Sie die neusten Versionsinformationen für [!DNL Customer Journey Analy
 
 +++Details
 
-[!DNL Customer Journey Analytics]-Veröffentlichungsdatum: **16. Februar 2024**
+[!DNL Customer Journey Analytics] Veröffentlichungsdatum: **16. Februar 2024**
 
 * [Versionshinweise](https://experienceleague.adobe.com/docs/analytics-platform/using/releases/latest.html?lang=de) zu [!DNL Customer Journey Analytics]
 
