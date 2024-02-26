@@ -6,10 +6,10 @@ last-update: February 2024
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: 342d9caad0c8a904c94a2a8c087f19955f796095
+source-git-commit: 1dc1f22cdf45150c58eb6a72641c70f988aaf5b5
 workflow-type: tm+mt
-source-wordcount: '5447'
-ht-degree: 100%
+source-wordcount: '5457'
+ht-degree: 99%
 
 ---
 
@@ -32,9 +32,9 @@ Um eine monatliche E-Mail-Benachrichtigung über Aktualisierungen auf dieser Sei
 
 ## Februar 2024
 
-Letzte Aktualisierung: **Donnerstag, 14. Februar 2024**
+Letzte Aktualisierung: **Dienstag, 26. Februar 2024**
 
-* [[!DNL Experience League] -Ereignisse und -Aktualisierungen](#events)
+* [[!DNL Experience League] Ereignisse und Updates](#events)  (aktualisiert **26. Februar**)
 * [[!DNL Adobe GenStudio]](#genstudio)
 * [Zertifizierung bei Adobe](#certification)
 * [[!DNL Adobe System Status]](#status)
@@ -67,11 +67,11 @@ Erfahren Sie mehr über spannende Ereignisse in Experience League. Dies ist ein 
 
 ### Ereignisse auf Experience League
 
-Aktualisiert am **Donnerstag, 14. Februar 2024**
+Aktualisiert am **Dienstag, 26. Februar 2024**
 
 +++Details
 
-* **[!DNL WORKFRONT]** | Fragen und Antworten | _Fragen Sie den Support – Fehlerbehebung für allgemeine Layout-Vorlagen und Probleme in der Ansicht_ | Nehmen Sie an der Sitzung „Fragen Sie den Experten“ mit dem Workfront-Support-Team teil, um sich über Best Practices und Tipps zur Fehlerbehebung zu informieren, die sich auf Layout-Vorlagen und Ansichten beziehen. | **22. Februar, 09:00 Uhr PT** | [Registrieren](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,PiX3iDTmREqs2eOICcUIoA,5KJVGb6S_Uiiki7ErNALgw,SHy3noeahk-cVr1c56xN3g,LabzJZ5I2ESS1IfzddF1Lw,rj5S03F0xUmcsyxTeJTtTg?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
+* **WORKFRONT** | Q&amp;A-Chat | _Fragen Sie den Kundenbereich: Wenden Sie sich an Workfront._ | Das erste Panel von 2024 startet mit drei inspirierenden Workfront-Kunden, die mithilfe ihres Workfront-Know-hows eine erfolgreiche Karriere begonnen haben. Nehmen Sie an einer einstündigen Diskussion teil, um die für den Erfolg erforderlichen Fähigkeiten zu erlernen. | **27. Februar, 08:00 Uhr PT** | [Registrieren](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,PiX3iDTmREqs2eOICcUIoA,5KJVGb6S_Uiiki7ErNALgw,2fZ2UKkqy0WZ22Alb9JdRQ,qGWMHwKiJ06A_XgUeGVhYg,cta_ZoLBA06u-8UH8SlbCQ?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
 * **ADOBE SUMMIT** | Digital Experience Conference | _Erweitern Sie Ihre Fähigkeiten, entdecken Sie die neuesten Trends und erkunden Sie die Zukunft des erlebnisorientierten Wachstums._ | Lernen Sie von führenden Marken, entdecken Sie die Zukunft der generativen KI und bereiten Sie sich auf ein erlebnisorientiertes Wachstum vor. | **25. bis 28. März in Las Vegas und online** | [Rgistrieren](https://summit.adobe.com/na/?promoid=QGMZPBSP&amp;mv=other)
 
