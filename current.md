@@ -6,9 +6,9 @@ last-update: February 2024
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: 3c9e639fd907074cf74c63ddbc061d07801b5900
+source-git-commit: 0c7a6c54b5f8fac7ae5295e8a28b968bda9c3bab
 workflow-type: tm+mt
-source-wordcount: '5582'
+source-wordcount: '5499'
 ht-degree: 99%
 
 ---
@@ -70,10 +70,6 @@ Erfahren Sie mehr über spannende Ereignisse in Experience League. Dies ist ein 
 Aktualisiert am **28. Februar 2024**
 
 +++Details
-
-* **CAMPAIGN (V7, V8)** | Kaffeepause | _Adobe Campaign Community-Fragen und -Kaffeepause_ | Nehmen Sie an einer einstündigen Chatsitzung in der neuen Adobe Campaign-Web-Benutzeroberfläche mit unserem Adobe Campaign-Produktteam teil. | **7. März, 08:00 Uhr PT** | [Registrieren](https://experienceleaguecommunities.adobe.com/t5/campaign-classic-events/community-q-amp-a-coffee-break-march-7th-with-adobe-campaign/ev-p/656010)
-
-* **WORKFRONT** | Webinar | _Wake Up with Workfront: Resource Management_ | Entdecken Sie einen der wirkungsvollsten Anwendungsfälle von Workfront – das Ressourcen-Management. Eine Fachkraft für Adobe Workfront erklärt Ihnen mithilfe von Blueprints, wie Sie Workfront nutzen können, um einfach Arbeitsverwaltungssysteme zu erstellen, die sich an Ihre Anforderungen anpassen. | **7. März, 13:00 Uhr ET** | [Registrieren](https://experienceleaguecommunities.adobe.com/t5/campaign-classic-events/community-q-amp-a-coffee-break-march-7th-with-adobe-campaign/ev-p/656010)
 
 * **WORKFRONT** | Community-Veranstaltung | _Connect: Workfront Collective_ | Nehmen Sie mit anderen Workfront-Kundinnen und -Kunden an dem Webinar teil, in der Problemlösungen präsentiert und Erfolge geteilt werden. | **11. März, 6:00 Uhr PT** | [Registrieren](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,mjTFCSLTbkuVKavNdopApA,dndSyq-qPkqd5A929WkXkw,50kttP5-9UCWhh1BbCHcww,POUnBQTORE-I_fyzEM2lfA,bUuoFqpHqEqgxVRm7ajYUg?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
