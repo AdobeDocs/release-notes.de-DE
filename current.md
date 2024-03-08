@@ -6,10 +6,10 @@ last-update: February 2024
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: 0c7a6c54b5f8fac7ae5295e8a28b968bda9c3bab
+source-git-commit: da61f809f1bdd6ce4f3ac650f40a72a2a0f37c6e
 workflow-type: tm+mt
-source-wordcount: '5499'
-ht-degree: 99%
+source-wordcount: '5572'
+ht-degree: 98%
 
 ---
 
@@ -73,9 +73,11 @@ Aktualisiert am **28. Februar 2024**
 
 * **WORKFRONT** | Community-Veranstaltung | _Connect: Workfront Collective_ | Nehmen Sie mit anderen Workfront-Kundinnen und -Kunden an dem Webinar teil, in der Problemlösungen präsentiert und Erfolge geteilt werden. | **11. März, 6:00 Uhr PT** | [Registrieren](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,mjTFCSLTbkuVKavNdopApA,dndSyq-qPkqd5A929WkXkw,50kttP5-9UCWhh1BbCHcww,POUnBQTORE-I_fyzEM2lfA,bUuoFqpHqEqgxVRm7ajYUg?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
-* **WORKFRONT** | Community-Veranstaltung | _Connect: Workfront Collective_ | Nehmen Sie mit anderen Kundinnen und Kunden von Workfront an diesem Webinar teil, in der Problemlösungen präsentiert und Erfolge geteilt werden. | **11. März, 6:00 Uhr PT** | [Registrieren](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,mjTFCSLTbkuVKavNdopApA,dndSyq-qPkqd5A929WkXkw,50kttP5-9UCWhh1BbCHcww,POUnBQTORE-I_fyzEM2lfA,bUuoFqpHqEqgxVRm7ajYUg?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
+* **WORKFRONT** | Kundenworkshop | _Admin 101: Abrufen von Workfront-Daten_ | Neu bei Workfront? Nehmen Sie an unseren monatlichen &quot;neuen Admin&quot;-Sitzungen teil, um Fragen zu stellen, Ressourcen und Empfehlungen zu erhalten, andere neue Administratoren kennenzulernen und für diese Sitzung Best Practices für alle Berichte in Workfront zu erlernen. | **13. März, 08:00 Uhr PT** | [Registrieren](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,PiX3iDTmREqs2eOICcUIoA,5KJVGb6S_Uiiki7ErNALgw,POtiORmhEE2cwlhRFM2JMw,dUgy5MAHzkeSpm357qe4Ww,lKFY7SPny0-i8YfbN5Ow3g?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
-* **EXPERIENCE MANAGER** | Webinar | _Espressos &amp; Experience Manager: Why AEM is More Powerful in the Cloud_ | Nehmen Sie an diesem Webinar mit Expertinnen und Experten von Adobe teil, um zu erfahren, wie Sie durch Inhaltsbewertung und Migrationsplanung mit Tools wie Best Practice Analyzer und Cloud Acceleration Manager reibungslos in die Cloud migrieren können. | **14. März, 13:00 Uhr ET** | [Registrieren](https://events-emea5.adobeconnect.com/content/adobeconnect/43/5415868397/en/events/event/shared/5621127355/event_landing.html?sco-id=5643219583&amp;campaign-id=ExL&amp;_charset_=utf-8)
+* **EXPERIENCE MANAGER** | AEM GEMS | _Erste Schritte mit AEM Authoring und Edge Delivery Services_ | Treten Sie AEM GEMs-Webinar bei, um die ersten Schritte mit AEM Authoring mit Edge Delivery Services zu erhalten. Erfahren Sie, wie Sie mit dem WYSIWYG-Authoring mit AEM Cloud-Service eine AEM aktivierte Projektentwicklung erstellen. | **13. März, 09:00 Uhr PT** | [Registrieren](https://aem-augs.adobe.com/events/details/adobe-experience-manager-aem-learning-chapter-presents-getting-started-with-aem-authoring-and-edge-delivery-services/)
+
+* **EXPERIENCE MANAGER** | Webinar | _Espressos &amp; Experience Manager: Why AEM is More Powerful in the Cloud_ | Nehmen Sie an diesem Webinar mit Expertinnen und Experten von Adobe teil, um zu erfahren, wie Sie durch Inhaltsbewertung und Migrationsplanung mit Tools wie Best Practice Analyzer und Cloud Acceleration Manager reibungslos in die Cloud migrieren können. | **14. März, 13:00 Uhr ET** | [Registrieren](https://adobeevents.adobeconnect.com/e8jc5prppkfr/event/registration.html?campaign-id=ExL)
 
 * **ADOBE SUMMIT** | Digital Experience Conference | _Erweitern Sie Ihre Fähigkeiten, entdecken Sie die neuesten Trends und erkunden Sie die Zukunft des erlebnisorientierten Wachstums._ | Lernen Sie von führenden Marken, entdecken Sie die Zukunft der generativen KI und bereiten Sie sich auf ein erlebnisorientiertes Wachstum vor. | **25. bis 28. März in Las Vegas und online** | [Rgistrieren](https://summit.adobe.com/na/?promoid=QGMZPBSP&amp;mv=other)
 
