@@ -6,9 +6,9 @@ last-update: March 2024
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: e4ed429fbc8ecdaa4149c9796c50c57272918613
+source-git-commit: 8911d232f3e218b9f5549d7626ef65ac92996bfc
 workflow-type: tm+mt
-source-wordcount: '6152'
+source-wordcount: '6115'
 ht-degree: 66%
 
 ---
@@ -605,7 +605,6 @@ Für Adobe Campaign veröffentlichte neue oder aktualisierte Video-Tutorials.
 | Februar 2024 | Campaign-Web-Benutzeroberfläche | [Zielgruppen verwalten und erstellen](https://experienceleague.adobe.com/docs/campaign-web-learn/tutorials/profiles-and-audiences/manage-and-build-audiences.html) | Video | Erfahren Sie, wie Sie Zielgruppen erstellen und verwalten, wie Sie Zielgruppen für einen Versand auswählen und Kontrollgruppen definieren. |
 | Februar 2024 | Campaign-Web-Benutzeroberfläche | [Zielgruppen-Workflow erstellen](https://experienceleague.adobe.com/docs/campaign-web-learn/tutorials/workflows/create-a-targeting-workflow.html) | Video | Erfahren Sie, wie Workflows funktionieren und wie Sie einen Zielgruppen-Workflow erstellen. |
 | Februar 2024 | Campaign-Web-Benutzeroberfläche | [E-Mail-Versand erstellen](https://experienceleague.adobe.com/docs/campaign-web-learn/tutorials/messages-and-deliveries/create-an-email-delivery.html) | Video | Hier erfahren Sie, wie Sie einen neuen E-Mail-Versand erstellen, die Zielgruppe definieren, den Inhalt gestalten, eine Vorschau simulieren und einen Testversand durchführen können. |
-| Februar 2024 | Campaign-Web-Benutzeroberfläche | [Neuen E-Mail-Inhalt gestalten](https://experienceleague.adobe.com/docs/campaign-web-learn/tutorials/messages-and-deliveries/create-email-content-from-scratch.html) | Video | Hier erfahren Sie, wie Sie im E-Mail-Designer navigieren. Erfahren Sie, wie Sie eine E-Mail neu strukturieren und entwerfen und wie Sie Ihre E-Mail personalisieren und testen können. |
 | Februar 2024 | Campaign-Webbenutzeroberfläche, Experience Platform | [Erstellen einer Zielgruppe mit Experience Platform](https://experienceleague.adobe.com/docs/campaign-web-learn/tutorials/profiles-and-audiences/create-an-audience-with-experience-platform.html) | Video | Erfahren Sie, wie Sie ein Ziel für die Verwendung einer Experience Platform-Audience in Adobe Campaign erstellen. |
 | Februar 2024 | Campaign-Web-Benutzeroberfläche | [Erstellen einer E-Mail durch Hochladen von HTML](https://experienceleague.adobe.com/docs/campaign-web-learn/tutorials/messages-and-deliveries/create-an-email-by-uploading-html.html) | Video | Erfahren Sie, wie Sie eine E-Mail durch Hochladen von HTML erstellen, wie Sie sie mit dem E-Mail-Designer kompatibel machen und wie Sie sie in eine Vorlage konvertieren. |
 | Februar 2024 | Campaign-Web-Benutzeroberfläche | [Dos und Don&#39;ts abmelden](https://experienceleague.adobe.com/docs/deliverability-learn/deliverability-best-practice-guide/additional-resources/unsubscribe-dos-and-do-nots.html) | Artikel | Verwenden Sie eine Liste der Aktionen und Dinge, die bei der Verwaltung von Abmeldungen zu vermeiden sind. |
