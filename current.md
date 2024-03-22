@@ -6,9 +6,9 @@ last-update: March 2024
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: 4c1b46ffb7598946d87cd1d61330cf2a694d853e
+source-git-commit: e82e5513e7dcc435eaa1182db8c6ff3f246d47f3
 workflow-type: tm+mt
-source-wordcount: '6023'
+source-wordcount: '5974'
 ht-degree: 99%
 
 ---
@@ -32,7 +32,7 @@ Um eine monatliche E-Mail-Benachrichtigung über Aktualisierungen auf dieser Sei
 
 ## März 2024
 
-Letzte Aktualisierung: **Samstag, 15. März 2024**
+Letzte Aktualisierung: **Samstag, 22. März 2024**
 
 * [[!DNL Experience League] Ereignisse und Aktualisierungen](#events)
 * [Zertifizierung bei Adobe](#certification)
@@ -70,8 +70,6 @@ Erfahren Sie mehr über spannende Ereignisse in Experience League. Dies ist ein 
 Aktualisiert am **Samstag, 15. März 2024**
 
 +++Details
-
-* **WORKFRONT** | Kundenworkshop | _Admin 101 - Fragen zu Workfront stellen_ | Haben Sie die vorherigen Admin 101-Sitzungen verpasst oder haben Sie noch Fragen? Nehmen Sie an einer stündlichen Nachbearbeitung der Serie teil, in der wir die Sitzungen zusammenfassen und sie für Fragen und Antworten öffnen! | **20. März, 08:00 Uhr PT** | [Registrieren](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,mjTFCSLTbkuVKavNdopApA,dndSyq-qPkqd5A929WkXkw,1YdEYKuO-0KE3ermHwWEfg,UN_LlgnRokKfDGTmj7vhVg,XjCFMeclLEmuHQZslDQYHw?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
 * **ADOBE SUMMIT** | Digital Experience Conference | _Erweitern Sie Ihre Fähigkeiten, entdecken Sie die neuesten Trends und erkunden Sie die Zukunft des erlebnisorientierten Wachstums._ | Lernen Sie von führenden Marken, entdecken Sie die Zukunft der generativen KI und bereiten Sie sich auf ein erlebnisorientiertes Wachstum vor. | **25. bis 28. März in Las Vegas und online** | [Rgistrieren](https://summit.adobe.com/na/?promoid=QGMZPBSP&amp;mv=other)
 
