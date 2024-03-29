@@ -6,10 +6,10 @@ last-update: March 2024
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: ea0c4b9aaed870ca77014eed1db8a3915a937d2f
+source-git-commit: 76b633e2b12a93934e043c2e71636de51453dfe5
 workflow-type: tm+mt
-source-wordcount: '6002'
-ht-degree: 99%
+source-wordcount: '6053'
+ht-degree: 94%
 
 ---
 
@@ -32,9 +32,9 @@ Um eine monatliche E-Mail-Benachrichtigung über Aktualisierungen auf dieser Sei
 
 ## März 2024
 
-Letzte Aktualisierung: **Samstag, 22. März 2024**
+Letzte Aktualisierung: **Samstag, 29. März 2024**
 
-* [[!DNL Experience League] Ereignisse und Aktualisierungen](#events)
+* [[!DNL Experience League] Ereignisse und Updates](#events) (Aktualisiert) **29. März**)
 * [Zertifizierung bei Adobe](#certification)
 * [[!DNL Adobe System Status]](#status)
 * [[!DNL Adobe Experience Cloud] – zentrale Benutzeroberfläche und Verwaltung](#ecloud)
@@ -67,23 +67,25 @@ Erfahren Sie mehr über spannende Ereignisse in Experience League. Dies ist ein 
 
 ### Ereignisse auf Experience League
 
-Aktualisiert am **Samstag, 15. März 2024**
+Aktualisiert am **Samstag, 29. März 2024**
 
 +++Details
 
-* **ADOBE SUMMIT** | Digital Experience Conference | _Erweitern Sie Ihre Fähigkeiten, entdecken Sie die neuesten Trends und erkunden Sie die Zukunft des erlebnisorientierten Wachstums._ | Lernen Sie von führenden Marken, entdecken Sie die Zukunft der generativen KI und bereiten Sie sich auf ein erlebnisorientiertes Wachstum vor. | **25. bis 28. März in Las Vegas und online** | [Rgistrieren](https://summit.adobe.com/na/?promoid=QGMZPBSP&amp;mv=other)
-
-* **ANALYTICS** | Experience Makers: The Skill Exchange | _Kompetenzaustausch auf dem Adobe Summit für Adobe Analytics_ | Am 28. März 2024 veranstalten wir den Adobe Analytics Skill Exchange auf dem Gipfeltreffen in Las Vegas! Registrieren Sie sich schon jetzt, um Tipps, Tricks und Best Practices von Analytics-Kundinnen, -Kunden und -Champions zu erfahren. | **28. März, 09:00 Uhr PT** | [Registrieren](https://reg.adobe.com/flow/adobe/as24/sessions/page/catalog?tab.allsessions=1643149273691001NFtR&amp;search=952%20953)
-
-* **EXPERIENCE MANAGER** | Experience Makers: The Skill Exchange | _Kompetenzaustausch auf dem Adobe Summit für AEM_ | Am 28. März 2024 veranstalten wir den AEM Skill Exchange auf dem Gipfeltreffen in Las Vegas! Registrieren Sie sich schon jetzt, um Tipps, Tricks und Best Practices von AEM-Kundinnen, -Kunden und -Champions zu erfahren. | **28. März, 09:00 Uhr PT** | [Registrieren](https://reg.adobe.com/flow/adobe/as24/sessions/page/catalog?tab.allsessions=1643149273691001NFtR&amp;search=950%20951)
-
-* **EXPERIENCE MANAGER** | Experience Makers: The Skill Exchange | _Kompetenzaustausch auf dem Adobe Summit für Marketo Engage_ | Am 28. März 2024 veranstalten wir den Marketo Engage Skill Exchange auf dem Gipfeltreffen in Las Vegas! Registrieren Sie sich schon jetzt, um Tipps, Tricks und Best Practices von Marketo Engage-Kundinnen, -Kunden und -Champions zu erfahren. | **28. März, 09:00 Uhr PT** | [Registrieren](https://reg.adobe.com/flow/adobe/as24/sessions/page/catalog?tab.allsessions=1643149273691001NFtR&amp;search=954%20955)
-
-* **WORKFRONT** | Experience Makers: The Skill Exchange | _Kompetenzaustausch auf dem Adobe Summit für Workfront_ | Am 28. März 2024 veranstalten wir den Adobe Workfront Skill Exchange auf dem Gipfeltreffen in Las Vegas! Registrieren Sie sich schon jetzt, um Tipps, Tricks und Best Practices von Workfront-Kundinnen, -Kunden und -Champions zu erfahren. | **28. März, 09:00 Uhr PT** | [Registrieren](https://reg.adobe.com/flow/adobe/as24/sessions/page/catalog?tab.allsessions=1643149273691001NFtR&amp;search=956%20957)
-
 * **WORKFRONT** | Community-Veranstaltung | _Connect: Admin-Chat für Marketing und Kreativität_ | Sind Sie Systemadmin eines Marketing- oder Kreativ-Teams? Diese kundengesteuerte Sitzung verbindet Sie mit anderen Admins, um Best Practices sowie Tipps und Tricks zu besprechen. | **5. April, 9:00 Uhr PT** | [Registrieren](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,1qnTSsu1BE6bJ4ijFsYafg,COdPeWL3z0qsME9nhjnRwg,S3qiBpspOUyiG7Vl_PtPXg,rFPUK2gma0OCogFhuCyzjw,nTcEntnvgkePuH01JzrsQw?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
+* **WORKFRONT** | Kundenworkshop | _Admin 101: Erste Schritte mit Workfront_ | Neu bei Workfront? Treten Sie unseren monatlichen Admin 101-Sitzungen bei, um Fragen zu stellen, Ressourcen zu erhalten, Best Practices zu lernen und andere neue Administratoren kennenzulernen. Diese Sitzung konzentriert sich auf die Ersteinrichtung und -konfiguration. | **10. April, 08:00 Uhr PT** | [Registrieren](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,mjTFCSLTbkuVKavNdopApA,dndSyq-qPkqd5A929WkXkw,8EcZ9ObE6E6vfXJJKbUE-Q,c4BGCPZ3kEetwRnBo4FL-A,AfPWNe36XUiXIb3Ne0B3mQ?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
+
+* **WORKFRONT** | Kundenworkshop | _Erfahren Sie mehr über die Adobe Workfront-Versionsrunde im 2. Quartal 2024_ | Treten Sie anderen Workfront Sys-Administratoren bei, während wir die neuesten Verbesserungen in der Version vom 2. Quartal 2024 überprüfen. Wir besprechen Vorteile, Rollout-Pläne und das Management von Veränderungen. | **16. April, 08:00 Uhr PT** | [Registrieren](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,mjTFCSLTbkuVKavNdopApA,dndSyq-qPkqd5A929WkXkw,e3igCVj87kW2XCHT56EQog,RwH5xRVhtUSV93mv6mLh6w,HHrnE5sxuUyzPXNKDAYCdg?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
+
+* **MARKETO ENGAGE** | Erfahren Sie von Ihren Kollegen | _Entsperren der leistungsstarken Workflow-Automatisierung: Praktische Anwendungen der Marketo Engage REST API_ | Treten Sie uns live bei und lassen Sie sich von realen Anwendungsfällen inspirieren, wie die REST-API zur Optimierung von Workflows verwendet werden kann, z. B. durch Zusammenführen von Leads in großen Mengen, Erstellen von UTM-Tracking-Programmen und Nutzung von ChatGPT zur Optimierung der Versandzeiten. | **17. April, 08:00 Uhr PT** | [Registrieren](https://engage.adobe.com/marketo-Unlocking-Powerful-Workflow-Automation-registration.html?cgen=4SC98Z4B&amp;mv=other)
+
+* **WORKFRONT** | Kundenworkshop | _Erfahren Sie mehr: 10 Tipps zum Textmodus in Adobe Workfront_ | Möchten Sie Ihr Reporting-Wissen mit dem Textmodus erweitern? Sehen Sie nicht weiter! Dieser Workshop bietet eine kurze Einführung in die Grundlagen des Textmodus und den API-Explorer, gefolgt von 10 Tipps für den Textmodus in Adobe Workfront. | **18. April, 9:00 Uhr PT** | [Registrieren](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,PiX3iDTmREqs2eOICcUIoA,5KJVGb6S_Uiiki7ErNALgw,--xUIfX6gEqCcuYNDuE5IA,S8LJKpyI4kywiEO88_bvdg,Z6HaWjLNV0CaMzwT0JeWQg?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
+
 Sehen Sie sich weitere [bevorstehende Ereignisse](https://experienceleague.adobe.com/events?lang=de/) an oder durchsuchen Sie die [Aufzeichnungen von Veranstaltungen](https://experienceleague.adobe.com/docs/events/experience-league-recorded-events/overview.html?lang=de) auf Experience League.
+
+* **WORKFRONT** | Community-Ereignis | _Verbinden: Workfront Collective_ | Nehmen Sie an dieser monatlichen gemeinsamen Brainstorming- und Sharing-Sitzung mit Ihren anderen Workfront Sys-Administratoren teil, in der wir über die neuesten Updates und Best Practices sprechen. | **22. April, 06:00 Uhr PT** | [Registrieren](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,mjTFCSLTbkuVKavNdopApA,dndSyq-qPkqd5A929WkXkw,PLjes69h2kitBUQrGr_tSQ,9hwaemfUG0uEqL-RwJW9fQ,OzGfEfueq0yp19zAhpjfwA?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
+
+* **WORKFRONT** | Q&amp;A-Chat | _Frage: Migration zur Adobe Business Platform_ | Nehmen Sie an Fragen und Antworten mit unseren Technikern des technischen Supports teil, um zu erfahren, was zu erwarten ist und wie Sie sich am besten auf die Migration der Adobe Business Platform vorbereiten können. | **23. April, 08:00 Uhr PT** | [Registrieren](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,mjTFCSLTbkuVKavNdopApA,dndSyq-qPkqd5A929WkXkw,wXdzewqwQEO_SiY5SC4i2Q,r3bZVp0PVkObL30IXUw5iA,1p0c3CZ2qEGQBAZpsDvvEw?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
 +++
 
