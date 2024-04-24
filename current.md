@@ -6,10 +6,10 @@ last-update: April 2024
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: af76851090b09db9cc561e43f12ff735b0e992e8
+source-git-commit: d650848e6b2726166669a50d03f73cd1d6db5630
 workflow-type: tm+mt
-source-wordcount: '6240'
-ht-degree: 54%
+source-wordcount: '6106'
+ht-degree: 55%
 
 ---
 
@@ -32,7 +32,7 @@ Um eine monatliche E-Mail-Benachrichtigung über Aktualisierungen auf dieser Sei
 
 ## April 2024
 
-Neueste Aktualisierung: **Donnerstag, 17. April 2024**
+Neueste Aktualisierung: **Donnerstag, 24. April 2024**
 
 * [[!DNL Experience League] Ereignisse und Aktualisierungen](#events)
 * [Zertifizierung bei Adobe](#certification)
@@ -70,13 +70,6 @@ Erfahren Sie mehr über spannende Ereignisse in Experience League. Dies ist ein 
 Aktualisiert **am Samstag, 19. April 2024**
 
 +++Details
-
-* **WORKFRONT** | Community-Ereignis | _Verbinden: Workfront Collective_ | Nehmen Sie an dieser monatlichen gemeinsamen Brainstorming- und Sharing-Sitzung mit Ihren anderen Workfront Sys-Administratoren teil, in der wir über die neuesten Updates und Best Practices sprechen. | **22. April, 06:00 Uhr PT** | [Registrieren](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,mjTFCSLTbkuVKavNdopApA,dndSyq-qPkqd5A929WkXkw,PLjes69h2kitBUQrGr_tSQ,9hwaemfUG0uEqL-RwJW9fQ,OzGfEfueq0yp19zAhpjfwA?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
-
-* **WORKFRONT** | Q&amp;A-Chat | _Frage: Migration zur Adobe Business Platform_ | Nehmen Sie an Fragen und Antworten mit unseren Technikern des technischen Supports teil, um zu erfahren, was zu erwarten ist und wie Sie sich am besten auf die Migration der Adobe Business Platform vorbereiten können. | **23. April, 08:00 Uhr PT** | [Registrieren](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,mjTFCSLTbkuVKavNdopApA,dndSyq-qPkqd5A929WkXkw,wXdzewqwQEO_SiY5SC4i2Q,r3bZVp0PVkObL30IXUw5iA,1p0c3CZ2qEGQBAZpsDvvEw?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
-
-
-* **WORKFRONT** | Erfahren Sie von Ihren Kollegen | _Systemadministratorpraktiken gestalten_ | Wie viele Administratoren benötigen Sie, um Workfront zu unterstützen? Es kommt darauf an! Nehmen Sie am 25. April teil, um von Ihren Kollegen bei Dell und Adobe zu erfahren, wie Sie mit der heutigen Einstellung der richtigen Administratoren kostspielige Fehler vermeiden können. | **23. April, 08:00 Uhr PT** | [Registrieren](https://webinars.on24.com/adobe_workfront/AdoptionStaffingAdmin?partnerref=exl)
 
 * **WORKFRONT** | Fragen Sie den Experten: Fusionsvorgänge | _Systemadministratorpraktiken gestalten_ | Nehmen Sie an Expertenwissen Andy Hess teil, um mehr über den Betrieb in Adobe Workfront Fusion zu erfahren, einschließlich der Quantifizierung dieser Vorgänge, sowie Tipps und Tricks zur Optimierung ihrer Nutzung in Ihren Szenarien. | **30. April, 10:30 Uhr PT** | [Registrieren](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,1qnTSsu1BE6bJ4ijFsYafg,COdPeWL3z0qsME9nhjnRwg,XHiAwIIUlkqflbNCknr0rg,0-0SB3dRmU-HJRCgnAYtvA,T-_WWmP7z0q7uBFxnmdNLw?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
