@@ -6,10 +6,10 @@ last-update: April 2024
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: d650848e6b2726166669a50d03f73cd1d6db5630
+source-git-commit: 3f72ee17f088aa775dd54e62937f4e3ca3333eb4
 workflow-type: tm+mt
-source-wordcount: '6106'
-ht-degree: 100%
+source-wordcount: '6189'
+ht-degree: 98%
 
 ---
 
@@ -74,6 +74,10 @@ Aktualisiert **am Samstag, 19. April 2024**
 * **WORKFRONT** | Fragen an die Fachleute: Vorgänge in Fusion | _Leute für Ihren Systemadmin-Betrieb_ | Nehmen Sie an dieser Sitzung mit Andy Hess teil, um mehr über Vorgänge in Adobe Workfront Fusion zu erfahren, einschließlich wie diese quantifiziert werden können, und erhalten Sie Tipps und Tricks dazu, wie die Nutzung dieser Vorgänge in Ihren Szenarien optimiert werden kann. | **30. April, 10:30 Uhr PT** | [Registrieren](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,1qnTSsu1BE6bJ4ijFsYafg,COdPeWL3z0qsME9nhjnRwg,XHiAwIIUlkqflbNCknr0rg,0-0SB3dRmU-HJRCgnAYtvA,T-_WWmP7z0q7uBFxnmdNLw?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
 * **JOURNEY OPTIMIZER** | Kaffeepause | _Adobe Journey Optimizer – Kaffeepause mit Fragen und Antworten der Community_ | Fragen Sie in dieser Sitzung Fachleute für Adobe Journey Optimizer und sprechen Sie mit ihnen über den neuen, Code-basierten Erlebniskanal in Journey Optimizer. | **8. Mai, 08:00 Uhr PT** | [Registrieren](https://experienceleaguecommunities.adobe.com/t5/journey-optimizer-events/community-q-amp-a-coffee-break-may-1st-with-adobe-journey/ev-p/666816)
+
+* **COMMERCE** | Webinar | _Commerce &amp; Coffee: E-Commerce-Grundlagen meistern_ | Treten Sie Senior Commerce Strategy Consultant, Corey Gelato, bei, da er E-Commerce-Grundlagen für den Erfolg teilt, darunter personalisierte Kundenwerbung, Treueprogramme und optimierte Zahlungs- und Versandprozesse. | **2. Mai, 10:00 Uhr PT** | [Registrieren](https://adobeevents.adobeconnect.com/ewpnh2ilj4ee/event/registration.html?campaign-id=ExL)
+
+* **COMMERCE** | Kundenworkshop | _Admin 101: Benutzer zur Verwendung von Workfront bewegen_ | Neu zu Workfront? Treten Sie unseren monatlichen Admin 101-Sitzungen bei, um Fragen zu stellen, Ressourcen zu erhalten, Best Practices zu lernen und andere neue Administratoren kennenzulernen. Diesen Monat besprechen wir die Benutzerakzeptanz! | **8. Mai, 08:00 Uhr PT** | [Registrieren](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,1qnTSsu1BE6bJ4ijFsYafg,COdPeWL3z0qsME9nhjnRwg,MYqYLHh3CEGjU5wABOZ3YQ,dCdeXlXv8EaBK4cc0csabA,Rc4VZTp9mkmagh_nu3e3hg?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
 Sehen Sie weitere [bevorstehende Ereignisse](https://experienceleague.adobe.com/events?lang=de/) oder durchsuchen Sie die [Aufzeichnungen von Ereignissen](https://experienceleague.adobe.com/de/docs/events/experience-league-recorded-events/overview) auf Experience League.
 
