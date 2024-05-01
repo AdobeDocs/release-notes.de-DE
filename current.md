@@ -6,9 +6,9 @@ last-update: April 2024
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: ce21e4ccca04ec63195b8e522d1c9195723261ef
+source-git-commit: 850bd90d2ecf012068c90278c10958e119fc7438
 workflow-type: tm+mt
-source-wordcount: '6236'
+source-wordcount: '6188'
 ht-degree: 98%
 
 ---
@@ -32,7 +32,7 @@ Um eine monatliche E-Mail-Benachrichtigung über Aktualisierungen auf dieser Sei
 
 ## April 2024
 
-Neueste Aktualisierung: **Donnerstag, 24. April 2024**
+Letzte Aktualisierung: **Donnerstag, 1. Mai 2024**
 
 * [[!DNL Experience League] Ereignisse und Aktualisierungen](#events)
 * [Zertifizierung bei Adobe](#certification)
@@ -67,11 +67,9 @@ Erfahren Sie mehr über spannende Ereignisse in Experience League. Dies ist ein 
 
 ### Ereignisse auf Experience League
 
-Aktualisiert **am Mittwoch, 30. April 2024**
+Aktualisiert: **Donnerstag, 1. Mai 2024**
 
 +++Details
-
-* **WORKFRONT** | Fragen an die Fachleute: Vorgänge in Fusion | _Leute für Ihren Systemadmin-Betrieb_ | Nehmen Sie an dieser Sitzung mit Andy Hess teil, um mehr über Vorgänge in Adobe Workfront Fusion zu erfahren, einschließlich wie diese quantifiziert werden können, und erhalten Sie Tipps und Tricks dazu, wie die Nutzung dieser Vorgänge in Ihren Szenarien optimiert werden kann. | **30. April, 10:30 Uhr PT** | [Registrieren](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,1qnTSsu1BE6bJ4ijFsYafg,COdPeWL3z0qsME9nhjnRwg,XHiAwIIUlkqflbNCknr0rg,0-0SB3dRmU-HJRCgnAYtvA,T-_WWmP7z0q7uBFxnmdNLw?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
 * **JOURNEY OPTIMIZER** | Kaffeepause | _Adobe Journey Optimizer – Kaffeepause mit Fragen und Antworten der Community_ | Fragen Sie in dieser Sitzung Fachleute für Adobe Journey Optimizer und sprechen Sie mit ihnen über den neuen, Code-basierten Erlebniskanal in Journey Optimizer. | **8. Mai, 08:00 Uhr PT** | [Registrieren](https://experienceleaguecommunities.adobe.com/t5/journey-optimizer-events/community-q-amp-a-coffee-break-may-1st-with-adobe-journey/ev-p/666816)
 
