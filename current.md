@@ -6,9 +6,9 @@ last-update: May 2024
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: 57bfa1093269549f16f34757ee9e083472098800
+source-git-commit: 776ff803675808b4695782c2fef15858a555bbae
 workflow-type: tm+mt
-source-wordcount: '6445'
+source-wordcount: '6449'
 ht-degree: 54%
 
 ---
@@ -32,7 +32,7 @@ Um eine monatliche E-Mail-Benachrichtigung über Aktualisierungen auf dieser Sei
 
 ## Mai 2024
 
-Letzte Aktualisierung: **Donnerstag, 15. Mai 2024**
+Letzte Aktualisierung: **Freitag, 16. Mai 2024**
 
 * [[!DNL Experience League] Ereignisse und Aktualisierungen](#events)
 * [Zertifizierung bei Adobe](#certification)
@@ -180,7 +180,7 @@ Neue Videos, Tutorials oder Kurse, die für Adobe [!DNL Experience Platform] ver
 | Mai 2024 | [!DNL Experience Platform] | [Konfigurieren eines Datenspeichers](https://experienceleague.adobe.com/en/docs/platform-learn/implement-web-sdk/initial-configuration/configure-datastream) | Artikel | Erfahren Sie, wie Sie einen Datastream für das Adobe Experience Platform Web SDK konfigurieren. |
 | Mai 2024 | [!DNL Experience Platform] | [Erstellen eines XDM-Schemas für Webdaten](https://experienceleague.adobe.com/en/docs/platform-learn/implement-web-sdk/initial-configuration/configure-schemas) | Artikel | Erfahren Sie, wie Sie ein XDM-Schema für Webdaten in der Datenerfassungsoberfläche von Adobe Experience Platform erstellen. |
 | Mai 2024 | [!DNL Experience Platform] | [Identitäts-Namespace konfigurieren](https://experienceleague.adobe.com/en/docs/platform-learn/implement-web-sdk/initial-configuration/configure-identities) | Artikel | Erfahren Sie, wie Sie Identitäts-Namespaces für die Verwendung mit dem Adobe Experience Platform Web SDK konfigurieren. |
-| Mai 2024 | [!DNL Experience Platform] | [WebSDK-Implementierungen mit Experience Platform Debugger validieren](https://experienceleague.adobe.com/en/docs/platform-learn/implement-web-sdk/tags-configuration/validate-with-debugger) | Video | Erfahren Sie, wie Sie Ihre Adobe Experience Platform Web SDK-Implementierung mit Adobe Experience Platform Debugger validieren. |
+| Mai 2024 | [!DNL Experience Platform] | [WebSDK-Implementierungen mit Experience Platform Debugger validieren](https://experienceleague.adobe.com/en/docs/platform-learn/implement-web-sdk/tags-configuration/validate-with-debugger) | Video | Erfahren Sie, wie Sie Ihre Adobe Experience Platform Web SDK-Implementierung mit dem Adobe Experience Platform Debugger validieren. |
 | Mai 2024 | [!DNL Experience Platform] | [WebSDK-Implementierungen mit Experience Platform Assurance validieren](https://experienceleague.adobe.com/en/docs/platform-learn/implement-web-sdk/tags-configuration/validate-with-assurance) | Artikel | Erfahren Sie, wie Sie Ihre Platform Web SDK-Implementierung mit Adobe Experience Platform Assurance überprüfen. Diese Lektion ist Teil des Tutorials zum Implementieren von Adobe Experience Cloud mit Web SDK. |
 | Mai 2024 | [!DNL Experience Platform] | [Erstellen von Tag-Regeln](https://experienceleague.adobe.com/en/docs/platform-learn/implement-web-sdk/tags-configuration/create-tag-rule) | Artikel | Erfahren Sie, wie Sie mithilfe von Tag-Regeln Ereignisse mit Ihrem XDM-Objekt an das Adobe Experience Platform-Edge Network senden. |
 | Mai 2024 | [!DNL Experience Platform] | [Installieren der Adobe Experience Platform Web SDK-Tag-Erweiterung](https://experienceleague.adobe.com/en/docs/platform-learn/implement-web-sdk/tags-configuration/install-web-sdk) | Artikel | Erfahren Sie, wie Sie die Adobe Experience Platform Web SDK-Tag-Erweiterung installieren und konfigurieren. |
@@ -228,7 +228,7 @@ Erhalten Sie die neuesten Versionsinformationen für [!DNL Adobe Analytics] und 
 
 [!DNL Analytics] Veröffentlichungsdatum: **15. Mai 2024**
 
-* [Versionshinweise](https://experienceleague.adobe.com/docs/analytics/release-notes/latest.html?lang=de) zu [!DNL Analytics]
+* [Versionshinweise](https://experienceleague.adobe.com/de/docs/analytics/release-notes/latest) zu [!DNL Analytics]
 
 * [Produktdokumentation und Tutorials](https://experienceleague.adobe.com/de/docs/analytics) zu [!DNL Analytics]
 
@@ -464,12 +464,12 @@ Neue Videos, Tutorials oder Kurse, die für Experience Manager veröffentlicht w
 | Mai 2024 | [!DNL AEM Sites] | [Cloud 5 Staffel 3](https://experienceleague.adobe.com/en/docs/experience-manager-learn/cloud-service/expert-resources/cloud-5/cloud5-season-3) | Videos | Die dritte Stufe hilft Ihnen, AEM Edge Delivery-Service kennenzulernen, indem Sie eingehende Interviews mit Experten führen, die an komplexen Projekten gearbeitet haben. |
 | Mai 2024 | [!DNL AEM Sites] | [Cloud 5 - Integration [!DNL AEM Assets] Dokumenterstellung](https://experienceleague.adobe.com/de/docs/experience-manager-learn/cloud-service/expert-resources/cloud-5/season-3/cloud5-integrate-assets) | Video | Integration kennenlernen [!DNL AEM Assets] mit Dokumenterstellung, um außergewöhnliche Erlebnisse für Edge Delivery Services bereitzustellen. |
 | Mai 2024 | [!DNL AEM Sites] | [Generieren von Varianten - Eingabeaufforderungsvorlagen in Edge Delivery Services](https://experienceleague.adobe.com/en/docs/experience-manager-learn/sites/document-authoring/how-to/generate-variations/prompt-templates) | Video | Erfahren Sie, wie Sie die Vorlagen für Eingabeaufforderungen für generative KI in der Edge Delivery Services-Dokumenterstellung zum Generieren von Inhaltsvarianten verwenden können. |
-| Mai 2024 | [!DNL AEM Sites] | [Varianten generieren - Benutzerdefinierte Eingabeaufforderungsvorlagen in Edge Delivery Services](https://experienceleague.adobe.com/en/docs/experience-manager-learn/sites/document-authoring/how-to/generate-variations/custom-prompt-templates) | Video | Erfahren Sie, wie Sie die benutzerdefinierten Eingabeaufforderungsvorlagen für die Generierung von Varianten in der Dokumenterstellung in Edge Delivery Services erstellen. |
+| Mai 2024 | [!DNL AEM Sites] | [Varianten generieren - Benutzerdefinierte Eingabeaufforderungsvorlagen in Edge Delivery Services](https://experienceleague.adobe.com/en/docs/experience-manager-learn/sites/document-authoring/how-to/generate-variations/custom-prompt-templates) | Video | Erfahren Sie, wie Sie bei der Dokumenterstellung in Edge Delivery Services Prompt-Vorlagen für die Funktion „Varianten generieren“ erstellen. |
 | Mai 2024 | [!DNL AEM Sites] | [Varianten generieren - Speichern Sie benutzerdefinierte Eingabeaufforderungsvorlagen in Edge Delivery Services](https://experienceleague.adobe.com/en/docs/experience-manager-learn/sites/document-authoring/how-to/generate-variations/save-custom-prompt-template) | Video | Erfahren Sie, wie Sie die benutzerdefinierten Vorlagen für Eingabeaufforderungen für generative KI in der Edge Delivery Services-Dokumenterstellung speichern, um Inhaltsvarianten zu generieren. |
-| Mai 2024 | [!DNL AEM Sites] | [Konfigurieren von Sidekick zum Generieren von Varianten in Edge Delivery Services](https://experienceleague.adobe.com/docs/experience-manager-learn/sites/document-authoring/how-to/generate-variations-sidekick-config.html?lang=en) | Video | Erfahren Sie, wie Sie Sidekick zum Generieren von Varianten bei der Dokumenterstellung in Edge Delivery Services konfigurieren. |
+| Mai 2024 | [!DNL AEM Sites] | [Konfigurieren von Sidekick zum Generieren von Varianten in Edge Delivery Services](https://experienceleague.adobe.com/en/docs/experience-manager-learn/sites/document-authoring/how-to/generate-variations/configure-sidekick) | Video | Erfahren Sie, wie Sie Sidekick zum Generieren von Varianten bei der Dokumenterstellung in Edge Delivery Services konfigurieren. |
 | Mai 2024 | [!DNL AEM Assets] | [Exportieren von Assets](https://experienceleague.adobe.com/de/docs/experience-manager-learn/assets/sharing/export) | Artikel | Erfahren Sie, wie Sie Assets mit einer anpassbaren `Node.js` Skript. Dieses Exportskript bietet ein Beispiel für das programmgesteuerte Herunterladen von Assets von AEM mithilfe von [!DNL AEM Assets] HTTP-APIs, die sich speziell auf die Original-Ausgabeformate konzentrieren, um die höchste Qualität zu gewährleisten. |
 | Mai 2024 | [!DNL AEM Forms] | [Verwenden der GuideBridge-API zur POST von Formulardaten](https://experienceleague.adobe.com/en/docs/experience-manager-learn/forms/core-component-based-forms/submit-data-using-guidebridge-api) | Artikel | Verwendung [!UICONTROL Speichern und fortsetzen] für ein Formular, um den Fortschritt des Ausfüllens des Formulars zu speichern und es später wieder aufzunehmen. |
-| Mai 2024 | [!DNL AEM Sites] | [Generative KI in [!DNL AEM Sites]](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/expert-resources/cloud-5/season-3/cloud5-generative-ai-for-aem-sites.html) | Video | Erfahren Sie mehr über die neuen generativen KI-Funktionen in [!DNL AEM Sites] Dokumenterstellung. |
+| Mai 2024 | [!DNL AEM Sites] | [Generative KI in [!DNL AEM Sites]](https://experienceleague.adobe.com/en/docs/experience-manager-learn/cloud-service/expert-resources/cloud-5/season-3/cloud5-generative-ai-for-aem-sites) | Video | Erfahren Sie mehr über die neuen generativen KI-Funktionen in [!DNL AEM Sites] Dokumenterstellung. |
 | Mai 2024 | [!DNL AEM Forms] | [Füllen Sie ein PDF-Formular mit ChatBot aus.](https://experienceleague.adobe.com/en/docs/experience-manager-learn/forms/chatbot-and-aem-forms/introduction) | Video | Erfahren Sie, wie Sie ein PDF-Formular mit Chatbot ausfüllen. |
 | Mai 2024 | AEM Headless | [Schützen von Inhalten in AEM Headless](https://experienceleague.adobe.com/de/docs/experience-manager-learn/getting-started-with-aem-headless/how-to/protected-content) | Artikel | Erfahren Sie, wie Sie Inhalte in AEM Headless schützen können. |
 | Mai 2024 | AEM CS | [Erweiterte Netzwerke](https://experienceleague.adobe.com/de/docs/experience-manager-learn/cloud-service/networking/advanced-networking) | Artikel | Erfahren Sie mehr über erweiterte Netzwerkoptionen von AEM as a Cloud Service. |
@@ -659,7 +659,7 @@ Neue Videos, Tutorials oder Kurse, die für Adobe [!DNL Journey Optimizer] verö
 
 | Veröffentlicht | Name | Typ | Beschreibung |
 | -----------| ---------- | ---------- | ---------- |
-| Mai 2024 | [Aktionen erstellen](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/configuration/journey-configuration/create-actions.html) | Video | Erfahren Sie, was eine Aktion ist und wie Sie die Aktion &quot;Profil bearbeiten&quot;und &quot;Sprung&quot;in [!DNL Journey Optimizer]und wie eine benutzerdefinierte Aktion konfiguriert wird. |
+| Mai 2024 | [Aktionen erstellen](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/configuration/journey-configuration/create-actions) | Video | Erfahren Sie, was eine Aktion ist und wie Sie die Aktion &quot;Profil bearbeiten&quot;und &quot;Sprung&quot;in [!DNL Journey Optimizer]und wie eine benutzerdefinierte Aktion konfiguriert wird. |
 | Mai 2024 | [Importieren und Erstellen von HTML-E-Mail-Inhalten mit dem Nachrichten-Editor](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/email-channel/import-and-author-html-email-content) | Video | Erfahren Sie, wie Sie vorhandene HTML-Inhalte importieren, das Design anpassen, Mirrorseiten- und Abmelde-Links hinzufügen und Ihre Inhalte codieren können. |
 | Mai 2024 | [MMS-API-Anmeldeinformationen und Kanaloberflächen konfigurieren](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/configuration/channel-configuration/configure-mms-api-credentials-and-channel-surfaces) | Video | Erfahren Sie, wie Sie eine Verbindung herstellen [!DNL Journey Optimizer] zu einem MMS-Dienstleister und wie eine MMS-Kanaloberfläche erstellt wird. |
 | Mai 2024 | [Codebasierte Erlebniskampagne erstellen](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/code-based-experience-channel/create-a-code-based-experience-campaign) | Video | Erfahren Sie, wie Sie eine code-basierte Erlebniskampagne erstellen, um die Personalisierung mit Unterstützung für serverseitige, API-basierte oder SDK-basierte Implementierungsmethoden zu skalieren und nahtlos in Entwicklungsumgebungen zu integrieren. |
