@@ -6,9 +6,9 @@ last-update: May 2024
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: 776ff803675808b4695782c2fef15858a555bbae
+source-git-commit: 3bfd6c90c7d3113f95e46b8f355cb581835b3242
 workflow-type: tm+mt
-source-wordcount: '6449'
+source-wordcount: '6457'
 ht-degree: 54%
 
 ---
@@ -71,7 +71,7 @@ Aktualisiert: **Donnerstag, 15. Mai 2024**
 
 +++Details
 
-* **WORKFRONT** | Q &amp; A Chat | _Fragen Sie die Experten: Entwickeln Ihrer Admin-Praxis - Webinar-Follow-up_ | Treten Sie Ihren Kollegen und unseren Experten von Dell und Adobe bei unserer Webinar-Nachbesprechungsveranstaltung ein, um das Gespräch über die Personalbesetzung Ihrer Administratorpraxis fortzusetzen. | **16. Mai, 08:00 Uhr PT** | [Registrieren](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,mjTFCSLTbkuVKavNdopApA,dndSyq-qPkqd5A929WkXkw,GXUvIFWKiEanOME_WMN1Hw,BMP5cgCS5UOxsAdDHNDUyw,RoMIPwb8AkKNMLe_k5S2ww?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
+* **REAL-TIME CUSTOMER DATA PLATFORM UND TARGET** | Webinar | _Perfect Blend: RTCDP, Target und Friends_ | Join Senior Solutions Consultant, Josh Kimball, gibt bekannt, wie RTCDP kanalübergreifende Daten in Kundenprofile vereinheitlicht und nahtlos mit Adobe Target verbindet, um eine personalisierte Strategie für diese Segmente zu aktivieren. | **23. Mai um 1:00 Uhr ET** | [registrieren](https://adobeevents.adobeconnect.com/ev550gaxnx7r/event/registration.html?campaign-id=ExL)
 
 * **WORKFRONT** | Community-Ereignis | _Adobe Workfront Industry Circle: Retail_ | Wenn Sie Workfront-Kunde im Einzelhandel sind und an der gemeinsamen Problemlösung und der gemeinsamen Nutzung von Lerninhalten mit anderen Administratoren interessiert sind, führen Sie mit uns eine einstündige offene Diskussion unter der Leitung von Administratoren von DSW und Nordstrom durch. | **23. Mai, 11:00 Uhr PT** | [Registrieren](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,mjTFCSLTbkuVKavNdopApA,dndSyq-qPkqd5A929WkXkw,vFfS8Q7qMUCtqS73wkJMig,sz-whm3Hyka_fhpfall8TA,DCY8aPpdN069tKqlYeJMyQ?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
