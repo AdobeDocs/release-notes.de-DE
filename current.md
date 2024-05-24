@@ -6,10 +6,10 @@ last-update: May 2024
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: 45296141bb022d720f3d50d1dfe282224bde72d1
+source-git-commit: 5c27e02cd941862486885944c1e74838a10ac3f9
 workflow-type: tm+mt
-source-wordcount: '6546'
-ht-degree: 94%
+source-wordcount: '6446'
+ht-degree: 95%
 
 ---
 
@@ -67,13 +67,9 @@ Erfahren Sie mehr über spannende Ereignisse in Experience League. Dies ist ein 
 
 ### Ereignisse auf Experience League
 
-Aktualisiert: **Samstag, 17. Mai 2024**
+Aktualisiert: **Samstag, 24. Mai 2024**
 
 +++Details
-
-* **REAL-TIME CUSTOMER DATA PLATFORM UND TARGET** | Webinar | _Perfect Blend: RTCDP, Target und Friends_ | Join Senior Solutions Consultant, Josh Kimball, gibt bekannt, wie RTCDP kanalübergreifende Daten in Kundenprofile vereinheitlicht und nahtlos mit Adobe Target verbindet, um eine personalisierte Strategie für diese Segmente zu aktivieren. | **23. Mai um 1:00 Uhr ET** | [registrieren](https://adobeevents.adobeconnect.com/ev550gaxnx7r/event/registration.html?campaign-id=ExL)
-
-* **WORKFRONT** | Community-Ereignis | _Adobe Workfront Branchenkreis: Einzelhandel_ | Wenn Sie Workfront-Kundin bzw. -Kunde im Einzelhandel sind und an der gemeinsamen Problemlösung und der gemeinsamen Nutzung von Lerninhalten mit anderen Administratorinnen und Administratoren interessiert sind, nehmen Sie an dieser einstündigen offenen Diskussion unter der Leitung von Administratorinnen und Administratoren von DSW und Nordstrom teil. | **23. Mai, 11:00 Uhr PT** | [Registrieren](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,mjTFCSLTbkuVKavNdopApA,dndSyq-qPkqd5A929WkXkw,vFfS8Q7qMUCtqS73wkJMig,sz-whm3Hyka_fhpfall8TA,DCY8aPpdN069tKqlYeJMyQ?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
 * **WORKFRONT** | Kaffeepause | _Kaffeepause mit Fragen und Antworten aus der Adobe Workfront Community: Migration zur Adobe Business Platform_ | Nehmen Sie an diesem Webinar teil und seien Sie dabei wenn Workfront-Expertinnen und Experten Fragen aus der Community zur Adobe Business Platform, zur Migration Ihrer Organisation zur Adobe Admin Console und vielem mehr beantworten! | **29. Mai, 08:00 Uhr PT** | [Registrieren](https://experienceleaguecommunities.adobe.com/t5/workfront-events/workfront-coffee-break-wednesday-may-29th-at-8am-pt-best/ev-p/668763)
 
