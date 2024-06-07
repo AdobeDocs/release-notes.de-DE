@@ -6,10 +6,10 @@ last-update: May 2024
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: 2c43781a5d8372dc6967f0d193d5cfd3a369c0f5
+source-git-commit: 108f6e465fc220340aaa4bf233093bf182d58702
 workflow-type: tm+mt
-source-wordcount: '5007'
-ht-degree: 97%
+source-wordcount: '5114'
+ht-degree: 94%
 
 ---
 
@@ -73,13 +73,17 @@ Aktualisiert: **Freitag, 30. Mai 2024**
 
 * **ERLEBNISSE VON IHNEN** | Videos | _Erlebnisse von Ihnen_ enthält Inhalte, die von Alltagsbenutzern erstellt werden, die mit ihren Adobe DX-Lösungen ein hohes Maß an Fachwissen und Einfluss erworben haben. finden Sie die Inspiration, die Sie benötigen, um Ihr Produktwissen zu erweitern. | [On-Demand verfügbar](https://experienceleague.adobe.com/en/docs/experiences-by-you/experiences-by-you/overview)
 
-* **WORKFRONT** | Webinar | _Wake Up with Workfront: Optimize &amp; Maintain Your Environment_ | Nehmen Sie an diesem Webinar mit Unternehmensberaterinnen und -beratern von Adobe teil, um Ihre Arbeitsumgebung in Adobe Workfront durch Bereinigungs- und Schulungsstrategien, Implementierungspläne und kontinuierliche Verbesserungspraktiken zu optimieren. | **6. Juni, 13:00 Uhr ET** | [Registrieren](https://adobeevents.adobeconnect.com/e9nff5afn9gr/event/registration.html?campaign-id=ExL)
-
 * **WORKFRONT** | Community-Veranstaltung | _Connect: Admin-Chat für Marketing und Kreativität_ | Sind Sie Systemadmin eines Marketing- oder Kreativ-Teams? Diese kundengesteuerte Sitzung verbindet Sie mit anderen Admins, um Best Practices sowie Tipps und Tricks zu besprechen. | **7. Juni, 09:00 Uhr PT** | [Registrieren](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,1qnTSsu1BE6bJ4ijFsYafg,COdPeWL3z0qsME9nhjnRwg,KyjOwAGj_USpALk5Js5HDw,8bpwiT-VHkKc85B9WBuDIA,IRnBiA6r006OKoJtEKx3Vw?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
 * **COMMERCE** | Webinar | _Hinter der Brew: Adobe Commerce Intelligence (fka MBI)_ | Machen Sie sich mit Adobe Commerce Intelligence (früher Magento Business Intelligence) vertraut, einem leistungsstarken Tool, mit dem Sie Ihre E-Commerce-Daten mithilfe benutzerdefinierter Dashboards und Berichte in umsetzbare Einblicke umwandeln können. | **11. Juni, 13:00 Uhr ET** | [Registrieren](https://adobeevents.adobeconnect.com/ex795wtgzy1v/event/registration.html?campaign-id=ExL)
 
 * **MARKETO ENGAGE** | Kaffeepause | _Generative KI-Funktionen für Adobe Dynamic Chat_ | Verpassen Sie nicht die Gelegenheit, unsere Experten über die neu hinzugefügten Funktionen zum Adobe Dynamic Chat zu informieren, die Freiformgespräche, Zweiweggespräche in Ihrem Chatbot und mehr ermöglichen! | **12. Juni, 08:00 Uhr PT** | [Registrieren](https://mugs.marketo.com/events/details/marketo-marketo-coffee-breaks-presents-adobe-marketo-engage-community-coffee-break-gen-ai-for-dynamic-chat/)
+
+* **CREATIVE CLOUD, EXPERIENCE MANAGER UND WORKFRONT** | Q &amp; A Chat | _Frage: Erstellen der Inhaltsversorgungskette mit Workfront, Creative Cloud und AEM_ | Treten Sie Adobe Customer Success Teams und der City National Bank bei, um eine einstündige Interview-Diskussion über Best Practices, Vorteile und Mehrwert bei Workfront-, Creative Cloud- und AEM-Integrationen zu führen. | **18. Juni, 10:30 Uhr PT** | [Registrieren](https://events.teams.microsoft.com/event/ff76e5c9-8c8c-4dc4-927c-902a446215b7@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
+
+* **MARKETO MEASURE** | Webinar | _Marketo Measure und Modelle: Aktivitäten und benutzerdefinierte Modelle_ | Treten Sie Adobe Marketo Measure-Experten bei, während sie gemeinsam nutzen, wie Sie mit benutzerdefinierten Attributionsmodellen und der Aktivitätszuordnung Ihre Verkaufs- und Marketingdaten mithilfe von Touchpoints direkt aus Ihren CRM-Aktivitätsdatensätzen abstimmen können. | **20. Juni, 13:00 Uhr ET** | [Registrieren](https://events-emea5.adobeconnect.com/content/adobeconnect/43/5415868397/en/events/event/shared/5696306635/event_landing.html?sco-id=5696306640&amp;campaign-id=ExL&amp;_charset_=utf-8)
+
+* **WORKFRONT** | Kundenworkshop | _Lernen: Priorisierung und strategische Planung der Arbeit in Workfront_ | Treten Sie dem Workfront Customer Success Team bei, um Best Practices für die Jahresplanung zu erfahren, wie ein formeller Prozess für die Priorisierung erstellt wird und empfohlene Ansichten zum Aufdecken von Projektdaten, um eine allgemeine Ausrichtung sicherzustellen. | **25. Juni, 09:30 Uhr PT** | [Registrieren](https://events.teams.microsoft.com/event/f765ea5b-c5a6-41d1-ac0d-ffea34ae1b11@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
 Hier erfahren Sie mehr zu [bevorstehenden Ereignissen](https://experienceleague.adobe.com/events?lang=de/) oder durchsuchen Sie die [Aufzeichnungen von vergangenen Veranstaltungen](https://experienceleague.adobe.com/de/docs/events/experience-league-recorded-events/overview) auf Experience League.
 
