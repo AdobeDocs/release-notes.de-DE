@@ -6,7 +6,7 @@ last-update: June 2024
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: fbb4dc8b9e98de3010799a797da4714952a1700d
+source-git-commit: 1cafd2d5ef95cefa906742e028796600dca3bcbd
 workflow-type: tm+mt
 source-wordcount: '4006'
 ht-degree: 43%
@@ -652,7 +652,7 @@ Neue Tutorials für Anwendungen in [!DNL Adobe Creative Cloud for enterprise].
 | Veröffentlicht | Anwendung | Name | Typ | Beschreibung |
 | -----------| -----------|---------- | ---------- | ---------- |
 | Mai 2024 | [!DNL Firefly] | [Erstellen von wiederverwendbare Szenen für Waren](https://experienceleague.adobe.com/de/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-tutorials/reusable-scenes) | Video | Erfahren Sie, wie Sie wiederverwendbare Szenen für Waren wie Handtaschen und Zubehör erstellen können. Das Erstellen wiederverwendbarer Szenen beschleunigt das digitale Merchandising, da Sie die Ware auf Ihrer Website saisonal oder jederzeit aktualisieren können. |
-| Mai 2024 | [!DNL Firefly] | [Beschleunigen von kreativen Ideen](https://experienceleague.adobe.com/de/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-tutorials/accelerate-ideas) | Video | Erfahren Sie, wie Sie Ideen schnell visualisieren und Konzepte für Geschäftskampagnen ausprobieren können. Durch das Beschleunigen kreativer Ideen können Unternehmen qualitativ hochwertige Inhalte in einem schnellen Tempo erstellen. |
+| Mai 2024 | [!DNL Firefly] | [Beschleunigen von kreativen Ideen](https://experienceleague.adobe.com/de/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-tutorials/accelerate-ideas) | Video | Erfahren Sie, wie Sie Ideen visualisieren und Konzepte für Geschäftskampagnen untersuchen können. Durch das Beschleunigen kreativer Ideen können Unternehmen qualitativ hochwertige Inhalte in einem schnellen Tempo erstellen. |
 
 Unter [Creative Cloud für Unternehmen – Tutorials](https://experienceleague.adobe.com/de/docs/creative-cloud-enterprise-learn/cce-learning-hub/overview) finden Sie die neuesten Tutorials.
 
