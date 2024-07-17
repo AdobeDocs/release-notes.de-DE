@@ -6,10 +6,10 @@ last-update: July 2024
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: 2af1f8d226d3fc7e0f1157179444ef2fdd483f1d
+source-git-commit: ef4b1f6c217c9aedcbe2aed16526190bb26fc81e
 workflow-type: tm+mt
-source-wordcount: '3640'
-ht-degree: 44%
+source-wordcount: '3577'
+ht-degree: 43%
 
 ---
 
@@ -58,7 +58,7 @@ Neueste Aktualisierung: **Donnerstag, 17. Juli 2024**
 * [[!DNL Adobe Creative Cloud for enterprise]](#creative-cloud)
 * [Customer Data Management – Voices](#voices)
 * [Blueprints für digitale Erlebnisse](#blueprints)
-* [Zertifizierung bei Adobe](#certification)
+* [Zertifizierung bei Adobe](https://experienceleague.adobe.com/de/docs/certification/program/overview)
 * [Sicherheitslücken bei Adobe-Produkten](https://helpx.adobe.com/de/security.html)
 
 ## ![Symbol](/assets/experience-league.png) [!DNL Experience League]-Events und -Updates {#events}
@@ -150,6 +150,7 @@ New articles and updates to existing articles for [!DNL Experience Platform].
 |April 2024|[[!DNL AEP - Adobe Experience Platform] Use Case [!UICONTROL Playbooks] menu is missing](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-24108)|New article| Learn about the solution for when the [!UICONTROL Playbooks] menu is missing from your [!UICONTROL sandbox].|
 
 {style="table-layout:auto"} -->
+
 +++
 
 ## ![Symbol](/assets/experience_platform_appicon_24.png) [!DNL Real-Time Customer Data Platform] {#rtcdp}
@@ -643,18 +644,18 @@ Unter [Creative Cloud für Unternehmen – Tutorials](https://experienceleague.a
 
 [Digital Experience Blueprints](https://experienceleague.adobe.com/de/docs/blueprints-learn/architecture/overview) sind wiederholbare Implementierungen, die Ihnen helfen, Strategien zu entwickeln und bestehende geschäftliche Herausforderungen zu meistern. Jeder Blueprint bietet eine Reihe von Artefakten, die jeweils die anspruchsvolle geschäftliche Herausforderung, die Architekturen, die Implementierungsschritte und die technischen Überlegungen erläutern, sowie die Links zur entsprechenden Dokumentation.
 
-## ![Symbol](/assets/certification-badge.png) Zertifizierung{#certification}
+<!-- ## ![Icon](/assets/certification-badge.png) Certification{#certification}
 
-Achtung an alle Kandidatinnen und Kandidaten für die Adobe-Zertifizierung! Besuchen Sie die neue Site für die Experience Cloud-[Zertifizierung](https://experienceleague.adobe.com/de/docs/certification/program/overview) auf Experience League.
+Attention all Adobe certification candidates! Visit the Experience Cloud [Certification](https://experienceleague.adobe.com/en/docs/certification/program/overview) site on Experience League. 
 
 +++Details
 
-Die Website für die [Experience Cloud-Zertifizierung](https://experienceleague.adobe.com/de/docs/certification/program/overview) ist Ihre zentrale Anlaufstelle für alle Inhalte im Zusammenhang mit der Zertifizierung für [!DNL Experience Cloud] und wird regelmäßig mit folgenden Informationen aktualisiert:
+The [Experience Cloud Certification](https://experienceleague.adobe.com/en/docs/certification/program/overview) site is your one-stop shop for all [!DNL Experience Cloud] certification-related content and is updated regularly with:
 
-* Verfügbare Zertifizierungen
-* Erneuerung der Zertifizierung für Adobe-Anwendungen
-* Aktualisierungen des Zertifizierungsprogramms
+* Available certifications
+* Certification renewals for Adobe applications
+* Certification program updates
 
-Und vieles mehr! Gehen Sie zur [Adobe-Zertifizierung](https://experienceleague.adobe.com/de/docs/certification/program/overview) auf Experience League und starten Sie Ihre Zertifizierungsreise noch heute!
+And more! Head over to [Adobe Certification](https://experienceleague.adobe.com/en/docs/certification/program/overview) on Experience League and start your certification journey today!
 
-+++
++++ -->
