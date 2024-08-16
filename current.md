@@ -6,9 +6,9 @@ last-update: August 2024
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: 79f6a9ae7032ed3a640c4925b14e334ceb1354e4
+source-git-commit: 59f082ddef93b5ca415ccc3da5a1220b6aeae88b
 workflow-type: tm+mt
-source-wordcount: '3097'
+source-wordcount: '3099'
 ht-degree: 51%
 
 ---
@@ -32,7 +32,7 @@ Um eine monatliche E-Mail-Benachrichtigung über Aktualisierungen auf dieser Sei
 
 ## August 2024
 
-Letzte Aktualisierung: **Donnerstag, 14. August 2024**
+Letzte Aktualisierung: **Samstag, 16. August 2024**
 
 * [[!DNL Experience League] Ereignisse und Aktualisierungen](#events) (Aktualisiert: **16.8.3})**
 * [[!DNL Adobe System Status]](#status)
@@ -72,7 +72,7 @@ Aktualisierung: **16. August 2024**
 
 Video [playlists](https://experienceleague.adobe.com/en/playlists) sind auf dem Experience League neu. Eine Wiedergabeliste ist eine kuratierte Sammlung von Videos, die Ihnen dabei helfen soll, die gewünschten Fähigkeiten und Kenntnisse schnell zu erwerben.
 
-Um Wiedergabelisten zu durchsuchen, navigieren Sie zu &quot;**[!UICONTROL Lernen]**&quot;> &quot;**[!UICONTROL Playlists]**&quot;.
+Navigieren Sie zum Durchsuchen von Wiedergabelisten zu **[!UICONTROL Lernen]** > **[!UICONTROL Alle Playlists durchsuchen]**.
 
 >[!NOTE]
 >
