@@ -6,10 +6,10 @@ last-update: August 2024
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: 4a405ffdd266ebadf9d43e4e4696b40d670ee3ff
+source-git-commit: 79f6a9ae7032ed3a640c4925b14e334ceb1354e4
 workflow-type: tm+mt
-source-wordcount: '3052'
-ht-degree: 52%
+source-wordcount: '3097'
+ht-degree: 51%
 
 ---
 
@@ -34,7 +34,7 @@ Um eine monatliche E-Mail-Benachrichtigung über Aktualisierungen auf dieser Sei
 
 Letzte Aktualisierung: **Donnerstag, 14. August 2024**
 
-* [[!DNL Experience League]-Ereignisse und Aktualisierungen](#events)
+* [[!DNL Experience League] Ereignisse und Aktualisierungen](#events) (Aktualisiert: **16.8.3})**
 * [[!DNL Adobe System Status]](#status)
 * [[!DNL Adobe Experience Cloud] – zentrale Benutzeroberfläche und Verwaltung](#ecloud)
 * [[!DNL Adobe Experience Platform]](#platform)
@@ -66,13 +66,23 @@ Letzte Aktualisierung: **Donnerstag, 14. August 2024**
 
 Erfahren Sie mehr über spannende Ereignisse in Experience League. Dies ist ein idealer Ort, um zu lernen, Kontakte zu knüpfen und von Produktfachleuten von Adobe Antworten auf Fragen zu erhalten!
 
+### Playlists auf Experience League (neu!)
+
+Aktualisierung: **16. August 2024**
+
+Video [playlists](https://experienceleague.adobe.com/en/playlists) sind auf dem Experience League neu. Eine Wiedergabeliste ist eine kuratierte Sammlung von Videos, die Ihnen dabei helfen soll, die gewünschten Fähigkeiten und Kenntnisse schnell zu erwerben.
+
+Um Wiedergabelisten zu durchsuchen, navigieren Sie zu &quot;**[!UICONTROL Lernen]**&quot;> &quot;**[!UICONTROL Playlists]**&quot;.
+
+>[!NOTE]
+>
+>**Kurse** werden von Experience League eingestellt. Wenn Sie ein Lesezeichen zu einem Kurs haben, werden Sie zu einer entsprechenden Playlist umgeleitet.
+
+Wenn Sie Experience League Feedback zu Wiedergabelisten oder Hilfeseiten senden möchten, verwenden Sie das Feedback-Popup am unteren Rand jeder Seite.
+
 ### Ereignisse auf Experience League
 
-Aktualisiert am **Donnerstag, 14. August 2024**
-
 +++Details
-
-* **[!DNL EXPERIENCE MANAGER]** | Experience Maker | _Der Qualifikationsaustausch für Adobe Experience Manager_ | Nehmen Sie am 14. August an dieser kostenlosen Veranstaltung zum digitalen Kundenlernen teil. Sie werden von Experten und Kollegen erfahren, wie sie AEM am besten verwenden. Es ist Zeit für Veranstaltungen, Ihre Fragen zu beantworten. | **14. August um 10:00 Uhr MT** | [Registrieren](https://adobe.ly/4c7TAqZ%60)
 
 * **[!DNL WORKFRONT]** | Experience Maker | _Der Qualifikationsaustausch für Adobe Workfront_ | Nehmen Sie am 15. August an einer kostenlosen Veranstaltung für digitales Kundenlernen mit Inhalten teil, die sich allesamt auf Workfront konzentrieren. Sie werden von Experten und Kollegen erfahren, wie sie Workfront im täglichen Geschäft einsetzen. | **15. August um 10:00 Uhr MT** | [Registrieren](https://adobe.ly/4c7TAqZ)
 
