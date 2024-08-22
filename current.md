@@ -6,10 +6,10 @@ last-update: August 2024
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: 4955798262f3d97c1a7944dbadab05d70cb66c40
+source-git-commit: 4f85a610d82980e431f5e3692e1fecb28677478b
 workflow-type: tm+mt
-source-wordcount: '3185'
-ht-degree: 90%
+source-wordcount: '3155'
+ht-degree: 92%
 
 ---
 
@@ -32,9 +32,9 @@ Um eine monatliche E-Mail-Benachrichtigung über Aktualisierungen auf dieser Sei
 
 ## August 2024
 
-Letzte Aktualisierung: **Mittwoch, 20. August 2024**
+Letzte Aktualisierung: **Freitag, 22. August 2024**
 
-* [[!DNL Experience League] Ereignisse und Aktualisierungen](#events) (Aktualisiert: **20. August**)
+* [[!DNL Experience League] Ereignisse und Aktualisierungen](#events) (Aktualisiert: **22. August**)
 * [[!DNL Adobe System Status]](#status)
 * [[!DNL Adobe Experience Cloud] – zentrale Benutzeroberfläche und Verwaltung](#ecloud)
 * [[!DNL Adobe Experience Platform]](#platform)
@@ -68,17 +68,22 @@ Erfahren Sie mehr über spannende Ereignisse in Experience League. Dies ist ein 
 
 ### Playlists auf Experience League (neu!)
 
-Aktualisierung: **16. August 2024**
+Aktualisierung: **22. August 2024**
 
-Video [playlists](https://experienceleague.adobe.com/en/playlists) sind auf dem Experience League neu. Eine Wiedergabeliste ist eine kuratierte Sammlung von Videos, die Ihnen dabei helfen soll, die gewünschten Fähigkeiten und Kenntnisse schnell zu erwerben.
+Neue Videowiedergaben [playlists](https://experienceleague.adobe.com/de/playlists) sind auf dem Experience League verfügbar. Eine Wiedergabeliste ist eine kuratierte Sammlung von Videos, die Ihnen dabei helfen soll, die gewünschten Fähigkeiten und Kenntnisse schnell zu erwerben.
+
+Zu den Playlist-Funktionen gehören:
+
+* Automatische Wiedergabe von Videos
+* Geschwindigkeit der Kapitelauswahl und -wiedergabe
+* An der Stelle fortsetzen, an der Sie aufgehört haben
+* Videotranskripte
 
 Navigieren Sie zum Durchsuchen von Wiedergabelisten zu **[!UICONTROL Lernen]** > **[!UICONTROL Alle Playlists durchsuchen]**.
 
 >[!NOTE]
 >
->**Kurse** werden von Experience League eingestellt. Wenn Sie ein Lesezeichen zu einem Kurs haben, werden Sie zu einer entsprechenden Playlist umgeleitet.
-
-Wenn Sie Experience League Feedback zu Wiedergabelisten oder Hilfeseiten senden möchten, verwenden Sie das Feedback-Popup am unteren Rand jeder Seite.
+>**Kurse** werden von Experience League eingestellt. Wenn Sie einen Kurs mit einem Lesezeichen versehen haben, werden Sie zu einer entsprechenden Wiedergabeliste weitergeleitet, sofern eine solche existiert. In einigen Fällen müssen Sie möglicherweise zu einer neuen Wiedergabeliste navigieren, die die Themen abdeckt, nach denen Sie suchen.
 
 ### Ereignisse auf Experience League
 
@@ -86,13 +91,11 @@ Wenn Sie Experience League Feedback zu Wiedergabelisten oder Hilfeseiten senden 
 
 * **[!DNL EXPERIENCE CLOUD]** | Community-Ereignis | _Adobe Experience Maker Awards 2025_ | Die Einsendungen sind jetzt für die Adobe Experience Maker Awards 2025 verfügbar. Außergewöhnlich ist nur der Anfang. Fette Visionäre. Außergewöhnliche Kundenerlebnisse. | **K/A** | [Jetzt anwenden](https://www.adobeexperienceawards.com/?cgen=98SH4H11&amp;mv=other)
 
-* **[!DNL WORKFRONT]** | Kundenworkshop | _Erfahren Sie: Verwenden von Workfront-Anforderungswarteschlangen für Aufnahmeprozesse_ | Lernen Sie die Vorteile und Best Practices der Workfront-Anforderungswarteschlangen für die Verfolgung, Organisation und Berichterstellung der Arbeit Ihres Unternehmens kennen. | **21. August um 09:30 Uhr (MT)** | [Registrieren](https://events.teams.microsoft.com/event/ba631a2b-d656-42ca-99e9-3a78d0229c7b@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
-
-* **[!DNL ANALYTICS]** | Community-Ereignis | _Datentreiber: Adobe Analytics-Grundlagen und darüber hinaus_ | Treten Sie Adobe Analytics-Experten bei, die uns durch Best Practices für die Organisation Ihres Arbeitsbereichs, die Navigation in den Lernpfaden von Adobe Analytics für Anfänger und die Verbindung mit Visualisierungs-Tools für Daten von Drittanbietern führen. | **22. August um 11:00 Uhr (MT)** | [Registrieren](https://adobeevents.adobeconnect.com/et45xd86xdq9/event/registration.html?campaign-id=ExL)
-
 * **[!DNL WORKFRONT]** | Kundenworkshop | _Erfahren Sie: Die Sache mit Workfront Fusion machen_ | Treten Sie dem Customer Success Team bei, um einen einstündigen interaktiven Workshop mit Deloitte und Adobe Workfront Integrations Consulting zu besuchen, um zu erfahren, wie Sie Zeiteinsparungen quantifizieren und ein überzeugendes Geschäftsmodell für Workfront Fusion erstellen können. | **27. August um 10:00 Uhr (MT)** | [Registrieren](https://events.teams.microsoft.com/event/734d96e0-861a-48af-84e7-206a2e5c5ff5@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
 * **[!DNL JOURNEY OPTIMIZER]** | Kaffeepause | _Adobe Journey Optimizer Community-Fragen und -Kaffeepausen_ | Es ist eine stundenlange AMA-ähnliche Chat-Sitzung mit Journey Optimizer-Experten rund um die 3 müssen die Funktionen von Journey Optimizer - Journey-Experimentierung, Frequenzlimitierung und mehrsprachiges Messaging. | **September 4 @ 9:00 AM MT** | [Registrieren](https://experienceleaguecommunities.adobe.com/t5/journey-optimizer-events/community-q-amp-a-coffee-break-september-4th-with-adobe-journey/ev-p/691101)
+
+* **[!DNL WORKFRONT]** | Community-Ereignis | _Verbinden: Admin Chat für Marketing und Kreativ_ | Sind Sie Systemadministrator eines Marketing- oder Kreativteams? Diese kundengesteuerte Sitzung verbindet Sie mit anderen Admins, um Best Practices sowie Tipps und Tricks zu besprechen. | **6. September um 10:00 Uhr MT** | [Registrieren](https://events.teams.microsoft.com/event/a481891f-b025-4a36-8672-601e8ca1819c@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
 Und vieles mehr! Hier können Sie mehr zu [bevorstehenden Ereignissen](https://experienceleague.adobe.com/events?lang=de/) erfahren oder die [Aufzeichnungen von vergangenen Veranstaltungen](https://experienceleague.adobe.com/de/docs/events/experience-league-recorded-events/overview) auf Experience League durchsuchen.
 
