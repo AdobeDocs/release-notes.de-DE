@@ -6,9 +6,9 @@ last-update: August 2024
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: ea5f9d71aa7c077749f8ef0903362532688c7e44
+source-git-commit: 5999b9ecba0626d515248194beaabc77613ddf2f
 workflow-type: tm+mt
-source-wordcount: '3186'
+source-wordcount: '3215'
 ht-degree: 90%
 
 ---
@@ -38,11 +38,11 @@ Um eine monatliche E-Mail-Benachrichtigung über Aktualisierungen auf dieser Sei
 
 ## August 2024
 
-Letzte Aktualisierung: **Donnerstag, 28. August 2024**
+Letzte Aktualisierung: **Mittwoch, 3. September 2024**
 
-* [[!DNL Experience League] Ereignisse und Aktualisierungen](#events) (Aktualisiert: **28. August**)
+* [[!DNL Experience League] -Ereignisse und -Aktualisierungen](#events)
 * [[!DNL Adobe System Status]](#status)
-* [[!DNL Adobe Experience Cloud] – zentrale Benutzeroberfläche und Verwaltung](#ecloud)
+* [[!DNL Adobe Experience Cloud]  - Zentrale Benutzeroberfläche und Verwaltung](#ecloud) (Aktualisiert: **3. September})**
 * [[!DNL Adobe Experience Platform]](#platform)
 * [[!DNL Adobe Real-Time Customer Data Platform]](#rtcdp)
 * [[!DNL Adobe Analytics]](#analytics) (Veröffentlichungsdatum: **14. August**)
@@ -132,7 +132,11 @@ Informationen zur zentralen [!DNL Experience Cloud]-Komponente der Benutzeroberf
 
 +++Details
 
-Nicht aktualisiert.
+Version: **2. September 2024**
+
+| Funktion | Beschreibung |
+| -----------| ---------- |
+| Slack-Benachrichtigungen | Sie können Ihre Kontovoreinstellungen konfigurieren, um Experience Cloud-Benachrichtigungen an Slack zu senden. Weitere Informationen finden Sie unter _Slack-Benachrichtigungen_ in der Hilfe zu [Kontovoreinstellungen und -benachrichtigungen](https://experienceleague.adobe.com/en/docs/core-services/interface/features/account-preferences) . |
 
 Hilfe zu den zentralen Schnittstellenkomponenten von Experience Cloud finden Sie im [Handbuch zur Oberfläche und Administration von Experience Cloud](https://experienceleague.adobe.com/de/docs/core-services/interface/experience-cloud) (enthält [!UICONTROL Kundenattribute], [!DNL Experience Cloud Assets] und [!UICONTROL Zielgruppen]).
 
