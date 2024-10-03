@@ -2,18 +2,18 @@
 title: Neueste Versionshinweise
 description: Aktuelle Versionshinweise und Wissensdatenbank-Probleme für Produkte und Services von Adobe  [!DNL Experience Cloud] . Informationen über bevorstehende Ereignisse und neue Dokumentationen zu Experience League. Die neuesten Tutorials und Kurse für [!DNL Experience Cloud] -Programme entdecken.
 doc-type: release notes
-last-update: September 2024
+last-update: October 2024
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: f0ee3effcdf1abcc2acbfe7b853adec15322dd2d
-workflow-type: ht
+source-git-commit: c563d797f681063494a6b9b5e3448cb71bfa6ce1
+workflow-type: tm+mt
 source-wordcount: '4127'
 ht-degree: 100%
 
 ---
 
-# Experience Cloud - Versionshinweise - September 2024
+# Versionshinweise zu Experience Cloud – Oktober 2024
 
 <!-- badgeReview: label="Internal Review" type="Negative" -->
 
@@ -36,9 +36,9 @@ Suchen Sie nach dem Popup **_War dieser Inhalt hilfreich?_** unten auf jeder Sei
 
 Um eine monatliche E-Mail-Benachrichtigung über Aktualisierungen auf dieser Seite zu erhalten, abonnieren Sie das [Adobe Priority Product Update](https://www.adobe.com/subscription/priority-product-update.html).
 
-## September 2024
+## Oktober 2024
 
-Letzte Aktualisierung: **Donnerstag, 11. September 2024**
+Letzte Aktualisierung: **Donnerstag, 2. Oktober 2024**
 
 * [[!DNL Experience League] Ereignisse und Updates](#events) (Aktualisiert am **10. September**)
 * [[!DNL Adobe System Status]](#status)
@@ -208,7 +208,7 @@ Erhalten Sie die neuesten Versionsinformationen für [!DNL Adobe Analytics] und 
 
 +++Details
 
-[!DNL Analytics] Veröffentlichungsdatum: **Donnerstag, 11. September 2024**
+Veröffentlichungsdatum von [!DNL Analytics]: **Donnerstag, 2. Oktober 2024**
 
 * [!DNL Analytics] [Versionshinweise](https://experienceleague.adobe.com/de/docs/analytics/release-notes/latest) <!-- * [!DNL Analytics] [release notes](https://experienceleague-review.corp.adobe.com/docs/analytics/release-notes/latest.html)  -->
 
@@ -249,7 +249,7 @@ Erhalten Sie die neusten Versionsinformationen für [!DNL Customer Journey Analy
 
 [!DNL Customer Journey Analytics] Veröffentlichungsdatum: **Donnerstag, 11. September 2024**
 
-* [!DNL Customer Journey Analytics]-[Versionshinweise](https://experienceleague.adobe.com/de/docs/analytics-platform/using/releases/latest#releases) <!-- * [!DNL Customer Journey Analytics] [release notes](https://experienceleague-review.corp.adobe.com/docs/analytics-platform/using/releases/latest.html) -->
+* [!DNL Customer Journey Analytics] [Versionshinweise](https://experienceleague.adobe.com/de/docs/analytics-platform/using/releases/latest#releases) <!-- * [!DNL Customer Journey Analytics] [release notes](https://experienceleague-review.corp.adobe.com/docs/analytics-platform/using/releases/latest.html) -->
 
 * [Produktdokumentation und Tutorials](https://experienceleague.adobe.com/de/docs/customer-journey-analytics) zu [!DNL Customer Journey Analytics]
 
