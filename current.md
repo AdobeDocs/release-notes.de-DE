@@ -6,14 +6,14 @@ last-update: October 2024
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: 0d239505fecd3d8b933bfb0e16ded3632b463b1f
+source-git-commit: 1e26c1a450f5ddc45f49d3b6d5aaa85f9cbf008c
 workflow-type: tm+mt
-source-wordcount: '3845'
+source-wordcount: '3847'
 ht-degree: 97%
 
 ---
 
-# Versionshinweise zu Experience Cloud – Oktober 2024
+# Experience Cloud - Versionshinweise, September/Oktober 2024
 
 <!-- badgeReview: label="Internal Review" type="Negative" -->
 
@@ -36,7 +36,7 @@ Suchen Sie nach dem Popup **_War dieser Inhalt hilfreich?_** unten auf jeder Sei
 
 Um eine monatliche E-Mail-Benachrichtigung über Aktualisierungen auf dieser Seite zu erhalten, abonnieren Sie das [Adobe Priority Product Update](https://www.adobe.com/subscription/priority-product-update.html).
 
-## Oktober 2024
+## September - Oktober 2024
 
 Letzte Aktualisierung: **Freitag, 3. Oktober 2024**
 
