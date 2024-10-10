@@ -6,10 +6,10 @@ last-update: October 2024
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: 1e26c1a450f5ddc45f49d3b6d5aaa85f9cbf008c
-workflow-type: ht
+source-git-commit: f80213edd3db47dd0519beeaaaeb1cbfc9e04883
+workflow-type: tm+mt
 source-wordcount: '3847'
-ht-degree: 100%
+ht-degree: 97%
 
 ---
 
@@ -38,9 +38,9 @@ Um eine monatliche E-Mail-Benachrichtigung über Aktualisierungen auf dieser Sei
 
 ## September–Oktober 2024
 
-Letzte Aktualisierung: **3. Oktober 2024**
+Letzte Aktualisierung: **Freitag, 10. Oktober 2024**
 
-* [[!DNL Experience League] Ereignisse und Updates](#events) (Aktualisiert am **10. September**)
+* [[!DNL Experience League] Ereignisse und Aktualisierungen](#events) (Aktualisiert: **10.10.3})**
 * [[!DNL Adobe System Status]](#status)
 * [[!DNL Adobe Experience Cloud] – zentrale Benutzeroberfläche und Verwaltung](#ecloud)
 * [[!DNL Adobe Experience Platform]](#platform)
@@ -93,9 +93,9 @@ Navigieren Sie zum Durchsuchen von Playlist zu **[!UICONTROL Lernen]** > **[!UIC
 
 +++Details
 
-* **[!DNL WORKFRONT]** | Community-Veranstaltung | _Connect: Admin-Chat für Marketing und Kreativität_ | Sind Sie Systemadmin eines Marketing- oder Kreativ-Teams? Diese kundengesteuerte Sitzung verbindet Sie mit anderen Workfront-Admins, um Best Practices sowie Tipps und Tricks zu besprechen. | **4. Oktober um 10:00 Uhr (MT)** | [Registrieren](https://events.teams.microsoft.com/event/b9fa4c50-7e49-4853-a04f-98120542240a@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
+* **[!DNL WORKFRONT]** | Community-Ereignis | _Verbinden: Workfront Collective_ | Nehmen Sie am Montagmorgen an einer offenen Diskussion teil, in der Sie mit anderen Workfront-Administratoren in Verbindung gebracht, über die neuesten Funktionen gesprochen, Ideen geteilt und Brainstorm-Lösungen für gemeinsame Herausforderungen vorgestellt werden. | **14. Oktober um 07:00 Uhr (MT)** | [Registrieren](https://events.teams.microsoft.com/event/0759bd35-9bb0-434a-a61b-b7c681ccfebd@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
-* **[!DNL WORKFRONT]** | Community-Veranstaltung | _Grundlgen für Admins: Erste Schritte mit Workfront_ | Neu bei Workfront? Nehmen Sie an der ersten Sitzung der 3-teiligen Reihe „Grundlagen für Admins“ teil. Sie erhalten Informationen zu Best Practices und Empfehlungen bezüglich Systemeinrichtung und -navigation und lernen Must-have-Ressourcen kennen. | **8. Oktober um 9:00 Uhr (MT)** | [Registrieren](https://events.teams.microsoft.com/event/b9940fcc-4993-4f87-8b05-111fe841dc98@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
+* **[!DNL WORKFRONT]** | Kundenworkshop | _Erfahren Sie: Verbessern der Effizienz - So nutzt der Kognizant Adobe Workfront für Projektleistung aus_ | Treten Sie Sujatha T S, Creative Operations Senior Manager und Global Brand and and Creative, System Admin, bei, da sie teilt, wie Cognizant ihr System und ihre Prozesse optimiert hat, um die Effizienz für herausragende Projekte zu steigern. | **17. Oktober um 9:00 Uhr (MT)** | [Registrieren](https://events.teams.microsoft.com/event/eab3de7d-a781-45fa-be77-e96c00b1fa32@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
 Und vieles mehr! Hier können Sie mehr zu [bevorstehenden Ereignissen](https://experienceleague.adobe.com/events?lang=de/) erfahren oder die [Aufzeichnungen von vergangenen Veranstaltungen](https://experienceleague.adobe.com/de/docs/events/experience-league-recorded-events/overview) auf Experience League durchsuchen.
 
