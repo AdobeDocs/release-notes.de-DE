@@ -6,10 +6,10 @@ last-update: October 2024
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: 1c909c2060ac5d838028dcd49def2d5c04e49e9a
+source-git-commit: e87cb9ab004a05e3555eabd29455ad9e8aa5231e
 workflow-type: tm+mt
-source-wordcount: '3922'
-ht-degree: 95%
+source-wordcount: '3969'
+ht-degree: 94%
 
 ---
 
@@ -93,9 +93,11 @@ Navigieren Sie zum Durchsuchen von Playlist zu **[!UICONTROL Lernen]** > **[!UIC
 
 +++Details
 
-* **[!DNL WORKFRONT]** | Community-Ereignis | _Verbinden: Workfront Collective_ | Nehmen Sie am Montagmorgen an einer offenen Diskussion teil, in der Sie mit anderen Workfront-Administratoren in Verbindung gebracht, über die neuesten Funktionen gesprochen, Ideen geteilt und Brainstorm-Lösungen für gemeinsame Herausforderungen vorgestellt werden. | **14. Oktober um 07:00 Uhr (MT)** | [Registrieren](https://events.teams.microsoft.com/event/0759bd35-9bb0-434a-a61b-b7c681ccfebd@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
-
 * **[!DNL WORKFRONT]** | Kundenworkshop | _Erfahren Sie: Verbessern der Effizienz - So nutzt der Kognizant Adobe Workfront für Projektleistung aus_ | Treten Sie Sujatha T S, Creative Operations Senior Manager und Global Brand and and Creative, System Admin, bei, da sie teilt, wie Cognizant ihr System und ihre Prozesse optimiert hat, um die Effizienz für herausragende Projekte zu steigern. | **17. Oktober um 9:00 Uhr (MT)** | [Registrieren](https://events.teams.microsoft.com/event/eab3de7d-a781-45fa-be77-e96c00b1fa32@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
+
+* **[!DNL COMMERCE]** | Webinar | _Hinter der Brew: Optimieren der Commerce-Storefront_ | Suchen Sie nach Strategien zur effizienten Wartung und Optimierung Ihrer Storefront? Hier erfahren Sie, wie Sie allgemeine Datenblocker verhindern, Strategien zur Reduzierung von Bot-Aktivitäten entwickeln und die Planung von Festplattenspeicher und Datenbankgröße planen können. | **17. Oktober um 11:00 Uhr (MT)** | [Registrieren](https://adobeevents.adobeconnect.com/ekboarwqotqv/event/registration.html?campaign-id=ExL)
+
+* **[!DNL WORKFRONT]** | Q &amp; A Chat | _Lernen: Journey von Qualcomm zur Adoption von Adobe Workfront_ | Erfahren Sie mehr über den strategischen Ansatz Becky Barus, den zertifizierten technischen Adobe Workfront Lead bei Qualcomm, der dazu genutzt wurde, die Benutzerakzeptanz von Adobe Workfront deutlich zu steigern. | **23. Oktober um 10:00 Uhr (MT)** | [Registrieren](https://events.teams.microsoft.com/event/075df7a9-74b3-496f-8408-92bd7dee6099@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
 Und vieles mehr! Hier können Sie mehr zu [bevorstehenden Ereignissen](https://experienceleague.adobe.com/events?lang=de/) erfahren oder die [Aufzeichnungen von vergangenen Veranstaltungen](https://experienceleague.adobe.com/de/docs/events/experience-league-recorded-events/overview) auf Experience League durchsuchen.
 
