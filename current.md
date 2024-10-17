@@ -6,10 +6,10 @@ last-update: October 2024
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: e87cb9ab004a05e3555eabd29455ad9e8aa5231e
+source-git-commit: 6d6a35b5c5c9ebd43c9cf2a683213578ff0f5912
 workflow-type: tm+mt
-source-wordcount: '3969'
-ht-degree: 94%
+source-wordcount: '3921'
+ht-degree: 95%
 
 ---
 
@@ -93,11 +93,9 @@ Navigieren Sie zum Durchsuchen von Playlist zu **[!UICONTROL Lernen]** > **[!UIC
 
 +++Details
 
-* **[!DNL WORKFRONT]** | Kundenworkshop | _Erfahren Sie: Verbessern der Effizienz - So nutzt der Kognizant Adobe Workfront für Projektleistung aus_ | Treten Sie Sujatha T S, Creative Operations Senior Manager und Global Brand and and Creative, System Admin, bei, da sie teilt, wie Cognizant ihr System und ihre Prozesse optimiert hat, um die Effizienz für herausragende Projekte zu steigern. | **17. Oktober um 9:00 Uhr (MT)** | [Registrieren](https://events.teams.microsoft.com/event/eab3de7d-a781-45fa-be77-e96c00b1fa32@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
-
-* **[!DNL COMMERCE]** | Webinar | _Hinter der Brew: Optimieren der Commerce-Storefront_ | Suchen Sie nach Strategien zur effizienten Wartung und Optimierung Ihrer Storefront? Hier erfahren Sie, wie Sie allgemeine Datenblocker verhindern, Strategien zur Reduzierung von Bot-Aktivitäten entwickeln und die Planung von Festplattenspeicher und Datenbankgröße planen können. | **17. Oktober um 11:00 Uhr (MT)** | [Registrieren](https://adobeevents.adobeconnect.com/ekboarwqotqv/event/registration.html?campaign-id=ExL)
-
 * **[!DNL WORKFRONT]** | Q &amp; A Chat | _Lernen: Journey von Qualcomm zur Adoption von Adobe Workfront_ | Erfahren Sie mehr über den strategischen Ansatz Becky Barus, den zertifizierten technischen Adobe Workfront Lead bei Qualcomm, der dazu genutzt wurde, die Benutzerakzeptanz von Adobe Workfront deutlich zu steigern. | **23. Oktober um 10:00 Uhr (MT)** | [Registrieren](https://events.teams.microsoft.com/event/075df7a9-74b3-496f-8408-92bd7dee6099@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
+
+* **[!DNL MULTIPLE APPLICATIONS]** | Adobe Developers Live | _Adobe Developers Live 2024_ | Treten Sie uns persönlich für Adobe Developers Live bei Adobe HQ in San Jose bei! Stellen Sie sich mit AEM- und Commerce-Entwicklern in Verbindung, erkunden Sie die neuesten Innovationen und lernen Sie Best Practices kennen. 12. November, persönlich oder online. Registrieren Sie sich jetzt! | **12 November um 9:00 Uhr MT** | [Register][(https://events.teams.microsoft.com/event/075df7a9-74b3-496f-8408-92bd7dee6099@fa7b1b5a-7b34-4387-94ae-d2c178decee1](https://developerevents.adobe.com/events/details/adobe-developer-events-developer-experience-presents-adobe-developers-live-2024/?utm_source=exl&amp;utm_medium=website&amp;utm_campaign=adl2024)
 
 Und vieles mehr! Hier können Sie mehr zu [bevorstehenden Ereignissen](https://experienceleague.adobe.com/events?lang=de/) erfahren oder die [Aufzeichnungen von vergangenen Veranstaltungen](https://experienceleague.adobe.com/de/docs/events/experience-league-recorded-events/overview) auf Experience League durchsuchen.
 
