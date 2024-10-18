@@ -6,10 +6,10 @@ last-update: October 2024
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: 6d6a35b5c5c9ebd43c9cf2a683213578ff0f5912
+source-git-commit: 64f8c46f7424a25a53e2da939c7ea29795ba1937
 workflow-type: tm+mt
-source-wordcount: '3921'
-ht-degree: 95%
+source-wordcount: '3907'
+ht-degree: 96%
 
 ---
 
@@ -142,7 +142,7 @@ Version: **10. September 2024**
 | Releasedatum | Funktion | Beschreibung |
 | -----------| -----------| ---------- |
 | September 10 | [!DNL Slack] Benachrichtigungen in [!DNL Experience Cloud] | Sie können Ihre Kontovoreinstellungen so konfigurieren, dass [!DNL Experience Cloud]-Benachrichtigungen an Slack gesendet werden. Weitere Informationen finden Sie unter [Slack-Benachrichtigungen abonnieren](https://experienceleague.adobe.com/de/docs/core-services/interface/features/account-preferences) . |
-| Oktober 2 | Anpassbare Startseite | Klicken Sie auf der Experience Cloud-Landingpage auf **[!UICONTROL Bearbeiten]**. Der Modus [!UICONTROL Bearbeiten] ermöglicht es Ihnen, Ihre Experience Cloud-Startseite mit Zugriff auf eine Widget-Bibliothek und benutzerdefinierte Hintergründe zu personalisieren. Der Modus [!UICONTROL Bearbeiten] bietet nahtlose, intuitive Steuerelemente zum Verschieben, Ändern der Größe und Verwalten von Widgets, einschließlich Massenaktionen und Layoutanpassungen, und bietet ein ästhetischeres und benutzerspezifischeres Erlebnis.Gestalten Sie Ihre Experience Cloud-Homepage mit Zugriff auf eine Widget-Bibliothek und benutzerdefinierte Hintergründe. |
+| Oktober 2 | Anpassbare Startseite | Klicken Sie auf der Experience Cloud-Landingpage auf **[!UICONTROL Bearbeiten]**. Der Modus [!UICONTROL Bearbeiten] ermöglicht es Ihnen, Ihre Experience Cloud-Startseite mit Zugriff auf eine Widget-Bibliothek und benutzerdefinierte Hintergründe zu personalisieren. Der Modus [!UICONTROL Bearbeiten] bietet nahtlose, intuitive Steuerelemente zum Verschieben, Ändern der Größe und Verwalten von Widgets, einschließlich Massenaktionen und Layoutanpassungen, und bietet ein ästhetischeres und benutzerdefiniertes Erlebnis. |
 
 Hilfe zu den zentralen Schnittstellenkomponenten von [!DNL Experience Cloud] finden Sie im [Handbuch zur Oberfläche und Administration von Experience Cloud](https://experienceleague.adobe.com/de/docs/core-services/interface/experience-cloud) (enthält [!UICONTROL Kundenattribute], [!DNL Experience Cloud Assets] und [!UICONTROL Zielgruppen]).
 
