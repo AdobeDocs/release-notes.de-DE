@@ -6,9 +6,9 @@ last-update: November 2024
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: 4dc15dc72d06718975ab5179065513265f061dc8
-workflow-type: ht
-source-wordcount: '4668'
+source-git-commit: 1f52efdc0836864a20ea66d286f9cee4d1587b6d
+workflow-type: tm+mt
+source-wordcount: '4532'
 ht-degree: 100%
 
 ---
@@ -38,7 +38,7 @@ Um eine monatliche E-Mail-Benachrichtigung über Aktualisierungen auf dieser Sei
 
 ## November 2024
 
-Letzte Aktualisierung: **23. Oktober**
+Letzte Aktualisierung: **30. Oktober**
 
 * [[!DNL Experience League]-Ereignisse und Aktualisierungen](#events)
 * [[!DNL Adobe System Status]](#status)
@@ -92,12 +92,6 @@ Navigieren Sie zum Durchsuchen von Playlist zu **[!UICONTROL Lernen]** > **[!UIC
 ### Ereignisse auf Experience League
 
 +++Details
-
-* **[!DNL Workfront]** | Fragen und Antworten | _Lerninhalt: Die Journey von Qualcomm zur Anpassung von Adobe Workfront_ | Erfahren Sie mehr über den strategischen Ansatz, mit dem Becky Barus, die zertifizierte Technical Adobe Workfront Lead bei Qualcomm, die Benutzerakzeptanz von Adobe Workfront deutlich steigern konnte. | **23. Oktober um 10:00 Uhr (MT)** | [Registrieren](https://events.teams.microsoft.com/event/075df7a9-74b3-496f-8408-92bd7dee6099@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
-
-* **[!DNL Experience Platform, Journey Optimizer, and Real-Time Customer Data Platform Collaboration]** | Experience League LIVE | _Adobe Experience League Live: Harmonisieren von Zielgruppen in Experience-Ökosystemen – Komposition föderierter Zielgruppen in Experience Platform_ | Erfahren Sie, wie die Komposition föderierter Zielgruppen einen umfassenden Ansatz zur Kuratierung und Aktivierung von Zielgruppen mit Real-Time CDP und Journey Optimizer bietet. | **24. Oktober um 09:30 Uhr (MT)** | [Registrieren](https://engage.adobe.com/ExpLeagueLive-241024.html)
-
-* **[!DNL Workfront]** | Fragen und Antworten | _Kunden-Panel: Erkenntnisse von erfahrenen Workfront-Admins_ | Nehmen Sie an einer einstündigen interaktiven Podiumsdiskussion mit vier erfahrenen Adobe Workfront-Kundinnen bzw. -Kunden teil, um zu erfahren, was bei der Implementierung, Vererbung, Verwaltung und Erweiterung einer Workfront-Instanz zu tun ist (oder nicht zu tun ist). | **29. Oktober um 9:00 Uhr (MT)** | [Registrieren](https://events.teams.microsoft.com/event/bfdd4c24-1a60-447d-a91b-ad52806626a5@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
 * **[!DNL Experience Cloud](Mehrere Produkte)** | Adobe Developers Live | _Adobe Developers Live 2024_ | Nehmen Sie persönlich an der Adobe Developers Live im Hauptsitz von Adobe in San José teil! Treten Sie mit AEM- und Commerce-Entwicklerinnen und -Entwicklern in Kontakt, erkunden Sie die neuesten Innovationen und lernen Sie Best Practices kennen. 12. November, persönlich oder online. Melden Sie sich jetzt an.  | **12. November um 09:00 Uhr MT** | [Anmelden](https://developerevents.adobe.com/events/details/adobe-developer-events-developer-experience-presents-adobe-developers-live-2024/?utm_source=exl&amp;utm_medium=website&amp;utm_campaign=adl2024)
 
@@ -188,7 +182,7 @@ Erhalten Sie die neuesten Versionsinformationen für [!DNL Adobe Analytics] und 
 
 +++Details
 
-Veröffentlichungsdatum[!DNL Analytics]: **2. Oktober 2024**
+Veröffentlichungsdatum[!DNL Analytics]: **Donnerstag, 23. Oktober 2024**
 
 * [!DNL Analytics]-[Versionshinweise](https://experienceleague.adobe.com/de/docs/analytics/release-notes/latest)<!-- (https://experienceleague-review.corp.adobe.com/docs/analytics/release-notes/latest.html) -->
 
@@ -226,7 +220,7 @@ Erhalten Sie die neusten Versionsinformationen für [!DNL Customer Journey Analy
 
 +++Details
 
-Veröffentlichungsdatum[!DNL Customer Journey Analytics]: **2. Oktober 2024**
+Veröffentlichungsdatum[!DNL Customer Journey Analytics]: **Donnerstag, 23. Oktober 2024**
 
 * [!DNL Customer Journey Analytics] [Versionshinweise](https://experienceleague.adobe.com/de/docs/analytics-platform/using/releases/latest#releases) <!-- [release notes](https://experienceleague-review.corp.adobe.com/docs/analytics-platform/using/releases/latest.html) -->
 
@@ -426,7 +420,7 @@ Neue Tutorials, die für Adobe [!DNL Journey Optimizer] auf Experience League ve
 | Oktober 2024 | [Erstellen von Richtlinien zur Datennutzung](https://experienceleague.adobe.com/de/docs/journey-optimizer-learn/tutorials/data-governance-and-privacy/create-data-usage-policies) | Video | Informationen darüber, wie sich Richtlinien zur Datennutzung erstellen und verwalten lassen. Mit Richtlinien zur Datennutzung können Sie die Datennutzung für bestimmte Zwecke auf Grundlage der Datenkennzeichnung einschränken. |
 | Oktober 2024 | [Generieren von Inhalt mit dem Content Accelerator des KI-Assistenten](https://experienceleague.adobe.com/de/docs/journey-optimizer-learn/tutorials/content-management/content-accelerator/create-content-using-the-ai-assistant-content-accelerator) | Video | Erfahren Sie, wie Sie mit dem Content Accelerator des KI-Assistenten proaktiv Vorschläge zur Variation von Text- und Bildinhalten bereitstellen können. |
 | Oktober 2024 | [Klassifizieren von Daten mithilfe von Kennzeichnungen](https://experienceleague.adobe.com/de/docs/journey-optimizer-learn/tutorials/data-governance-and-privacy/classify-data-using-lables) | Video | Erfahren Sie, wie Sie Ihre Schemata und Datensätze mit Kennzeichnungen versehen. Daten können mit Datennutzungskennzeichnungen getaggt und klassifiziert werden, um Unternehmensrichtlinien, vertragliche Verpflichtungen, Compliance-Anforderungen und regionale Vorschriften in Adobe Experience Platform widerzuspiegeln. |
-| Oktober 2024 | [Generieren von Inhalten mit dem Content Accelerator des KI-Assistenten](https://experienceleague.adobe.com/de/docs/journey-optimizer-learn/tutorials/content-management/content-accelerator/create-content-using-the-ai-assistant-content-accelerator) | Video | Erfahren Sie, wie Sie mit dem Content Accelerator des KI-Assistenten proaktiv Vorschläge zur Variation von Text- und Bildinhalten bereitstellen können. |
+| Oktober 2024 | [Generieren von Inhalt mit dem Content Accelerator des KI-Assistenten](https://experienceleague.adobe.com/de/docs/journey-optimizer-learn/tutorials/content-management/content-accelerator/create-content-using-the-ai-assistant-content-accelerator) | Video | Erfahren Sie, wie Sie mit dem Content Accelerator des KI-Assistenten proaktiv Vorschläge zur Variation von Text- und Bildinhalten bereitstellen können. |
 | Oktober 2024 | [Experimentieren – Überblick](https://experienceleague.adobe.com/de/docs/journey-optimizer-learn/tutorials/content-management/experimentation-overview) | Video | Informationen zur Durchführung von Tests und Simulationen in Journey Optimizer, um Inhalte abzustimmen und die Customer Journey auf der Grundlage datengesteuerter Einblicke zu optimieren. |
 | Oktober 2024 | [KI-Assistent – Content Accelerator – Überblick](https://experienceleague.adobe.com/de/docs/journey-optimizer-learn/tutorials/content-management/content-accelerator/ai-assistant-content-accelerator-overview) | Video | Informationen darüber, wie der Content Accelerator des KI-Assistenten Marketing-Fachleuten helfen kann, indem er proaktiv Vorschläge zur Variation von Text- und Bildinhalten bereitstellt. |
 | Oktober 2024 | [Messung und Berichterstellung – Überblick](https://experienceleague.adobe.com/de/docs/journey-optimizer-learn/tutorials/report-and-monitor/measurement-and-reporting-overview) | Video | Informationen zum Reporting in Journey Optimizer. |
