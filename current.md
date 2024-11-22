@@ -6,10 +6,10 @@ last-update: November 2024
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: 1d63ee52cf877b33f2033666021918271a83404f
+source-git-commit: 8f8c2c1c77f9ca98e7543ff7a52071c6fa49fea5
 workflow-type: tm+mt
-source-wordcount: '4660'
-ht-degree: 95%
+source-wordcount: '4635'
+ht-degree: 94%
 
 ---
 
@@ -28,23 +28,19 @@ Auf dieser Seite finden Sie die folgenden Ressourcen zur Selbsthilfe für Experi
 
 Melden Sie sich für die beste Selbsthilfe bei [Experience League](https://experienceleague.adobe.com/de#home) an und passen Sie Ihr Sucherlebnis über die kostenlose Adobe-Bibliothek mit [Dokumentationen](https://experienceleague.adobe.com/de/docs), [Kursen](https://experienceleague.adobe.com/?lang=de#courses), [Veranstaltungen](https://experienceleague.adobe.com/events?lang=de/), [Community-Foren](https://experienceleaguecommunities.adobe.com/?profile.language=de) und [Support](https://experienceleague.adobe.com/?support-tab=home&amp;lang=de#support) an.
 
-**Feedback hinterlassen**
+**Feedback hinterlassen:** Suchen Sie nach dem **_War dieser Inhalt hilfreich?_** unten auf jeder Seite. Ihr Feedback wird bearbeitet und an Inhaltsautorinnen und Inhaltsautoren übermittelt.
 
-Suchen Sie nach dem Popup **_War dieser Inhalt hilfreich?_** unten auf jeder Seite. Ihr Feedback wird bearbeitet und an Inhaltsautorinnen und Inhaltsautoren übermittelt.
+**Benachrichtigung erhalten:** Abonnieren Sie das [Adobe Priority Product Update](https://www.adobe.com/subscription/priority-product-update.html), um eine monatliche E-Mail-Benachrichtigung über Aktualisierungen dieser Seite zu erhalten.
 
-**Benachrichtigung erhalten**
+**November 2024**
 
-Um eine monatliche E-Mail-Benachrichtigung über Aktualisierungen auf dieser Seite zu erhalten, abonnieren Sie das [Adobe Priority Product Update](https://www.adobe.com/subscription/priority-product-update.html).
-
-## November 2024
-
-Letzte Aktualisierung: **22. November**
+Letzte Aktualisierung: **Samstag, 22. November 2024**
 
 * [[!DNL Experience League] Ereignisse und Aktualisierungen](#events) (**24. November 2013})**
 * [[!DNL Adobe System Status]](#status)
 * [[!DNL Adobe Experience Cloud] – zentrale Benutzeroberfläche und Verwaltung](#ecloud)
 * [[!DNL Adobe Experience Platform]](#platform)
-* [[!DNL Adobe Real-Time Customer Data Platform]](#rtcdp)
+* [[!DNL Adobe Real-Time CDP]](#rtcdp)
 * [[!DNL Adobe Analytics]](#analytics) (Veröffentlicht: **23. Oktober**)
 * [[!DNL Adobe Customer Journey Analytics]](#cja) (Veröffentlicht: **23. Oktober**)
 * [[!DNL Adobe Streaming Media Analytics]](#sma)
@@ -68,9 +64,11 @@ Letzte Aktualisierung: **22. November**
 * [Zertifizierung bei Adobe](https://experienceleague.adobe.com/de/certification-home)
 * [Sicherheitslücken bei Adobe-Produkten](https://helpx.adobe.com/de/security.html)
 
-## ![Symbol](/assets/experience-league.png) [!DNL Experience League]-Events und -Updates {#events}
+## [!DNL Experience League]-Ereignisse und Aktualisierungen {#events}
 
 Erfahren Sie mehr über spannende Ereignisse in Experience League. Dies ist ein idealer Ort, um zu lernen, Kontakte zu knüpfen und von Produktfachleuten von Adobe Antworten auf Fragen zu erhalten!
+
++++Details
 
 ### Inhaltsverbesserungen
 
@@ -100,6 +98,8 @@ Navigieren Sie zum Durchsuchen von Playlist zu **[!UICONTROL Lernen]** > **[!UIC
 >
 >Wenn Sie einen Kurs auf Experience League mit einem Lesezeichen versehen haben, werden Sie zu einer entsprechenden Playlist weitergeleitet. In einigen Fällen müssen Sie möglicherweise zu einer neuen Playlist navigieren, die die Themen abdeckt, nach denen Sie suchen.
 
++++
+
 ### Ereignisse auf Experience League
 
 +++Details
@@ -108,7 +108,7 @@ Hier können Sie mehr zu [bevorstehenden Ereignissen](https://experienceleague.a
 
 +++
 
-## ![Symbol](/assets/system-status.png) [!DNL Adobe System Status] {#status}
+## [!DNL Adobe System Status] {#status}
 
 Erfahren Sie mehr über die neuesten Funktionen und Aktualisierungen in [!DNL Adobe System Status].
 
@@ -128,15 +128,13 @@ Die neuesten Versionshinweise finden Sie hier:
 
 +++
 
-## ![Symbol](/assets/ec_appicon_24.png) [!DNL Experience Cloud] – zentrale Benutzeroberfläche und Verwaltung {#ecloud}
+## [!DNL Experience Cloud] – zentrale Benutzeroberfläche und Verwaltung {#ecloud}
 
 Informationen zur zentralen [!DNL Experience Cloud]-Komponente der Benutzeroberfläche und Verwaltung. Verwalten Sie Produkte und Benutzende, konfigurieren Sie Profileinstellungen und Voreinstellungen, suchen Sie nach Experience Cloud-Objekten und verwalten Sie Cookies.
 
 +++Details
 
 Um die Kontrolle der Voreinstellungen für Experience Cloud-Produktverwendungsdaten zu erleichtern, haben wir unsere Experience Cloud-Voreinstellungsseite optimiert, um doppelte Optionen zu entfernen. Zur Vereinfachung haben wir die aktuellen Benutzereinstellungen beibehalten und Sie können Ihre Voreinstellungen jederzeit unter https://experience.adobe.com/preferences aktualisieren.
-
-
 
 | Veröffentlichungsdatum | Funktion | Beschreibung |
 | -----------| -----------| ---------- |
@@ -146,7 +144,7 @@ Hilfe zu den zentralen Schnittstellenkomponenten von [!DNL Experience Cloud] fin
 
 +++
 
-## ![Symbol](/assets/experience_platform_appicon_24.png) [!DNL Experience Platform] {#platform}
+## [!DNL Experience Platform] {#platform}
 
 Aktuelle Versionshinweise und neue Dokumentation für [!DNL Experience Platform] und [!UICONTROL Mobile SDK]. Sehen Sie sich neue Tutorials und Knowledge Base-Artikel auf Experience League an.
 
@@ -175,9 +173,9 @@ Neue Artikel und Aktualisierungen vorhandener Artikel für [!DNL Experience Plat
 
 +++
 
-## ![Symbol](/assets/experience_platform_appicon_24.png) [!DNL Real-Time Customer Data Platform] {#rtcdp}
+## [!DNL Real-Time CDP] {#rtcdp}
 
-Hier finden Sie die neuesten Tutorials für [!DNL Real-Time Customer Data Platform] auf Experience League.
+Hier finden Sie die neuesten Tutorials für [!DNL Real-Time CDP] auf Experience League.
 
 +++Details
 
@@ -187,7 +185,7 @@ Hier finden Sie die neuesten Tutorials für [!DNL Real-Time Customer Data Platfo
 
 +++
 
-## ![Symbol](/assets/analytics.png) [!DNL Analytics] {#analytics}
+## [!DNL Analytics] {#analytics}
 
 Erhalten Sie die neuesten Versionsinformationen für [!DNL Adobe Analytics] und [!DNL AppMeasurement]. Sehen Sie sich neue Tutorials für Experience League an.
 
@@ -225,7 +223,7 @@ Neue Artikel und Aktualisierungen vorhandener Artikel für [!DNL Analytics].
 
 +++
 
-## ![Symbol](/assets/analytics.png) [!DNL Customer Journey Analytics] {#cja}
+## [!DNL Customer Journey Analytics] {#cja}
 
 Erhalten Sie die neusten Versionsinformationen für [!DNL Customer Journey Analytics]. Zeigen Sie neue Tutorials auf Experience League an.
 
@@ -247,7 +245,7 @@ Neue Tutorials, die für [!DNL Customer Journey Analytics] veröffentlicht wurde
 
 +++
 
-## ![Symbol](/assets/analytics.png) [!DNL Streaming Media Analytics] {#sma}
+## [!DNL Streaming Media Analytics] {#sma}
 
 Erhalten Sie die neusten Versionsinformationen für [!DNL Streaming Media Analytics]. Zeigen Sie neue Tutorials auf Experience League an.
 
@@ -259,7 +257,7 @@ Erhalten Sie die neusten Versionsinformationen für [!DNL Streaming Media Analyt
 
 +++
 
-## ![Symbol](/assets/aem.png) Adobe [!DNL Experience Manager] {#aem}
+## Adobe [!DNL Experience Manager] {#aem}
 
 Neue Funktionen, Fehlerbehebungen und Aktualisierungen in [!DNL Experience Manager]. Adobe empfiehlt Kundinnen und Kunden mit On-Premise-Bereitstellungen, die aktuellsten Patches bereitzustellen, um mehr Stabilität, Sicherheit und Performance zu erzielen.
 
@@ -312,7 +310,7 @@ Neue Artikel und Aktualisierungen vorhandener Artikel für [!DNL Experience Mana
 
 +++
 
-## ![Symbol](/assets/ec_appicon_24.png) [!DNL Adobe Commerce] {#commerce}
+## [!DNL Adobe Commerce] {#commerce}
 
 Erhalten Sie Zugriff auf Versionshinweise, neue Tutorials und Wissensdatenbank-Artikel für [!DNL Adobe Commerce] auf Experience League.
 
@@ -351,7 +349,7 @@ Neue Artikel und Aktualisierungen vorhandener Artikel für Adobe Commerce.
 
 +++
 
-## ![Symbol](/assets/target.png) [!DNL Target] {#target}
+## [!DNL Target] {#target}
 
 Erhalten Sie Hinweise zu Vorabversionen, Hinweise zur aktuellen Version und Tutorials zu [!DNL Adobe Target].
 
@@ -369,7 +367,7 @@ Erhalten Sie Hinweise zu Vorabversionen, Hinweise zur aktuellen Version und Tuto
 
 +++
 
-## ![Symbol](/assets/campaign.png) [!DNL Campaign] {#ac}
+## [!DNL Campaign] {#ac}
 
 Erhalten Sie die neuesten Aktualisierungen für [!DNL Adobe Campaign]. Erfahren Sie mehr über neue Tutorials und Wissensdatenbank-Support-Artikel auf Experience League.
 
@@ -415,7 +413,7 @@ Neue Artikel und Aktualisierungen vorhandener Artikel für [!DNL Campaign].
 
 +++
 
-## ![Symbol](/assets/experience_platform_appicon_24.png) [!DNL Journey Optimizer] {#journey-opt}
+## [!DNL Journey Optimizer] {#journey-opt}
 
 Erfahren Sie mehr über die neuesten Versions-Updates für [!DNL Journey Optimizer]. Sehen Sie sich die neuesten Tutorials und Wissensdatenbank-Support-Artikel auf Experience League an.
 
@@ -462,7 +460,7 @@ Neue Tutorials, die für Adobe [!DNL Journey Optimizer] auf Experience League ve
 
 +++
 
-## ![Symbol](/assets/ajo-b2b.png) [!DNL Journey Optimizer B2B Edition] {#ajo-b2b}
+## [!DNL Journey Optimizer B2B Edition] {#ajo-b2b}
 
 Hier finden Sie Versionshinweise und neue Dokumentation für Adobe [!DNL Journey Optimizer B2b Edition].
 
@@ -473,7 +471,7 @@ Hier finden Sie Versionshinweise und neue Dokumentation für Adobe [!DNL Journey
 
 +++
 
-## ![Symbol](/assets/experience_platform_appicon_24.png) [!DNL Journey Orchestration] {#journey-orch}
+## [!DNL Journey Orchestration] {#journey-orch}
 
 Greifen Sie in Experience League auf die neuesten Versionshinweise für [!DNL Journey Orchestration] zu.
 
@@ -495,7 +493,7 @@ Erfahren Sie mehr über die neuesten Funktionen, Verbesserungen und Fehlerbehebu
 
 +++
 
-## ![Symbol](/assets/marketo.png) [!DNL Marketo Engage] {#marketo}
+## [!DNL Marketo Engage] {#marketo}
 
 Neueste Versionshinweise und Veröffentlichungszeitpläne für [!DNL Marketo Engage].
 
@@ -531,7 +529,7 @@ New articles and updates to existing articles for [!DNL Marketo].
 
 +++
 
-## ![Symbol](/assets/workfront.png) [!DNL Workfront] {#workfront}
+## [!DNL Workfront] {#workfront}
 
 Erfahren Sie mehr über die neuesten Versionshinweise für [!DNL Adobe Workfront]. Suchen Sie neue Tutorials auf Experience League.
 
@@ -594,7 +592,7 @@ Die neueste Produktdokumentation finden Sie auf der Startseite der [Adobe [!DNL 
 
 +++
 
-## ![Symbol](/assets/ec_appicon_24.png) GenStudio for Performance Marketing {#genstudio-marketing}
+## GenStudio for Performance Marketing {#genstudio-marketing}
 
 Aktuelle Versionshinweise und neue Dokumentation für [!DNL GenStudio for Performance Marketing].
 
@@ -613,7 +611,7 @@ Neueste Video-Tutorials für [!DNL GenStudio for Performance Marketing].
 
 +++
 
-## ![Symbol](/assets/ec_appicon_24.png) [!DNL Adobe Mix Modeler] {#mix-modeler}
+## [!DNL Adobe Mix Modeler] {#mix-modeler}
 
 +++Details
 
@@ -624,7 +622,7 @@ Aktuelle Informationen finden Sie auf den folgenden Seiten:
 
 +++
 
-## ![Symbol](/assets/advertising-cloud.png) Adobe Advertising {#advertising}
+## Adobe Advertising {#advertising}
 
 Versionshinweise für [!DNL Adobe Advertising].
 
@@ -642,7 +640,7 @@ Siehe [Neue Funktionen in [!DNL Advertising Search, Social, & Commerce]](https:/
 
 +++
 
-## ![Symbol](/assets/pass.png) [!DNL Adobe Pass] {#pass}
+## [!DNL Adobe Pass] {#pass}
 
 [!DNL Adobe Pass] ist eine Multiscreen-TV-Plattform, mit der Rundfunkanbieter, Kabelnetzwerke und Dienstleister ansprechende, personalisierte Erlebnisse erstellen und monetarisieren können.
 
@@ -652,7 +650,7 @@ In der [Dokumentation von Adobe Pass](https://experienceleague.adobe.com/de/docs
 
 +++
 
-## ![Symbol](/assets/document-cloud-24.png) [!DNL Document Cloud] {#doc-cloud}
+## [!DNL Document Cloud] {#doc-cloud}
 
 Neue Tutorials, die für [!DNL Document Cloud], einschließlich [!DNL Acrobat Services] und [!DNL Acrobat Sign] veröffentlicht werden.
 
@@ -679,7 +677,7 @@ Zu [!DNL Document Cloud]-Tutorials siehe:
 
 +++
 
-## ![Symbol](/assets/creative-cloud-24.png) [!DNL Creative Cloud] für Unternehmen {#creative-cloud}
+## [!DNL Creative Cloud] für Unternehmen {#creative-cloud}
 
 Neue Tutorials, die für Anwendungen in [!DNL Adobe Creative Cloud for enterprise] veröffentlicht wurden.
 
@@ -693,11 +691,11 @@ Unter [Creative Cloud für Unternehmen – Tutorials](https://experienceleague.a
 
 +++
 
-## ![Symbol](/assets/experience-league.png) Customer Data Management - Voices {#voices}
+## Customer Data Management – Voices {#voices}
 
 [Customer Data Management - Voices](https://experienceleague.adobe.com/de/docs/events/customer-data-management-voices-recordings/overview) bietet eine Sammlung von Informationsmaterialien für technische Experten und Marketing-Spezialisten im Kundendaten-Management. Hier finden Sie Tutorials sowie die Möglichkeit, von Berufskollegen zu hören, sich inspirieren zu lassen und sich über Entwicklungen im Bereich MarTech zu informieren. Keine Registrierung erforderlich, einfach anklicken und ansehen.
 
-## ![Symbol](/assets/experience-league.png) Digital Experience Blueprints {#blueprints}
+## Blueprints für digitale Erlebnisse {#blueprints}
 
 [Digital Experience Blueprints](https://experienceleague.adobe.com/de/docs/blueprints-learn/architecture/overview) sind wiederholbare Implementierungen, die Ihnen helfen, Strategien zu entwickeln und bestehende geschäftliche Herausforderungen zu meistern. Jeder Blueprint bietet eine Reihe von Artefakten, die jeweils die anspruchsvolle geschäftliche Herausforderung, die Architekturen, die Implementierungsschritte und die technischen Überlegungen erläutern, sowie die Links zur entsprechenden Dokumentation.
 
