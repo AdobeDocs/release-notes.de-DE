@@ -6,9 +6,9 @@ last-update: November 2024
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: 8f8c2c1c77f9ca98e7543ff7a52071c6fa49fea5
+source-git-commit: 974b5546b9fc18503dfc2007d2e3a4d92d95e315
 workflow-type: tm+mt
-source-wordcount: '4635'
+source-wordcount: '4639'
 ht-degree: 94%
 
 ---
@@ -34,7 +34,7 @@ Melden Sie sich für die beste Selbsthilfe bei [Experience League](https://exper
 
 **November 2024**
 
-Letzte Aktualisierung: **Samstag, 22. November 2024**
+Letzte Aktualisierung: **Montag, 24. November 2024**
 
 * [[!DNL Experience League] Ereignisse und Aktualisierungen](#events) (**24. November 2013})**
 * [[!DNL Adobe System Status]](#status)
@@ -64,17 +64,17 @@ Letzte Aktualisierung: **Samstag, 22. November 2024**
 * [Zertifizierung bei Adobe](https://experienceleague.adobe.com/de/certification-home)
 * [Sicherheitslücken bei Adobe-Produkten](https://helpx.adobe.com/de/security.html)
 
-## [!DNL Experience League]-Ereignisse und Aktualisierungen {#events}
+## [!DNL Experience League] Aktualisierungen und Ereignisse {#events}
 
 Erfahren Sie mehr über spannende Ereignisse in Experience League. Dies ist ein idealer Ort, um zu lernen, Kontakte zu knüpfen und von Produktfachleuten von Adobe Antworten auf Fragen zu erhalten!
 
-+++Details
+### Updates für Experience League
 
-### Inhaltsverbesserungen
++++Details
 
 Aktualisierung: **22. November 2024**
 
-Die folgenden Aktualisierungen wurden an den Inhaltsverzeichnissen in Experience League vorgenommen:
+**Inhaltsaktualisierungen:** Die folgenden Aktualisierungen wurden an den Inhaltsverzeichnissen in Experience League vorgenommen:
 
 * **[!UICONTROL Alle Bereiche erweitern]**: Zeigt das gesamte Inhaltsverzeichnis in einem beliebigen Experience League-Handbuch an. (Dieser Umschalter deaktiviert sich nach dem Laden einer Seite. Dieses Problem wird in einer zukünftigen Aktualisierung behoben.) Die Optionen **[!UICONTROL Mehr anzeigen]** und **[!UICONTROL Weniger anzeigen]** wurden entfernt.
 * **Scroll**: Aktiviert das Scrollen durch ein langes Inhaltsverzeichnis.
