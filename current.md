@@ -6,10 +6,10 @@ last-update: November 2024
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: 974b5546b9fc18503dfc2007d2e3a4d92d95e315
+source-git-commit: b30261737a9476a3279ac1181314ea41170b0dbc
 workflow-type: tm+mt
-source-wordcount: '4639'
-ht-degree: 94%
+source-wordcount: '4720'
+ht-degree: 93%
 
 ---
 
@@ -34,15 +34,15 @@ Melden Sie sich für die beste Selbsthilfe bei [Experience League](https://exper
 
 **November 2024**
 
-Letzte Aktualisierung: **Montag, 24. November 2024**
+Letzte Aktualisierung: **Donnerstag, 11. Dezember 2024**
 
-* [[!DNL Experience League] Ereignisse und Aktualisierungen](#events) (**24. November 2013})**
+* [[!DNL Experience League] Ereignisse und Aktualisierungen](#events) (**11. Dezember 3})**
 * [[!DNL Adobe System Status]](#status)
 * [[!DNL Adobe Experience Cloud] – zentrale Benutzeroberfläche und Verwaltung](#ecloud)
 * [[!DNL Adobe Experience Platform]](#platform)
 * [[!DNL Adobe Real-Time CDP]](#rtcdp)
-* [[!DNL Adobe Analytics]](#analytics) (Veröffentlicht: **23. Oktober**)
-* [[!DNL Adobe Customer Journey Analytics]](#cja) (Veröffentlicht: **23. Oktober**)
+* [[!DNL Adobe Analytics]](#analytics) (Neueste Version: **23. Oktober**)
+* [[!DNL Adobe Customer Journey Analytics]](#cja) (Neueste Version: **23. Oktober**)
 * [[!DNL Adobe Streaming Media Analytics]](#sma)
 * [[!DNL Adobe Experience Manager]](#aem)
 * [[!DNL Adobe Commerce]](#commerce)
@@ -103,6 +103,10 @@ Navigieren Sie zum Durchsuchen von Playlist zu **[!UICONTROL Lernen]** > **[!UIC
 ### Ereignisse auf Experience League
 
 +++Details
+
+* **[!DNL Workfront]** | Community-Ereignis | _Verbinden: Workfront Collective_ | Nehmen Sie an unseren monatlichen Workfront Collective Events teil, die dazu bestimmt sind, Kontakt mit anderen Kunden aufzunehmen, Workfront-Funktionen zu besprechen, Ideen auszutauschen und gemeinsam Brainstorm zu entwickeln, gemeinsame Herausforderungen zu lösen. | **16. Dezember um 7:00 Uhr MT** | [Registrieren](https://events.teams.microsoft.com/event/d79e528e-b2ad-43fc-a37b-7ebefa30e2b2@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
+
+* **[!DNL Workfront]** | Q&amp;A-Chat | _Admin 101: Workfront-Fragen einbringen_ | Neu bei Workfront? Haben Sie eine der vorherigen Admin 101-Sitzungen verpasst? Nehmen Sie an unserer Zusammenfassungssitzung teil, um Fragen zu stellen, Ressourcen und Empfehlungen zu erhalten und andere neue Administratorinnen und Administratoren zu treffen. | **17. Dezember um 9:00 Uhr MT** | [Registrieren](https://events.teams.microsoft.com/event/d5af4ff8-c7f0-4ec1-bb45-91ab8ee45704@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
 Hier können Sie mehr zu [bevorstehenden Ereignissen](https://experienceleague.adobe.com/events?lang=de/) erfahren oder die [Aufzeichnungen von vergangenen Veranstaltungen](https://experienceleague.adobe.com/de/docs/events/experience-league-recorded-events/overview) auf Experience League durchsuchen.
 
