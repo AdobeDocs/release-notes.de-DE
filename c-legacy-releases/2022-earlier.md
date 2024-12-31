@@ -1,5 +1,5 @@
 ---
-description: Archivierte Versionshinweise für Experience Cloud-Produkte und -Dienste.
+description: Archivierte Versionshinweise für Experience Cloud-Produkte und -Services.
 seo-description: New features and fixes in the Adobe Experience Cloud - 2018 and earlier.
 title: Versionshinweise für 2021 und früher
 solution: Experience Cloud,Analytics,Target,Advertising

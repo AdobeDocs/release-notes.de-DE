@@ -6,7 +6,7 @@ breadcrumb-title: Versionshinweise
 user-guide-description: Erfahren Sie mehr über neue Funktionen, Fehlerbehebungen und wichtige Hinweise in Adobe Experience Cloud und Experience Platform.
 user-guide-url: https://www.adobe.com
 source-git-commit: 1da5fc78eb0f384acbd012bdcd1b3da7e94c740e
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '103'
 ht-degree: 100%
 

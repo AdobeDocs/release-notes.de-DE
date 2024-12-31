@@ -8,9 +8,9 @@ uuid: be6810fd-8a50-4e88-af09-ab00187e4082
 internal: n
 translate: y
 source-git-commit: 759707638404f746de2e71ac27bd16926a8d1151
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '219'
-ht-degree: 100%
+ht-degree: 95%
 
 ---
 
@@ -44,6 +44,6 @@ Adobe Systems welcome any suggestions or feedback regarding this solution. You c
 
 [Nutzungsbedingungen](https://www.adobe.com/go/marketingcloud_terms_of_use) | [Datenschutzcenter](https://www.adobe.com/de/privacy/policy.html)
 
-Adobe and the Adobe logo are either registered trademarks or trademarks of Adobe Systems Incorporated in the United States and/or other countries. A trademark symbol (®, ™, etc.) denotes an Adobe trademark.
+Adobe and the Adobe logo are either registered trademarks or trademarks of Adobe Systems Incorporated in the United States and/or other countries. Ein Markensymbol (®, ™ usw.) bezeichnet eine Adobe-Marke.
 
 All third-party trademarks are the property of their respective owners. Updated Information/Additional Third-Party Code Information available at [https://www.adobe.com/go/thirdparty](https://www.adobe.com/de/products/eula/third_party/).

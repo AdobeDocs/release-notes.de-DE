@@ -5,8 +5,8 @@ doc-type: release notes
 last-update: June 2021
 author: mfrei
 source-git-commit: e415b562703712157d907d3e3995ff5adad4db1e
-workflow-type: ht
-source-wordcount: '716'
+workflow-type: tm+mt
+source-wordcount: '715'
 ht-degree: 100%
 
 ---
@@ -159,7 +159,7 @@ Text.
 
 ## Experience Manager {#aem}
 
-Neue Funktionen, Fehlerbehebungen und Aktualisierungen in Adobe Experience Manager (AEM). Adobe empfiehlt Kunden mit On-Premise-Implementierungen, die aktuellsten Patches zu implementieren, um mehr Stabilität, Sicherheit und Leistung zu erzielen.
+Neue Funktionen, Fehlerbehebungen und Aktualisierungen in Adobe Experience Manager (AEM). Adobe empfiehlt Kunden mit lokalen Bereitstellungen, die aktuellen Patches bereitzustellen, um mehr Stabilität, Sicherheit und Performance zu erzielen.
 
 ### Produktversionen
 
@@ -257,7 +257,7 @@ Marketo Engage ist eine Komplettlösung für das Leadmanagement. B2B-Marketer k�
 
 Versionsdatum: 21. Februar 2020
 
-* **Microsoft® Dynamics _Inhaber in Microsoft ändern_ Fluss-Aktion**: Ändern Sie den Inhaber eines Leads oder Kontakts direkt in Marketo Engage.
+* **Microsoft® Dynamics _Inhaber in Microsoft® ändern_ Fluss-Aktion:** Ändern Sie den Inhaber eines Leads oder Kontakts direkt in Marketo Engage.
 * **Verbesserungen bei API-Aufrufen:**
    * APIs für die Benutzerverwaltung
    * APIs für benutzerdefiniertes Objektschema
