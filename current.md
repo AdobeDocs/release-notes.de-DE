@@ -6,9 +6,9 @@ last-update: January 2025
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: a6b06a2fd33e45c0efff9173803debc392244fae
+source-git-commit: e1fa57bb50fae162e3fcd51c1b28abbdba3bb3a3
 workflow-type: tm+mt
-source-wordcount: '4489'
+source-wordcount: '4495'
 ht-degree: 40%
 
 ---
@@ -290,6 +290,8 @@ Neue Funktionen, Fehlerbehebungen und Aktualisierungen in [!DNL Experience Manag
 +++Details
 
 ### Versionshinweise zu Experience Manager
+
+Nächste AEM CS-Version: **30. Januar**
 
 Die nachfolgend aufgeführten Seiten umfassen alle Versionshinweise zu [!DNL Experience Manager]:
 
