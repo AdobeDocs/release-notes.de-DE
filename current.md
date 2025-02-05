@@ -6,10 +6,10 @@ last-update: January 2025
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: 8cbb1bff56f6f664dd2c46c0fc53b04909761992
-workflow-type: ht
-source-wordcount: '4493'
-ht-degree: 100%
+source-git-commit: 03486f88bc94130445325ac63150ecb54c953f48
+workflow-type: tm+mt
+source-wordcount: '4370'
+ht-degree: 95%
 
 ---
 
@@ -33,7 +33,7 @@ ht-degree: 100%
 
 ## Januar 2025
 
-Letzte Aktualisierung: **22. Januar 2025**
+Letzte Aktualisierung: **Donnerstag, 5. Februar 2025**
 
 Informationen zu den Veröffentlichungsdaten der jeweiligen Anwendung finden Sie in den Versionshinweisen zum Produkt.
 
@@ -69,35 +69,23 @@ Informationen zu den Veröffentlichungsdaten der jeweiligen Anwendung finden Sie
 
 Erfahren Sie mehr über spannende Ereignisse in Experience League. Dies ist ein idealer Ort, um zu lernen, Kontakte zu knüpfen und von Produktfachleuten von Adobe Antworten auf Fragen zu erhalten!
 
-### Aktualisierungen in Experience League
+### Updates für Experience League (Februar 2025)
 
 +++Details
 
-Veröffentlicht: **Herbst 2024**
+**Personalisierte Startseite**
 
-**Aktualisierungen von Inhaltsverzeichnissen:** Die folgenden Aktualisierungen wurden für jedes Inhaltsverzeichnis in Experience League vorgenommen:
+Freigegeben: **5. Februar 2025**
 
-* **[!UICONTROL Alle Abschnitte erweitern]**: Zeigt das gesamte Inhaltsverzeichnis für ein beliebiges Experience League-Handbuch an. (Dieser Umschalter wird nach dem Laden einer Seite deaktiviert. Dieses Problem wird in einer zukünftigen Aktualisierung behoben.) Die Optionen **[!UICONTROL Mehr anzeigen]** und **[!UICONTROL Weniger anzeigen]** wurden entfernt.
-* **Scrollen**: Ermöglicht das Scrollen durch ein langes Inhaltsverzeichnis.
-* **[!UICONTROL Nach Keyword filtern]**: Ermöglicht das Filtern von Inhaltsverzeichniseinträgen durch Eingabe von Keywords. Relevante Ergebnisse werden in einem Dropdown-Menü angezeigt, und Sie können den Filter löschen, indem Sie auf **[!UICONTROL Löschen]** klicken.
-* **Sichtbarkeit der aktiven Seite**: Die aktive Seite wird im Inhaltsverzeichnis immer hervorgehoben.
+Die völlig neue [Experience League-Startseite](https://experienceleague.adobe.com/?lang=en) bietet personalisierte Lernempfehlungen auf Basis von [!DNL Adobe Target].
 
-### Playlists auf Experience League
+Wichtigste Funktionen:
 
-Es sind neue Video-[Playlists](https://experienceleague.adobe.com/de/playlists) auf Experience League verfügbar. Eine Playlist ist eine kuratierte Sammlung von Videos, die Ihnen dabei helfen soll, die gewünschten Fähigkeiten und Kenntnisse zu erwerben.
-
-Zu den Playlist-Funktionen gehört Folgendes:
-
-* Automatische Wiedergabe von Videos
-* Kapitelauswahl und Wiedergabegeschwindigkeit
-* Fortsetzung an der Stelle, an der Sie aufgehört haben
-* Videotranskripte
-
-Navigieren Sie zum Durchsuchen von Playlist zu **[!UICONTROL Lernen]** > **[!UICONTROL Alle Playlists durchsuchen]**.
-
->[!NOTE]
->
->Wenn Sie einen Kurs auf Experience League mit einem Lesezeichen versehen haben, werden Sie zu einer entsprechenden Playlist weitergeleitet. In einigen Fällen müssen Sie möglicherweise zu einer neuen Playlist navigieren, die die Themen abdeckt, nach denen Sie suchen.
+* Empfohlene Inhalte basierend auf Rolle, Produkt und kürzlich durchgeführten Aktivitäten
+* Kürzlich angezeigte Inhalte
+* Vorgeschlagene On-Demand-Events und -Zertifizierungen
+* Neu veröffentlichte Inhalte für Ihr Produkt
+* Neu gestaltete, aktualisierte Benutzeroberfläche
 
 +++
 
@@ -105,15 +93,17 @@ Navigieren Sie zum Durchsuchen von Playlist zu **[!UICONTROL Lernen]** > **[!UIC
 
 +++Details
 
-* **[!DNL Workfront]** | _Aufwachen mit Workfront: Fragerunde_ | In dieser „Ask Me Anything“-Session stellen sich die Adobe [!DNL Workfront]-Unternehmensberater Samantha Miller, Aaron Baker und Mary Ann Erickson live Fragen und erzählen, mit welchen Best Practices in [!DNL Workfront] Kundinnen und Kunden im Jahr 2025 erfolgreich sein können. | **23. Januar um 11:00 Uhr (MT)** | [Registrieren](https://adobeevents.adobeconnect.com/eqfnatfznj47/event/registration.html?campaign-id=ExL)
-
-* **[!DNL Workfront]** | _Verbinden: [!DNL Workfront] Kollektiv_ | Nehmen Sie an unseren monatlichen [!DNL Workfront]-Kollektivtreffen am Montag teil, die darauf ausgelegt sind, mit anderen Kundinnen und Kunden in Kontakt zu treten, über die [!DNL Workfront]-Funktionen zu sprechen, Ideen auszutauschen und bei einem gemeinsamen Brainstorming häufige Herausforderungen zu bewältigen. | **27. Januar um 7:00 Uhr (MT)** | [Registrieren](https://events.teams.microsoft.com/event/7eabf155-b410-401e-8415-97306c28b9ca@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
-
-* **[!DNL Workfront]** | _Lernen: Überwinden von Widerständen gegen Veränderungen auf Ihrer [!DNL Workfront]-Journey_ | Seien Sie dabei, wenn unsere Expertinnen und Experten für das [!DNL Workfront]-Änderungs-Management mit Ihren Anwenderinnen und Anwendern über Best Practices zur Identifizierung und Überwindung von Widerständen sprechen. | **30. Januar um 10:00 Uhr (MT)** | [Registrieren](https://events.teams.microsoft.com/event/ba4df540-2f36-427f-8893-978da4b26450@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
-
-* **[!DNL Target]** | _Webinar-Reihe zur Adobe Target Maturity_ | Adobe Target-Innovationen, einschließlich GenAI, und Best Practices für KI-gestützte Personalisierung und Experimente im benötigten Umfang. | **4. Februar um 9:00 Uhr (MT)** | [Registrieren](https://event.adobe.com/adobetargetmaturitywebinars)
+* **[!DNL Adobe Summit]** | _Die Konferenz für digitale Erlebnisse_ | Seien Sie dabei und hören Sie von Führungskräften der Coca-Cola Company, JPMorganChase, ServiceNow und mehr. | **18. bis 19. März @ Las Vegas &amp; Online** | [Registrieren](https://summit.adobe.com/na/?promoid=G4FRYKWG&amp;mv=other)
 
 * **[!DNL Target]** | _Marketo und Mokkas: 5 Marketo-Funktionen, die Sie im Jahr 2025 kennen sollten_ | In unserer ersten [!DNL Marketo] und Mokkas-Session des Jahres beschreiben die [!DNL Marketo]-Profis Carly Gaver und Kate Colbert 5 leistungsstarke Funktionen, mit denen sich das Kundenerlebnis verbessern und die Nachfrage im Jahr 2025 steigern lässt. | **6. Februar um 11:00 AM (MT)** | [Registrieren](https://adobeevents.adobeconnect.com/ewh8dja8xr45/event/registration.html?campaign-id=ExL)
+
+* **[!DNL Workfront]** | _Verbinden: Admin-Chat für Marketing und Kreative_ | Sind Sie Workfront-Systemadministrator für ein Marketing- oder Kreativ-Team? Nehmen Sie an unserer interaktiven Diskussion teil, um sich mit anderen Administratoren auszutauschen und Best Practices auszutauschen! | **7. Februar um 10:00 AM (MT)** | [Registrieren](https://events.teams.microsoft.com/event/5c409c21-d39e-4239-9853-5e69569711d0@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
+
+* **[!DNL Workfront]** | _Admin 101: Erhalten von Benutzern, Workfront zu verwenden_ | Neu bei Workfront? Nehmen Sie an der zweiten Sitzung unserer 3-teiligen Serie teil, in der wir Best Practices rund um die Projekteingabe und die Benutzerakzeptanz anbieten. | **11. Februar um 09:00 AM (MT)** | [Registrieren](https://events.teams.microsoft.com/event/66877127-5d68-4f56-aeb6-ca6769551fb3@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
+
+* **[!DNL Workfront]** | _Fragen Sie mich etwas über Workfront Governance_ | Fragen Sie unsere internen Experten, wie Sie Ihre Workfront-Prozesse, -Richtlinien und -Kontrollen verbessern können, um sie besser an die strategischen Ziele Ihres Unternehmens anzupassen! | **12. Februar um 09:00 AM (MT)** | [Registrieren](https://experienceleaguecommunities.adobe.com/t5/workfront-events/workfront-ama-ask-me-anything-about-workfront-governance/ev-p/729202)
+
+* **[!DNL Marketo and Marketo Engage]** | _Adobe Marketo Engage Champion Office Hours - Februar 2025_ | Seien Sie dabei, wenn Sie an den nordamerikanischen und LATAM Time Friendly Champion Office Hours teilnehmen, die von den Marketo Engage Champions 2024/25 geleitet werden. | **13. Februar um 08:00 AM (MT)** | [Registrieren](https://mugs.marketo.com/events/details/marketo-champion-office-hours-mug-presents-february-2025-adobe-marketo-engage-champion-office-hours/?cgen=5JRH85H1&amp;mv=other)
 
 * **[!DNL Commerce]** | _Commerce und Kaffee: Die Zunahme von Self-Service im B2B_ | Sichern Sie sich einen starken Start ins Jahr mit unseren [!DNL Commerce]-Experten Corey Gelato &amp; Agbi Bajrushi, die die neuesten B2B-Trends und einen Ansatz zur Nutzung neuer Adobe [!DNL Commerce]-Funktionen erkunden, um das ganze Jahr über einen Vorsprung gegenüber der Konkurrenz zu haben. | **13. Februar um 11:00 AM (MT)** | [Registrieren](https://adobeevents.adobeconnect.com/eezfyv5cqz0c/event/registration.html?campaign-id=ExL)
 
@@ -325,7 +315,7 @@ Neue Artikel und Aktualisierungen vorhandener Artikel für [!DNL Experience Mana
 
 | Veröffentlicht | Name | Typ | Beschreibung |
 |---------|--------|---------|---------|
-| November 2024 | [So beheben Sie Probleme beim Laden und Wiedergeben von Dynamic Media-Videos in Browsern](https://experienceleague.adobe.com/de/docs/experience-cloud-kcs/kbarticles/ka-25308) | Neuer Artikel | Erfahren Sie, wie sich Probleme mit [!DNL Dynamic Media] (DM)-Videos beheben lassen, die nicht geladen werden können, häufig gepuffert werden müssen oder es Benutzenden nicht erlauben, das Video in bestimmten Browsern oder Geräten neu zu positionieren. |
+| November 2024 | [So beheben Sie Probleme beim Laden und Wiedergeben von Dynamic Media-Videos in Browsern](https://experienceleague.adobe.com/de/docs/experience-cloud-kcs/kbarticles/ka-25308) | Neuer Artikel | Erfahren Sie, wie sich Probleme mit [!DNL Dynamic Media](DM)-Videos beheben lassen, die nicht geladen werden können, häufig gepuffert werden müssen oder es Benutzenden nicht erlauben, das Video in bestimmten Browsern oder Geräten neu zu positionieren. |
 | November 2024 | [[!DNL Dynamic Media] Die Seite „Allgemeine Einstellungen“ wird nicht geöffnet](https://experienceleague.adobe.com/de/docs/experience-cloud-kcs/kbarticles/ka-25294) | Neuer Artikel | Erfahren Sie, wie Sie das Problem lösen können, wenn die Seite „Allgemeine [!DNL Dynamic Media]-Einstellungen“ selbst mit einer korrekt konfigurierten [!DNL Dynamic Media] [!UICONTROL CloudConfig] und einer erfolgreichen Synchronisierung von Assets mit [!DNL DMS7] nicht geladen wird. |
 | November 2024 | [Bildvorschau funktioniert nicht](https://experienceleague.adobe.com/de/docs/experience-cloud-kcs/kbarticles/ka-25297) | Neuer Artikel | Erfahren Sie, wie Sie ein Problem lösen können, durch das die Bildvorschau in [!DNL Adobe Experience Manager (AEM) as a Cloud Service] nicht richtig funktioniert, indem Sie die JPEG-Qualitätseinstellungen anpassen. |
 | November 2024 | [[!DNL AEM Content Fragment] Modellfelder](https://experienceleague.adobe.com/de/docs/experience-cloud-kcs/kbarticles/ka-25300) | Neuer Artikel | Erfahren Sie mehr über die Einschränkungen und Konfigurationen für die Anzahl der Felder in einem [!DNL Adobe Experience Manager (AEM) Content Fragment (CF)]-Modell. |
