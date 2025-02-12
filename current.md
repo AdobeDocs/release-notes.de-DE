@@ -6,10 +6,10 @@ last-update: January 2025
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: 03486f88bc94130445325ac63150ecb54c953f48
+source-git-commit: a92a0f05c31eda25feb5f7555b87f711ac089a40
 workflow-type: tm+mt
-source-wordcount: '4370'
-ht-degree: 95%
+source-wordcount: '4224'
+ht-degree: 97%
 
 ---
 
@@ -33,13 +33,13 @@ ht-degree: 95%
 
 ## Januar 2025
 
-Letzte Aktualisierung: **Donnerstag, 5. Februar 2025**
+Letzte Aktualisierung: **Donnerstag, 12. Februar 2025**
 
 Informationen zu den Veröffentlichungsdaten der jeweiligen Anwendung finden Sie in den Versionshinweisen zum Produkt.
 
 * [[!DNL Experience League]-Ereignisse und Aktualisierungen](#events)
 * [[!DNL Adobe System Status]](#status)
-* [[!DNL Adobe Experience Cloud]  – zentrale Benutzeroberfläche und Verwaltung](#ecloud)
+* [[!DNL Adobe Experience Cloud] - Zentrale Benutzeroberfläche und Administration](#ecloud) (aktualisiert: **12.**)
 * [[!DNL Adobe Experience Platform]](#platform)
 * [[!DNL Adobe Real-Time CDP]](#rtcdp)
 * [[!DNL Adobe Analytics]](#analytics)
@@ -95,14 +95,6 @@ Wichtigste Funktionen:
 
 * **[!DNL Adobe Summit]** | _Die Konferenz für digitale Erlebnisse_ | Seien Sie dabei und hören Sie von Führungskräften der Coca-Cola Company, JPMorganChase, ServiceNow und mehr. | **18. bis 19. März @ Las Vegas &amp; Online** | [Registrieren](https://summit.adobe.com/na/?promoid=G4FRYKWG&amp;mv=other)
 
-* **[!DNL Target]** | _Marketo und Mokkas: 5 Marketo-Funktionen, die Sie im Jahr 2025 kennen sollten_ | In unserer ersten [!DNL Marketo] und Mokkas-Session des Jahres beschreiben die [!DNL Marketo]-Profis Carly Gaver und Kate Colbert 5 leistungsstarke Funktionen, mit denen sich das Kundenerlebnis verbessern und die Nachfrage im Jahr 2025 steigern lässt. | **6. Februar um 11:00 AM (MT)** | [Registrieren](https://adobeevents.adobeconnect.com/ewh8dja8xr45/event/registration.html?campaign-id=ExL)
-
-* **[!DNL Workfront]** | _Verbinden: Admin-Chat für Marketing und Kreative_ | Sind Sie Workfront-Systemadministrator für ein Marketing- oder Kreativ-Team? Nehmen Sie an unserer interaktiven Diskussion teil, um sich mit anderen Administratoren auszutauschen und Best Practices auszutauschen! | **7. Februar um 10:00 AM (MT)** | [Registrieren](https://events.teams.microsoft.com/event/5c409c21-d39e-4239-9853-5e69569711d0@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
-
-* **[!DNL Workfront]** | _Admin 101: Erhalten von Benutzern, Workfront zu verwenden_ | Neu bei Workfront? Nehmen Sie an der zweiten Sitzung unserer 3-teiligen Serie teil, in der wir Best Practices rund um die Projekteingabe und die Benutzerakzeptanz anbieten. | **11. Februar um 09:00 AM (MT)** | [Registrieren](https://events.teams.microsoft.com/event/66877127-5d68-4f56-aeb6-ca6769551fb3@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
-
-* **[!DNL Workfront]** | _Fragen Sie mich etwas über Workfront Governance_ | Fragen Sie unsere internen Experten, wie Sie Ihre Workfront-Prozesse, -Richtlinien und -Kontrollen verbessern können, um sie besser an die strategischen Ziele Ihres Unternehmens anzupassen! | **12. Februar um 09:00 AM (MT)** | [Registrieren](https://experienceleaguecommunities.adobe.com/t5/workfront-events/workfront-ama-ask-me-anything-about-workfront-governance/ev-p/729202)
-
 * **[!DNL Marketo and Marketo Engage]** | _Adobe Marketo Engage Champion Office Hours - Februar 2025_ | Seien Sie dabei, wenn Sie an den nordamerikanischen und LATAM Time Friendly Champion Office Hours teilnehmen, die von den Marketo Engage Champions 2024/25 geleitet werden. | **13. Februar um 08:00 AM (MT)** | [Registrieren](https://mugs.marketo.com/events/details/marketo-champion-office-hours-mug-presents-february-2025-adobe-marketo-engage-champion-office-hours/?cgen=5JRH85H1&amp;mv=other)
 
 * **[!DNL Commerce]** | _Commerce und Kaffee: Die Zunahme von Self-Service im B2B_ | Sichern Sie sich einen starken Start ins Jahr mit unseren [!DNL Commerce]-Experten Corey Gelato &amp; Agbi Bajrushi, die die neuesten B2B-Trends und einen Ansatz zur Nutzung neuer Adobe [!DNL Commerce]-Funktionen erkunden, um das ganze Jahr über einen Vorsprung gegenüber der Konkurrenz zu haben. | **13. Februar um 11:00 AM (MT)** | [Registrieren](https://adobeevents.adobeconnect.com/eezfyv5cqz0c/event/registration.html?campaign-id=ExL)
@@ -140,7 +132,7 @@ Informationen zur zentralen [!DNL Experience Cloud]-Komponente der Benutzeroberf
 | Datum | Funktion | Beschreibung |
 | -----------| -----------| ---------- |
 | 9. Januar | Produktnutzungsdaten | Um die Steuerung der Voreinstellungen für [!DNL Experience Cloud]-Produktnutzungsdaten zu vereinfachen, haben wir unsere Seite mit den [Voreinstellungen](https://experienceleague.adobe.com/de/docs/core-services/interface/features/account-preferences) für [!DNL Experience Cloud] optimiert, um doppelte Optionen zu entfernen. Mit dieser Vereinfachung haben wir die aktuellen Benutzereinstellungen beibehalten, und Sie können Ihre Voreinstellungen jederzeit auf [Experience Cloud-Voreinstellungen aktualisieren](https://experience.adobe.com/preferences). |
-| 5. Februar (geplantes Veröffentlichungsdatum) | Spectrum 2 | Der [!DNL Experience Cloud]-Anwendungsrahmen, einschließlich der Kopfzeilenleiste und der Komponenten, auf die über die Kopfzeilenleiste (und die linke Navigationsleiste bei bestimmten Anwendungen) zugegriffen wird, wird auf Spectrum 2 aktualisiert. Spectrum ist der Design-Standard von Adobe. Dieses überarbeitete Design enthält eine aktualisierte Ikonographie, aber die gleiche Funktionalität. Einige Elemente in der Kopfzeile werden jedoch neu positioniert, um sie an andere Adobe-Sites und -Programme anzupassen. |
+| 13. Februar (geplantes Veröffentlichungsdatum) | Spectrum 2 | Der [!DNL Experience Cloud]-Anwendungsrahmen, einschließlich der Kopfzeilenleiste und der Komponenten, auf die über die Kopfzeilenleiste (und die linke Navigationsleiste bei bestimmten Anwendungen) zugegriffen wird, wird auf Spectrum 2 aktualisiert. Spectrum ist der Design-Standard von Adobe. Dieses überarbeitete Design enthält eine aktualisierte Ikonographie, aber die gleiche Funktionalität. Einige Elemente in der Kopfzeile werden jedoch neu positioniert, um sie an andere Adobe-Sites und -Programme anzupassen. |
 
 Hilfe zu den zentralen Schnittstellenkomponenten von [!DNL Experience Cloud] finden Sie im [Handbuch zur Oberfläche und Administration von Experience Cloud](https://experienceleague.adobe.com/de/docs/core-services/interface/experience-cloud) (enthält [!UICONTROL Kundenattribute], [!DNL Experience Cloud Assets] und [!UICONTROL Zielgruppen]).
 
@@ -207,7 +199,7 @@ Erhalten Sie die neuesten Versionsinformationen für [!DNL Adobe Analytics] und 
 
 +++Details
 
-[!DNL Analytics]Veröffentlichungsdatum: **22. Januar 2025**
+[!DNL Analytics] Veröffentlichungsdatum: **2. Januar 2025**
 
 * [!DNL Analytics]-[Versionshinweise](https://experienceleague.adobe.com/de/docs/analytics/release-notes/latest)<!-- [release notes](https://experienceleague-review.corp.adobe.com/docs/analytics/release-notes/latest.html) -->
 
@@ -245,7 +237,7 @@ Erhalten Sie die neusten Versionsinformationen für [!DNL Customer Journey Analy
 
 +++Details
 
-[!DNL Customer Journey Analytics]Veröffentlichungsdatum: **22. Januar 2025**
+[!DNL Customer Journey Analytics] Veröffentlichungsdatum: **2. Januar 2025**
 
 * [!DNL Customer Journey Analytics]-[Versionshinweise](https://experienceleague.adobe.com/de/docs/analytics-platform/using/releases/latest#releases)<!-- [release notes](https://experienceleague-review.corp.adobe.com/docs/analytics-platform/using/releases/latest.html) -->
 
