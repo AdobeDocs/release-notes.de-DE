@@ -6,10 +6,10 @@ last-update: February 2025
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: 9906503870a1994ab141ab535a075aaabb4ce463
+source-git-commit: 749e5ed0a19e73ad9eca189c25b7a71304e2060c
 workflow-type: tm+mt
-source-wordcount: '3666'
-ht-degree: 96%
+source-wordcount: '3696'
+ht-degree: 95%
 
 ---
 
@@ -125,8 +125,9 @@ Informationen zur zentralen [!DNL Experience Cloud]-Komponente der Benutzeroberf
 
 +++Details
 
-| Datum | Funktion | Beschreibung |
+| Datum | Update | Beschreibung |
 | -----------| -----------| ---------- |
+| 6. März 2025 | Rechtsklick auf Menüoption beheben | Navigationsregisterkarten in der Experience Cloud-Kopfzeile ermöglichen jetzt Dropdown-Menüfunktionen mit Rechtsklick im Browser. Damit wurde ein Problem behoben, das in der Februarversion des Spectrum 2-Designsystems eingeführt wurde. |
 | Februar 13 | Spectrum 2 | Der [!DNL Experience Cloud]-Anwendungsrahmen, einschließlich der Kopfzeilenleiste und der Komponenten, auf die über die Kopfzeilenleiste (und die linke Navigationsleiste bei bestimmten Anwendungen) zugegriffen wird, wird auf Spectrum 2 aktualisiert. Spectrum ist der Design-Standard von Adobe. Dieses überarbeitete Design enthält eine aktualisierte Ikonographie, aber die gleiche Funktionalität. Einige Elemente in der Kopfzeile werden jedoch neu positioniert, um sie an andere Adobe-Sites und -Programme anzupassen. |
 
 Hilfe zu den zentralen Schnittstellenkomponenten von [!DNL Experience Cloud] finden Sie im [Handbuch zur Oberfläche und Administration von Experience Cloud](https://experienceleague.adobe.com/de/docs/core-services/interface/experience-cloud) (enthält [!UICONTROL Kundenattribute], [!DNL Experience Cloud Assets] und [!UICONTROL Zielgruppen]).
