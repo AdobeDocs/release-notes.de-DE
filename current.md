@@ -6,10 +6,10 @@ last-update: March 2025
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: 2ee49223680d875489b16b64b541a9e43341f459
+source-git-commit: beb77755fc91c4bede762130f3ca886926d2cf39
 workflow-type: tm+mt
-source-wordcount: '3951'
-ht-degree: 96%
+source-wordcount: '3867'
+ht-degree: 95%
 
 ---
 
@@ -69,10 +69,6 @@ Suchen Sie [Events](https://experienceleague.adobe.com/events?lang=de/) und regi
 +++Ereignisse
 
 * **[!DNL Adobe Summit]** | _The Digital Experience Conference_ | **18. bis 19. März in Las Vegas und online**| Seien Sie dabei und hören Sie Vorträge von Führungskräften der Coca-Cola Company, JPMorganChase, ServiceNow und mehr. |  [Registrieren](https://summit.adobe.com/na/?promoid=G4FRYKWG&amp;mv=other)
-
-* **[!DNL Workfront]** | _Admin 101: Stellen Sie Fragen zu Workfront_ | **25. März** | Neu bei Workfront? Haben Sie eine der vorherigen Admin 101-Sitzungen verpasst? Nehmen Sie an unserer Zusammenfassungssitzung teil, um Fragen zu stellen, Ressourcen und Empfehlungen zu erhalten und andere neue Administratorinnen und Administratoren zu treffen. | [Registrieren](https://events.teams.microsoft.com/event/98217af7-6ba1-423a-a744-817df52b9b1d@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
-
-* **[!DNL Workfront]** | _Lernen: 10 Tipps zum Textmodus in Adobe Workfront_ | **27. März** | Möchten Sie Ihr Wissen zum Reporting mit dem Textmodus erweitern? Dann sind Sie hier richtig! Dieser Workshop bietet eine Einführung in die Grundlagen des Textmodus und den API-Explorer, gefolgt von 10 grundlegenden Tipps in Adobe Workfront. | [Registrieren](https://events.teams.microsoft.com/event/72b8860b-e330-4fcf-ad71-bb3c94265961@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
 * **[!DNL Workfront]** | _Kontakte knüpfen: Workfront Collective_ | **31. März** | Nehmen Sie an unseren monatlichen Workfront Collective-Veranstaltungen teil, die immer montags stattfinden und darauf ausgelegt sind, mit anderen Kundinnen und Kunden in Kontakt zu treten, über Workfront-Funktionen zu sprechen, Ideen auszutauschen und bei einem gemeinsamen Brainstorming Lösungen für gängige Herausforderungen zu finden. | [Registrieren](https://events.teams.microsoft.com/event/384ea292-adf1-41ab-a608-cc6a0ec70988@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
