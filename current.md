@@ -7,9 +7,9 @@ author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
 source-git-commit: beb77755fc91c4bede762130f3ca886926d2cf39
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '3867'
-ht-degree: 95%
+ht-degree: 100%
 
 ---
 
@@ -19,19 +19,19 @@ ht-degree: 95%
 
 <!-- ![Banner](assets/release-notes-header.png) -->
 
-[Experience League](https://experienceleague.adobe.com/de#home) ist Ihre Ressourcenbibliothek, mit der Sie mehr über Experience Cloud und Adobe Enterprise-Anwendungen erfahren können. Anmelden und:
+[Experience League](https://experienceleague.adobe.com/de#home) ist Ihre Ressourcenbibliothek, mit der Sie mehr über Experience Cloud und Unternehmensanwendungen von Adobe erfahren können. Nach der Anmeldung haben Sie folgende Möglichkeiten:
 
-* [Passen Sie Ihr ](https://experienceleague.adobe.com/en/home/profile-settings) an: Helfen Sie uns, Ihre Lernerfahrung anzupassen. Wählen Sie Ihre Rolle, Branche und die Produkte aus, die Sie interessieren.
-* [Durchsuchen und entdecken](https://experienceleague.adobe.com/en/browse): Suchen Sie beliebte Inhalte, neue Tutorials, Dokumentationen, bevorstehende Veranstaltungen und mehr!
-* [Neue Perspektiven](https://experienceleague.adobe.com/en/perspectives): Wir haben eine Vielzahl von Anwendungsfällen und Best Practices aus der Praxis zusammengestellt, die von Ihren Kollegen und Adobe-Produktexperten geschrieben wurden.
-* [Zertifizierung erhalten](https://experienceleague.adobe.com/de/certification-home): Das neue Zertifizierungsportal für Adobe erleichtert die Verbesserung Ihrer Kenntnisse und die Zertifizierung.
-* [Interagieren Sie mit einer Community von Gleich gesinnten](https://experienceleaguecommunities.adobe.com/?profile.language=de): Treten Sie Gruppen bei, treffen Sie unsere Experience League Community Advisors und lernen Sie sogar, wie Sie einer werden.
+* [Anpassen der Lerninhalte](https://experienceleague.adobe.com/de/home/profile-settings): Helfen Sie uns dabei, Ihr Lernerlebnis anzupassen. Wählen Sie Ihre Rolle, Branche und die Produkte aus, die Sie interessieren.
+* [Durchsuchen und Entdecken](https://experienceleague.adobe.com/de/browse): Suchen Sie beliebte Inhalte, neue Tutorials, Dokumentationen, bevorstehende Veranstaltungen und mehr.
+* [Neue Perspektiven](https://experienceleague.adobe.com/de/perspectives): Wir haben eine Vielzahl von realen Anwendungsfällen und Best Practices gesammelt, die von Ihren Kolleginnen und Kollegen sowie von Adobe-Produktexpertinnen und -experten verfasst wurden.
+* [Zertifizierungen](https://experienceleague.adobe.com/de/certification-home): Das neue Adobe Certification Portal bietet eine einfache Möglichkeit, die eigenen Fähigkeiten zu verbessern und eine Zertifizierung zu erlangen.
+* [Interaktion mit einer Community von Gleichgesinnten](https://experienceleaguecommunities.adobe.com/?profile.language=de): Treten Sie Gruppen bei, lernen Sie unsere Experience League Community-Beratenden kennen und erfahren Sie, wie Sie selbst Beraterin oder Berater werden.
 
-Um vierteljährliche E-Mail-Benachrichtigungen über Aktualisierungen auf dieser Seite zu erhalten, abonnieren Sie das [Adobe Priority Product Update](https://www.adobe.com/subscription/priority-product-update.html).
+Wenn Sie vierteljährlich eine E-Mail-Benachrichtigung über Aktualisierungen auf dieser Seite erhalten möchten, abonnieren Sie das [Adobe Priority Product Update](https://www.adobe.com/subscription/priority-product-update.html).
 
-## März 2025
+## März 2025
 
-Letzte Aktualisierung: **Freitag, 13. März 2025**
+Letzte Aktualisierung: **13. März 2025**
 
 Über diese Links finden Sie Versionshinweise zu Programmen, Ereignisse, neue Tutorials und die neuesten Support-Artikel der Wissensdatenbank:
 
@@ -62,11 +62,11 @@ Letzte Aktualisierung: **Freitag, 13. März 2025**
 * [Zertifizierung bei Adobe](https://experienceleague.adobe.com/de/certification-home)
 * [Sicherheitslücken bei Adobe-Produkten](https://helpx.adobe.com/de/security.html)
 
-## Ereignisse auf [!DNL Experience League] {#events}
+## Events auf [!DNL Experience League] {#events}
 
 Suchen Sie [Events](https://experienceleague.adobe.com/events?lang=de/) und registrieren Sie sich für diejenigen, die Sie interessieren.
 
-+++Ereignisse
++++Events
 
 * **[!DNL Adobe Summit]** | _The Digital Experience Conference_ | **18. bis 19. März in Las Vegas und online**| Seien Sie dabei und hören Sie Vorträge von Führungskräften der Coca-Cola Company, JPMorganChase, ServiceNow und mehr. |  [Registrieren](https://summit.adobe.com/na/?promoid=G4FRYKWG&amp;mv=other)
 
@@ -84,9 +84,9 @@ Und vieles mehr! Hier können Sie mehr zu [bevorstehenden Ereignissen](https://e
 
 ## [!DNL Adobe System Status] {#status}
 
-Erfahren Sie mehr über die neuesten Funktionen und Aktualisierungen in [!DNL Adobe System Status].
+Erfahren Sie mehr über die neuesten Funktionen und Aktualisierungen auf [!DNL Adobe System Status].
 
-Keine März-Updates.
+Keine März-Aktualisierungen.
 
 +++Versionshinweise
 
@@ -135,7 +135,7 @@ Neue Tutorials, die für Adobe [!DNL Experience Platform] auf Experience League 
 
 | Veröffentlicht | Programme | Name | Typ | Beschreibung |
 | ----------| ---------- | ---------- | ---------- |---------- |
-| März 2025 | [!DNL Experience Platform] | [Überblick über die Regeln für die Verknüpfung von Identitätsdiagrammen](https://experienceleague.adobe.com/de/docs/platform-learn/tutorials/identities/graph-linking-rules/overview) | Neues Video | Verschaffen Sie sich einen Überblick darüber, wie Datenarchitektinnen und -architekten mit Regeln für die Verknüpfung von Identitätsdiagrammen genaue Kundenprofile sicherstellen und das Reduzieren von Diagrammen verhindern können. |
+| März 2025 | [!DNL Experience Platform] | [Überblick über die Regeln für die Verknüpfung von Identitätsdiagrammen](https://experienceleague.adobe.com/de/docs/platform-learn/tutorials/identities/graph-linking-rules/overview) | Neues Video | Verschaffen Sie sich einen Überblick darüber, wie Datenarchitektinnen und -architekten mit Regeln für die Verknüpfung von Identitätsdiagrammen genaue Kundenprofile sicherstellen und das Reduzieren von Diagrammen verhindern können. |
 
 ### Neue [!DNL Experience Platform]-Support-Wissensdatenbank{#kb-aep}
 
@@ -161,9 +161,9 @@ Hier finden Sie die neuesten Tutorials für [!DNL Real-Time CDP] auf Experience 
 
 | Veröffentlicht | Name | Typ | Beschreibung |
 | ----------| ---------- | ---------- |---------- |
-| März 2025 | [Verbinden mit Zielen](https://experienceleague.adobe.com/de/docs/platform-learn/tutorials/destinations/connecting-to-destinations) | Neues Video | Erfahren Sie, wie Sie Daten von Real-Time CDP an Zielpartner senden und die Verbindungen zu diesen Partnern konfigurieren können. |
-| März 2025 | [Aktivieren von Profilen und Zielgruppen für ein Ziel](https://experienceleague.adobe.com/de/docs/platform-learn/tutorials/destinations/activate-profiles-and-segments-to-a-destination) | Neues Video | Erfahren Sie, wie Sie Profile und Zielgruppen für Ziele in [!DNL Real-Time CDP] aktivieren. |
-| März 2025 | [Erstellen von Zielen und Aktivieren von Daten](https://experienceleague.adobe.com/de/docs/platform-learn/tutorials/destinations/create-destinations-and-activate-data) | Neues Video | Erfahren Sie, wie Sie in [!DNL Real-Time Customer Data Platform] Ziele erstellen und Daten aktivieren. |
+| März 2025 | [Verbinden mit Zielen](https://experienceleague.adobe.com/de/docs/platform-learn/tutorials/destinations/connecting-to-destinations) | Neues Video | Erfahren Sie, wie Sie Daten von Real-Time CDP an Zielpartner senden und die Verbindungen zu diesen Partnern konfigurieren können. |
+| März 2025 | [Aktivieren von Profilen und Zielgruppen für ein Ziel](https://experienceleague.adobe.com/de/docs/platform-learn/tutorials/destinations/activate-profiles-and-segments-to-a-destination) | Neues Video | Erfahren Sie, wie Sie Profile und Zielgruppen für Ziele in [!DNL Real-Time CDP] aktivieren. |
+| März 2025 | [Erstellen von Zielen und Aktivieren von Daten](https://experienceleague.adobe.com/de/docs/platform-learn/tutorials/destinations/create-destinations-and-activate-data) | Neues Video | Erfahren Sie, wie Sie in [!DNL Real-Time Customer Data Platform] Ziele erstellen und Daten aktivieren. |
 
 Weitere Informationen finden Sie unter:
 
@@ -209,7 +209,7 @@ Neue Tutorials, die für [!DNL Customer Journey Analytics] veröffentlicht wurde
 
 | Veröffentlicht | Name | Typ | Beschreibung |
 | -----------| ---------- | ---------- | ---------- |
-| März 2025 | [Verwenden von geführten Analysen in Analysis Workspace](https://experienceleague.adobe.com/de/docs/customer-journey-analytics-learn/tutorials/guided-analysis/guided-analysis-in-workspace) | Neues Video | Verwenden Sie die Funktion „Geführte Analyse“ in Analysis Workspace, um mithilfe geführter Workflows hochwertige Datenerkenntnisse selbst bereitzustellen. |
+| März 2025 | [Verwenden von geführten Analysen in Analysis Workspace](https://experienceleague.adobe.com/de/docs/customer-journey-analytics-learn/tutorials/guided-analysis/guided-analysis-in-workspace) | Neues Video | Verwenden Sie die Funktion „Geführte Analyse“ in Analysis Workspace, um mithilfe geführter Workflows hochwertige Datenerkenntnisse selbst bereitzustellen. |
 
 +++
 
@@ -254,15 +254,15 @@ Neue Tutorials, die für [!DNL Experience Manager] auf [!DNL Experience Manager]
 
 | Veröffentlicht | Programme | Name | Typ | Beschreibung |
 | ----------| ---------- | ---------- | ---------- |---------- |
-| März 2025 | [!DNL Experience Manager as a Cloud Service] | [Implementieren von Pipeline-freien URL-Umleitungen](https://experienceleague.adobe.com/de/docs/experience-manager-learn/foundation/administration/implementing-pipeline-free-url-redirects) | Neues Video | Erfahren Sie, wie Sie Pipeline-freie URL-Umleitungen in [!DNL AEM as a Cloud Service] implementieren, damit das Marketing-Team die Umleitungen ohne Entwicklerunterstützung verwalten kann. |
-| März 2025 | [!DNL Experience Manager Sites] | [AEM Eventing](https://experienceleague.adobe.com/de/docs/experience-manager-learn/cloud-service/aem-eventing/overview) | Neues Video | Erfahren Sie mehr über AEM Eventing, worum es sich handelt, warum und wann es verwendet wird und sehen Sie sich Beispiele dafür an. |
-| März 2025 | [!DNL AEM Headless as a Cloud Service] | [Next.js-Programm](https://experienceleague.adobe.com/de/docs/experience-manager-learn/getting-started-with-aem-headless/how-to/example-apps/next-js) | Neues Video | Beispielanwendungen eignen sich hervorragend, um die Headless-Funktionen von Adobe [!DNL Experience Manager] (AEM) kennenzulernen. Diese `Next.js`-Anwendung zeigt, wie Sie Inhalte abfragen können, indem Sie mithilfe der GraphQL-APIs von AEM persistente Abfragen durchführen. |
-| März 2025 | [!DNL Experience Manager Sites] | [Entwickeln eines Blocks mit Optionen](https://experienceleague.adobe.com/de/docs/experience-manager-learn/sites/edge-delivery-services/developing/universal-editor/how-to/block-options) | Neues Video | Erfahren Sie, wie Sie einen Block mit mehreren Anzeigeoptionen erstellen. |
-| März 2025 | [!DNL Experience Manager Sites] | [Entwickeln einer Kopf- und Fußzeile](https://experienceleague.adobe.com/de/docs/experience-manager-learn/sites/edge-delivery-services/developing/universal-editor/how-to/header-and-footer) | Neues Video | Erfahren Sie, wie Kopf- und Fußzeilen in [!DNL Edge Delivery Services] und [!DNL Universal Editor] entwickelt werden. |
-| März 2025 | [!DNL Experience Manager as a Cloud Service] | [OpenAPI-basierte AEM-APIs](https://experienceleague.adobe.com/de/docs/experience-manager-learn/cloud-service/aem-apis/openapis/overview) | Neues Video | Erfahren Sie mehr über die OpenAPI-basierten AEM-APIs, einschließlich Authentifizierungsunterstützung, Schlüsselkonzepten und Zugriff auf Adobe-APIs. |
-| März 2025 | [!DNL Experience Manager as a Cloud Service] | [Verwalten von API-Anmeldeinformationen und -Produktprofilen](https://experienceleague.adobe.com/de/docs/experience-manager-learn/cloud-service/aem-apis/openapis/how-to/credentials-and-product-profile-management) | Neues Video | Erfahren Sie, wie Sie [!UICONTROL Anmeldeinformationen] und [!UICONTROL Produktprofile] für AEM-APIs verwalten. |
-| März 2025 | [!DNL Experience Manager as a Cloud Service] | [Einrichten von OpenAPI-basierten AEM-APIs](https://experienceleague.adobe.com/de/docs/experience-manager-learn/cloud-service/aem-apis/openapis/setup) | Neues Video | Erfahren Sie, wie Sie Ihre [!DNL AEM as a Cloud Service]-Umgebung einrichten, um Zugriff auf die OpenAPI-basierten AEM-APIs zu ermöglichen. |
-| März 2025 | [!DNL Experience Manager as a Cloud Service] | [Verwalten der Berechtigungen für die Benutzergruppen „Produktprofil“ und „Services“](https://experienceleague.adobe.com/de/docs/experience-manager-learn/cloud-service/aem-apis/openapis/how-to/services-user-group-permission-management) | Neues Video | Erfahren Sie, wie Sie Berechtigungen für die Benutzergruppen „Produktprofil“ und „Services“ in AEM as a Cloud Service verwalten können. |
+| März 2025 | [!DNL Experience Manager as a Cloud Service] | [Implementieren von Pipeline-freien URL-Umleitungen](https://experienceleague.adobe.com/de/docs/experience-manager-learn/foundation/administration/implementing-pipeline-free-url-redirects) | Neues Video | Erfahren Sie, wie Sie Pipeline-freie URL-Umleitungen in [!DNL AEM as a Cloud Service] implementieren, damit das Marketing-Team die Umleitungen ohne Entwicklerunterstützung verwalten kann. |
+| März 2025 | [!DNL Experience Manager Sites] | [AEM Eventing](https://experienceleague.adobe.com/de/docs/experience-manager-learn/cloud-service/aem-eventing/overview) | Neues Video | Erfahren Sie mehr über AEM Eventing, worum es sich handelt, warum und wann es verwendet wird und sehen Sie sich Beispiele dafür an. |
+| März 2025 | [!DNL AEM Headless as a Cloud Service] | [Next.js-Programm](https://experienceleague.adobe.com/de/docs/experience-manager-learn/getting-started-with-aem-headless/how-to/example-apps/next-js) | Neues Video | Beispielanwendungen eignen sich hervorragend, um die Headless-Funktionen von Adobe [!DNL Experience Manager] (AEM) kennenzulernen. Diese `Next.js`-Anwendung zeigt, wie Sie Inhalte abfragen können, indem Sie mithilfe der GraphQL-APIs von AEM persistente Abfragen durchführen. |
+| März 2025 | [!DNL Experience Manager Sites] | [Entwickeln eines Blocks mit Optionen](https://experienceleague.adobe.com/de/docs/experience-manager-learn/sites/edge-delivery-services/developing/universal-editor/how-to/block-options) | Neues Video | Erfahren Sie, wie Sie einen Block mit mehreren Anzeigeoptionen erstellen. |
+| März 2025 | [!DNL Experience Manager Sites] | [Entwickeln einer Kopf- und Fußzeile](https://experienceleague.adobe.com/de/docs/experience-manager-learn/sites/edge-delivery-services/developing/universal-editor/how-to/header-and-footer) | Neues Video | Erfahren Sie, wie Kopf- und Fußzeilen in [!DNL Edge Delivery Services] und [!DNL Universal Editor] entwickelt werden. |
+| März 2025 | [!DNL Experience Manager as a Cloud Service] | [OpenAPI-basierte AEM-APIs](https://experienceleague.adobe.com/de/docs/experience-manager-learn/cloud-service/aem-apis/openapis/overview) | Neues Video | Erfahren Sie mehr über die OpenAPI-basierten AEM-APIs, einschließlich Authentifizierungsunterstützung, Schlüsselkonzepten und Zugriff auf Adobe-APIs. |
+| März 2025 | [!DNL Experience Manager as a Cloud Service] | [Verwalten von API-Anmeldeinformationen und -Produktprofilen](https://experienceleague.adobe.com/de/docs/experience-manager-learn/cloud-service/aem-apis/openapis/how-to/credentials-and-product-profile-management) | Neues Video | Erfahren Sie, wie Sie [!UICONTROL Anmeldeinformationen] und [!UICONTROL Produktprofile] für AEM-APIs verwalten. |
+| März 2025 | [!DNL Experience Manager as a Cloud Service] | [Einrichten von OpenAPI-basierten AEM-APIs](https://experienceleague.adobe.com/de/docs/experience-manager-learn/cloud-service/aem-apis/openapis/setup) | Neues Video | Erfahren Sie, wie Sie Ihre [!DNL AEM as a Cloud Service]-Umgebung einrichten, um Zugriff auf die OpenAPI-basierten AEM-APIs zu ermöglichen. |
+| März 2025 | [!DNL Experience Manager as a Cloud Service] | [Verwalten der Berechtigungen für die Benutzergruppen „Produktprofil“ und „Services“](https://experienceleague.adobe.com/de/docs/experience-manager-learn/cloud-service/aem-apis/openapis/how-to/services-user-group-permission-management) | Neues Video | Erfahren Sie, wie Sie Berechtigungen für die Benutzergruppen „Produktprofil“ und „Services“ in AEM as a Cloud Service verwalten können. |
 
 ### Neue [!DNL Experience Manager]-Support-Wissensdatenbank{#kb-aem}
 
@@ -401,8 +401,8 @@ Neue Tutorials, die für Adobe [!DNL Journey Optimizer] auf Experience League ve
 
 | Veröffentlicht | Name | Typ | Beschreibung |
 | -----------| ---------- | ---------- | ---------- |
-| März 2025 | [Importieren und Aktivieren einer Zielgruppe durch Hochladen einer CSV-Datei](https://experienceleague.adobe.com/de/docs/journey-optimizer-learn/tutorials/profiles-audiences-subscriptions/import-and-activate-an-audience-by-uploading-a-csv-file) | Neues Video | Erfahren Sie, wie Sie eine Zielgruppe effizient durch Hochladen einer CSV-Datei importieren und aktivieren können. Erfahren Sie, wie Sie Inhalte mit Anreicherungsattributen aus der CSV-Datei personalisieren, um ein maßgeschneidertes Erlebnis für die Zielgruppe zu gewährleisten. |
-| März 2025 | [Arbeiten mit Regelsätzen](https://experienceleague.adobe.com/de/docs/journey-optimizer-learn/tutorials/configuration/business-rules/work-with-rule-sets) | Neues Video | Erfahren Sie, wie Sie einen Regelsatz zur Frequenzbegrenzung für Kundschaft erstellen, um die Anzahl der an die Kundschaft gesendeten Mitteilungen je nach Kommunikationstyp zu begrenzen. |
+| März 2025 | [Importieren und Aktivieren einer Zielgruppe durch Hochladen einer CSV-Datei](https://experienceleague.adobe.com/de/docs/journey-optimizer-learn/tutorials/profiles-audiences-subscriptions/import-and-activate-an-audience-by-uploading-a-csv-file) | Neues Video | Erfahren Sie, wie Sie eine Zielgruppe effizient durch Hochladen einer CSV-Datei importieren und aktivieren können. Erfahren Sie, wie Sie Inhalte mit Anreicherungsattributen aus der CSV-Datei personalisieren, um ein maßgeschneidertes Erlebnis für die Zielgruppe zu gewährleisten. |
+| März 2025 | [Arbeiten mit Regelsätzen](https://experienceleague.adobe.com/de/docs/journey-optimizer-learn/tutorials/configuration/business-rules/work-with-rule-sets) | Neues Video | Erfahren Sie, wie Sie einen Regelsatz zur Frequenzbegrenzung für Kundschaft erstellen, um die Anzahl der an die Kundschaft gesendeten Mitteilungen je nach Kommunikationstyp zu begrenzen. |
 
 ### Zusätzliche Ressourcen zu [!DNL Journey Optimizer]
 
@@ -449,7 +449,7 @@ Neue Tutorials, die für Adobe Marketo veröffentlicht wurden.
 
 | Veröffentlicht | Name | Typ | Beschreibung |
 | -----------| ---------- | ---------- | ---------- |
-| März 2025 | [Best Practices zur Live-Chat-Implementierung](https://experienceleague.adobe.com/de/docs/marketo-learn/tutorials/dynamic-chat/live-chat-best-practices) | Neues Video | Erfahren Sie mehr über die Best Practices, die bei der Implementierung der Live-Chat-Funktion in Dynamic Chat befolgt werden sollten. |
+| März 2025 | [Best Practices zur Live-Chat-Implementierung](https://experienceleague.adobe.com/de/docs/marketo-learn/tutorials/dynamic-chat/live-chat-best-practices) | Neues Video | Erfahren Sie mehr über die Best Practices, die bei der Implementierung der Live-Chat-Funktion in Dynamic Chat befolgt werden sollten. |
 
 Die neueste Produktdokumentation finden Sie auf der Startseite der [Marketo-Produktdokumentation](https://experienceleague.adobe.com/de/docs/marketo/using/home)
 
@@ -483,16 +483,16 @@ Neue [!DNL Workfront]-Tutorials und -Ereignisse auf Experience League.
 
 | Veröffentlicht | Name | Typ | Beschreibung |
 | -----------| ---------- | ---------- | ---------- |
-| März 2025 | [Erstellen und Verwalten von Tabellenansichten](https://experienceleague.adobe.com/de/docs/workfront-learn/tutorials-workfront/workfront-planning/create-and-manage-table-views) | Neues Video | Erfahren Sie, wie Sie in der Adobe Workfront-Planung Tabellenansichten vom Eintragstyp erstellen, verwalten und anpassen, um die Projektorganisation und Zusammenarbeit zu verbessern. |
-| März 2025 | [Erstellen und Verwalten eines Eintragstyps](https://experienceleague.adobe.com/de/docs/workfront-learn/tutorials-workfront/workfront-planning/create-and-manage-a-record-type) | Neues Video | Erfahren Sie, wie Sie in der Adobe Workfront-Planung benutzerdefinierte Eintragstypen erstellen, importieren und verwalten, um arbeitsbezogene Elemente effizient zu organisieren und zu verfolgen. |
-| März 2025 | [Hinzufügen der Planung zu Ihrer Instanz](https://experienceleague.adobe.com/de/docs/workfront-learn/tutorials-workfront/workfront-planning/add-planning-to-your-instance) | Neues Video | Erfahren Sie, welche Anforderungen erfüllt sein müssen, um das Workfront-Planungs-Tool hinzuzufügen und es für Benutzende in Ihrer Instanz sichtbar zu machen. |
-| März 2025 | [Erstellen eines Arbeitsbereichs](https://experienceleague.adobe.com/de/docs/workfront-learn/tutorials-workfront/workfront-planning/create-a-workspace) | Neues Video | Erfahren Sie, wie Sie in der Adobe Workfront-Planung Arbeitsbereiche erstellen. |
-| März 2025 | [Grundlegendes zum Portfolio-Optimizer](https://experienceleague.adobe.com/de/docs/workfront-learn/tutorials-workfront/manage-work/portfolios/prioritize-and-manage-work-with-portfolios) | Neues Video | Erfahren Sie, wie Sie mit dem Portfolio-Optimizer Projekte innerhalb eines Portfolios vergleichen und priorisieren können. |
-| März 2025 | [Suchen und Verwalten von Anfragen](https://experienceleague.adobe.com/de/docs/workfront-learn/tutorials-workfront/manage-work/issues-requests/find-requests) | Neues Video | Erfahren Sie, wie Sie Filter verwenden, Team-Zuweisungen verwalten, benutzerdefinierte Berichte und Dashboards erstellen und die Bedeutung von _meine_ in verschiedenen Kontexten klären, um eine effektive Anfrageverwaltung zu ermöglichen. |
-| März 2025 | [Erstellen einer Projektvorlage und Informationen zu Blueprints](https://experienceleague.adobe.com/de/docs/workfront-learn/tutorials-workfront/manage-work/create-and-manage-project-templates/create-a-project-template) | Neues Video | Erfahren Sie, wie Sie eine Projektvorlage von Grund auf neu oder aus einem bestehenden Projekt erstellen, und erfahren Sie, wie Sie mit Blueprints auf eine Vielzahl nützlicher Projektvorlagen zugreifen können, die von Workfront-Fachleuten erstellt wurden. |
-| März 2025 | [Prüfen und Genehmigen eines Korrekturabzugs](https://experienceleague.adobe.com/de/docs/workfront-learn/tutorials-workfront/workfront-proof/review-and-approve-work-for-proof/review-and-approve-a-proof) | Neues Video | Erfahren Sie, wie Sie in Workfront auf einen Korrekturabzug zugreifen und diesen kommentieren, mithilfe von Markup die erforderlichen Änderungen angeben, auf Kommentare zu Korrekturabzügen antworten und eine Entscheidung zu einem Korrekturabzug treffen. |
-| März 2025 | [Grundlegendes zu Projektzeitplänen](https://experienceleague.adobe.com/de/docs/workfront-learn/tutorials-workfront/manage-work/project-timelines/understand-project-timelines) | Neues Video | Erfahren Sie, wie Sie Aufgaben zuweisen, Gantt-Diagramme und Funktionen für kritische Pfade verwenden, Projekte über Ansichten überwachen, Aufgaben effizient planen und Einschränkungen anwenden, um eine optimale Projektplanung zu ermöglichen. |
-| März 2025 | [Grundlegendes zum neuen Filtererlebnis](https://experienceleague.adobe.com/de/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/understand-the-new-filter-experience) | Neues Video | Erfahren Sie, wie Sie das neue Filtererlebnis aktivieren und deaktivieren sowie Filter erstellen, bearbeiten und stapeln. |
+| März 2025 | [Erstellen und Verwalten von Tabellenansichten](https://experienceleague.adobe.com/de/docs/workfront-learn/tutorials-workfront/workfront-planning/create-and-manage-table-views) | Neues Video | Erfahren Sie, wie Sie in der Adobe Workfront-Planung Tabellenansichten vom Eintragstyp erstellen, verwalten und anpassen, um die Projektorganisation und Zusammenarbeit zu verbessern. |
+| März 2025 | [Erstellen und Verwalten eines Eintragstyps](https://experienceleague.adobe.com/de/docs/workfront-learn/tutorials-workfront/workfront-planning/create-and-manage-a-record-type) | Neues Video | Erfahren Sie, wie Sie in der Adobe Workfront-Planung benutzerdefinierte Eintragstypen erstellen, importieren und verwalten, um arbeitsbezogene Elemente effizient zu organisieren und zu verfolgen. |
+| März 2025 | [Hinzufügen der Planung zu Ihrer Instanz](https://experienceleague.adobe.com/de/docs/workfront-learn/tutorials-workfront/workfront-planning/add-planning-to-your-instance) | Neues Video | Erfahren Sie, welche Anforderungen erfüllt sein müssen, um das Workfront-Planungs-Tool hinzuzufügen und es für Benutzende in Ihrer Instanz sichtbar zu machen. |
+| März 2025 | [Erstellen eines Arbeitsbereichs](https://experienceleague.adobe.com/de/docs/workfront-learn/tutorials-workfront/workfront-planning/create-a-workspace) | Neues Video | Erfahren Sie, wie Sie in der Adobe Workfront-Planung Arbeitsbereiche erstellen. |
+| März 2025 | [Grundlegendes zum Portfolio-Optimizer](https://experienceleague.adobe.com/de/docs/workfront-learn/tutorials-workfront/manage-work/portfolios/prioritize-and-manage-work-with-portfolios) | Neues Video | Erfahren Sie, wie Sie mit dem Portfolio-Optimizer Projekte innerhalb eines Portfolios vergleichen und priorisieren können. |
+| März 2025 | [Suchen und Verwalten von Anfragen](https://experienceleague.adobe.com/de/docs/workfront-learn/tutorials-workfront/manage-work/issues-requests/find-requests) | Neues Video | Erfahren Sie, wie Sie Filter verwenden, Team-Zuweisungen verwalten, benutzerdefinierte Berichte und Dashboards erstellen und die Bedeutung von _meine_ in verschiedenen Kontexten klären, um eine effektive Anfrageverwaltung zu ermöglichen. |
+| März 2025 | [Erstellen einer Projektvorlage und Informationen zu Blueprints](https://experienceleague.adobe.com/de/docs/workfront-learn/tutorials-workfront/manage-work/create-and-manage-project-templates/create-a-project-template) | Neues Video | Erfahren Sie, wie Sie eine Projektvorlage von Grund auf neu oder aus einem bestehenden Projekt erstellen, und erfahren Sie, wie Sie mit Blueprints auf eine Vielzahl nützlicher Projektvorlagen zugreifen können, die von Workfront-Fachleuten erstellt wurden. |
+| März 2025 | [Prüfen und Genehmigen eines Korrekturabzugs](https://experienceleague.adobe.com/de/docs/workfront-learn/tutorials-workfront/workfront-proof/review-and-approve-work-for-proof/review-and-approve-a-proof) | Neues Video | Erfahren Sie, wie Sie in Workfront auf einen Korrekturabzug zugreifen und diesen kommentieren, mithilfe von Markup die erforderlichen Änderungen angeben, auf Kommentare zu Korrekturabzügen antworten und eine Entscheidung zu einem Korrekturabzug treffen. |
+| März 2025 | [Grundlegendes zu Projektzeitplänen](https://experienceleague.adobe.com/de/docs/workfront-learn/tutorials-workfront/manage-work/project-timelines/understand-project-timelines) | Neues Video | Erfahren Sie, wie Sie Aufgaben zuweisen, Gantt-Diagramme und Funktionen für kritische Pfade verwenden, Projekte über Ansichten überwachen, Aufgaben effizient planen und Einschränkungen anwenden, um eine optimale Projektplanung zu ermöglichen. |
+| März 2025 | [Grundlegendes zum neuen Filtererlebnis](https://experienceleague.adobe.com/de/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/understand-the-new-filter-experience) | Neues Video | Erfahren Sie, wie Sie das neue Filtererlebnis aktivieren und deaktivieren sowie Filter erstellen, bearbeiten und stapeln. |
 
 <!--
 ### New [!DNL Workfront] support knowledge base
