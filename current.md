@@ -6,10 +6,10 @@ last-update: March 2025
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: beb77755fc91c4bede762130f3ca886926d2cf39
-workflow-type: ht
-source-wordcount: '3867'
-ht-degree: 100%
+source-git-commit: 39d745e342a21c45ac6d4a053e26b953e2c95cc8
+workflow-type: tm+mt
+source-wordcount: '3879'
+ht-degree: 99%
 
 ---
 
@@ -473,6 +473,12 @@ Erfahren Sie mehr über die neuesten Versionshinweise für [!DNL Adobe Workfront
 
 ### [!DNL Adobe Workfront]-Updates
 
+Neueste Version:
+
+* [Versionsübersicht für das zweite Quartal 2025](https://experienceleague.adobe.com/en/docs/workfront/using/product-announcements/product-releases/release-25-q2/25-q2-release-overview)
+
+Für alle Versionsinformationen:
+
 * Informationen zur Versionsplanung und die Versionshinweise für [!DNL Workfront]. finden Sie auf der Seite [Adobe [!DNL Workfront] -Produktversionen](https://experienceleague.adobe.com/de/docs/workfront/using/product-announcements/product-releases/product-releases)
 
 * Die neuesten Informationen zu Fusion finden Sie in der [Übersicht zur Adobe [!DNL Workfront] Fusion-Versionsaktivität](https://experienceleague.adobe.com/de/docs/workfront-fusion/using/fusion-release-activity/fusion-release-activity).
@@ -555,7 +561,7 @@ Siehe [Neue Funktionen in [!DNL Advertising DSP]](https://experienceleague.adobe
 
 ### Neue Funktionen in [!DNL Advertising Search, Social, & Commerce] {#advertising-search}
 
-&#x200B;5. Dezember 2024
+5. Dezember 2024
 
 Siehe [Neue Funktionen in [!DNL Advertising Search, Social, & Commerce]](https://experienceleague.adobe.com/de/docs/advertising/search-social-commerce/home)
 
