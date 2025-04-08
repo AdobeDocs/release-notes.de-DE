@@ -6,9 +6,9 @@ last-update: March 2025
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: 39d745e342a21c45ac6d4a053e26b953e2c95cc8
+source-git-commit: d895210dc6c24a5e5230f60987c125a2d8ba0bfb
 workflow-type: tm+mt
-source-wordcount: '3879'
+source-wordcount: '3746'
 ht-degree: 99%
 
 ---
@@ -31,11 +31,9 @@ Wenn Sie vierteljährlich eine E-Mail-Benachrichtigung über Aktualisierungen au
 
 ## März 2025
 
-Letzte Aktualisierung: **13. März 2025**
-
 Über diese Links finden Sie Versionshinweise zu Programmen, Ereignisse, neue Tutorials und die neuesten Support-Artikel der Wissensdatenbank:
 
-* [[!DNL Experience League] -Ereignisse und -Aktualisierungen](#events)
+* [[!DNL Experience League] Ereignisse und Updates](#events) (aktualisiert **8. April**)
 * [[!DNL Adobe System Status]](#status)
 * [[!DNL Adobe Experience Cloud] – zentrale Benutzeroberfläche und Verwaltung](#ecloud)
 * [[!DNL Adobe Experience Platform]](#platform)
@@ -68,17 +66,9 @@ Suchen Sie [Events](https://experienceleague.adobe.com/events?lang=de/) und regi
 
 +++Events
 
-* **[!DNL Adobe Summit]** | _The Digital Experience Conference_ | **18. bis 19. März in Las Vegas und online**| Seien Sie dabei und hören Sie Vorträge von Führungskräften der Coca-Cola Company, JPMorganChase, ServiceNow und mehr. |  [Registrieren](https://summit.adobe.com/na/?promoid=G4FRYKWG&amp;mv=other)
-
-* **[!DNL Workfront]** | _Kontakte knüpfen: Workfront Collective_ | **31. März** | Nehmen Sie an unseren monatlichen Workfront Collective-Veranstaltungen teil, die immer montags stattfinden und darauf ausgelegt sind, mit anderen Kundinnen und Kunden in Kontakt zu treten, über Workfront-Funktionen zu sprechen, Ideen auszutauschen und bei einem gemeinsamen Brainstorming Lösungen für gängige Herausforderungen zu finden. | [Registrieren](https://events.teams.microsoft.com/event/384ea292-adf1-41ab-a608-cc6a0ec70988@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
-
-* **[!DNL Target]** | _Personalisierung im benötigten Umfang – Einblicke, Daten und Wirkung_ | **1. April** | Adobe Target-Innovationen, einschließlich [!DNL Gen AI], und Best Practices für KI-gestützte Personalisierung und Experimente im benötigten Umfang. | [Registrieren](https://event.adobe.com/adobetargetmaturitywebinars03)
-
-* **[!DNL Experience Manager, Experience Manager Assets, Experience Manager Forms, Experience Manager Sites, and Workfront]** | _Die perfekte Kombination: Ein neues Zeitalter der Zusammenarbeit mit AEM und Workfront_ | **2. April** | Erfahren Sie, wie Adobe Experience Manager und Workfront integriert werden können, um Teams dabei zu unterstützen, ohne die üblichen Engpässe von der Idee zur Bereitstellung zu gelangen. Dabei wird sichergestellt, dass Inhalte gut organisiert sind, zur Marke passen und schneller live geschaltet werden können. | [Registrieren](https://adobeevents.adobeconnect.com/eaqjw1zixw1f/event/registration.html?campaign-id=ExL)
-
 * **[!DNL Analytics]** | _Datenverlust: Vorteile der Migration von einem alten System zum Web SDK_ | **10. April** | Seien Sie dabei, wenn uns Arindam Agarwal, Technical Advisor bei Adobe, durch die Vorteile der Implementierung des Adobe Web SDK führt. Arindam wird einen detaillierten Überblick geben und während der Fragerunde live Fragen beantworten. Registrieren Sie sich noch heute! | [Registrieren](https://adobeevents.adobeconnect.com/ev85zdg37u8w/event/registration.html?campaign-id=ExL)
 
-Und vieles mehr! Hier können Sie mehr zu [bevorstehenden Ereignissen](https://experienceleague.adobe.com/events?lang=de/) erfahren oder die [Aufzeichnungen von vergangenen Veranstaltungen](https://experienceleague.adobe.com/de/docs/events/experience-league-recorded-events/overview) auf Experience League durchsuchen.
+Hier können Sie mehr zu [bevorstehenden Ereignissen](https://experienceleague.adobe.com/events?lang=de/) erfahren oder die [Aufzeichnungen von vergangenen Veranstaltungen](https://experienceleague.adobe.com/de/docs/events/experience-league-recorded-events/overview) auf Experience League durchsuchen.
 
 +++
 
