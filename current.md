@@ -6,9 +6,9 @@ last-update: April 2025
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: 461a76bce5aeb1da20b613af4dccbc0ebf1383e0
+source-git-commit: 65080572140d4349dd797cdee32041a5ec0abddc
 workflow-type: tm+mt
-source-wordcount: '4065'
+source-wordcount: '4069'
 ht-degree: 37%
 
 ---
@@ -30,6 +30,8 @@ Auf dieser Seite finden Sie anwendungsspezifische Versionshinweise, bevorstehend
 Um eine monatliche E-Mail-Benachrichtigung über Aktualisierungen auf dieser Seite zu erhalten, abonnieren Sie das [Adobe Priority Product Update](https://www.adobe.com/subscription/priority-product-update.html).
 
 Aktualisiert **am Donnerstag, 16. April 2025**
+
++++Alle Produkte anzeigen
 
 * [[!DNL Experience League] Ereignisse und Updates](#events) (aktualisiert **15.**)
 * [[!DNL Adobe System Status]](#status)
@@ -58,11 +60,13 @@ Aktualisiert **am Donnerstag, 16. April 2025**
 * [Zertifizierung bei Adobe](https://experienceleague.adobe.com/de/certification-home)
 * [Sicherheitslücken bei Adobe-Produkten](https://helpx.adobe.com/de/security.html)
 
++++
+
 ## Events auf [!DNL Experience League] {#events}
 
 Suchen Sie [Events](https://experienceleague.adobe.com/en/events) und registrieren Sie sich für diejenigen, die Sie interessieren.
 
-+++Events
++++Kommende Events
 
 * **[!DNL Marketo]** | _Marketo und Mokkas: Prüfen einer geerbten oder aktuellen Instanz_ | **17.** | Haben Sie kürzlich eine Marketo-Instanz geerbt? Oder möchten Sie vielleicht Ihre aktuelle Instanz regelmäßig überprüfen, um ihr Potenzial zu maximieren? Nehmen Sie an diesem Marketo- und Mokkas-Webinar mit unseren Adobe Business Advisors, Cynthia Chang und Carly Gaver, teil, in dem es darum geht, wie Sie einen detaillierten Audit durchführen können, um den aktuellen Status Ihrer Instanz zu verstehen. | [Registrieren](https://events-emea5.adobeconnect.com/content/adobeconnect/43/5415868397/en/events/event/shared/5746113037/event_landing.html)
 
