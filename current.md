@@ -6,9 +6,9 @@ last-update: April 2025
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: 65080572140d4349dd797cdee32041a5ec0abddc
+source-git-commit: 4c6d4a25f4dba2d88fc986eab08b34d7d9a4fa97
 workflow-type: tm+mt
-source-wordcount: '4069'
+source-wordcount: '4067'
 ht-degree: 37%
 
 ---
@@ -96,8 +96,8 @@ Veröffentlichungsdatum: **20. März 2025**
 
 | Funktion | Beschreibung |
 | ------- | ------- |
-| **Virtual Assistant - Betaversion** | <ul><li>Virtual Assistance ist eine Funktion, mit der [!DNL Adobe Status] Kunden im Internet und auf Mobilgeräten Antworten auf ihre Fragen erhalten und schnelle Aktionen durchführen können, ohne die Startseite verlassen zu müssen. Es kann als ein Ort dienen, an dem sie alle ihre Abfragen lösen können. Wenn Sie an der Betaversion für Kunden teilnehmen möchten, senden Sie eine E-Mail an [statuscom-adobe-support@adobe.com](mailto:statuscom-adobe-support@adobe.com). </li></ul> |
-| **Neue Hilfeseite zum Ereignisglossar** | <ul><li>Eine spezielle Hilfeseite, die [!DNL Adobe Status] Benutzer zu allen Ereignistypen, Symbolen und deren Status im Detail führt, damit die Navigation auf der Website erleichtert wird.</li><li>Adobe-Statusübersichtsseite > Hilfemenü enthält ein neues Menüelement (Ereignisglossar), das auf diese neue Seite verweist.</li><li>Jede der Adobe-Oberflächen, die auf [!DNL Adobe Status] verweisen, kann Links zur neuen Hilfeseite hinzufügen.</li></ul> |
+| **Virtual Assistant - Betaversion** | <ul><li>Virtual Assistant ist eine Funktion, mit der Status-Kunden im Internet und auf Mobilgeräten Antworten auf ihre Fragen erhalten und schnelle Aktionen durchführen können, ohne die Startseite verlassen zu müssen. Es kann als zentraler Ort dienen, um alle Abfragen aufzulösen. Wenn Sie an der Betaversion für Kunden teilnehmen möchten, senden Sie eine E-Mail an [statuscom-adobe-support@adobe.com](mailto:statuscom-adobe-support@adobe.com). </li></ul> |
+| **Neues Glossar für Veranstaltungen** | <ul><li>Eine spezielle Hilfeseite, die [!DNL Adobe Status] Benutzer zu allen Ereignistypen, Symbolen und deren Status im Detail führt, damit die Navigation auf der Website erleichtert wird.</li><li>Adobe-Statusübersichtsseite > Hilfemenü enthält ein neues Menüelement (Ereignisglossar), das auf diese neue Seite verweist.</li><li>Jede der Adobe-Oberflächen, die auf [!DNL Adobe Status] verweisen, kann Links zur neuen Hilfeseite hinzufügen.</li></ul> |
 | **Fehlerbehebungen und Verbesserungen** | <ul><li>Slack-Benachrichtigungen - Die Erinnerungsnachricht wird wie geplant angezeigt</li><li>Nicht mehr verwendete Produktereignisse sollten nicht auf der Übersichtsseite angezeigt werden.</li><li>_Geschlossen_ > _Abgelehnter CSO_ Aktualisierungsnachricht und -benachrichtigungen werden nicht gesendet</li><li>Status-Webkopfzeile und -Fußzeile, deren Laden bei Aktualisierung lange dauert</li><li>Das Status-Lokalisierungsmenü in der Fußzeile ist beschädigt.</li></ul> |
 
 Frühere Versionshinweise für [!DNL Adobe System Status]:
