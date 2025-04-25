@@ -6,10 +6,10 @@ last-update: April 2025
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: dffaee650ea54de990c60a8e5bec09e4eb61f941
+source-git-commit: af9bda242f4ea74b71a8d42ca8669124f6e2cf13
 workflow-type: tm+mt
-source-wordcount: '4065'
-ht-degree: 37%
+source-wordcount: '3833'
+ht-degree: 39%
 
 ---
 
@@ -29,7 +29,7 @@ Auf dieser Seite finden Sie anwendungsspezifische Versionshinweise, bevorstehend
 
 Um eine monatliche E-Mail-Benachrichtigung über Aktualisierungen auf dieser Seite zu erhalten, abonnieren Sie das [Adobe Priority Product Update](https://www.adobe.com/subscription/priority-product-update.html).
 
-**Aktualisiert am 16. April 2025**
+**Aktualisiert am 25. April 2025**
 
 +++Alle Produkte anzeigen
 
@@ -67,15 +67,7 @@ Suchen Sie [Events](https://experienceleague.adobe.com/en/events) und registrier
 
 +++Kommende Events
 
-* **[!DNL Marketo]** | _Marketo und Mokkas: Prüfen einer geerbten oder aktuellen Instanz_ | **17.** | Haben Sie kürzlich eine Marketo-Instanz geerbt? Oder möchten Sie vielleicht Ihre aktuelle Instanz regelmäßig überprüfen, um ihr Potenzial zu maximieren? Nehmen Sie an diesem Marketo- und Mokkas-Webinar mit unseren Adobe Business Advisors, Cynthia Chang und Carly Gaver, teil, in dem es darum geht, wie Sie einen detaillierten Audit durchführen können, um den aktuellen Status Ihrer Instanz zu verstehen. | [Registrieren](https://events-emea5.adobeconnect.com/content/adobeconnect/43/5415868397/en/events/event/shared/5746113037/event_landing.html)
-
-* **[!DNL Workfront]** | _Connect: Workfront Collective_ | **21. April** | Diese Veranstaltung hat keine formelle Präsentation oder Tagesordnung. Die Diskussionsthemen basieren auf Ihrem Engagement. Stellen Sie sich diesen Workshop als eine kollektive Problemlösungssitzung vor. Wenn Sie in Workfront eine Herausforderung haben (oder einen Erfolg erzielen möchten, den Sie teilen und bewerben möchten!) und Lösungen mit anderen Kunden besprechen möchten, ist diese Veranstaltung genau das Richtige für Sie. | [Registrieren](https://events.teams.microsoft.com/event/ba1a80ab-01c0-4675-83e5-d6d96f1aa9b2@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
-
-* **Multisolution** | _Behind the Brew: Eine vollständige Aufschlüsselung der proaktiven Überwachungs-Tools_ | **24.** | Nehmen Sie an einer aufschlussreichen Sitzung teil, in der wir Ihnen zeigen, wie Sie mithilfe von hochmodernen Überwachungs-Tools wie SWAT, Fastly und New Relic Systemstatus und -leistung optimieren können.  | [Registrieren](https://events-emea5.adobeconnect.com/content/adobeconnect/43/5415868397/en/events/event/shared/5746562317/event_landing.html?sco-id=5746562295&amp;campaign-id=ExL&amp;_charset_=utf-8)
-
-* **[!DNL Campaign Classic]** | _Adobe ACC-Bereitstellungsleistung - Fehlerbehebung_ | **25.** | In dieser Sitzung untersuchen wir häufige Probleme, die bei der Bereitstellung einer optimalen Leistung mit Adobe Campaign Classic (ACC) auftreten können, und stellen umsetzbare Strategien zur Fehlerbehebung und Problembehebung bereit. Erfahren Sie, wie Sie Leistungsengpässe identifizieren, Inkonsistenzen in der Versandvorbereitung und Konfiguration beheben und Best Practices implementieren, um eine reibungslose Kommunikation zu gewährleisten. | [Registrieren](https://events-emea5.adobeconnect.com/content/adobeconnect/43/5415868397/en/events/event/shared/default_template/event_landing.html?sco-id=5748224915&amp;_charset_=utf-8)
-
-Sehen Sie sich die vollständige Liste der [anstehenden Ereignisse](https://experienceleague.adobe.com/en/events) an oder durchsuchen Sie [vergangene Ereignisse](https://experienceleague.adobe.com/de/docs/events/experience-league-recorded-events/overview) auf Experience League.
+Sehen Sie sich die vollständige Liste der [bevorstehende](https://experienceleague.adobe.com/en/events) und [On-Demand](https://experienceleague.adobe.com/de/docs/events/experience-league-recorded-events/overview)-Events auf Experience League an.
 
 +++
 
