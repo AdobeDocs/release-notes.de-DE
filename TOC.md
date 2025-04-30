@@ -6,16 +6,16 @@ breadcrumb-title: Versionshinweise
 user-guide-description: Erfahren Sie mehr über neue Funktionen, Fehlerbehebungen und wichtige Hinweise in Adobe Experience Cloud und Experience Platform.
 user-guide-url: https://www.adobe.com
 source-git-commit: 4139f3fb35a3a8ad81b90800c2f9870e02b4ea56
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '112'
-ht-degree: 98%
+ht-degree: 100%
 
 ---
 
 
 # Neue Funktionen in Adobe Experience Cloud {#experience-cloud}
 
-+ [Versionshinweise zur aktuellen Version](current.md)
++ [Aktuelle Versionshinweise](current.md)
 + Frühere Versionshinweise {#previous}
    + 2025 {#2025}
       + [März 2025](c-legacy-releases/2025/03122025.md)
