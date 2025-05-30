@@ -5,9 +5,9 @@ user-guide-title: Adobe Experience Cloud – Versionshinweise
 breadcrumb-title: Versionshinweise
 user-guide-description: Erfahren Sie mehr über neue Funktionen, Fehlerbehebungen und wichtige Hinweise in Adobe Experience Cloud und Experience Platform.
 user-guide-url: https://www.adobe.com
-source-git-commit: f8055d5a337357f69cd56f0a68304a17a78f64c3
-workflow-type: ht
-source-wordcount: '114'
+source-git-commit: 62cb9a8cd5ed8b54594f7f33f90d344014f74752
+workflow-type: tm+mt
+source-wordcount: '93'
 ht-degree: 100%
 
 ---
@@ -45,16 +45,5 @@ ht-degree: 100%
       + [März 2023](c-legacy-releases/2023/03082023.md)
       + [Februar 2023](c-legacy-releases/2023/02082023.md)
       + [Januar 2023](c-legacy-releases/2023/01112023.md)
-   + 2022 {#2022}
-      + [Oktober 2022](c-legacy-releases/2022/10052022.md)
-      + [September 2022](c-legacy-releases/2022/09072022.md)
-      + [August 2022](c-legacy-releases/2022/08172022.md)
-      + [Juli 2022](c-legacy-releases/2022/07202022.md)
-      + [Juni 2022](c-legacy-releases/2022/06152022.md)
-      + [Mai 2022](c-legacy-releases/2022/05182022.md)
-      + [April 2022](c-legacy-releases/2022/04202022.md)
-      + [März 2022](c-legacy-releases/2022/03232022.md)
-      + [Februar 2022](c-legacy-releases/2022/02162022.md)
-      + [Januar 2022](c-legacy-releases/2022/01192022.md)
-   + 2021 und früher {#legacy-rns}
+   + 2022 und früher {#legacy-rns}
       + [2021 und früher](c-legacy-releases/2022-earlier.md)
