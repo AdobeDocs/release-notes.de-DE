@@ -422,7 +422,7 @@ Neue Artikel und Aktualisierungen vorhandener Artikel für [!DNL Campaign].
 
 | Veröffentlicht | Name | Typ | Beschreibung |
 |---------|----|----|-----------|
-| Mai 2025 | Der Assistent [**[!UICONTROL Datenbankstruktur aktualisieren ]**in Adobe Campaign Classic zeigt kein Schema an](https://experienceleague.adobe.com/de/docs/experience-cloud-kcs/kbarticles/ka-26407) | Neuer Artikel | Erfahren Sie mehr über die Lösungen für das Problem, dass bei Verwendung des Assistenten **[!UICONTROL Datenbankstruktur aktualisieren]** in Adobe Campaign Classic keine Schemata angezeigt werden, die mit externen Datenbanken verknüpft sind. |
+| Mai 2025 | Der Assistent [**[!UICONTROL Datenbankstruktur aktualisieren &#x200B;]**&#x200B;in Adobe Campaign Classic zeigt kein Schema an](https://experienceleague.adobe.com/de/docs/experience-cloud-kcs/kbarticles/ka-26407) | Neuer Artikel | Erfahren Sie mehr über die Lösungen für das Problem, dass bei Verwendung des Assistenten **[!UICONTROL Datenbankstruktur aktualisieren]** in Adobe Campaign Classic keine Schemata angezeigt werden, die mit externen Datenbanken verknüpft sind. |
 | Mai 2025 | [Workflow wird trotz Planungseinstellungen in Adobe Campaign Managed Cloud unerwartet ausgeführt](https://experienceleague.adobe.com/de/docs/experience-cloud-kcs/kbarticles/ka-26415) | Neuer Artikel | Erfahren Sie mehr über die Lösungen für das Problem, dass in Adobe Campaign Managed Cloud keine Planungsaktualisierungen angewendet werden und unerwartete Workflow-Ausführungen auftreten. |
 | Mai 2025 | [Die Registerkarte „Zielgruppenbestimmungen und Workflow“ in Campaign Classic kann nicht angezeigt werden](https://experienceleague.adobe.com/de/docs/experience-cloud-kcs/kbarticles/ka-26632) | Neuer Artikel | Erfahren Sie mehr über die Lösungen für das Problem, dass die Registerkarte **[!UICONTROL Zielgruppenbestimmung und Workflow]** in Adobe Campaign Classic nicht angezeigt wird. |
 | Mai 2025 | [Filter für Versandstatistiken funktioniert aufgrund des Limits von 10.000 Einträgen in **[!UICONTROL dynamischen Berichten]** in Adobe Campaign Standard nicht](https://experienceleague.adobe.com/de/docs/experience-cloud-kcs/kbarticles/ka-26697) | Neuer Artikel | Erfahren Sie mehr über die Lösungen für das Problem, dass der Filter für Versandstatistiken **[!UICONTROL Enthält]** beim Anwenden bestimmter Schlüsselwörter nicht die vollständigen Ergebnisse zurückgibt. |
@@ -628,13 +628,13 @@ Um die Hilfe zu Adobe [!DNL Advertising] zu durchsuchen, sehen Sie sich die [Dok
 
 ### Neue Funktionen in [!DNL Advertising DSP] {#advertising-dsp}
 
-4. Juni 2025
+&#x200B;4. Juni 2025
 
 Siehe [Neue Funktionen in [!DNL Advertising DSP]](https://experienceleague.adobe.com/de/docs/advertising/dsp/home)
 
 ### Neue Funktionen in [!DNL Advertising Search, Social, & Commerce] {#advertising-search}
 
-26. März 2026
+&#x200B;26. März 2026
 
 Siehe [Neue Funktionen in [!DNL Advertising Search, Social, & Commerce]](https://experienceleague.adobe.com/de/docs/advertising/search-social-commerce/home)
 
