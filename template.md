@@ -4,9 +4,9 @@ description: Experience Cloud – Versionshinweise
 doc-type: release notes
 last-update: June 2021
 author: mfrei
-source-git-commit: e415b562703712157d907d3e3995ff5adad4db1e
+source-git-commit: 6ee325d5194c99b4d828f8d335dfd8583077d1e9
 workflow-type: tm+mt
-source-wordcount: '715'
+source-wordcount: '713'
 ht-degree: 100%
 
 ---
@@ -52,7 +52,7 @@ Funktionen und Fehlerbehebungen
 
 Siehe [Adobe-Systemstatus](https://status.adobe.com/de).
 
-## ![Symbol](/assets/ec_appicon_24.png) Zentrale Komponenten der Experience Cloud-UI {#ecloud}
+## Zentrale Komponenten der Experience Cloud-Benutzeroberfläche {#ecloud}
 
 Die zentralen Komponenten der Experience Cloud-UI umfassen Aktualisierungen, die über die Kopfzeile des Produkts aufgerufen werden können, darunter Selbsthilfe, Suche oder Voreinstellungen für Benutzerkonten. Aktualisierungen zu Personen, Orten (Standort) und Produktverwaltung finden Sie hier.
 
@@ -64,7 +64,7 @@ Funktionen und Fehlerbehebungen
 
 Funktionen und Fehlerbehebungen
 
-## ![Symbol](/assets/experience_platform_appicon_24.png) Experience Platform {#platform}
+## Experience Platform {#platform}
 
 Versionshinweise für [!DNL Experience Platform,] einschließlich [!DNL Experience Platform Launch,] [!UICONTROL Journey Orchestration], [!UICONTROL Angeboten], [!UICONTROL Personen], [!UICONTROL Places], [!UICONTROL Mobile Services] und Sicherheitsbulletins.
 
