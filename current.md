@@ -457,8 +457,8 @@ Freigegeben: **14. November 2025**
 |July 2024|[[!DNL Adobe Target] bulk profile update [!DNL API] throws *[!DNL Unexpected Error]* when using [!DNL Postman]](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-24281)|New article| Learn about how to fix the issue when running the [!DNL Target Bulk Profile Update API] throws the *[!DNL Unexpected Error]* message in [!DNL Postman].|
 -->
 
-* Informationen zur Vorabversion finden Sie unter Vorabversion von [[!DNL Adobe Target] ](https://experienceleague.adobe.com/de/docs/target/using/release-notes/target-release-notes).
-* Aktuelle Informationen finden Sie unter Versionshinweise zu [[!DNL Adobe Target] ](https://experienceleague.adobe.com/de/docs/target/using/release-notes/release-notes)
+* Informationen zur Vorabversion finden Sie unter Vorabversion von [[!DNL Adobe Target] &#x200B;](https://experienceleague.adobe.com/de/docs/target/using/release-notes/target-release-notes).
+* Aktuelle Informationen finden Sie unter Versionshinweise zu [[!DNL Adobe Target] &#x200B;](https://experienceleague.adobe.com/de/docs/target/using/release-notes/release-notes)
 
 +++
 
@@ -511,7 +511,7 @@ Erfahren Sie mehr über die neuesten Versions-Updates für [!DNL Journey Optimiz
 
 Neueste Version: **Dienstag, 24. November 2025**
 
-Weitere Informationen finden Sie unter [](https://experienceleague.adobe.com/de/docs/journey-optimizer/using/whats-new/release-notes) Versionshinweise zu Journey Optimizer . (**Hinweis:** [Journey Optimizer für B2B edition](#journey-optimizer-b2b-edition) ist ein separates Produkt.)
+Weitere Informationen finden Sie unter [&#128279;](https://experienceleague.adobe.com/de/docs/journey-optimizer/using/whats-new/release-notes) Versionshinweise zu Journey Optimizer . (**Hinweis:** [Journey Optimizer für B2B edition](#journey-optimizer-b2b-edition) ist ein separates Produkt.)
 
 ### Neue [!DNL Journey Optimizer]-Tutorials {#tutorials-ajo}
 
@@ -672,7 +672,7 @@ Video tutorials for GenStudio for Performance Marketing.
 
 +++Versionshinweise und Dokumentation
 
-Weitere Informationen finden [ unter Mix Modeler (November 2025 - ](https://experienceleague.adobe.com/de/docs/mix-modeler/using/releases/latest))
+Weitere Informationen finden [&#x200B; unter Mix Modeler (November 2025 - &#x200B;](https://experienceleague.adobe.com/de/docs/mix-modeler/using/releases/latest))
 
 +++
 
