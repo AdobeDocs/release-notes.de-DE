@@ -447,8 +447,8 @@ Veröffentlicht: **14. November 2025**
 |July 2024|[[!DNL Adobe Target] bulk profile update [!DNL API] throws *[!DNL Unexpected Error]* when using [!DNL Postman]](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-24281)|New article| Learn about how to fix the issue when running the [!DNL Target Bulk Profile Update API] throws the *[!DNL Unexpected Error]* message in [!DNL Postman].|
 -->
 
-* Informationen zur Vorabversion finden Sie unter Vorabversion von [[!DNL Adobe Target] ](https://experienceleague.adobe.com/de/docs/target/using/release-notes/target-release-notes).
-* Aktuelle Informationen finden Sie unter Versionshinweise zu [[!DNL Adobe Target] ](https://experienceleague.adobe.com/de/docs/target/using/release-notes/release-notes)
+* Informationen zur Vorabversion finden Sie unter Vorabversion von [[!DNL Adobe Target] &#x200B;](https://experienceleague.adobe.com/de/docs/target/using/release-notes/target-release-notes).
+* Aktuelle Informationen finden Sie unter Versionshinweise zu [[!DNL Adobe Target] &#x200B;](https://experienceleague.adobe.com/de/docs/target/using/release-notes/release-notes)
 
 +++
 
