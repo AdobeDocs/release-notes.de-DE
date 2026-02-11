@@ -5,10 +5,10 @@ user-guide-title: Adobe Experience Cloud – Versionshinweise
 breadcrumb-title: Zentrale Versionshinweise
 user-guide-description: Erfahren Sie mehr über neue Funktionen, Fehlerbehebungen und wichtige Hinweise in Adobe Experience Cloud und Experience Platform.
 user-guide-url: https://www.adobe.com
-source-git-commit: f289f67c5c33414a4d7e93a62456528056b99347
+source-git-commit: 1b8c6243341f33b80a99fc81d24cf8b78a48b7dc
 workflow-type: tm+mt
-source-wordcount: '100'
-ht-degree: 98%
+source-wordcount: '109'
+ht-degree: 100%
 
 ---
 
@@ -17,9 +17,11 @@ ht-degree: 98%
 
 + [Aktuelle Versionshinweise](current.md)
 + Frühere Versionshinweise {#previous}
+   + 2026 {#2026}
+      + [Januar 2026](c-legacy-releases/2026/01142026.md)
    + 2025 {#2025}
       + [Oktober 2025](c-legacy-releases/2025/10152025.md)
-      + [September 2025](c-legacy-releases/2025/09112025.md)
+      + [September 2025](c-legacy-releases/2025/09112025.md)
       + [August 2025](c-legacy-releases/2025/08132025.md)
       + [Juli 2025](c-legacy-releases/2025/07162025.md)
       + [Juni 2025](c-legacy-releases/2025/06182025.md)
@@ -34,7 +36,7 @@ ht-degree: 98%
       + [August 2024](c-legacy-releases/2024/08142024.md)
       + [Juli 2024](c-legacy-releases/2024/07172024.md)
       + [Juni 2024](c-legacy-releases/2024/06122024.md)
-      + [Mai 2024](c-legacy-releases/2024/05152024.md)
+      + [Mai 2024](c-legacy-releases/2024/05152024.md)
       + [April 2024](c-legacy-releases/2024/04172024.md)
       + [März 2024](c-legacy-releases/2024/03132024.md)
       + [Februar 2024](c-legacy-releases/2024/02142024.md)
@@ -46,10 +48,10 @@ ht-degree: 98%
       + [August 2023](c-legacy-releases/2023/08092023.md)
       + [Juli 2023](c-legacy-releases/2023/07122023.md)
       + [Juni 2023](c-legacy-releases/2023/06072023.md)
-      + [Mai 2023](c-legacy-releases/2023/05102023.md)
+      + [Mai 2023](c-legacy-releases/2023/05102023.md)
       + [April 2023](c-legacy-releases/2023/04122023.md)
       + [März 2023](c-legacy-releases/2023/03082023.md)
       + [Februar 2023](c-legacy-releases/2023/02082023.md)
       + [Januar 2023](c-legacy-releases/2023/01112023.md)
-<!--   + 2022 and earlier {#legacy-rns}
-    + [2022 and earlier](c-legacy-releases/2022-earlier.md) -->
+   + 2022 und früher {#legacy-rns}
+      + [2022 und früher](c-legacy-releases/2022-earlier.md)
