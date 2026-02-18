@@ -351,7 +351,7 @@ Hier erhalten Sie Hilfe zu LLM Optimizer, der neuen KI-basierten Anwendung von A
 
 +++Neueste Tutorials
 
-Hilfe finden Sie auf der Startseite [ Dokumentation zu ](https://experienceleague.adobe.com/de/docs/llm-optimizer/using/home)LLM Optimizer.
+Hilfe finden Sie auf der Startseite [&#x200B; Dokumentation zu &#x200B;](https://experienceleague.adobe.com/de/docs/llm-optimizer/using/home)LLM Optimizer.
 
 +++
 
@@ -616,7 +616,7 @@ Aktuelle Versionshinweise und neue Dokumentation für [!DNL GenStudio for Perfo
 
 +++Versionshinweise und Dokumentation
 
-Siehe [2026.01 - Versionshinweise) ](https://experienceleague.adobe.com/de/docs/genstudio-for-performance-marketing/user-guide/release-notes#latest) GenStudio for Performance Marketing
+Siehe [2026.01 - Versionshinweise) &#x200B;](https://experienceleague.adobe.com/de/docs/genstudio-for-performance-marketing/user-guide/release-notes#latest) GenStudio for Performance Marketing
 
 ### Neue Tutorials für GenStudio for Performance Marketing {#genstudio-tutorials}
 
