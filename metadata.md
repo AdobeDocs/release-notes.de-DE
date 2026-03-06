@@ -6,35 +6,35 @@ feature-set: Experience Cloud
 feature: Release Notes
 product: Experience Cloud
 mini-toc-levels: 2
-git-repo: https://github.com/AdobeDocs/release-notes.de-DE
+git-repo: https://github.com/AdobeDocs/release-notes.en
 index: true
-source-git-commit: b81b4c2b163849709da81c6ee7c461f32a6d3236
+source-git-commit: 8f759d75cb9aa77491a96a8158296e9a541fe48d
 workflow-type: tm+mt
-source-wordcount: '151'
-ht-degree: 100%
+source-wordcount: '175'
+ht-degree: 0%
 
 ---
 
 
 # Metadaten für die interne Verwendung
 
-Die Datei metadata.md enthält Metadaten auf Repo-Ebene, die an die TOC.md-Dateien des Benutzerhandbuchs im Repo weitergegeben werden. Wenn Sie den Inhalt von metadata.md für ein Benutzerhandbuch ändern möchten, tun Sie dies in einer beliebigen TOC.md-Datei.
+Die Datei „metadata.md“ enthält Metadaten auf Repo-Ebene, die an die im Repository enthaltenen TOC.md-Dateien des Benutzerhandbuchs weitergegeben werden. Wenn Sie den Inhalt von „metadata.md“ für ein Benutzerhandbuch ändern möchten, verwenden Sie dazu eine beliebige Inhaltsverzeichnisdatei (.md).
 
-| metadata | was es macht |
+| Metadaten | Funktion |
 |--- |--- |
-| solution-title | Wird in der Artikelüberschrift als Link verwendet. Halten Sie sich kurz. |
-| solution-hub-url | Öffnet die helpx-Hub-Seite |
-| solution-icon | Zeigt Lösungssymbol neben dem Titel der Lösung an. Noch nicht implementiert |
-| getting-started-title | Wird selten verwendet, wenn Übungen nicht geeignet sind |
-| getting-started-url | Link zur Startseite Erste Schritte von helpx |
-| tutorials-title | Wird selten verwendet, wenn Übungen nicht geeignet sind |
-| tutorials-url | Link zu Video-Übungen – entweder Helpx-Übungen oder KT-Übungen |
-| mini-toc-levels | Legt fest, wie viele Überschriftenebenen in der rechten Leiste angezeigt werden. Standardwert ist „2“ |
-| git-repo | Gibt den Speicherort des Zusammenarbeits-Repo an. Verwenden Sie den github.com-Spiegel für Dokumente, die für die Öffentlichkeit zugänglich sind |
+| solution-title | Wird in der Artikelkopfzeile als Link verwendet. Halte es kurz. |
+| solution-hub-url | Öffnet die Hilfs-Hub-Seite |
+| solution-icon | Zeigt das Lösungssymbol neben dem Lösungstitel an. Noch nicht implementiert |
+| getting-started-title | Wird selten verwendet, wenn Tutorials nicht geeignet sind |
+| getting-started-url | Link zu Hilfen für die ersten Schritte |
+| tutorials-title | Wird selten verwendet, wenn Tutorials nicht geeignet sind |
+| tutorials-url | Link zu Video-Tutorials - entweder Hilfs-Tutorials oder KT-Tutorials |
+| Mini-Inhaltsverzeichnisebenen | Bestimmt die Anzahl der Überschriftenebenen, die in der rechten Leiste angezeigt werden. Der Standardwert ist 2 |
+| git-repo | Gibt den Speicherort des Repository für die Zusammenarbeit an. Verwenden des github.com-Spiegels für öffentlich zugängliche Dokumente |
 
 In der Datei TOC.md
 
-| metadata | was es macht |
+| Metadaten | Funktion |
 |--- |--- |
 | user-guide-title | Wird in der Artikelkopfzeile als Link verwendet |
-| user-guide-url | Öffnet die helpx-Hub-Seite |
+| user-guide-url | Öffnet die Hilfs-Hub-Seite |
