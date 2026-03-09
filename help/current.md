@@ -6,10 +6,10 @@ last-update: February 2026
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: 6327dedf77da7697e83326abcbe1ed75187eb138
+source-git-commit: c267781827d72bcd75bdfe8920b873c014095d8f
 workflow-type: tm+mt
-source-wordcount: '5639'
-ht-degree: 52%
+source-wordcount: '5811'
+ht-degree: 50%
 
 ---
 
@@ -82,7 +82,13 @@ Suchen Sie [Events](https://experienceleague.adobe.com/de/events) und registrier
 
 +++Bevorstehende Ereignisse anzeigen
 
-* **[!DNL Workfront]** | _Verbinden: Admin-Chat für Marketing und Creative_ | Wir freuen uns, die Adobe Insider Tour am 26. Februar nach Seattle zu bringen - und würden uns freuen, wenn Sie dabei sind. | **6.** | [Registrieren](https://events.teams.microsoft.com/event/07277b90-bf7a-479c-a302-db2c6bbff3b9@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
+* **[!DNL Adobe AI - Toronto]** | _Entdecken Sie neue Einblicke und die nächsten Schritte in den Bereichen Marketing und KI_ | Machen Sie sich mit den neuesten Adobe AI-Innovationen vertraut, hören Sie in einer Keynote von Adobe-Führungskräften, und erhalten Sie Erkenntnisse von unseren Partnern bei Accenture und Deloitte sowie von echten Kunden - zusammen mit Kollegen, die das Nächste gestalten. | **10.** | [Registrieren](https://event.adobe.com/adobe-ai-forum-toronto/il/expleague)
+
+* **[!DNL Adobe Commerce]** | _Lernen Sie aus Ihrem Peers-Webinar: Adobe Commerce_ | Nehmen Sie an einer Schulungssitzung mit den Adobe Commerce-Champions Manav Padhariya und Michael Schenck teil, in der es darum geht, Adobe Commerce Product Recommendations von einer Grundfunktion in einen leistungsstarken KI-nativen strategischen Treiber für Geschäftswachstum umzuwandeln. | **11.** | [Registrieren](https://engage.adobe.com/adobe-commerce-product-recommendations.html)
+
+* **[!DNL Experience Cloud]** | _Adobe Insider Tour_ | Diese kostenlose halbtägige Veranstaltung bietet zahlreiche Experteneinblicke, Kundenerfolge und Möglichkeiten, sich mit Kollegen und Adobe-Produktführern auszutauschen. Lernen Sie in interaktiven Sessions und Diskussionen Best Practices kennen und erfahren Sie, wie Sie den Wert von Adobe-Lösungen steigern können. | **11.** | [Registrieren](https://event.adobe.com/adobe-insider-tour-atlanta)
+
+* **[!DNL Adobe AI - Dallas]** | _Entdecken Sie neue Einblicke und die nächsten Schritte in den Bereichen Marketing und KI_ | Machen Sie sich mit den neuesten Adobe AI-Innovationen vertraut, hören Sie in einer Keynote von Adobe-Führungskräften, und erhalten Sie Erkenntnisse von unseren Partnern bei Accenture und Deloitte sowie von echten Kunden - zusammen mit Kollegen, die das Nächste gestalten. | **12.** | [Registrieren](https://event.adobe.com/adobe-ai-forum-dallas-il2026/expleague)
 
 * **[!DNL Adobe Summit]** | _Die Zukunft von Marketing, Kreativität und KI_ | Entdecken Sie die nächsten Schritte in den Bereichen Marketing, Kreativität und KI. | **Las Vegas, 19.–22. April** | [Registrieren](https://summit.adobe.com/na/)
 
@@ -470,7 +476,7 @@ Neue Artikel und Aktualisierungen vorhandener Artikel für [!DNL Campaign].
 
 ## [!DNL Journey Optimizer] {#journey-opt}
 
-Erfahren Sie mehr über die neuesten Versions-Updates für [!DNL Journey Optimizer]. Sehen Sie sich die neuesten Tutorials und Wissensdatenbank-Support-Artikel auf Experience League an.
+Erfahren Sie mehr über die neuesten Versionsinformationen für [!DNL Journey Optimizer]. Sehen Sie sich die neuesten Tutorials und Wissensdatenbank-Support-Artikel auf Experience League an.
 
 +++Versionshinweise und neue Tutorials
 
