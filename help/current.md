@@ -95,7 +95,7 @@ Erfahren Sie mehr über Aktualisierungen der [!DNL Experience Cloud]-Administrat
 | -----------| -----------| ---------- | ---------- |
 | **14. Januar 2026** | Anpassbares linkes Navigationsmenü | Sie können nun das linke Navigationsmenü einer Anwendung in Experience Cloud anpassen. Ordnen Sie Navigationselemente neu an und steuern Sie ihre Sichtbarkeit, um schnell auf die wichtigsten Funktionen zuzugreifen. Diese Aktualisierung optimiert Workflows, reduziert die kognitive Belastung und unterstützt die volle Barrierefreiheit der Tastatur. | <ul><li>Experience Platform</li><li>Journey Optimizer</li><li>Journey Optimizer B2B Edition</li><li>Dynamic Chat</li></ul> |
 
-Weitere Informationen finden Sie in der Dokumentation unter {0](https://experienceleague.adobe.com/de/docs/core-services/interface/experience-cloud){target="_blank"} Experience Cloud-Oberfläche und -Administration.[
+Weitere Informationen finden Sie in der Dokumentation unter [&#128279;](https://experienceleague.adobe.com/de/docs/core-services/interface/experience-cloud){target="_blank"} Experience Cloud-Oberfläche und -Administration.
 
 ## KI in Experience Cloud {#ai}
 
