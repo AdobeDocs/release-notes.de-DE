@@ -8,10 +8,10 @@ mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
 product_v2:
   - id: d0a3eab4-7b10-4d96-a71e-6c0f8e7b7c87
-source-git-commit: 8bcfd73109a76f83b9bdb8afed13693561eb0e5e
+source-git-commit: 47738804b28c044373041282fa74527bf2f29128
 workflow-type: tm+mt
-source-wordcount: 6788
-ht-degree: 83%
+source-wordcount: 6824
+ht-degree: 81%
 
 ---
 
@@ -26,14 +26,14 @@ Diese Seite hilft Ihnen bei Folgendem:
 * Neue Video-Tutorials sortiert nach Anwendung ansehen
 * Die neuesten Support-Artikel ansehen
 
-Neueste Aktualisierung: **6. April 2026**
+Neueste Aktualisierung: **15. April 2026**
 
 Auf dieser Seite:
 
 * [Webinare und Lernveranstaltungen](#events)
+* [KI in Experience Cloud](#ai)
 * [[!DNL Adobe System Status]](#status)
 * [[!DNL Adobe Experience Cloud]](#ecloud)
-* [KI in Experience Cloud](#ai)
 * [[!DNL Adobe Brand Concierge]](#brand-concierge)
 * [[!DNL Adobe LLM Optimizer]](#llm-optimizer)
 * [[!DNL Adobe Experience Platform]](#platform)
@@ -100,6 +100,7 @@ Finden Sie neue und aktuelle Lernressourcen, die für KI in Experience Cloud ver
 
 | Produkt | Ressource | Beschreibung | Aktualisiert |
 | ------- | ------- | ------- | ------- |
+| [!DNL Experience Cloud] | [KI-Hub](https://experienceleague.adobe.com/de/ai-training){target="_blank"} | Der KI-Hub von Experience League hilft Marketing-Experten, praktische KI-Kenntnisse für die tägliche Marketing-Arbeit zu entwickeln. Lernen Sie von Kollegen, die sich denselben Herausforderungen stellen, und entdecken Sie, was tatsächlich funktioniert. | **15. April 2026** |
 | [!DNL Experience Cloud] | [Adobe Marketing Agent for Microsoft 365 Copilot](https://experienceleague.adobe.com/de/docs/experience-cloud-ai/experience-cloud-ai/agents/ama-ms){target="_blank"} | Erfahren Sie, wie Adobe Marketing Agent for Microsoft 365 Copilot Experience Platform direkt mit Microsoft 365 Copilot verbindet. | &#x200B;6. April 2026 |
 | [!DNL AEM CS] | [Cloud Manager MCP-Server](https://experienceleague.adobe.com/de/docs/experience-manager-learn/cloud-service/ai/mcp-servers/cloud-manager){target="_blank"} | Erfahren Sie, wie der Cloud Manager MCP-Server KI-Tools die Interaktion mit AEM as a Cloud Service ermöglicht, um Programme, Umgebungen, Repositorys und Pipelines zu verwalten. | &#x200B;6. April 2026 |
 | [!DNL Acrobat Services] | [Acrobat Analyzer](https://experienceleague.adobe.com/de/docs/events/acrobat-analyzer-webinars/overview){target="_blank"} | In den Adobe Acrobat Analyzer-Webinaren erfahren Sie, wie Generative AI strukturierte, überprüfbare Einblicke aus Dokumenten extrahiert, um Workflows zu automatisieren, Risiken zu reduzieren und die Entscheidungsfindung im Unternehmen im großen Maßstab zu beschleunigen. | &#x200B;10. März 2026 |
