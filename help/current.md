@@ -8,7 +8,7 @@ mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
 product_v2:
   - id: d0a3eab4-7b10-4d96-a71e-6c0f8e7b7c87
-source-git-commit: 691631533bbce1eee3f829d039a3251aec347d4b
+source-git-commit: 3b12ac9312a38290356a4c80d01e3deaf3fcccf2
 workflow-type: tm+mt
 source-wordcount: 6867
 ht-degree: 98%
@@ -26,12 +26,12 @@ Diese Seite hilft Ihnen bei Folgendem:
 * Neue Video-Tutorials sortiert nach Anwendung ansehen
 * Die neuesten Support-Artikel ansehen
 
-Neueste Aktualisierung: **15. April 2026**
+Latest update: **April 15, 2026**
 
 Auf dieser Seite:
 
 * [Webinare und Lernveranstaltungen](#events)
-* [Zentrale Benutzeroberfläche und Administration [!DNL Adobe Experience Cloud]](#ecloud)
+* [[!DNL Adobe Experience Cloud] central UI &amp; administration](#ecloud)
 * [KI in Experience Cloud](#ai)
 * [[!DNL Adobe System Status]](#status)
 * [[!DNL Adobe Brand Concierge]](#brand-concierge)
@@ -64,7 +64,7 @@ Auf dieser Seite:
 
 Zeigen Sie den vollständigen Zeitplan von [bevorstehenden](https://experienceleague.adobe.com/de/events){target="_blank"} und [On-Demand](https://experienceleague.adobe.com/de/docs/events/experience-league-recorded-events/overview){target="_blank"}-Events an.
 
-## Zentrale Benutzeroberfläche und Administration [!DNL Adobe Experience Cloud] {#ecloud}
+## [!DNL Adobe Experience Cloud] central UI &amp; administration {#ecloud}
 
 | Funktion | Releasedatum | Beschreibung |
 | ------- | ------- | ------- |
