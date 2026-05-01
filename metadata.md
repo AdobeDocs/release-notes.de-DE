@@ -2,39 +2,41 @@
 cloud: Experience Cloud
 type: Documentation
 solution: Experience Cloud
+product_v2:
+  - id: d0a3eab4-7b10-4d96-a71e-6c0f8e7b7c87
 feature-set: Experience Cloud
 feature: Release Notes
 product: Experience Cloud
 mini-toc-levels: 2
 git-repo: https://github.com/AdobeDocs/release-notes.de-DE
 index: true
-source-git-commit: 8f759d75cb9aa77491a96a8158296e9a541fe48d
+source-git-commit: d6696605b4b4e357fac81509884625dad2c83fd9
 workflow-type: tm+mt
-source-wordcount: '175'
-ht-degree: 0%
+source-wordcount: 175
+ht-degree: 72%
 
 ---
 
 
 # Metadaten für die interne Verwendung
 
-Die Datei „metadata.md“ enthält Metadaten auf Repo-Ebene, die an die im Repository enthaltenen TOC.md-Dateien des Benutzerhandbuchs weitergegeben werden. Wenn Sie den Inhalt von „metadata.md“ für ein Benutzerhandbuch ändern möchten, verwenden Sie dazu eine beliebige Inhaltsverzeichnisdatei (.md).
+Die Datei „metadata.md“ enthält Metadaten auf Repository-Ebene, die an die im Repository enthaltenen Dateien „TOC.md“ des Benutzerhandbuchs weitergegeben werden. Wenn Sie den Inhalt von „metadata.md“ für ein Benutzerhandbuch ändern möchten, verwenden Sie dazu eine beliebige Datei „TOC.md“.
 
-| Metadaten | Funktion |
+| Metadaten | Zweck |
 |--- |--- |
 | solution-title | Wird in der Artikelkopfzeile als Link verwendet. Halte es kurz. |
-| solution-hub-url | Öffnet die Hilfs-Hub-Seite |
+| solution-hub-url | Öffnet die Helpx-Hub-Seite |
 | solution-icon | Zeigt das Lösungssymbol neben dem Lösungstitel an. Noch nicht implementiert |
 | getting-started-title | Wird selten verwendet, wenn Tutorials nicht geeignet sind |
-| getting-started-url | Link zu Hilfen für die ersten Schritte |
+| getting-started-url | Link zur Helpx-Seite „Erste Schritte“ |
 | tutorials-title | Wird selten verwendet, wenn Tutorials nicht geeignet sind |
-| tutorials-url | Link zu Video-Tutorials - entweder Hilfs-Tutorials oder KT-Tutorials |
-| Mini-Inhaltsverzeichnisebenen | Bestimmt die Anzahl der Überschriftenebenen, die in der rechten Leiste angezeigt werden. Der Standardwert ist 2 |
+| tutorials-url | Link zu Video-Tutorials – entweder Helpx-Tutorials oder KT-Tutorials |
+| mini-toc-levels | Legt die Anzahl der Überschriftenebenen fest, die in der rechten Leiste angezeigt werden. Standard ist 2 |
 | git-repo | Gibt den Speicherort des Repository für die Zusammenarbeit an. Verwenden des github.com-Spiegels für öffentlich zugängliche Dokumente |
 
-In der Datei TOC.md
+In der Datei „TOC.md“
 
-| Metadaten | Funktion |
+| Metadaten | Zweck |
 |--- |--- |
 | user-guide-title | Wird in der Artikelkopfzeile als Link verwendet |
-| user-guide-url | Öffnet die Hilfs-Hub-Seite |
+| user-guide-url | Öffnet die Helpx-Hub-Seite |
