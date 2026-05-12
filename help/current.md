@@ -1,6 +1,6 @@
 ---
 title: Zentrale Versionshinweise
-description: Links zu Versionshinweisen für alle Adobe CX Enterprise-Programme (ehemals Experience Cloud) finden. Erfahren Sie mehr über neue Videos, Ereignisse und finden Sie Selbsthilfe-Ressourcen.
+description: Hier finden Sie Links zu Versionshinweisen für alle Adobe CX Enterprise-Anwendungen (ehemals Experience Cloud). Erfahren Sie mehr über neue Videos und Veranstaltungen und finden Sie Selbsthilfe-Ressourcen.
 doc-type: release notes
 last-update: April 2026
 author: mfrei
@@ -9,31 +9,31 @@ exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
 product_v2:
   - id: d0a3eab4-7b10-4d96-a71e-6c0f8e7b7c87
 source-git-commit: 7911b9606a2247f7b6427f14c1d1a88e53f755f4
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: 6909
-ht-degree: 95%
+ht-degree: 100%
 
 ---
 
-# Versionshinweise zu Adobe CX Enterprise Central
+# Zentrale Versionshinweise zu Adobe CX Enterprise
 
 <!-- badgeReview: label="Internal Review" type="Negative" -->
 
 Diese Seite hilft Ihnen bei Folgendem:
 
-* Alle Links zu anwendungsspezifischen Versionshinweisen finden
-* Erfahren Sie mehr über die neuesten Lernmöglichkeiten auf Experience League (Hilfeseite zu CX Enterprise von Adobe)
-* Informationen über neue Ereignisse
+* Alle Links zu anwendungsspezifischen Versionshinweisen suchen
+* Mehr über die neuesten Lernmöglichkeiten auf Experience League (Hilfeseite zu CX Enterprise von Adobe) finden
+* Informationen über neue Veranstaltungen erhalten
 * Die neuesten Support-Artikel ansehen
 
-Neueste Aktualisierung: **23. April 2026**
+Letzte Aktualisierung: **23. April 2026**
 
-**Adobe CX Enterprise wird angekündigt:** Experience Cloud ist jetzt [Adobe CX Enterprise](https://business.adobe.com/de/). _Experience Cloud wird weiterhin in der Produktdokumentation_ in Kursen und Videos angezeigt, bis wir die Updates in Experience League abgeschlossen haben.
+**Ankündigung von Adobe CX Enterprise:** Experience Cloud ist jetzt [Adobe CX Enterprise](https://business.adobe.com/de/). _Experience Cloud_ wird weiterhin in der Produktdokumentation, in Kursen und in Videos angezeigt, bis wir die Aktualisierungen überall in Experience League durchgeführt haben.
 
 Auf dieser Seite:
 
 * [Webinare und Lernveranstaltungen](#events)
-* [Zentrale Benutzeroberfläche und Administration [!DNL Adobe CX Enterprise]](#ecloud)
+* [Zentrale Benutzeroberfläche und Administration von [!DNL Adobe CX Enterprise]](#ecloud)
 * [KI in CX Enterprise](#ai)
 * [[!DNL Adobe System Status]](#status)
 * [[!DNL Adobe Brand Concierge]](#brand-concierge)
@@ -66,26 +66,26 @@ Auf dieser Seite:
 
 Zeigen Sie den vollständigen Zeitplan von [bevorstehenden](https://experienceleague.adobe.com/de/events){target="_blank"} und [On-Demand](https://experienceleague.adobe.com/de/docs/events/experience-league-recorded-events/overview){target="_blank"}-Events an.
 
-## Zentrale Benutzeroberfläche und Administration [!DNL Adobe CX Enterprise] {#ecloud}
+## Zentrale Benutzeroberfläche und Administration von [!DNL Adobe CX Enterprise] {#ecloud}
 
 | Funktion | Releasedatum | Beschreibung |
 | ------- | ------- | ------- |
-| Aktualisierte Homepage | &#x200B;20. April 2026 | Ein erfrischendes Look-and-Feel der Homepage bei `https://experience.adobe.com/home`. Mit dieser Version bleiben alle Funktionen gleich, mit aktualisierter Benutzeroberfläche, Unterstützung für den vollständigen _Dunkelmodus_ und verbesserter Barrierefreiheit. |
+| Aktualisierte Homepage | 20. April 2026 | Ein aktualisiertes Look-and-Feel der Homepage auf `https://experience.adobe.com/home`. In dieser Version bleiben alle Funktionen unverändert, die Benutzeroberfläche wurde aktualisiert, es gibt Unterstützung für den vollständigen _Dunkelmodus_ sowie verbesserte Barrierefreiheit. |
 
-Weitere Informationen finden Sie in der Dokumentation unter &lbrace;0[&#128279;](https://experienceleague.adobe.com/de/docs/core-services/interface/experience-cloud){target="_blank"} CX Enterprise-Oberfläche und -Administration.
+Die Dokumentation finden Sie unter [CX Enterprise-Benutzeroberfläche und -Administration](https://experienceleague.adobe.com/de/docs/core-services/interface/experience-cloud){target="_blank"}.
 
 ## KI in CX Enterprise {#ai}
 
-Finden Sie neue und aktuelle Lernressourcen, die für KI in CX Enterprise veröffentlicht wurden.
+Entdecken Sie neue und aktuelle Lernressourcen, die zum Thema KI in CX Enterprise veröffentlicht wurden.
 
 | Produkt | Ressource | Beschreibung | Aktualisiert |
 | ------- | ------- | ------- | ------- |
-| [!DNL CX Enterprise] | [KI-Hub](https://experienceleague.adobe.com/de/ai-training){target="_blank"} | Der KI-Hub von Experience League hilft Marketing-Experten, praktische KI-Kenntnisse für die tägliche Marketing-Arbeit zu entwickeln. Lernen Sie von Kollegen, die sich denselben Herausforderungen stellen, und entdecken Sie, was tatsächlich funktioniert. | **15. April 2026** |
+| [!DNL CX Enterprise] | [KI-Hub](https://experienceleague.adobe.com/de/ai-training){target="_blank"} | Der KI-Hub von Experience League hilft Marketing-Fachleuten, praktische Kenntnisse im Bereich KI für die tägliche Marketing-Arbeit zu erwerben. Lernen Sie von Gleichgesinnten, die sich denselben Herausforderungen stellen, und finden Sie heraus, was tatsächlich funktioniert. | **15. April 2026** |
 | [!DNL CX Enterprise] | [Adobe Marketing Agent für Microsoft 365 Copilot](https://experienceleague.adobe.com/de/docs/experience-cloud-ai/experience-cloud-ai/agents/ama-ms){target="_blank"} | Erfahren Sie, wie der Adobe Marketing Agent für Microsoft 365 Copilot Experience Platform direkt mit Microsoft 365 Copilot verbindet. | &#x200B;6. April 2026 |
 | [!DNL AEM CS] | [Cloud Manager MCP-Server](https://experienceleague.adobe.com/de/docs/experience-manager-learn/cloud-service/ai/mcp-servers/cloud-manager){target="_blank"} | Erfahren Sie, wie der Cloud Manager MCP-Server es KI-Tools ermöglicht, mit AEM as a Cloud Service zu interagieren, um Programme, Umgebungen, Repositorys und Pipelines zu verwalten. | &#x200B;6. April 2026 |
 | [!DNL Acrobat Services] | [Acrobat Analyzer](https://experienceleague.adobe.com/de/docs/events/acrobat-analyzer-webinars/overview){target="_blank"} | In den Adobe Acrobat Analyzer-Webinaren erfahren Sie, wie Generative AI strukturierte, überprüfbare Einblicke aus Dokumenten extrahiert, um Workflows zu automatisieren, Risiken zu reduzieren und die Entscheidungsfindung im Unternehmen im großen Maßstab zu beschleunigen. | &#x200B;10. März 2026 |
-| [!DNL CX Enterprise] | [Adobe Experience Platform-Agenten für verbesserte Marketing-Effizienz und bessere Geschäftsergebnisse](https://www.youtube.com/live/VlxHXfEnqjI){target="_blank"} | Diese exklusive Session bietet eine aufschlussreiche Frage- und Antwortsitzung mit Anjul Bhambhri, Senior Vice President von Adobe CX Enterprise. Entdecken Sie die Journey und die kühne Vision von Adobe, um innovative KI-Funktionen für Agentic bereitzustellen, mit denen Marketing- und Kreativprofis komplexe Schritte automatisieren, die Entscheidungsfindung beschleunigen und die Kapazität ihrer Teams erweitern können, ohne die Kontrolle oder Aufsicht zu beeinträchtigen. | &#x200B;3. März 2026 |
-| [!DNL CX Enterprise] | [Nutzung von Agentenvorgängen und KI-Guthaben](https://experienceleague.adobe.com/de/docs/core-services/interface/features/ai-credit-consumption){target="_blank"} | Erfahren Sie mehr über Agentenaufträge und KI-Kreditverbrauchsraten in CX Enterprise-Programmen. | &#x200B;3. März 2026 |
+| [!DNL CX Enterprise] | [Adobe Experience Platform-Agenten für verbesserte Marketing-Effizienz und bessere Geschäftsergebnisse](https://www.youtube.com/live/VlxHXfEnqjI){target="_blank"} | Diese exklusive Sitzung umfasst eine aufschlussreiche Frage- und Antwortsitzung mit Anjul Bhambhri, Senior Vice President von Adobe CX Enterprise. Entdecken Sie die Journey und die kühne Vision von Adobe, um innovative KI-Funktionen für Agentic bereitzustellen, mit denen Marketing- und Kreativprofis komplexe Schritte automatisieren, die Entscheidungsfindung beschleunigen und die Kapazität ihrer Teams erweitern können, ohne die Kontrolle oder Aufsicht zu beeinträchtigen. | &#x200B;3. März 2026 |
+| [!DNL CX Enterprise] | [Nutzung von Agentenvorgängen und KI-Guthaben](https://experienceleague.adobe.com/de/docs/core-services/interface/features/ai-credit-consumption){target="_blank"} | Erfahren Sie mehr über Agent-Aufträge und KI-Kreditverbrauchsraten in CX Enterprise-Anwendungen. | &#x200B;3. März 2026 |
 
 ## [!DNL Adobe System Status] {#status}
 
@@ -122,7 +122,7 @@ Versionsverlauf:
 
 ## [!DNL Adobe Experience Platform] {#platform}
 
-Aktuelle Versionsinformationen, neue Dokumentation und Support-Artikel.
+Hier finden Sie Informationen zur neuesten Version, neue Dokumentationen und Support-Artikel.
 
 **Experience Platform – 24. März 2026**
 
@@ -130,7 +130,7 @@ Aktuelle Versionsinformationen, neue Dokumentation und Support-Artikel.
 
 **Mobile SDK – 3. April 2026**
 
-* [Versionshinweise zu [!DNL Experience Platform] Mobile SDK](https://developer.adobe.com/client-sdks/documentation/release-notes/){target="_blank"}
+* [Versionshinweise zum [!DNL Experience Platform] Mobile SDK](https://developer.adobe.com/client-sdks/documentation/release-notes/){target="_blank"}
 
 ### Neue [!DNL Experience Platform]-Tutorials{#tutorials-aep}
 
@@ -219,7 +219,7 @@ Neue Artikel und Aktualisierungen vorhandener Artikel für [!DNL Customer Journe
 
 | Veröffentlicht | Name | Typ | Beschreibung |
 |---------|----|----|-----------|
-| Februar 2026 | [Fehler bei der Änderung des Datensatztyps abgeleiteter Feld-Trigger in CJA](https://experienceleague.adobe.com/de/docs/experience-cloud-kcs/kbarticles/ka-30065){target="_blank"} | Neuer Artikel | Erfahren Sie mehr über die Lösungen für das Problem, dass Customer Journey Analytics einen Fehler anzeigt, wenn Sie [!UICONTROL &#x200B; einem bestehenden abgeleiteten Feld eine &#x200B;] hinzufügen. |
+| Februar 2026 | [Fehler bei der Änderung des Datensatztyps abgeleiteter Feld-Trigger in CJA](https://experienceleague.adobe.com/de/docs/experience-cloud-kcs/kbarticles/ka-30065){target="_blank"} | Neuer Artikel | Erfahren Sie mehr über die Lösungen für das Problem, dass Customer Journey Analytics einen Fehler anzeigt, wenn Sie [!UICONTROL  einem bestehenden abgeleiteten Feld eine ] hinzufügen. |
 | Februar 2026 | [Verstehen und verwenden Sie die Dimension [!UICONTROL Personen-ID], um Abweichungen bei der Personenanzahl zu beheben](https://experienceleague.adobe.com/de/docs/experience-cloud-kcs/kbarticles/ka-30068){target="_blank"} | Neuer Artikel | Erfahren Sie mehr über die Lösungen für das Problem, wenn Personen in einer CJA-Verbindung mit mehreren Datensätzen mit unterschiedlichen Identitätsfeldern falsch aussehen oder schwer zu erklären sind. |
 
 ## [!DNL Adobe Streaming Media Analytics] {#sma}
@@ -308,7 +308,7 @@ Neue Artikel und Aktualisierungen vorhandener Artikel für [!DNL Experience Mana
 | Februar 2026 | Fehler bei der Aktivierung [`cq-dam-cfm-graphql` Bundles nach dem Upgrade in AEM](https://experienceleague.adobe.com/de/docs/experience-cloud-kcs/kbarticles/ka-29892){target="_blank"} | Neuer Artikel | Erfahren Sie mehr über die Lösungen für das Problem, dass das `cq-dam-cfm-graphql`-Bundle nach dem Upgrade auf AEM 6.5.21 und der Installation des Forms-Add-on-Pakets aufgrund nicht aufgelöster Abhängigkeiten nicht gestartet werden kann. |
 | Februar 2026 | [Aktivieren von TLS 1.3 für AEM 6.5.24 auf [!DNL Windows Server 2022]](https://experienceleague.adobe.com/de/docs/experience-cloud-kcs/kbarticles/ka-29790){target="_blank"} | Neuer Artikel | Erfahren Sie mehr über die Lösungen für das Problem, wenn TLS 1.3 in AEM 6.5.24 unter [!DNL Windows Server 2022] mit [!DNL JBoss] nicht standardmäßig aktiviert ist, obwohl die Plattform dies unterstützt. |
 | Februar 2026 | [Der Sicherungsmodus kann nach dem Upgrade in AEM Forms JEE 6.5.23 nicht deaktiviert werden](https://experienceleague.adobe.com/de/docs/experience-cloud-kcs/kbarticles/ka-29885){target="_blank"} | Neuer Artikel | Erfahren Sie mehr über die Lösungen für das Problem, dass der Sicherungsmodus nach dem Upgrade von AEM Forms JEE auf Version 6.5.23 nicht deaktiviert werden kann. |
-| Februar 2026 | [Benutzer wurden in AEMaaCS automatisch [!UICONTROL &#x200B; Gruppe &#x200B;]Mitwirkende“ hinzugefügt](https://experienceleague.adobe.com/de/docs/experience-cloud-kcs/kbarticles/ka-28145){target="_blank"} | Neuer Artikel | Erfahren Sie mehr über die Lösungen für das Problem, dass Benutzende, die sich über Adobe IMS authentifizieren, automatisch zur Gruppe [!UICONTROL Mitwirkende] in AEMaaCS hinzugefügt werden, auch wenn `DefaultSyncHandler` Konfigurationen so eingestellt sind, dass eine automatische Gruppenmitgliedschaft verhindert wird. |
+| Februar 2026 | [Benutzer wurden in AEMaaCS automatisch [!UICONTROL  Gruppe ]Mitwirkende“ hinzugefügt](https://experienceleague.adobe.com/de/docs/experience-cloud-kcs/kbarticles/ka-28145){target="_blank"} | Neuer Artikel | Erfahren Sie mehr über die Lösungen für das Problem, dass Benutzende, die sich über Adobe IMS authentifizieren, automatisch zur Gruppe [!UICONTROL Mitwirkende] in AEMaaCS hinzugefügt werden, auch wenn `DefaultSyncHandler` Konfigurationen so eingestellt sind, dass eine automatische Gruppenmitgliedschaft verhindert wird. |
 | Februar 2026 | [Live Copy-Seiten werden nicht veröffentlicht, wenn Blueprint in AEMaaCS aktiviert oder deaktiviert ist](https://experienceleague.adobe.com/de/docs/experience-cloud-kcs/kbarticles/ka-28187){target="_blank"} | Neuer Artikel | Erfahren Sie mehr über die Lösungen für das Problem, dass Live Copy-Zielseiten nicht automatisch veröffentlicht werden, wenn der Blueprint in AEMaaCS aktiviert oder deaktiviert wird. |
 | Februar 2026 | [Gelöschte Assets können nach der Aufbewahrungsfrist in AEMaaCS nicht wiederhergestellt werden](https://experienceleague.adobe.com/de/docs/experience-cloud-kcs/kbarticles/ka-29600){target="_blank"} | Neuer Artikel | Erfahren Sie mehr über die Lösungen für das Problem, wenn gelöschte Assets in AEMaaCS nach Ablauf des Aufbewahrungszeitraums nicht über den Versionsverlauf oder die Zeitleiste wiederhergestellt werden können. |
 | Februar 2026 | [Workflow-Registrierungen anderer Benutzer können in AEMaaCS nicht angezeigt werden](https://experienceleague.adobe.com/de/docs/experience-cloud-kcs/kbarticles/ka-29645){target="_blank"} | Neuer Artikel | Erfahren Sie mehr über die Lösungen für das Problem, dass Sie Workflow-Registrierungen, die von anderen Benutzern in AEMaaCS erstellt wurden, nicht anzeigen können und dass Berechtigungen auf Ordnerebene diesen Zugriff nicht gewähren. |
@@ -382,7 +382,7 @@ Erhalten Sie die neuesten Aktualisierungen für [!DNL Adobe Campaign]. Erfahren 
 
 * [Web-Benutzeroberfläche – März 2026](https://experienceleague.adobe.com/de/docs/campaign-web/v8/release-notes/release-notes){target="_blank"} | [Produktdokumentation](https://experienceleague.adobe.com/de/docs/campaign-web/v8/campaign-web-home){target="_blank"}
 
-* [[!DNL Campaign] v8: 8.9.2 - 11. März 2026](https://experienceleague.adobe.com/de/docs/campaign/campaign-v8/releases/release-notes#release-8-7-4){target="_blank"} | [Produktdokumentation](https://experienceleague.adobe.com/de/docs/campaign/campaign-v8/campaign-home){target="_blank"}
+* [[!DNL Campaign] v8: 8.9.2 – 11. März 2026](https://experienceleague.adobe.com/de/docs/campaign/campaign-v8/releases/release-notes#release-8-7-4){target="_blank"} | [Produktdokumentation](https://experienceleague.adobe.com/de/docs/campaign/campaign-v8/campaign-home){target="_blank"}
 
 * [[!DNL Campaign Standard]: 26.2](https://experienceleague.adobe.com/de/docs/campaign-standard/using/release-notes/release-notes){target="_blank"} | [Produktdokumentation](https://experienceleague.adobe.com/de/docs/campaign-standard/using/campaign-standard-home){target="_blank"}
 
@@ -405,10 +405,10 @@ Neue Artikel und Aktualisierungen vorhandener Artikel für [!DNL Campaign].
 
 | Veröffentlicht | Name | Typ | Beschreibung |
 |---------|----|----|-----------|
-| Februar 2026 | [Adobe Campaign [!UICONTROL Versanddurchsatz] zeigt eine höhere Anzahl verarbeiteter Nachrichten an](https://experienceleague.adobe.com/de/docs/experience-cloud-kcs/kbarticles/ka-29878){target="_blank"} | Neuer Artikel | Erfahren Sie mehr über die Lösungen für das Problem[!UICONTROL &#x200B; wenn der Bericht „Versanddurchsatz] höhere Werte für verarbeitete oder gesendete pro Stunde anzeigt, die nicht mit den Erfolgsmetriken in der Versandzusammenfassung übereinstimmen. |
+| Februar 2026 | [Adobe Campaign [!UICONTROL Versanddurchsatz] zeigt eine höhere Anzahl verarbeiteter Nachrichten an](https://experienceleague.adobe.com/de/docs/experience-cloud-kcs/kbarticles/ka-29878){target="_blank"} | Neuer Artikel | Erfahren Sie mehr über die Lösungen für das Problem[!UICONTROL  wenn der Bericht „Versanddurchsatz] höhere Werte für verarbeitete oder gesendete pro Stunde anzeigt, die nicht mit den Erfolgsmetriken in der Versandzusammenfassung übereinstimmen. |
 | Februar 2026 | [[!UICONTROL Broadlog-ID] wird nicht über die Campaign Managed Cloud-Integration an Adobe Analytics gesendet](https://experienceleague.adobe.com/de/docs/experience-cloud-kcs/kbarticles/ka-27962){target="_blank"} | Neuer Artikel | Erfahren Sie mehr über die Lösungen für das Problem, dass Adobe Campaign Managed Cloud bei Verwendung der standardmäßigen Workflow-`webAnalyticsSendMetrics` keine [!UICONTROL Broadlog-IDs] an Adobe Analytics sendet. |
 | Februar 2026 | [In den Trackinglogs von Adobe Campaign Managed Cloud fehlen Betriebssystem- und Geräteversionsdaten](https://experienceleague.adobe.com/de/docs/experience-cloud-kcs/kbarticles/ka-28131){target="_blank"} | Neuer Artikel | Erfahren Sie mehr über die Lösungen für das Problem, wenn Trackinglogs in Adobe Campaign Managed Cloud nur Geräte- und Betriebssystemversionen anzeigen und das Produkt keine Felder für Betriebssystemversionen, Gerätemodelle oder -versionen enthält. |
-| Februar 2026 | [**[!UICONTROL &#x200B; Schaltfläche „Sprache hinzufügen &#x200B;]**&#x200B;fehlt im E-Mail-Builder für die Campaign-Web-Benutzeroberfläche](https://experienceleague.adobe.com/de/docs/experience-cloud-kcs/kbarticles/ka-29770){target="_blank"} | Neuer Artikel | Erfahren Sie mehr über die Lösungen für das Problem, dass beim Bearbeiten eines E **[!UICONTROL Mail-Versands in E-Mail-Builder der für die Web-Benutzeroberfläche von Adobe Campaign v8 die Schaltfläche]** Sprache hinzufügen“ fehlt. |
+| Februar 2026 | [**[!UICONTROL  Schaltfläche „Sprache hinzufügen ]**fehlt im E-Mail-Builder für die Campaign-Web-Benutzeroberfläche](https://experienceleague.adobe.com/de/docs/experience-cloud-kcs/kbarticles/ka-29770){target="_blank"} | Neuer Artikel | Erfahren Sie mehr über die Lösungen für das Problem, dass beim Bearbeiten eines E **[!UICONTROL Mail-Versands in E-Mail-Builder der für die Web-Benutzeroberfläche von Adobe Campaign v8 die Schaltfläche]** Sprache hinzufügen“ fehlt. |
 | Februar 2026 | [Versandlimit für Sprachvarianten in Adobe Campaign v8](https://experienceleague.adobe.com/de/docs/experience-cloud-kcs/kbarticles/ka-29785){target="_blank"} | Neuer Artikel | Erfahren Sie mehr über die Lösungen für das Problem, wenn ein Versand mit mehr als 40 Sprachvarianten in Adobe Campaign v8 konfiguriert ist, was nicht unterstützt wird. |
 | Februar 2026 | [Push-Versand schlägt während der Workflow-Ausführung in Adobe Campaign Classic v8 fehl](https://experienceleague.adobe.com/de/docs/experience-cloud-kcs/kbarticles/ka-29871){target="_blank"} | Neuer Artikel | Erfahren Sie mehr über die Lösungen für das Problem, dass der Push-Versand während der Workflow-Ausführung in der Zielvorbereitungsphase fehlschlägt, da temporäre Workflow-Tabellen in Postgres erstellt werden, während die Versandvorbereitung in [!DNL Snowflake] ausgeführt wird. |
 | Februar 2026 | [Autorisierungsfehler beim Senden von Sendungen in Adobe Campaign v8](https://experienceleague.adobe.com/de/docs/experience-cloud-kcs/kbarticles/ka-30003){target="_blank"} | Neuer Artikel | Erfahren Sie mehr über die Lösungen für das Problem, dass Benutzende ohne Administratorrechte Autorisierungsfehler erhalten, wenn sie in Adobe Campaign v8 mit einer Kampagne verknüpfte Sendungen senden oder bestätigen, selbst wenn Ordnerberechtigungen korrekt zugewiesen sind. |
@@ -456,7 +456,7 @@ Erfahren Sie mehr über die neuesten Versionsinformationen für [!DNL Journey Op
 
 Neueste Version: **2026.3 – 27. März 2026**
 
-* [Versionshinweise zu AJO B2B edition](https://experienceleague.adobe.com/de/docs/journey-optimizer-b2b/user/release-notes){target="_blank"}
+* [Versionshinweise zur AJO B2B Edition](https://experienceleague.adobe.com/de/docs/journey-optimizer-b2b/user/release-notes){target="_blank"}
 
 **B2B-Ressourcen in AJO**
 
@@ -513,7 +513,7 @@ Erfahren Sie mehr über die neuesten Versionshinweise für [!DNL Adobe Workfront
 
 Für alle Versionsinformationen:
 
-* [Produktversionen von Adobe  [!DNL Workfront] &#x200B;](https://experienceleague.adobe.com/de/docs/workfront/using/product-announcements/product-releases/product-releases){target="_blank"}
+* [Produktversionen von Adobe  [!DNL Workfront] ](https://experienceleague.adobe.com/de/docs/workfront/using/product-announcements/product-releases/product-releases){target="_blank"}
 
 * [Überblick über die Versionsaktivität von Adobe  [!DNL Workfront]  Fusion](https://experienceleague.adobe.com/de/docs/workfront-fusion/using/fusion-release-activity/fusion-release-activity){target="_blank"}
 
