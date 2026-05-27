@@ -24,7 +24,7 @@ Informationen, die Ihnen dabei helfen, Adobe zu kontaktieren und die rechtlichen
 
 Das Team der Adobe Marketing Cloud-Kundenunterstützung hilft Ihnen gerne weiter und bietet eine Reihe von Mechanismen, mit denen Sie eingebunden werden können:
 
-Siehe [Adobe Enterprise Support kontaktieren](https://helpx.adobe.com/contact/enterprise-support.ec.html)
+Siehe [Adobe Enterprise Support kontaktieren](https://helpx.adobe.com/de/contact/enterprise-support.ec.html)
 
 ## Service, Funktionen und Abrechnung {#section_FA4F5274FDFE4DF7BB079E575877DFC2}
 
@@ -46,4 +46,4 @@ Adobe Systems welcome any suggestions or feedback regarding this solution. You c
 
 Adobe and the Adobe logo are either registered trademarks or trademarks of Adobe Systems Incorporated in the United States and/or other countries. Ein Markensymbol (®, ™ usw.) kennzeichnet eine Adobe-Marke.
 
-All third-party trademarks are the property of their respective owners. Aktualisierte Informationen/zusätzliche Drittanbieter-Code-Informationen unter [https://www.adobe.com/go/thirdparty](https://www.adobe.com/de/products/eula/third_party.html).
+All third-party trademarks are the property of their respective owners. Aktualisierte Informationen/zusätzliche Drittanbieter-Code-Informationen unter [https://www.adobe.com/go/thirdparty_de](https://www.adobe.com/de/products/eula/third_party.html).
