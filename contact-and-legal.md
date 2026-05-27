@@ -1,6 +1,6 @@
 ---
-description: Hier finden Sie Angaben zur Kontaktaufnahme mit Adobe und rechtliche Hinweise zu Ihrer Nutzung des Produkts und der Dokumentation.
-keywords: dynamisches Tag-Management; Versionshinweise
+description: Informationen, die Ihnen dabei helfen, Adobe zu kontaktieren und die rechtlichen Probleme im Zusammenhang mit der Verwendung dieses Produkts und der Dokumentation zu verstehen.
+keywords: Dynamic Tag Management;Versionshinweise
 seo-description: Information to help you contact Adobe and understand the legal issues concerning your use of this product and documentation.
 seo-title: Contact and Legal Information
 title: Kontakt und rechtliche Informationen
@@ -9,26 +9,26 @@ internal: n
 translate: y
 source-git-commit: 759707638404f746de2e71ac27bd16926a8d1151
 workflow-type: tm+mt
-source-wordcount: '219'
-ht-degree: 95%
+source-wordcount: '235'
+ht-degree: 34%
 
 ---
 
 
 # Kontakt und rechtliche Informationen
 
-Hier finden Sie Angaben zur Kontaktaufnahme mit Adobe und rechtliche Hinweise zu Ihrer Nutzung des Produkts und der Dokumentation.
+Informationen, die Ihnen dabei helfen, Adobe zu kontaktieren und die rechtlichen Probleme im Zusammenhang mit der Verwendung dieses Produkts und der Dokumentation zu verstehen.
 
 
 ## Hilfe und technischer Support {#section_354AC2658BA84A2A96E64C5B2C43B73B}
 
-Das Adobe Marketing Cloud-Team zur Kundenunterstützung hilft Ihnen gern und kann auf verschiedenen Wegen kontaktiert werden:
+Das Team der Adobe Marketing Cloud-Kundenunterstützung hilft Ihnen gerne weiter und bietet eine Reihe von Mechanismen, mit denen Sie eingebunden werden können:
 
-Siehe [Adobe Enterprise Support kontaktieren](https://helpx.adobe.com/de/contact/enterprise-support.ec.html)
+Siehe [Adobe Enterprise Support kontaktieren](https://helpx.adobe.com/contact/enterprise-support.ec.html)
 
-## Service, Funktionalität und Rechnungsstellung {#section_FA4F5274FDFE4DF7BB079E575877DFC2}
+## Service, Funktionen und Abrechnung {#section_FA4F5274FDFE4DF7BB079E575877DFC2}
 
-Je nach Konfiguration Ihrer Lösung stehen Ihnen eventuell einige der in diesem Handbuch beschriebenen Optionen nicht zur Verfügung. Da für jeden Kunden besondere Bedingungen gelten, entnehmen Sie Informationen über Preise, Fälligkeitsdaten und Bedingungen bitte Ihrem Vertrag. Wenden Sie sich an Ihren Kundenbetreuer, falls Sie etwas zu Ihrem Service-Level hinzufügen oder es ändern möchten oder Fragen zu Ihrem aktuellen Service haben.
+Je nach Konfiguration Ihrer Lösung stehen Ihnen eventuell einige der in diesem Handbuch beschriebenen Optionen nicht zur Verfügung. Da jedes Konto einzigartig ist, finden Sie in Ihrem Vertrag die Preise, Fälligkeitsdaten, Bedingungen und Konditionen. Wenn Sie Ihr Service-Level hinzufügen oder anderweitig ändern möchten oder Fragen zu Ihrem aktuellen Service haben, wenden Sie sich an Ihren Account Manager.
 
 <!--
 ## Feedback {#section_8154D6D712054220A90D85FA8E92933E}
@@ -42,8 +42,8 @@ Adobe Systems welcome any suggestions or feedback regarding this solution. You c
  <li> Published by Adobe Systems Incorporated. </li> 
 </ul>
 
-[Nutzungsbedingungen](https://www.adobe.com/go/marketingcloud_terms_of_use) | [Datenschutzcenter](https://www.adobe.com/de/privacy/policy.html)
+[Nutzungsbedingungen](https://www.adobe.com/go/marketingcloud_terms_of_use) | [Privacy Center](https://www.adobe.com/de/privacy/policy.html)
 
-Adobe and the Adobe logo are either registered trademarks or trademarks of Adobe Systems Incorporated in the United States and/or other countries. Ein Markensymbol (®, ™ usw.) bezeichnet eine Adobe-Marke.
+Adobe and the Adobe logo are either registered trademarks or trademarks of Adobe Systems Incorporated in the United States and/or other countries. Ein Markensymbol (®, ™ usw.) kennzeichnet eine Adobe-Marke.
 
-All third-party trademarks are the property of their respective owners. Updated Information/Additional Third-Party Code Information available at [https://www.adobe.com/go/thirdparty_de](https://www.adobe.com/de/products/eula/third_party/).
+All third-party trademarks are the property of their respective owners. Aktualisierte Informationen/zusätzliche Drittanbieter-Code-Informationen unter [https://www.adobe.com/go/thirdparty](https://www.adobe.com/de/products/eula/third_party.html).
