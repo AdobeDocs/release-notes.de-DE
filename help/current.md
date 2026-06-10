@@ -5,9 +5,9 @@ doc-type: release notes
 last-update: January 2026
 author: mfrei
 mini-toc-levels: 2
-source-git-commit: b50bb01766d8cfadeeed250b7fc0d5a6e5b084ed
+source-git-commit: 877f89e212d5753fe765a5f1bac14bc61891b0bf
 workflow-type: tm+mt
-source-wordcount: '6063'
+source-wordcount: '6066'
 ht-degree: 52%
 
 ---
@@ -19,7 +19,7 @@ Diese Seite hilft Ihnen bei Folgendem:
 * Erfahren Sie mehr über die neue generative KI- und agentische KI-Funktion in CX Enterprise
 * Alle Links zu anwendungsspezifischen Versionshinweisen suchen
 * Mehr über die neuesten Lernmöglichkeiten auf Experience League (Hilfeseite zu CX Enterprise von Adobe) finden
-* Informationen über neue Veranstaltungen erhalten
+* Informieren Sie sich über neue Ereignisse in Experience League
 * Die neuesten Support-Artikel ansehen
 
 <!--
@@ -28,7 +28,7 @@ Diese Seite hilft Ihnen bei Folgendem:
 >To receive an email notification about updates to this page, subscribe to the [Priority Product Update](https://www.adobe.com/subscription/priority-product-update.html). 
 -->
 
-Letzte Aktualisierung: **9. Juni 2026**
+Letzte Aktualisierung: **10. Juni 2026**
 
 ## Neue Funktionen
 
