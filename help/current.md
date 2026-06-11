@@ -5,9 +5,9 @@ doc-type: release notes
 last-update: January 2026
 author: mfrei
 mini-toc-levels: 2
-source-git-commit: b142d7e8d2b4b939a706e6065c85a58a9a9e9c1d
+source-git-commit: c2c033d86d985c059d1266f70568087b756605d5
 workflow-type: tm+mt
-source-wordcount: '6331'
+source-wordcount: '6383'
 ht-degree: 48%
 
 ---
@@ -28,7 +28,7 @@ Diese Seite hilft Ihnen bei Folgendem:
 >To receive an email notification about updates to this page, subscribe to the [Priority Product Update](https://www.adobe.com/subscription/priority-product-update.html). 
 -->
 
-Letzte Aktualisierung: **10. Juni 2026**
+Letzte Aktualisierung: **11. Juni 2026**
 
 ## Neue Funktionen
 
@@ -84,6 +84,7 @@ Hier finden Sie neue und aktuelle Lernressourcen, die für generative und agenti
 
 | Produkt | Ressource | Beschreibung | Aktualisiert |
 | ------- | ------- | ------- | ------- |
+| CX Enterprise | [CX Enterprise Agent KI-Funktionskatalog](https://agentic-capability-explorer.entapp.adproto.com/) | Erfahren Sie, welche Agent-KI-Aufträge in Ihren lizenzierten CX Enterprise-Apps verfügbar sind. Weitere Informationen finden Sie unter [Nutzung von Adobe Experience Platform](https://experienceleague.adobe.com/de/docs/core-services/interface/features/ai-credit-consumption)Agentenvorgängen und KI-Guthaben . | **11. Juni 2026** |
 | [!DNL CX Enterprise] | [KI-Überwachungs-Dashboards](https://experienceleague.adobe.com/de/docs/core-services/interface/features/monitoring){target="_blank"} | CX Enterprise bietet jetzt Dashboards zur Überwachung der Nutzung der Agent-KI in vorhandenen Anwendungen. Nachverfolgung der Akzeptanz, Überprüfung von Unterhaltungen und Feedback sowie Verwaltung der KI-Kreditnutzung für Experience Platform-Agenten, auf die über den KI-Assistenten und andere Gesprächsoberflächen zugegriffen wird. Die Ansichten Übersicht, Benutzer, Feedback und KI-Credits helfen den Verantwortlichen für die Governance, die Akzeptanz der Daten zu steuern. | **2. Juni 2026** |
 | [!DNL CX Enterprise] - Experience League | [KI-Hub](https://experienceleague.adobe.com/de/ai-training){target="_blank"} | Der KI-Hub von Experience League hilft Marketing-Fachleuten, praktische Kenntnisse im Bereich KI für die tägliche Marketing-Arbeit zu erwerben. Lernen Sie von Gleichgesinnten, die sich denselben Herausforderungen stellen, und finden Sie heraus, was tatsächlich funktioniert. | &#x200B;15. April 2026 |
 | [!DNL CX Enterprise] | [Adobe Marketing Agent für Microsoft 365 Copilot](https://experienceleague.adobe.com/de/docs/experience-cloud-ai/experience-cloud-ai/agents/ama-ms){target="_blank"} | Erfahren Sie, wie der Adobe Marketing Agent für Microsoft 365 Copilot Experience Platform direkt mit Microsoft 365 Copilot verbindet. | &#x200B;6. April 2026 |
