@@ -5,9 +5,9 @@ doc-type: release notes
 last-update: January 2026
 author: mfrei
 mini-toc-levels: 2
-source-git-commit: 6a280bdfb3098a23c024e896996a283b6731d0d0
+source-git-commit: de4e6828e89183af7c845d6ca445c9326b3af804
 workflow-type: tm+mt
-source-wordcount: '7256'
+source-wordcount: '7264'
 ht-degree: 30%
 
 ---
@@ -325,15 +325,7 @@ Neue Artikel und Aktualisierungen vorhandener Artikel für Adobe Commerce.
 
 ### [!DNL Adobe Target] {#target}
 
-Erhalten Sie Zugriff auf neue Tutorials für [!DNL Adobe Target].
-
-<!--
-#### New [!DNL Target] support knowledge base{#kb-target}
-
-| Published | Name | Type | Description |
-| --------- | ---- | ---- | ----------- |
-| April 2026 | [Adobe Target Edge interact calls return 207 with *TGT-12201-403 Unauthorized Mbox host - localhost* error](https://experienceleague.adobe.com/de/docs/experience-cloud-kcs/kbarticles/ka-30331) | New article | Learn about the solutions to the issue when Adobe Target Edge interact calls return HTTP 207 with *TGT-12201-403 Unauthorized Mbox host - localhost* error when Host Authentication is enabled. |
--->
+Besuchen Sie [!DNL Adobe Target] [Tutorials](https://experienceleague.adobe.com/de/docs/target-learn/tutorials/overview) um die neuesten Inhalte zu erhalten.
 
 ### [!DNL Adobe Campaign] {#ac}
 
