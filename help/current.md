@@ -5,9 +5,9 @@ doc-type: release notes
 last-update: January 2026
 author: mfrei
 mini-toc-levels: 2
-source-git-commit: 0cda8de324d183a470a80ce198d797d46410fb63
+source-git-commit: cb1d954668ee47f2414313cb624c7662b3aef1e4
 workflow-type: tm+mt
-source-wordcount: '7107'
+source-wordcount: '7116'
 ht-degree: 28%
 
 ---
@@ -43,7 +43,7 @@ Finden Sie die neuesten Lernressourcen, die für generative und agentische KI in
 
 | Anwendung | Update | Beschreibung | Aktualisiert |
 | ------- | ------- | ------- | ------- |
-| CX Enterprise | **[!DNL Coworker]** | CX Enterprise Coworker ist eine agentische KI-Anwendung, die End-to-End-Workflows für das Kundenerlebnis automatisiert. Es erkennt Signale, erstellt Zielgruppen und startet Kampagnen mit integrierter Governance in Stunden. | &#x200B;11. Juni 2026 |
+| CX Enterprise | **[!DNL Coworker]** | [CX Enterprise Coworker](https://experienceleague.adobe.com/en/docs/cx-enterprise-coworker/content/home) ist eine agentische KI-Anwendung, die End-to-End-Workflows für Kundenerlebnisse automatisiert. Es erkennt Signale, erstellt Zielgruppen und startet Kampagnen mit integrierter Governance in Stunden. | &#x200B;11. Juni 2026 |
 | CX Enterprise | **Agent AI-Fähigkeitskatalog** | Erfahren Sie, welche Agent-KI-Aufträge in Ihren lizenzierten CX Enterprise-Apps verfügbar sind. Suchen Sie den Link zu [Vorgängen für Adobe Experience Platform-Agenten und der Nutzung von KI-Guthaben](https://experienceleague.adobe.com/de/docs/core-services/interface/features/ai-credit-consumption). | &#x200B;11. Juni 2026 |
 | [!DNL CX Enterprise] | **[!UICONTROL Überwachung]** | CX Enterprise bietet jetzt [KI-Überwachungs-Dashboards](https://experienceleague.adobe.com/de/docs/core-services/interface/features/monitoring){target="_blank"} zur Überwachung der Nutzung der agenten KI in vorhandenen Anwendungen. Nachverfolgung der Akzeptanz, Überprüfung von Unterhaltungen und Feedback sowie Verwaltung der KI-Kreditnutzung für Experience Platform-Agenten, auf die über den KI-Assistenten und andere Gesprächsoberflächen zugegriffen wird. Die Ansichten Übersicht, Benutzer, Feedback und KI-Credits helfen den Verantwortlichen für die Governance, die Akzeptanz der Daten zu steuern. | &#x200B;2. Juni 2026 |
 | [!DNL CX Enterprise] - Experience League | **KI-Schulung** | Der [AI Hub](https://experienceleague.adobe.com/de/ai-training){target="_blank"} von Experience League hilft Marketing-Experten, praktische KI-Kenntnisse für die tägliche Marketing-Arbeit zu entwickeln. Lernen Sie von Gleichgesinnten, die sich denselben Herausforderungen stellen, und finden Sie heraus, was tatsächlich funktioniert. | &#x200B;15. April 2026 |
