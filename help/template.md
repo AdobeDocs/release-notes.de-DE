@@ -84,7 +84,7 @@ Siehe
 
 ### [!UICONTROL Journey Orchestration] {#journey}
 
-Mithilfe von Adobe [!UICONTROL Experience Platform können ] individuelle Kunden-Journey in großem Umfang über Erlebniskanäle hinweg orchestrieren, indem sie die Bedürfnisse jeder einzelnen Kundin und jedes einzelnen Kunden in Echtzeit und unabhängig davon, wohin ihr Journey sie führt, intelligent antizipieren.
+Mithilfe von Adobe [!UICONTROL Experience Platform können &#x200B;] individuelle Kunden-Journey in großem Umfang über Erlebniskanäle hinweg orchestrieren, indem sie die Bedürfnisse jeder einzelnen Kundin und jedes einzelnen Kunden in Echtzeit und unabhängig davon, wohin ihr Journey sie führt, intelligent antizipieren.
 
 #### Zusätzliche Ressourcen für [!UICONTROL Journey Orchestration]
 
