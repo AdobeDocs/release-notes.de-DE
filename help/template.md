@@ -6,13 +6,13 @@ last-update: June 2021
 author: mfrei
 source-git-commit: 40afb853a97a270e594a1b84562ed53c8ba66b9a
 workflow-type: tm+mt
-source-wordcount: '713'
-ht-degree: 100%
+source-wordcount: '732'
+ht-degree: 65%
 
 ---
 
 
-# VORLAGE – Versionshinweise zu Adobe Experience Cloud – Monat 2021
+# VORLAGE - Versionshinweise zu Adobe Experience Cloud - Monat 2021
 
 ![Banner](assets/experience-cloud-banner-3.png)
 
@@ -20,11 +20,11 @@ Neue Funktionen und Fehlerbehebungen in Adobe Experience Cloud.
 
 >[!IMPORTANT]
 >
->Diese Seite enthält Inhalte einer Vorabversion und kann bis zur Veröffentlichung geändert werden.
+>Diese Seite enthält Inhalte zur Vorabversion und kann sich vor dem Veröffentlichungsdatum ändern.
 
 >[!NOTE]
 >
->Nach dem Release veröffentlichte neue Informationen werden mit dem Veröffentlichungsdatum gekennzeichnet.
+>Nach der Veröffentlichung veröffentlichte neue Informationen werden mit dem Veröffentlichungsdatum gekennzeichnet.
 
 Letzte Aktualisierung: **September 2021**
 
@@ -32,7 +32,7 @@ Letzte Aktualisierung: **September 2021**
 * [Zentrale Schnittstellenkomponenten von Experience Cloud](#ecloud)
 * [Adobe-Systemstatus](#status)
 * [Experience Platform](#platform)
-* [Experience Platform-Anwendungs-Services](#services)
+* [Experience Platform Application Services](#services)
 * [Journey Optimizer](#journey-opt)
 * [[!DNL Analytics]](#analytics) und [Customer Journey Analytics](#cust-journey)
 * [[!DNL Audience Manager]](#aam)
@@ -48,9 +48,9 @@ Letzte Aktualisierung: **September 2021**
 
 ## Adobe-Systemstatus {#status}
 
-Funktionen und Fehlerbehebungen
+Funktionen und Fehlerbehebungen.
 
-Siehe [Adobe-Systemstatus](https://status.adobe.com/de).
+Siehe [Adobe-](https://status.adobe.com/de).
 
 ## Zentrale Komponenten der Experience Cloud-Benutzeroberfläche {#ecloud}
 
@@ -58,11 +58,11 @@ Die zentralen Komponenten der Experience Cloud-UI umfassen Aktualisierungen, die
 
 ### [!UICONTROL Zentrale Dienste] {#core-services}
 
-Funktionen und Fehlerbehebungen
+Funktionen und Fehlerbehebungen.
 
-### Administration und Entwicklungspersonal {#admin}
+### Administration und Entwicklung {#admin}
 
-Funktionen und Fehlerbehebungen
+Funktionen und Fehlerbehebungen.
 
 ## Experience Platform {#platform}
 
@@ -76,7 +76,7 @@ Versionshinweise für [!DNL Experience Platform,] einschließlich [!DNL Experien
 
 ### [!UICONTROL Experience Cloud ID Service] {#ecid}
 
-Funktionen und Fehlerbehebungen
+Funktionen und Fehlerbehebungen.
 
 ### [!UICONTROL Experience Platform Launch] {#launch}
 
@@ -84,7 +84,7 @@ Siehe
 
 ### [!UICONTROL Journey Orchestration] {#journey}
 
-Mithilfe von Adobe [!UICONTROL Experience Platform] können Sie individuelle Customer Journeys maßstabsgetreu über verschiedene Erlebniskanäle orchestrieren, indem die Bedürfnisse jedes einzelnen Kunden in Echtzeit und unabhängig vom Zielort intelligent antizipiert werden.
+Mithilfe von Adobe [!UICONTROL Experience Platform können &#x200B;] individuelle Kunden-Journey in großem Umfang über Erlebniskanäle hinweg orchestrieren, indem sie die Bedürfnisse jeder einzelnen Kundin und jedes einzelnen Kunden in Echtzeit und unabhängig davon, wohin ihr Journey sie führt, intelligent antizipieren.
 
 #### Zusätzliche Ressourcen für [!UICONTROL Journey Orchestration]
 
@@ -94,14 +94,14 @@ Text
 
 **Funktionen**
 
-Beschreibung der neuen Funktionen. Verwendung von Überschriften oder Tabellen.
+Beschreibung neuer Funktionen Verwenden von Überschriften für eine Tabelle.
 
-**Fehlerbehebungen**
+**Fehlerkorrekturen**
 
-* Fehlerbehebung
-* Fehlerbehebung
-* Fehlerbehebung
-* Fehlerbehebung
+* Korrigieren
+* Korrigieren
+* Korrigieren
+* Korrigieren
 
 ## Analytics {#analytics}
 
@@ -115,7 +115,7 @@ Neue Funktionen und Fehlerbehebungen in Adobe Analytics:
 | Funktion B | Text |
 | Funktion C | Text |
 
-### [!DNL Media Analytics] SDK für [!DNL iOS] und [!DNL Android™] (ehemals VHL SDK) {#aa-va}
+### [!DNL Media Analytics] SDK for [!DNL iOS] &amp; [!DNL Android™] (ehemals VHL SDK) {#aa-va}
 
 | Funktion | Beschreibung |
 | ------- | ------- |
@@ -135,12 +135,12 @@ Text.
 | Funktion B | Text |
 | Funktion C | Text |
 
-**Fehlerbehebungen**
+**Fehlerkorrekturen**
 
-* Fehlerbehebung
-* Fehlerbehebung
-* Fehlerbehebung
-* Fehlerbehebung
+* Korrigieren
+* Korrigieren
+* Korrigieren
+* Korrigieren
 
 ## Audience Manager {#aam}
 
@@ -150,12 +150,12 @@ Text.
 | Funktion B | Text |
 | Funktion C | Text |
 
-**Fehlerbehebungen**
+**Fehlerkorrekturen**
 
-* Fehlerbehebung
-* Fehlerbehebung
-* Fehlerbehebung
-* Fehlerbehebung
+* Korrigieren
+* Korrigieren
+* Korrigieren
+* Korrigieren
 
 ## Experience Manager {#aem}
 
@@ -163,15 +163,15 @@ Neue Funktionen, Fehlerbehebungen und Aktualisierungen in Adobe Experience Manag
 
 ### Produktversionen
 
-**Name der Funktion**
+**Funktionsname**
 
 Beschreibung der Funktionen
 
-**Name der Funktion**
+**Funktionsname**
 
 Beschreibung
 
-**Name der Funktion**
+**Funktionsname**
 
 Beschreibung
 
@@ -181,14 +181,14 @@ Beschreibung
 
 ### Selbsthilfe
 
-**Gemeinsame Dokumentation**
+**Partizipative Dokumentation**
 
-Die folgenden AEM-Dokumentationssätze wurden in eine neue kollaborative Plattform migriert.
+Die folgenden AEM-Dokumentationssätze wurden auf eine neue partizipative Dokumentationsplattform migriert.
 
-* Name des Dokuments
-* Name des Dokuments
+* Dokumentname
+* Dokumentname
 
-### Weitere Ressourcen
+### Zusätzliche Ressourcen
 
 Text
 
@@ -200,12 +200,12 @@ Text
 | Funktion B | Text |
 | Funktion C | Text |
 
-**Fehlerbehebungen**
+**Fehlerkorrekturen**
 
-* Fehlerbehebung
-* Fehlerbehebung
-* Fehlerbehebung
-* Fehlerbehebung
+* Korrigieren
+* Korrigieren
+* Korrigieren
+* Korrigieren
 
 ## Social Media {#soc}
 
@@ -215,22 +215,22 @@ Text
 | Funktion B | Text |
 | Funktion C | Text |
 
-**Fehlerbehebungen**
+**Fehlerkorrekturen**
 
-* Fehlerbehebung
-* Fehlerbehebung
-* Fehlerbehebung
-* Fehlerbehebung
+* Korrigieren
+* Korrigieren
+* Korrigieren
+* Korrigieren
 
 ## Campaign {#ac}
 
 Adobe Campaign bietet die Möglichkeit, direkte Nachrichten über Online- und Offline-Marketing-Kanäle intuitiv und automatisiert zu übermitteln. Sie können nun vorhersagen, was Ihre Kundinnen und Kunden wünschen, und ihnen Erlebnisse bieten, die Sie anhand ihrer Gewohnheiten und Vorlieben ermittelt haben.
 
-### Weitere Ressourcen
+### Zusätzliche Ressourcen
 
 Text
 
-## Adobe Advertising {#adcloud}
+## Werbung {#adcloud}
 
 | Funktion | Beschreibung |
 | ------- | ------- |
@@ -238,12 +238,12 @@ Text
 | Funktion B | Text |
 | Funktion C | Text |
 
-**Fehlerbehebungen**
+**Fehlerkorrekturen**
 
-* Fehlerbehebung
-* Fehlerbehebung
-* Fehlerbehebung
-* Fehlerbehebung
+* Korrigieren
+* Korrigieren
+* Korrigieren
+* Korrigieren
 
 ## Magento {#magento}
 
@@ -251,7 +251,7 @@ Magento-Versionshinweise finden Sie unter:
 
 ## Marketo {#marketo}
 
-Marketo Engage ist eine Komplettlösung für das Leadmanagement. B2B-Marketer können damit Kundenerlebnisse transformieren, indem sie in allen Phasen komplexer Customer Journeys Interaktionen ermöglichen.
+Marketo Engage ist eine Komplettlösung für das Lead-Management. B2B-Marketer können damit Kundenerlebnisse transformieren, indem sie in allen Phasen komplexer Journey Interaktionen ermöglichen.
 
 ### Wesentliche Marketo Engage-Aktualisierungen
 
@@ -276,13 +276,13 @@ Die folgenden Funktionen werden im Laufe dieses Quartals veröffentlicht:
 
 ### Ankündigungen
 
-**Marketo Engage Success Center:** Start im Februar 2020. Das Success Center ist ein produktinternes Hilfesystem, mit dem Sie u. a. Produktdokumente und die Community durchsuchen, Anleitungen aufrufen und auf Inhalte für Anpassungen zugreifen können. Hinweis: Diese Funktion wird als Betaversion in ANZ gestartet und später in diesem Quartal in Nordamerika eingeführt.
+**Marketo Engage Success Center:** Start im Februar 2020. Das Success Center ist ein produktinternes Hilfesystem, mit dem Sie u. a. Produktdokumente und die Community durchsuchen, Anleitungen aufrufen und auf Inhalte für Anpassungen zugreifen können. Hinweis: Diese Funktion wird als Beta-Version in ANZ gestartet und später in diesem Quartal in Nordamerika eingeführt.
 
 ### Veraltete und entfernte Funktionen
 
 * **Asset-API-Parameter „_method“:** Ab September 2020 wird „_method“ nicht mehr vom Asset-API-Endpunkte akzeptiert, um Abfrageparameter zu einem POST-Textkörper weiterzuleiten und URI-Längenbeschränkungen zu umgehen.
 * **Einstellung der Unterstützung für Internet Explorer:** Ab der Juli-Version vom 31. Juli 2020 wird die Benutzeroberfläche von Marketo Engage in Internet Explorer nicht mehr unterstützt.
 
-### Neue Kurse und Tutorials zu Lösungsnamen
+### Neue Lösungsnamen - Kurse und Tutorials
 
 Nachfolgend sind die im vergangenen Monat neu veröffentlichten Videos, Tutorials und Kurse aufgeführt.
