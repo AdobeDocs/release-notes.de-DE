@@ -2,17 +2,17 @@
 title: Zentrale Versionshinweise
 description: Hier finden Sie Links zu Versionshinweisen zu Experience Cloud-Programmen. Sehen Sie sich neue Anleitungsvideos an, lesen Sie Support-Artikel und suchen Sie nach Selbsthilfe-Ressourcen zu Experience League.
 doc-type: release notes
-last-update: August 2026
+last-update: September 2026
 author: mfrei
 mini-toc-levels: 2
-source-git-commit: f98ba938fce628302f65d87be9ee332b7a41e27f
+source-git-commit: 07dffcce63ab1a94468a970d41337657f8fc532e
 workflow-type: tm+mt
 source-wordcount: '21404'
 ht-degree: 14%
 
 ---
 
-# CX Enterprise - zentrale Versionshinweise - August 2026
+# CX Enterprise - zentrale Versionshinweise - September 2026
 
 Auf dieser Seite finden Sie die neuesten Informationen:
 
