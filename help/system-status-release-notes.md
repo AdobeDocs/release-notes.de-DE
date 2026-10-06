@@ -2,12 +2,12 @@
 title: Versionshinweise zum Adobe-Systemstatus
 description: Versionsverlauf für Adobe-Systemstatus (status.adobe.com).
 doc-type: release notes
-last-update: September 2026
+last-update: October 2026
 author: mfrei
-source-git-commit: 012ac83c9545c3ed9a008affe497d866162085dd
+source-git-commit: 079ad317870716d5ca3d5c5cdd42267a86ab62e6
 workflow-type: tm+mt
-source-wordcount: '271'
-ht-degree: 30%
+source-wordcount: '306'
+ht-degree: 27%
 ---
 
 # [!DNL Adobe System Status] – Versionshinweise {#status-release-notes}
@@ -18,6 +18,7 @@ Auf dieser Seite werden [!DNL Adobe System Status] Aktualisierungen im Laufe der
 
 | Datum | Updates |
 | ------- | ------- |
+| &#x200B;1. Oktober 2026 | <ul><li>Fehlerkorrektur - Ein leerer Cloud-Abschnitt wird jetzt behoben, wenn Sie keine Abonnements oder Berechtigungen haben und **Meine Ereignisse** aktiviert ist</li><li>Verbesserte Verfügbarkeit mit Akamai Origin Failover</li><li>Profilabruf zur Verwendung des erforderlichen Identitätsbereichs aktualisiert</li></ul> |
 | März 2026 | <ul><li>Virtueller KI-Assistent – Beta-Version</li><li>Fehlerbehebungen und Verbesserungen</li></ul> |
 | &#x200B;8. Dezember 2025 | <ul><li>Verbesserungen beim Virtual Assistant Feedback (optimierte geführte Workflows, intuitive Symbole)</li><li>Fehlerbehebungen und Verbesserungen</li></ul> |
 | &#x200B;16. Juli 2025 | <ul><li>Virtual Assistant – allgemeine Verfügbarkeit</li><li>Ereignis-ID-Suche auf Produkt- und Cloud-Seiten und im virtuellen Assistenten</li><li>Aktualisierung der Einrichtung von Slack-Benachrichtigungen</li><li>Fehlerbehebungen und Verbesserungen</li></ul> |
