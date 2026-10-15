@@ -5,18 +5,18 @@ doc-type: release notes
 last-update: October 2026
 author: mfrei
 mini-toc-levels: 2
-source-git-commit: a01234edb05a1df886bcff92668492f8ae961256
+source-git-commit: fa32060d6839944dd4cf3f736ba605fe764a011f
 workflow-type: tm+mt
-source-wordcount: '21360'
+source-wordcount: '21428'
 ht-degree: 12%
 ---
 # [!DNL CX Enterprise] Versionshinweise - Oktober 2026 {#top}
 
 Auf dieser Seite finden Sie die neuesten Informationen:
 
-* [Versionshinweise](#application-release-notes) für alle [!DNL CX Enterprise] Anwendungen (aktualisiert **8. Oktober**)
+* [Versionshinweise](#application-release-notes) für alle [!DNL CX Enterprise] Anwendungen (aktualisiert **14. Oktober**)
 * [Veranstaltungen und Neuigkeiten](#events) auf Experience League
-* [[!DNL CX Enterprise Coworker] und KI](#ai) Lernressourcen
+* [[!DNL CX Enterprise Coworker] und KI](#ai) Lernressourcen (aktualisiert **14.**)
 * [Tutorials und Support-Artikel](#articles) verfügbar unter [!DNL Experience League]
 
 >[!TIP]
@@ -29,11 +29,11 @@ Erfahren Sie mehr über neue (und geplante) Updates für alle [!DNL CX Enterpris
 
 **Wichtig:** Bestimmte Anwendungen werden wöchentlich veröffentlicht. Um auf dem Laufenden zu bleiben, besuchen Sie diese Seiten regelmäßig.
 
-Letzte Aktualisierung: **12. Oktober 2026**
+Letzte Aktualisierung: **14. Oktober 2026**
 
 | Anwendung | Releasedatum | URLs für Versionshinweise | Updates |
 | ------------- | ------------- | ------------- | ------------- |
-| [!DNL Adobe Journey Optimizer] | &#x200B;9. Oktober 2026 | [[!DNL Journey Optimizer] -Versionshinweise](https://experienceleague.adobe.com/de/docs/journey-optimizer/using/whats-new/release-notes){target="_blank"} | <ul><li>Validierung von On-Demand-Journey (9. Oktober)</li><li>Business Performance Analysis Kenntnisse in [!DNL CX Enterprise Coworker] (7. Oktober)</li><li>Benutzerdefinierter ausgehender Kanal (GA): Integrieren Sie HTTP-basierte Messaging-Kanäle wie WeChat oder Kakao Talk mit Decisioning, Geschäftsregeln und API-ausgelöster Kampagnenunterstützung</li><li>LINE ist jetzt als nativer ausgehender Kanal in orchestrierten Kampagnen verfügbar</li><li>Sprungaktivitäten in Journey zur Zielgruppen-Qualifizierung (Sprung von Batch-Zielgruppen zu ereignisbasierten Journey-Zielgruppen)</li></ul> |
+| [!DNL Adobe Journey Optimizer] | &#x200B;12. Oktober 2026 | [[!DNL Journey Optimizer] -Versionshinweise](https://experienceleague.adobe.com/de/docs/journey-optimizer/using/whats-new/release-notes){target="_blank"} | <ul><li>Journey-Aktivität zum Beenden der Aktion: Ein Profil aus bis zu fünf eingehenden Aktivitäten oder Erlebnissen entfernen, ohne das Journey zu beenden (12. Oktober)</li><li>Validierung von On-Demand-Journey (9. Oktober)</li><li>Business Performance Analysis Kenntnisse in [!DNL CX Enterprise Coworker] (7. Oktober)</li><li>Benutzerdefinierter ausgehender Kanal (GA): Integrieren Sie HTTP-basierte Messaging-Kanäle wie WeChat oder Kakao Talk mit Decisioning, Geschäftsregeln und API-ausgelöster Kampagnenunterstützung</li><li>Leistungseinstellungen in Treuekonfigurationen: Wählen Sie Treuedatensätze und einen Prioritäts-KPI aus (1. Oktober)</li></ul> |
 | [!DNL Adobe Customer Journey Analytics] | &#x200B;8. Oktober 2026 | [Versionshinweise zu Customer Journey Analytics](https://experienceleague.adobe.com/de/docs/analytics-platform/using/releases/latest?lang=de#releases){target="_blank"} | <ul><li>Konversationseinblicke zur Analyse von LLM-Kundenerlebnissen in Analysis Workspace</li><li>Schreibgeschützte Berechtigung für den Customer Journey Analytics MCP-Server</li><li>Upgrade- und Implementierungsfähigkeiten jetzt in [!DNL CX Enterprise Coworker] verfügbar</li><li>Filtern von Einverständnisrichtlinien und Reporting zu Besuchern, die mit Experience Platform-Einverständnisrichtlinien übereinstimmen</li><li>Analyse von Unterereignissen (Segment auf einzelnen Containern innerhalb eines Ereignisses)</li></ul> |
 | [!DNL Adobe Commerce] as a Cloud Service | &#x200B;7. Oktober 2026 | [Versionshinweise zu Adobe Commerce as a Cloud Service](https://experienceleague.adobe.com/de/docs/commerce/cloud-service/release-notes){target="_blank"} | <ul><li>Firmendetails sind jetzt im Webhook Versandraten verfügbar, um die Versandeignung zu bestimmen</li><li>Neue REST-API-Endpunkte zum Verwalten von Katalogpreisregeln</li><li>reCAPTCHA-Schutz für Uploads vordefinierter Dateien</li><li>REST-API-Unterstützung für benutzerdefinierte Attribute bei Rückgabeelementen</li><li>Option, um nicht authentifizierte Gäste an der Registrierung von Unternehmen zu hindern</li><li>Geplante Aktivierungs- und Ablaufzeiten für Katalogpreisregeln</li><li>Bestellprüfung: Filtern von Bestellungen nach original_number über GraphQL</li></ul> |
 | [!DNL Adobe Analytics] | &#x200B;6. Oktober 2026 | [[!DNL Analytics] -Versionshinweise](https://experienceleague.adobe.com/de/docs/analytics/release-notes/latest){target="_blank"} | <ul><li>Schreibgeschützte Berechtigung für den [!DNL Adobe Analytics] MCP-Server</li><li>Öffnen einer Visualisierung in Analysis Workspace direkt über [!DNL Coworker Chat]</li><li>[!DNL Coworker Chat] Ursachenanalyse erklärt, warum sich eine Metrik geändert hat, und nicht nur, was sich geändert hat</li><li>Analysieren [!DNL Adobe Analytics] Daten in [!DNL Coworker Chat] mithilfe von Eingabeaufforderungen in natürlicher Sprache</li><li>Segmente auf den Datumsbereich des Berichts beschränken (für Besucher-Container der obersten Ebene)</li></ul> |
@@ -88,10 +88,11 @@ Letzte Aktualisierung: **12. Oktober 2026**
 
 ## [!DNL CX Enterprise Coworker]- und KI-Ressourcen {#ai}
 
-Finden Sie die neuesten Lernressourcen, die für [!DNL Coworker]- und KI-Funktionen in [!DNL CX Enterprise]-Programmen veröffentlicht wurden.
+Finden Sie die neuesten Lernressourcen, die für [[!DNL Coworker]](https://experienceleague.adobe.com/de/docs/coworker/content/home)- und KI-Funktionen in [!DNL CX Enterprise]-Programmen veröffentlicht wurden.
 
 | Anwendung | Update | Beschreibung | Aktualisiert |
 | ------- | ------- | ------- | ------- |
+| [!DNL Coworker] | **Dateneinblicke** | [Beschleunigen von Dateneinblicken mit Kollegen, AEM und CJA](https://experienceleague.adobe.com/en/docs/coworker/content/chat/use-cases/data-insights/accelerate-data-insights){target="_blank"} - Erfahren Sie, wie [!DNL Coworker] [!DNL Experience Manager], [!DNL Experience Platform], Web-SDK und [!DNL Customer Journey Analytics] verbindet, um eine Implementierung zu planen und auszuführen, sodass Website-Interaktionsdaten analysebereit sind. | &#x200B;14. Oktober 2026 |
 | [!DNL Coworker] | **Experience League LIVE** | [Coworker Unlocked](https://www.youtube.com/live/hrNuDVQFtLA){target="_blank"}: Zielgruppe und Journey-B2C-Funktionen in Coworker | &#x200B;8. Oktober 2026 |
 | [!DNL Coworker] | **Kampagnen** | [Mit Coworker einen Launch einer digitalen Kampagne planen](https://experienceleague.adobe.com/de/docs/coworker/content/chat/use-cases/workflow-and-planning/plan-digital-campaign-launch){target="_blank"} - Erfahren Sie, wie Sie eine B2C-Marketing-Kampagne planen und starten können, indem Sie Zielgruppen, Journey, Inhalte und Landingpages in einem Chat erstellen. | &#x200B;8. Oktober 2026 |
 | [!DNL Adobe Target] | **Optimierung** | [Experimente mit Coworker, AEM und Target beschleunigen](https://experienceleague.adobe.com/de/docs/coworker/content/chat/use-cases/optimization/accelerate-experimentation){target="_blank"} - Sehen Sie sich einen produktübergreifenden Workflow an, der ein Experiment auf der WKND-Magazinseite erstellt, sodass Coworker die Adobe-Funktionen koordinieren können, die erforderlich sind, um dorthin zu gelangen. | &#x200B;8. Oktober 2026 |
