@@ -4,7 +4,7 @@ product: experience cloud
 user-guide-title: Adobe Experience Cloud – Versionshinweise
 breadcrumb-title: Zentrale Versionshinweise
 user-guide-description: Erfahren Sie mehr über neue Funktionen, Fehlerbehebungen und wichtige Hinweise in Adobe Experience Cloud und Experience Platform.
-user-guide-url: https://www.adobe.com
+user-guide-url: https://www.adobe.com/de
 color: red
 source-git-commit: 8bec27c50695e72a6e2648c5d17aebd7a21ab73a
 workflow-type: tm+mt
