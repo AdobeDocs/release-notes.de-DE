@@ -2,12 +2,12 @@
 title: Versionshinweise zum Adobe-Systemstatus
 description: Versionsverlauf für Adobe-Systemstatus (status.adobe.com).
 doc-type: release notes
-last-update: October 2026
+last-update: November 2026
 author: mfrei
-source-git-commit: 5c94477bd7f3397d2a48228961f95737cec2232e
+source-git-commit: 7c1a3d1b65801e3ae5f6b17cfc32e6e3de249fc3
 workflow-type: tm+mt
-source-wordcount: '271'
-ht-degree: 30%
+source-wordcount: '401'
+ht-degree: 21%
 ---
 
 # [!DNL Adobe System Status] – Versionshinweise {#status-release-notes}
@@ -16,8 +16,14 @@ ht-degree: 30%
 
 Auf dieser Seite werden [!DNL Adobe System Status] Aktualisierungen im Laufe der Zeit verfolgt. Sie wird nur aktualisiert, wenn es eine neue Version zum Reporting gibt.
 
+<!-- 
+[internal](https://wiki.corp.adobe.com/pages/viewpage.action?pageId=2821708019&spaceKey=AdobeStatus&title=Product%2Bpriority%2Bupdate%2B-%2Brelease%2Bnotes) 
+-->
+
 | Datum | Updates |
 | ------- | ------- |
+| &#x200B;16. September 2026 | <ul><li>Kontext im virtuellen KI-Assistenten: Unterstützt Kontext zwischen aufeinander folgenden Eingabeaufforderungen für effizientere Konversationen</li><li>Standardmäßige Startseite, Cloud und Produktseiten: Ereignisse werden jetzt auf der Grundlage Ihrer Berechtigungen und Abonnements standardmäßig vorgegeben. Schalten Sie zwischen **Alle** und **Meine Ereignisse** um, um andere Ereignisse anzuzeigen</li><li>Status-MCP (Beta): Verbinden Sie Status-APIs direkt mit KI-Agenten und LLMs über das Model Context Protocol (MCP). Um der Beta-Version für Kunden beizutreten, senden Sie eine E-Mail an statuscom-adobe-support@adobe.com.</li></ul> |
+| &#x200B;4. Juni 2026 | <ul><li>Allgemeine Verfügbarkeit von KI Virtual Assistant: Schnellerer, konversativer Zugriff auf Ereignis- und Abonnementinformationen im Web und auf Mobilgeräten</li><li>Microsoft Teams-Benachrichtigungen: Veröffentlichen laufender Ereignisse für ein Abonnement für einen Team-Kanal, wenn Sie das Abonnement erstellen oder bearbeiten</li><li>Dem Kalender aus Abonnement-E-Mails (Outlook und anderen Kalendern) für anstehende Wartungs- und Termine hinzufügen</li><li>Fehlerbehebungen bei der Barrierefreiheit und andere Verbesserungen</li></ul> |
 | März 2026 | <ul><li>Virtueller KI-Assistent – Beta-Version</li><li>Fehlerbehebungen und Verbesserungen</li></ul> |
 | &#x200B;8. Dezember 2025 | <ul><li>Verbesserungen beim Virtual Assistant Feedback (optimierte geführte Workflows, intuitive Symbole)</li><li>Fehlerbehebungen und Verbesserungen</li></ul> |
 | &#x200B;16. Juli 2025 | <ul><li>Virtual Assistant – allgemeine Verfügbarkeit</li><li>Ereignis-ID-Suche auf Produkt- und Cloud-Seiten und im virtuellen Assistenten</li><li>Aktualisierung der Einrichtung von Slack-Benachrichtigungen</li><li>Fehlerbehebungen und Verbesserungen</li></ul> |
