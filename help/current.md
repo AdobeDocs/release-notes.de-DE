@@ -6,23 +6,29 @@ last-update: November 2026
 last-substantial-update: 2026-13-2026
 author: mfrei
 mini-toc-levels: 2
-source-git-commit: 1d8a31b77f449087cd7c194b3dd2309e28d50634
+source-git-commit: 8f06996ad7b33f0561546d175ac9477b6ad850f1
 workflow-type: tm+mt
-source-wordcount: '34884'
+source-wordcount: '34982'
 ht-degree: 11%
 ---
 # [!DNL CX Enterprise] Versionshinweise - November 2026 {#top}
 
 Auf dieser Seite finden Sie die neuesten Informationen:
 
-* [Versionshinweise](#application-release-notes) Zusammenfassung aller [!DNL CX Enterprise] Anwendungen (aktualisiert **13. November**)
+* [Versionshinweise](#application-release-notes) Zusammenfassung aller [!DNL CX Enterprise] Anwendungen (aktualisiert **17. November**)
 * [Aktuelle Videos und Support-Artikel](#articles) nach Anwendung
-
-Um Veranstaltungen zu finden und sich dafür zu registrieren, besuchen Sie [Experience League Events](https://experienceleague.adobe.com/de/events).
 
 >[!TIP]
 >
 >Um monatliche E-Mails über neue [!DNL CX Enterprise] Funktionen und Updates auf dieser Seite zu erhalten, aktivieren Sie **[!UICONTROL Prioritätsprodukt-Update]** auf der Seite [[!UICONTROL Newsletter]](https://account.adobe.com/magazines).
+
+## Ereignisse {#events}
+
+| Anwendungen | Ereignis | Beschreibung | Datum | Registrierung |
+| ---------- | ---------- | ---------- | ---------- | ---------- |
+| [!DNL Adobe Experience Platform], [!DNL Real-Time CDP], [!DNL Adobe Journey Optimizer] | _Experience League LIVE_ | Schnellere Skalierung, flexible Entwicklung: Adobe Experience Platform-Wachstumskredite erfüllen. | &#x200B;2. Dezember um 8:30 Uhr MEZ | [Registrieren](https://engage.adobe.com/ExpLeagueLive-261202.html){target="_blank"} |
+
+Um Veranstaltungen zu finden und sich dafür zu registrieren, besuchen Sie [Experience League Events](https://experienceleague.adobe.com/de/events).
 
 ## [!DNL CX Enterprise] – Versionshinweise {#application-release-notes}
 
@@ -30,11 +36,11 @@ Erfahren Sie mehr über neue (und geplante) Updates für alle [!DNL CX Enterpris
 
 **Wichtig:** Bestimmte Anwendungen werden wöchentlich veröffentlicht. Um auf dem Laufenden zu bleiben, besuchen Sie diese Seiten regelmäßig.
 
-Letzte Aktualisierung: **13. November 2026**
+Letzte Aktualisierung: **16. November 2026**
 
 | Anwendung | Hinzufügedatum | URLs für Versionshinweise | Neue Funktionen |
 | ------------- | ------------- | ------------- | ------------- |
-| **[!DNL Adobe Journey Optimizer]** | &#x200B;13. November 2026 | [[!DNL Journey Optimizer] -Versionshinweise](https://experienceleague.adobe.com/de/docs/journey-optimizer/using/whats-new/release-notes){target="_blank"} | <ul><li>Migrieren von Transaktions-E-Mail-Kampagnen: Der Arbeitsbereich Migration unterstützt jetzt Kampagnen, sodass Sie Transaktions-E-Mails von Ihrer bestehenden Marketing-Plattform in API-ausgelöste Kampagnen umwandeln können (eingeschränkte Verfügbarkeit) (13. November)</li><li>Dynamische Token-Ersetzung für Experience Manager-Fragmente: Verwenden Sie Profilattributpfade direkt in Inhaltsfragmenten, keine Token-Zuordnung erforderlich (eingeschränkte Verfügbarkeit) (5. November)</li><li>Profil- und Kontextfunktionen für personalisierte Optimierungsmodelle zur Verbesserung der Angebotsrelevanz (eingeschränkte Verfügbarkeit) (3. November)</li><li>Orchestrierte Kampagnen in [!DNL CX Enterprise Coworker]: Auflisten und Filtern von Kampagnen, Abrufen von Details und Verlauf und Rendern von Workflow-Diagrammen (3. November)</li><li>Benutzerdefinierte Metadaten für Kampagnen und Journey: bis zu 10 benutzerdefinierte Geschäftsfelder pro Entitätstyp (eingeschränkte Verfügbarkeit) (29. Oktober)</li></ul>[Tutorials und Support-Artikel](#tutorials-ajo) |
+| **[!DNL Adobe Journey Optimizer]** | &#x200B;16. November 2026 | [[!DNL Journey Optimizer] -Versionshinweise](https://experienceleague.adobe.com/de/docs/journey-optimizer/using/whats-new/release-notes){target="_blank"} | <ul><li>Migrieren von Transaktions-E-Mail-Kampagnen: Der Arbeitsbereich Migration unterstützt jetzt Kampagnen, sodass Sie Transaktions-E-Mails von Ihrer bestehenden Marketing-Plattform in API-ausgelöste Kampagnen umwandeln können (eingeschränkte Verfügbarkeit) (13. November)</li><li>Dynamische Token-Ersetzung für Experience Manager-Fragmente: Verwenden Sie Profilattributpfade direkt in Inhaltsfragmenten, keine Token-Zuordnung erforderlich (eingeschränkte Verfügbarkeit) (5. November)</li><li>Profil- und Kontextfunktionen für personalisierte Optimierungsmodelle zur Verbesserung der Angebotsrelevanz (eingeschränkte Verfügbarkeit) (3. November)</li><li>Orchestrierte Kampagnen in [!DNL CX Enterprise Coworker]: Auflisten und Filtern von Kampagnen, Abrufen von Details und Verlauf und Rendern von Workflow-Diagrammen (3. November)</li><li>Benutzerdefinierte Metadaten für Kampagnen und Journey: bis zu 10 benutzerdefinierte Geschäftsfelder pro Entitätstyp (eingeschränkte Verfügbarkeit) (29. Oktober)</li></ul>[Tutorials und Support-Artikel](#tutorials-ajo) |
 | **[!DNL Adobe Target]** | &#x200B;12. November 2026 | [[!DNL Adobe Target] -Versionshinweise](https://experienceleague.adobe.com/de/docs/target/using/release-notes/release-notes){target="_blank"} | <ul><li>26.11.1: [!DNL Coworker] Einstiegspunkte in der Aktivitätenliste: eine Schaltfläche Meine Live-Tests überprüfen und ein Menü [!DNL Coworker] fragen für jede Aktivität</li><li>26.10.2: Es wurden Zieleinstellungen korrigiert, die in der Aktivitätsübersicht falsch angezeigt wurden, es wurden Sicherungsempfehlungen erstellt, die nach der Bearbeitung der Promotion erstellt wurden, und nach etwa zwei Wochen gelöschte Berichtsvorgaben hinzugefügt. Safari-Unterstützung wurde hinzugefügt (in Visual Experience Composer oder Enhanced Experience Composer nicht unterstützt)</li><li>26.10.1: Es wurde ein A4T-Reporting-Fehler behoben, bei dem neu hinzugefügte Report Suites und Raw-HTML anstelle des Angebotsnamens für Experience Fragments in Visual Experience Composer angezeigt wurden</li><li>26.9.8: Stichprobengrößenrechner (Beta) zur Planung von Experimenten durch Schätzung von Traffic, Dauer und minimalem nachweisbaren Effekt</li></ul>[Tutorials und Support-Artikel](#tutorials-target) |
 | **[!DNL Adobe Commerce]as a Cloud Service** | &#x200B;10. November 2026 | [Versionshinweise zu Adobe Commerce as a Cloud Service](https://experienceleague.adobe.com/de/docs/commerce/cloud-service/release-notes){target="_blank"} | <ul><li>Produktbewertungen (standardmäßig deaktiviert) über GraphQL lesbar und erstellbar; Filterung von Gutschriften nach benutzerdefinierten Attributen; Endpunkt zum Hinzufügen oder Aktualisieren von benutzerdefinierten Bestellattributen; benutzerdefinierte Rückgabeattribute (RMAs) (18. November; Sandbox)</li><li>Benutzerdefinierte Attribute für Artikel im Warenkorb durch die `addProductsToCart` Mutation; Webhook zum Filtern von Versandartikeln, um von einem Drittanbieter erfüllte Artikel auszuschließen (10. November; jetzt Sandbox)</li><li>Neuer `observer.rma_save_before` Webhook zum Lesen und Ändern von Rückgabedaten, bevor diese gespeichert werden (10. November)</li><li>Nicht-virtuelle Bestellungen, die über die REST-API erstellt wurden, erfordern jetzt eine Lieferadresse (10. November)</li><li>`GET /V1/customers/:customerId/balance`-Endpunkt für gespeicherte Guthaben; `row_total` Feld am `InvoiceItemInterface` (10. November)</li></ul>[Tutorials und Support-Artikel](#tutorials-commerce) |
 | **[!DNL Adobe Marketo Engage]** | &#x200B;6. November 2026 | [Aktuelle Versionshinweise zu Marketo Engage](https://experienceleague.adobe.com/de/docs/marketo/using/release-notes/current){target="_blank"} | <ul><li>[!DNL CX Enterprise Coworker] Kampagnen planen : Umwandeln einer Kampagnenbeschreibung in ein Dokument zur Einrichtung eines [!DNL Marketo Engage] Programms</li><li>Aufrufbare Agenten: KI-Agenten, die als Schritt des intelligenten Kampagnenflusses ausgeführt werden und Ergebnisse zurück in die Lead-Felder schreiben (in Kürze verfügbar)</li><li>In dieses Programm/diesen Ordner klonen Option für Klonziele (in Kürze verfügbar)</li><li>Sofortiger Warnhinweis zu Änderungen des CRM-Synchronisierungsstatus für abonnierte Administratoren</li><li>[!DNL Marketo Engage] neue Benutzeroberfläche: aktualisierte Menüs, Symbole und Layout</li></ul>[Tutorials und Support-Artikel](#tutorials-marketo) |
@@ -147,6 +153,7 @@ Sehen Sie sich die neuesten Video-Tutorials für [!DNL Experience Platform] an.
 
 | Veröffentlicht | Anwendungen | Name | Typ | Beschreibung |
 | ---------- | ---------- | ---------- | ---------- | ---------- |
+| Dezember 2026 | [!DNL Experience Platform], [!DNL Real-Time CDP], [!DNL Journey Optimizer] | [[!DNL Experience League LIVE]: Schnellere Skalierung, flexible Entwicklung mit Adobe Experience Platform Growth Credits](https://engage.adobe.com/ExpLeagueLive-261202.html){target="_blank"} | Ereignis | Erfahren Sie mehr über [!DNL Experience Platform] Wachstumskredite, eine flexible Möglichkeit, Ihre [!DNL Real-Time CDP] mit zusätzlichen Kapazitäten auszustatten oder Ihre Investition [!DNL Journey Optimizer], wenn sich Ihre Anforderungen ändern. Live am 2. Dezember um 8:30 Uhr PT. |
 | Oktober 2026 | [!DNL Experience Platform] | [Sicherheitsübersicht für den KI-Assistenten](https://experienceleague.adobe.com/de/docs/platform-learn/tutorials/ai-assistant/security-overview){target="_blank"} | Video | Verschaffen Sie sich einen Überblick über die Sicherheitsfunktionen hinter dem KI-Assistenten in Adobe Experience Platform, basierend auf dem Sicherheitsdatenblatt des Adobe-KI-Assistenten. |
 | Oktober 2026 | [!DNL Real-Time CDP] | [Überwachung und Bewältigung des Kreditwachstums](https://experienceleague.adobe.com/de/docs/platform-learn/tutorials/license-usage/growth-credits/monitor-and-address-growth-credit-overage){target="_blank"} | Tutorial | Erfahren Sie, wie Sie die Kreditauslastung in Adobe Experience Platform überwachen und die Abdeckung abdecken können, bevor sie sich auf Ihr Konto auswirkt. |
 | Oktober 2026 | [!DNL Real-Time CDP] | [Streaming-Kapazität planen](https://experienceleague.adobe.com/de/docs/platform-learn/tutorials/license-usage/growth-credits/schedule-streaming-capacity){target="_blank"} | Video | Erfahren Sie, wie Sie zusätzliche Streaming-Kapazität im Vorfeld wichtiger Geschäftsereignisse planen können, damit Experience Platform Echtzeit-Services bei plötzlichem Anschwellen des Datenverkehrs reibungslos funktionieren. |
